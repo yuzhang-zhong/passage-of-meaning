@@ -1,0 +1,47 @@
+[
+  {
+    "word": "革命",
+    "storyId": "translated-concepts-13",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "translated-concepts-13-contemporary",
+      "name": "技术、产业与生活的颠覆性变化",
+      "shortName": "颠覆变化",
+      "description": "“技术革命”“厨房革命”等搭配将其扩展为幅度很大的创新与改变。",
+      "startIndex": 4
+    },
+    "query": "(技术革命|产业革命|工业革命|生活方式革命) time:2010s",
+    "totalResults": 8458,
+    "candidates": [
+      {
+        "score": 0.355,
+        "excerpt": "中国国情呼唤技术革命",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000009568",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.3185,
+        "excerpt": "应善于抢抓新一轮技术革命和产业革命带来的市场机遇和发展空间，加快自主创新，积极发展战略性高技术产业和新兴产业，努力在新能源、清洁能源、循环经济和低碳经济方面走出符合我国国情的发展道路，切实推进结构升级；",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000024468",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 2
+      },
+      {
+        "score": 0.296,
+        "excerpt": "后危机时代世界经济格局的大变革、大调整孕育着重大发展机遇，新的技术革命和产业革命将使人类社会进入空前的创新密集和产业振兴时代。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000003394",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 2
+      }
+    ]
+  }
+]

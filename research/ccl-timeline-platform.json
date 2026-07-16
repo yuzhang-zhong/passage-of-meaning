@@ -1,0 +1,324 @@
+[
+  {
+    "word": "关注",
+    "storyId": "platform-culture-02",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "platform-culture-02-prehistory",
+      "name": "关心注意与视线集中",
+      "shortName": "关心注意",
+      "description": "核对“关注”作为“关心注意与视线集中”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "关注 time:1920s",
+    "totalResults": 4,
+    "candidates": [
+      {
+        "score": 0.0542,
+        "excerpt": "关注盛意，尤为深感。",
+        "year": 1920,
+        "path": "1920s/192x/文学/小说笔记/192x 蔡东藩_许廑父 民国演义.txt",
+        "recordId": "1341000002828",
+        "source": "192x 蔡东藩 · 许廑父 民国演义",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0287,
+        "excerpt": "圆圆道：“皇亲，你还有什么不知道，晋朝的召季伦，歌姬舞女，起初从不肯借给人看，等到玉石俱焚时，他这金谷园，到底何会关注。",
+        "year": 1921,
+        "path": "1920s/1921/文学/小说笔记/1921 陆士谔 清朝秘史.txt",
+        "recordId": "397000000663",
+        "source": "陆士谔 清朝秘史",
+        "hintHits": 0
+      },
+      {
+        "score": 0.025,
+        "excerpt": "参看《朝花夕拾・范爱农》及其有关注。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 鲁迅 这个与那个.txt",
+        "recordId": "784000000000",
+        "source": "鲁迅 这个与那个",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "转发",
+    "storyId": "platform-culture-04",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "platform-culture-04-prehistory",
+      "name": "转交、转送与再次发出",
+      "shortName": "转交、转送",
+      "description": "核对“转发”作为“转交、转送与再次发出”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "转发 time:1920s",
+    "totalResults": 1,
+    "candidates": [
+      {
+        "score": 0.0304,
+        "excerpt": "代行立法院转陈推戴事件，予仍认为不合事宜，着将上年十二月十一日，承认帝位之案，即行撤销，由政事堂将各省区推戴书，一律发还参政院代行立法院，转发销毁。",
+        "year": 1920,
+        "path": "1920s/192x/文学/小说笔记/192x 蔡东藩_许廑父 民国演义.txt",
+        "recordId": "1341000001785",
+        "source": "192x 蔡东藩 · 许廑父 民国演义",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "分享",
+    "storyId": "platform-culture-05",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "platform-culture-05-prehistory",
+      "name": "分享所得与共同享用",
+      "shortName": "分享所得",
+      "description": "核对“分享”作为“分享所得与共同享用”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "分享 time:1920s",
+    "totalResults": 18,
+    "candidates": [
+      {
+        "score": 0.0655,
+        "excerpt": "这世界，我有许多东西均无分享用了！",
+        "year": 1927,
+        "path": "1920s/1927/文学/1927 沈从文 篁君日记.txt",
+        "recordId": "1002000000014",
+        "source": "沈从文 篁君日记",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0557,
+        "excerpt": "（註釋）Teilen在此處是有「共同分享樂趣」的意思。",
+        "year": 1923,
+        "path": "1920s/1923/报刊/1923 Author 創造季刊_第1卷第2期.txt",
+        "recordId": "486000002344",
+        "source": "Author 創造季刊 · 第1卷第2期",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0436,
+        "excerpt": "它们除大部充作北洋政府的军政开支外，从中拨出一百五十万元作为教育经费，当时一些私立大学曾提出分享这笔钱，章士钊则坚持用于清理国立八校的积欠，“分送金款”即指此事。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 鲁迅 我观北大.txt",
+        "recordId": "752000000000",
+        "source": "鲁迅 我观北大",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "订阅",
+    "storyId": "platform-culture-06",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "platform-culture-06-prehistory",
+      "name": "预约阅读与定期购买",
+      "shortName": "预约阅读",
+      "description": "核对“订阅”作为“预约阅读与定期购买”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "订阅 time:1920s",
+    "totalResults": 2,
+    "candidates": [
+      {
+        "score": 0.0293,
+        "excerpt": "梅女士看地下的报纸，原来是自己订阅的一份周刊《学生潮》，她明白父亲那两句没头没脑的话语的意味了。",
+        "year": 1929,
+        "path": "1920s/1929/文学/1929 茅盾 虹_长篇.txt",
+        "recordId": "1324000000681",
+        "source": "茅盾 虹 · 长篇",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0286,
+        "excerpt": "大概是看见梅女士订阅有一份《学生潮》罢，他忽然搜集了商务印书馆和中华书局出版的所有带着个“潮”字的书籍，装一个大蒲包，满头大汗地捧来放在梅女士面前说：",
+        "year": 1929,
+        "path": "1920s/1929/文学/1929 茅盾 虹_长篇.txt",
+        "recordId": "1324000000758",
+        "source": "茅盾 虹 · 长篇",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "话题",
+    "storyId": "platform-culture-08",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "platform-culture-08-prehistory",
+      "name": "谈话题目与讨论对象",
+      "shortName": "谈话题目",
+      "description": "核对“话题”作为“谈话题目与讨论对象”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "话题 time:1920s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "标签",
+    "storyId": "platform-culture-09",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "platform-culture-09-prehistory",
+      "name": "物品标记与分类签条",
+      "shortName": "物品标记",
+      "description": "核对“标签”作为“物品标记与分类签条”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "标签 time:1920s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "围观",
+    "storyId": "platform-culture-10",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "platform-culture-10-prehistory",
+      "name": "从四周观看与聚集旁观",
+      "shortName": "从四周观看",
+      "description": "核对“围观”作为“从四周观看与聚集旁观”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "围观 time:1920s",
+    "totalResults": 3,
+    "candidates": [
+      {
+        "score": 0.0587,
+        "excerpt": "围观的人口里纷纷议论着，也都散了。",
+        "year": 1924,
+        "path": "1920s/1924/文学/1924 穆辰公 北京.txt",
+        "recordId": "582000000374",
+        "source": "穆辰公 北京",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0442,
+        "excerpt": "四围观看的人，莫不齐声喝采，欢呼如雷，虽有禁军奉着圣旨，禁止喧哗，哪里禁止得住！",
+        "year": 1929,
+        "path": "1920s/1929/文学/小说笔记/1929 许慕羲 宋代宫闱史.txt",
+        "recordId": "1335000000322",
+        "source": "许慕羲 宋代宫闱史",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0437,
+        "excerpt": "他若立起身来，我想他的身长总要比一般人的平均高度高一二寸，因为坐在矮矮的三角架上的他的额部，还在我们四周立着围观者的肩肿之上。",
+        "year": 1927,
+        "path": "1920s/1927/文学/1927 郁达夫 十三夜.txt",
+        "recordId": "1008000000000",
+        "source": "郁达夫 十三夜",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "内容",
+    "storyId": "platform-culture-14",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "platform-culture-14-prehistory",
+      "name": "容器内部之物与文章实质",
+      "shortName": "容器内部之物",
+      "description": "核对“内容”作为“容器内部之物与文章实质”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "内容 time:1920s",
+    "totalResults": 217,
+    "candidates": [
+      {
+        "score": 0.0626,
+        "excerpt": "其实高低之分，是就文章而论，内容的事情，没有多大分别。",
+        "year": 1921,
+        "path": "1920s/1921/文学/1921 蔡友梅 益世余墨.txt",
+        "recordId": "384000000215",
+        "source": "蔡友梅 益世余墨",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0396,
+        "excerpt": "日本驻韩公使，行文朝鲜政府，诘问约文内容，朝鲜政府置之不答。",
+        "year": 1921,
+        "path": "1920s/1921/文学/小说笔记/1921 陆士谔 清朝秘史.txt",
+        "recordId": "397000007943",
+        "source": "陆士谔 清朝秘史",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0375,
+        "excerpt": "该市场表面虽然文明，内容颇招物议，人言啧啧，不为无因。",
+        "year": 1920,
+        "path": "1920s/1920/文学/1920 蔡友梅 益世余谭_1920.txt",
+        "recordId": "325000000456",
+        "source": "蔡友梅 益世余谭 · 1920",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "表情",
+    "storyId": "platform-culture-16",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "platform-culture-16-prehistory",
+      "name": "面部神情与情绪外现",
+      "shortName": "面部神情",
+      "description": "核对“表情”作为“面部神情与情绪外现”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "表情 time:1920s",
+    "totalResults": 185,
+    "candidates": [
+      {
+        "score": 0.0501,
+        "excerpt": "陳逵民 午後，陳逵民懶懶的躺在靠椅中吸煙，他面部的表情，很像在思索着。",
+        "year": 1923,
+        "path": "1920s/1923/报刊/1923 Author 文學_第1卷第2號.txt",
+        "recordId": "491000001217",
+        "source": "Author 文學 · 第1卷第2號",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0405,
+        "excerpt": "所以工部的写景诗，多半是把景做表情的工具。",
+        "year": 1922,
+        "path": "1920s/1922/文学/1922 梁启超 情圣杜甫.txt",
+        "recordId": "422000000000",
+        "source": "梁启超 情圣杜甫",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0396,
+        "excerpt": "」恐怖的表情又在她的臉上顯現了。",
+        "year": 1923,
+        "path": "1920s/1923/报刊/1923 Author 文學_第1卷第3號.txt",
+        "recordId": "492000001168",
+        "source": "Author 文學 · 第1卷第3號",
+        "hintHits": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,978 @@
+[
+  {
+    "word": "新闻",
+    "storyId": "media-language-01",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-01-prehistory",
+      "name": "新近听闻与消息",
+      "shortName": "新近听闻",
+      "description": "核对“新闻”作为“新近听闻与消息”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "新闻 (新近消息|听到新闻|新闻传来|消息) time:1920s",
+    "totalResults": 37,
+    "candidates": [
+      {
+        "score": 0.1375,
+        "excerpt": "因为我们常听到所谓文学家将要出国的消息，看见新闻上的记载，广告；",
+        "year": 1927,
+        "path": "1920s/1927/文学/1927 鲁迅 文艺和革命.txt",
+        "recordId": "1045000000000",
+        "source": "鲁迅 文艺和革命",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1375,
+        "excerpt": "因为我们常听到所谓文学家将要出国的消息，看见新闻上的记载，广告；",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 鲁迅 而已集.txt",
+        "recordId": "1217000000329",
+        "source": "鲁迅 而已集",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1342,
+        "excerpt": "你们外国人，依赖新闻上得消息，如何能得着详细。",
+        "year": 1922,
+        "path": "1920s/1922/文学/小说笔记/1922_10_1 向恺然 留东外史续集.txt",
+        "recordId": "448000000575",
+        "source": "1922 · 10 · 1 向恺然 留东外史续集",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "报纸",
+    "storyId": "media-language-02",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-02-prehistory",
+      "name": "呈报文书与纸张",
+      "shortName": "呈报文书",
+      "description": "核对“报纸”作为“呈报文书与纸张”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "报纸 (呈报|报告|文书|纸张) time:1920s",
+    "totalResults": 24,
+    "candidates": [
+      {
+        "score": 0.1326,
+        "excerpt": "――特别是那标语所用的纸张，在前所用的洋纸报纸和各种的有色纸渐渐使用尽了，一般的市民用来打冥赙的白纸便渐渐地显出面来。",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 郭沫若 骑士.txt",
+        "recordId": "1198000000000",
+        "source": "郭沫若 骑士",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1109,
+        "excerpt": "……报纸上三寸大的黑字报告着这学校风潮。",
+        "year": 1927,
+        "path": "1920s/1927/文学/1927 老舍 赵子曰.txt",
+        "recordId": "1005000000220",
+        "source": "老舍 赵子曰",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1109,
+        "excerpt": "……报纸上三寸大的黑字报告着这学校风潮。",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 老舍 赵子曰.txt",
+        "recordId": "1176000000002",
+        "source": "老舍 赵子曰",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "报纸",
+    "storyId": "media-language-02",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "media-language-02-turn",
+      "name": "现代印刷新闻媒介",
+      "shortName": "现代印刷新闻媒介",
+      "description": "追踪“报纸”如何在制度、知识或媒介中稳定为“现代印刷新闻媒介”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "报纸 (日报|发行|报馆|新闻纸) time:1920s",
+    "totalResults": 45,
+    "candidates": [
+      {
+        "score": 0.1132,
+        "excerpt": "〔５〕《循环日报》香港出版的中文报纸，一八七四年一月由王韬创办，约于一九四七年停刊。",
+        "year": 1927,
+        "path": "1920s/1927/文学/1927 鲁迅 略谈香港.txt",
+        "recordId": "1050000000000",
+        "source": "鲁迅 略谈香港",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1132,
+        "excerpt": "〔５〕《循环日报》香港出版的中文报纸，一八七四年一月由王韬创办，约于一九四七年停刊。",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 鲁迅 而已集.txt",
+        "recordId": "1217000000406",
+        "source": "鲁迅 而已集",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1123,
+        "excerpt": "旧历的正月已经过了一个礼拜，各家报馆也在开始印行报纸了。",
+        "year": 1927,
+        "path": "1920s/1927/文学/1927 郁达夫 迷羊.txt",
+        "recordId": "1014000000013",
+        "source": "郁达夫 迷羊",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "杂志",
+    "storyId": "media-language-03",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-03-prehistory",
+      "name": "杂记、编录与定期刊物前史",
+      "shortName": "杂记、编录",
+      "description": "核对“杂志”作为“杂记、编录与定期刊物前史”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "杂志 (杂记|编录|书籍|杂志记录) time:1920s",
+    "totalResults": 20,
+    "candidates": [
+      {
+        "score": 0.1105,
+        "excerpt": "凡是带着一个“新”字的书籍杂志，他都买了来；",
+        "year": 1929,
+        "path": "1920s/1929/文学/1929 茅盾 虹_长篇.txt",
+        "recordId": "1324000000758",
+        "source": "茅盾 虹 · 长篇",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1074,
+        "excerpt": "带了书籍杂志过“香江”，有被视为“危险文字”而尝“铁窗斧钺风味”之险，我在《略谈香港》里已经说过了。",
+        "year": 1927,
+        "path": "1920s/1927/文学/1927 鲁迅 谈“激烈”.txt",
+        "recordId": "1054000000000",
+        "source": "鲁迅 谈“激烈”",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1074,
+        "excerpt": "带了书籍杂志过“香江”，有被视为“危险文字”而尝“铁窗斧钺风味”之险，我在《略谈香港》里已经说过了。",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 鲁迅 而已集.txt",
+        "recordId": "1217000000477",
+        "source": "鲁迅 而已集",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "杂志",
+    "storyId": "media-language-03",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "media-language-03-turn",
+      "name": "现代主题化定期出版物",
+      "shortName": "现代主题化定期出",
+      "description": "追踪“杂志”如何在制度、知识或媒介中稳定为“现代主题化定期出版物”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "杂志 (定期刊物|杂志社|出版|期刊) time:1920s",
+    "totalResults": 39,
+    "candidates": [
+      {
+        "score": 0.1528,
+        "excerpt": "〔２〕《北新》综合性杂志，北新书局出版。",
+        "year": 1929,
+        "path": "1920s/1929/文学/1929 鲁迅 谨启.txt",
+        "recordId": "1333000000000",
+        "source": "鲁迅 谨启",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1489,
+        "excerpt": "读新出版的杂志，也正是如此，或者更闹热些。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 朱自清 “海阔天空”与“古今中外”　.txt",
+        "recordId": "648000000001",
+        "source": "朱自清 “海阔天空”与“古今中外”　",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1455,
+        "excerpt": "此时伯雍又问道：“贵杂志几时出版呢？",
+        "year": 1924,
+        "path": "1920s/1924/文学/1924 穆辰公 北京.txt",
+        "recordId": "582000000191",
+        "source": "穆辰公 北京",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "出版",
+    "storyId": "media-language-04",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-04-prehistory",
+      "name": "刊印、版本与发行",
+      "shortName": "刊印、版本",
+      "description": "核对“出版”作为“刊印、版本与发行”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "出版 (刊印|书籍|版本|印刷) time:1920s",
+    "totalResults": 67,
+    "candidates": [
+      {
+        "score": 0.1598,
+        "excerpt": "但此番出版本不收報費。",
+        "year": 1921,
+        "path": "1920s/1921/报刊/1921 Author 夥友_第二期.txt",
+        "recordId": "348000000068",
+        "source": "Author 夥友 · 第二期",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1325,
+        "excerpt": "宣傳方面用德文出版八册國際運輸工人報吿，又用英文出版一種附刊名Sea-forr，此外還印行許多小册子及上次伯林會議的材料，其所屬的碼頭局又單獨出版本國文字刊物（如海參威用中文出月刊一種）",
+        "year": 1924,
+        "path": "1920s/1925/报刊/1925 Author 中國工人_第3期（1924年）.txt",
+        "recordId": "623000000105",
+        "source": "Author 中國工人 · 第3期（1924年）",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1313,
+        "excerpt": "第六條 一切出版物爲黨中所印刷發行的，應受中央執行委員會編輯上的控制。",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 共産黨_第2號.txt",
+        "recordId": "238000000106",
+        "source": "Author 共産黨 · 第2號",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "出版",
+    "storyId": "media-language-04",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "media-language-04-turn",
+      "name": "现代出版业与版权制度",
+      "shortName": "现代出版业",
+      "description": "追踪“出版”如何在制度、知识或媒介中稳定为“现代出版业与版权制度”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "出版 (出版业|出版社|发行|出版机构) time:1950s",
+    "totalResults": 4337,
+    "candidates": [
+      {
+        "score": 0.2468,
+        "excerpt": "三、文教卫生用品制造业与出版业",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_02.txt",
+        "recordId": "3541000000172",
+        "source": "rmrb · 1950 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1923,
+        "excerpt": "现青年艺术剧院正积极展开准备工作，并与新华书店、三联书店、青年出版社、工人出版社等出版机构共同筹组流动文化供应站，准备随车供应沿站铁路职工所需的书报刊物。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_03.txt",
+        "recordId": "3542000004404",
+        "source": "rmrb · 1950 · 03",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1792,
+        "excerpt": "上海时代出版社编辑，一九四九年出版",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000013917",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "读者",
+    "storyId": "media-language-05",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-05-prehistory",
+      "name": "阅读文字之人",
+      "shortName": "阅读文字之人",
+      "description": "核对“读者”作为“阅读文字之人”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "读者 (读书|阅读|读者来信|读者诸君) time:1920s",
+    "totalResults": 25,
+    "candidates": [
+      {
+        "score": 0.1276,
+        "excerpt": "且这书确也有眩人的力，我们想把这喜悦遍及于读者诸君，于是便把它校点重印。",
+        "year": 1923,
+        "path": "1920s/1923/文学/1923 俞平伯 重刊《浮生六记》序.txt",
+        "recordId": "500000000000",
+        "source": "俞平伯 重刊《浮生六记》序",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1147,
+        "excerpt": "《近代美术史潮论》的读者诸君：在现在的中国，文学和艺术，也还是一种所谓文艺家的食宿的窠。",
+        "year": 1929,
+        "path": "1920s/1929/文学/1929 鲁迅 致《近代美术史潮论》的读者诸君.txt",
+        "recordId": "1332000000000",
+        "source": "鲁迅 致《近代美术史潮论》的读者诸君",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1137,
+        "excerpt": "我谨以此语贡献于读者诸君，不知是否有当于作者的原意，有当于读者们之心否？",
+        "year": 1923,
+        "path": "1920s/1923/文学/1923 俞平伯 读《毁灭》.txt",
+        "recordId": "498000000000",
+        "source": "俞平伯 读《毁灭》",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "作者",
+    "storyId": "media-language-06",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-06-prehistory",
+      "name": "创作文本之人",
+      "shortName": "创作文本之人",
+      "description": "核对“作者”作为“创作文本之人”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "作者 (著者|作者本人|写作|作者说) time:1920s",
+    "totalResults": 28,
+    "candidates": [
+      {
+        "score": 0.1267,
+        "excerpt": "本篇（作者註——卽『商人口中的南京政府』那篇文章，著者景伯在這篇文章裏的反覆的證明南京政府怎樣不能滿足商人的要求。",
+        "year": 1929,
+        "path": "1920s/1929/报刊/1929 Author 列寧青年_第1卷第15期.txt",
+        "recordId": "1230000000127",
+        "source": "Author 列寧青年 · 第1卷第15期",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1197,
+        "excerpt": "作者曾为他的译本写过序及《著者自叙传略》，后都编入《集外集》中。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 鲁迅 我的“籍”和“系”.txt",
+        "recordId": "751000000000",
+        "source": "鲁迅 我的“籍”和“系”",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1168,
+        "excerpt": "”写作本篇一个多月前，作者在概括辛亥革命后军阀混战给广大人民带来的深重灾难时，也曾指出：“称为神的和称为魔的战斗了，并非争夺天国，而在要得地狱的统治权。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 鲁迅 失掉的好地狱.txt",
+        "recordId": "734000000000",
+        "source": "鲁迅 失掉的好地狱",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "记者",
+    "storyId": "media-language-07",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-07-prehistory",
+      "name": "记录与传达消息之人",
+      "shortName": "记录",
+      "description": "核对“记者”作为“记录与传达消息之人”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "记者 (记录|记者曰|采访|记事) time:1920s",
+    "totalResults": 9,
+    "candidates": [
+      {
+        "score": 0.12,
+        "excerpt": "这是空前的新事业，只可惜没有一位新闻记者在这里恭行记录，在明天的《新川南日刊》发表出来，让全个泸州城开开眼，知道新人物的行径是怎样的超尘拔俗，能够异想天开尊重女性的！",
+        "year": 1929,
+        "path": "1920s/1929/文学/1929 茅盾 虹_长篇.txt",
+        "recordId": "1324000001364",
+        "source": "茅盾 虹 · 长篇",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1148,
+        "excerpt": "记者不过是聊记事实，前后的次序，我也说不清了。",
+        "year": 1920,
+        "path": "1920s/1920/文学/1920 蔡友梅 益世余谭_1920.txt",
+        "recordId": "325000000020",
+        "source": "蔡友梅 益世余谭 · 1920",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1107,
+        "excerpt": "记者自记事以来，正月灯节，也经四十多次了，是有三个灯节，如今想起来，最为难过。",
+        "year": 1920,
+        "path": "1920s/1920/文学/1920 蔡友梅 益世余谭_1920.txt",
+        "recordId": "325000000171",
+        "source": "蔡友梅 益世余谭 · 1920",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "记者",
+    "storyId": "media-language-07",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "media-language-07-turn",
+      "name": "现代新闻职业与专业规范",
+      "shortName": "现代新闻职业",
+      "description": "追踪“记者”如何在制度、知识或媒介中稳定为“现代新闻职业与专业规范”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "记者 (新闻记者|采访记者|记者职业|记者工作) time:1950s",
+    "totalResults": 1348,
+    "candidates": [
+      {
+        "score": 0.1938,
+        "excerpt": "八 新闻记者的笔记本",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_02.txt",
+        "recordId": "3541000000704",
+        "source": "rmrb · 1950 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.183,
+        "excerpt": "并组织新闻记者访问代表。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_05.txt",
+        "recordId": "3544000012478",
+        "source": "rmrb · 1950 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1712,
+        "excerpt": "大会亦将讨论世界各国记者对经济、社会与工会的立场以及新闻记者如何参加世界争取和平的斗争。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_02.txt",
+        "recordId": "3541000001553",
+        "source": "rmrb · 1950 · 02",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "编辑",
+    "storyId": "media-language-08",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-08-prehistory",
+      "name": "编次、辑录与文本整理",
+      "shortName": "编次、辑录",
+      "description": "核对“编辑”作为“编次、辑录与文本整理”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "编辑 (编次|辑录|书稿|编纂) time:1920s",
+    "totalResults": 5,
+    "candidates": [
+      {
+        "score": 0.0347,
+        "excerpt": "〔４〕《沉钟》文艺刊物，沉钟社编辑。",
+        "year": 1927,
+        "path": "1920s/1927/文学/1927 鲁迅 扣丝杂感.txt",
+        "recordId": "1042000000000",
+        "source": "鲁迅 扣丝杂感",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0347,
+        "excerpt": "藏经的编辑从南北朝时即开始，刊印最早始于宋开宝五年（９７２）的印雕佛经一藏，后历朝均有刊刻。",
+        "year": 1926,
+        "path": "1920s/1926/文学/1926 鲁迅 《痴华簟诽饧》.txt",
+        "recordId": "906000000000",
+        "source": "鲁迅 《痴华簟诽饧》",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0332,
+        "excerpt": "十七林玉堂（福建）北大英文系教授，女师大教务长，《国民新报》英文部编辑，《语丝》撰稿者。",
+        "year": 1926,
+        "path": "1920s/1926/文学/1926 鲁迅 附录：大衍发微.txt",
+        "recordId": "929000000000",
+        "source": "鲁迅 附录：大衍发微",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "编辑",
+    "storyId": "media-language-08",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "media-language-08-turn",
+      "name": "现代出版职业与把关机制",
+      "shortName": "现代出版职业",
+      "description": "追踪“编辑”如何在制度、知识或媒介中稳定为“现代出版职业与把关机制”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "编辑 (编辑部|责任编辑|编辑工作|出版社) time:1950s",
+    "totalResults": 3747,
+    "candidates": [
+      {
+        "score": 0.2516,
+        "excerpt": "上海时代出版社编辑，一九四九年出版",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000013917",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1216,
+        "excerpt": "党支部或党委员会批准编辑部的计划，定期的召集壁报主编和各编辑的研究组，在这里研究布尔什维克出版物的原则，研究和通讯员工作的工作形式与方法，以及交换工厂刊物工作人员的经验等。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_02.txt",
+        "recordId": "3541000006268",
+        "source": "rmrb · 1950 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1196,
+        "excerpt": "编辑部与检查所一同检查了机关工作和劳动者的来信与不满。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_02.txt",
+        "recordId": "3541000007829",
+        "source": "rmrb · 1950 · 02",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "传播",
+    "storyId": "media-language-09",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-09-prehistory",
+      "name": "传递、播散与扩布",
+      "shortName": "传递、播散",
+      "description": "核对“传播”作为“传递、播散与扩布”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "传播 (传递|播散|消息|传播开来) time:1920s",
+    "totalResults": 13,
+    "candidates": [
+      {
+        "score": 0.1141,
+        "excerpt": "消息传播出来，豪格急得和热锅上的蚂蚁一般，想不出用什么手段去抵制它。",
+        "year": 1927,
+        "path": "1920s/1927/文学/小说笔记/1927 许啸天 明代宫闱史.txt",
+        "recordId": "1065000003030",
+        "source": "许啸天 明代宫闱史",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1115,
+        "excerpt": "这阕词儿，填得十分香艳，早被那些宫人妃嫔，把这词传播开来，到处歌唱；",
+        "year": 1929,
+        "path": "1920s/1929/文学/小说笔记/1929 许慕羲 宋代宫闱史.txt",
+        "recordId": "1335000000990",
+        "source": "许慕羲 宋代宫闱史",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1109,
+        "excerpt": "其时早惊动了各处的人民，都说这样的盛事，自有生以来，没有见过，哄哄的传播开来，前几日便有各地的人民或乘车，或坐船，纷纷地赶来观看。",
+        "year": 1929,
+        "path": "1920s/1929/文学/小说笔记/1929 许慕羲 宋代宫闱史.txt",
+        "recordId": "1335000000997",
+        "source": "许慕羲 宋代宫闱史",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "宣传",
+    "storyId": "media-language-10",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-10-prehistory",
+      "name": "宣告、传布与说明",
+      "shortName": "宣告、传布",
+      "description": "核对“宣传”作为“宣告、传布与说明”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "宣传 (宣告|传布|消息|宣传文字) time:1920s",
+    "totalResults": 25,
+    "candidates": [
+      {
+        "score": 0.1162,
+        "excerpt": "质夫听了许明先的话，不知不觉对倪龙庵宣传了游荡的福音，并促他也上鹿和班去探探翠云的消息。",
+        "year": 1924,
+        "path": "1920s/1924/文学/1924 郁达夫 秋柳.txt",
+        "recordId": "586000000001",
+        "source": "郁达夫 秋柳",
+        "hintHits": 1
+      },
+      {
+        "score": 0.0408,
+        "excerpt": "其甚者竟至于一面暗护此人，一面又中伤他人，却又不明明白白地举出姓名和实证来，但用了含沙射影的口气，使那人不知道说着自己，却又另用口头宣传以补笔墨所不及，使别人可以疑心到那人身上去。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 鲁迅 并非闲话（三）.txt",
+        "recordId": "743000000000",
+        "source": "鲁迅 并非闲话（三）",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0408,
+        "excerpt": "…“评坛”栏发表的《我国人一致愤慨的情形之下，愿英日两国政府勿自蹈瓜分中国之嫌》一文中说：英、日帝国主义“用种种宣传政策，谓中国国民已与俄国同其赤化，英日若不合力以压迫中国，行见中国赤化而后，美国亦大受其影响……然中国之并未赤化，所谓赤化说乃纯属英日两国之虚伪政策……今次上海之惨剧，乃…",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 鲁迅 忽然想到（十至十一）.txt",
+        "recordId": "749000000000",
+        "source": "鲁迅 忽然想到（十至十一）",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "舆论",
+    "storyId": "media-language-11",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-11-prehistory",
+      "name": "众人议论与公议",
+      "shortName": "众人议论",
+      "description": "核对“舆论”作为“众人议论与公议”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "舆论 (众人议论|社会舆论|公论|议论) time:1920s",
+    "totalResults": 9,
+    "candidates": [
+      {
+        "score": 0.1639,
+        "excerpt": "他们聚集在无锡东林书院讲学，议论时政，批评人物，对舆论影响很大。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 鲁迅 论 “费厄泼赖” 应该缓行.txt",
+        "recordId": "779000000000",
+        "source": "鲁迅 论 “费厄泼赖” 应该缓行",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1246,
+        "excerpt": "你昨天告诉我，说人家对于我在你家往来，纷纷议论，你的可敬的母亲虽不以为意，然你殊不欢悦，因为舆论对于一个女郎实有重大影响。",
+        "year": 1928,
+        "path": "1920s/1928/翻译作品/文学/1928 魏兰 欧洲200年名人情书.txt",
+        "recordId": "1223000000704",
+        "source": "魏兰 欧洲200年名人情书",
+        "hintHits": 1
+      },
+      {
+        "score": 0.0391,
+        "excerpt": "释之自忖道：“袁盎为人正直无私，他是保荐我的人，我倒要仔细听听他的舆论如何。",
+        "year": 1928,
+        "path": "1920s/1928/文学/小说笔记/1928 徐哲身 汉代宫廷艳史.txt",
+        "recordId": "1222000000537",
+        "source": "徐哲身 汉代宫廷艳史",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "舆论",
+    "storyId": "media-language-11",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "media-language-11-turn",
+      "name": "现代大众媒介中的公共意见",
+      "shortName": "现代大众媒介中的",
+      "description": "追踪“舆论”如何在制度、知识或媒介中稳定为“现代大众媒介中的公共意见”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "舆论 (报刊舆论|大众舆论|新闻舆论|公共意见) time:1950s",
+    "totalResults": 3,
+    "candidates": [
+      {
+        "score": 0.1219,
+        "excerpt": "原因是圣罗棱斯河水电站开发以后，将使电力跌价，与美国制铝公司、杜邦化学托辣斯、奇异电气公司等均有所不利，所以这一计划虽为大众舆论所赞同也无法实现。",
+        "year": 1957,
+        "path": "1950s/1957/报刊/人民日报/rmrb_1957_10.txt",
+        "recordId": "3771000022659",
+        "source": "rmrb · 1957 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1204,
+        "excerpt": "英国报刊舆论就把美国坚持由蒋介石集团“充任冒牌的代表来占据中国在联合国的地位”，讥笑为收买“死魂灵”（“星期日画报”），并且认为“在把中国排斥在联合国之外的情况下想要解决世界问题是不可能的”（“每日先驱报”）。",
+        "year": 1958,
+        "path": "1950s/1958/报刊/人民日报/rmrb_1958_08.txt",
+        "recordId": "3824000012457",
+        "source": "rmrb · 1958 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1178,
+        "excerpt": "这甚至连许多西方国家和其他资本主义国家的报刊舆论也认为这个建议是“不现实的”、“完全不可谈判的”。",
+        "year": 1959,
+        "path": "1950s/1959/报刊/人民日报/rmrb_1959_06.txt",
+        "recordId": "3903000017306",
+        "source": "rmrb · 1959 · 06",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "话语",
+    "storyId": "media-language-12",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-12-prehistory",
+      "name": "说话与语言表达",
+      "shortName": "说话",
+      "description": "核对“话语”作为“说话与语言表达”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "话语 (说话|言语|话语声|一番话语) time:1920s",
+    "totalResults": 24,
+    "candidates": [
+      {
+        "score": 0.1288,
+        "excerpt": "”那鸭子说了就用与说话差不多的严厉样子对阿丽思瞪着，想在阿丽思话语以外找到一种证据。",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 沈从文 阿丽思中国游记.txt",
+        "recordId": "1169000000016",
+        "source": "沈从文 阿丽思中国游记",
+        "hintHits": 1
+      },
+      {
+        "score": 0.0425,
+        "excerpt": "表哥时常打趣她，说这样的话语是“电报体”；",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 茅盾 自杀.txt",
+        "recordId": "1185000000000",
+        "source": "茅盾 自杀",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0414,
+        "excerpt": "是的，它们在闹着，不会来听阿丽思的话语的。",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 沈从文 阿丽思中国游记.txt",
+        "recordId": "1169000000023",
+        "source": "沈从文 阿丽思中国游记",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "直播",
+    "storyId": "media-language-14",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-14-prehistory",
+      "name": "现场直接播送",
+      "shortName": "现场直接播送",
+      "description": "核对“直播”作为“现场直接播送”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "直播 (现场直播|直接播送|广播直播|实况) time:1950s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "节目",
+    "storyId": "media-language-15",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-15-prehistory",
+      "name": "条目、事项与仪式次序",
+      "shortName": "条目、事项",
+      "description": "核对“节目”作为“条目、事项与仪式次序”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "节目 (条目|项目|节目单|事项) time:1920s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "频道",
+    "storyId": "media-language-16",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-16-prehistory",
+      "name": "水道、通道与通路隐喻",
+      "shortName": "水道、通道",
+      "description": "核对“频道”作为“水道、通道与通路隐喻”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "频道 (水道|河道|通道|海道) time:1920s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "频道",
+    "storyId": "media-language-16",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "media-language-16-turn",
+      "name": "广播通信的频率与节目通道",
+      "shortName": "广播通信的频率",
+      "description": "追踪“频道”如何在制度、知识或媒介中稳定为“广播通信的频率与节目通道”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "频道 (广播频道|电视频道|无线电频道|频率) time:1950s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "主播",
+    "storyId": "media-language-17",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-17-prehistory",
+      "name": "播音与节目主持职业",
+      "shortName": "播音",
+      "description": "核对“主播”作为“播音与节目主持职业”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "主播 (播音员|主持人|播音|广播) time:1950s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "主播",
+    "storyId": "media-language-17",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "media-language-17-turn",
+      "name": "广播电视的镜头前身份",
+      "shortName": "广播电视的镜头前",
+      "description": "追踪“主播”如何在制度、知识或媒介中稳定为“广播电视的镜头前身份”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "主播 (电视主播|新闻主播|节目主播|主持) time:1990s",
+    "totalResults": 11,
+    "candidates": [
+      {
+        "score": 0.1981,
+        "excerpt": "为突出栏目整体形象，塑造特有的栏目风格，《现在播报》实行新闻主播制，年轻播音员海霞将成为这个栏目的固定主持人。",
+        "year": 1999,
+        "path": "1990s/1999/报刊/光明日报/1999_07.txt",
+        "recordId": "12949000000005",
+        "source": "1999 · 07",
+        "hintHits": 2
+      },
+      {
+        "score": 0.195,
+        "excerpt": "节目主持人”一词，在英文中有两个与之对应的词：一为“安克儿”（ＡＮＣＨＤＲ），即新闻节目主持人（港、台译为“新闻主播”）一为“郝斯特”（ＨＯＳＴ），即专栏节目的串连人、协调人，直译为“主人”（相对于客人而言。",
+        "year": 1994,
+        "path": "1990s/1994/报刊/报刊精选/1994年《报刊精选》01.txt",
+        "recordId": "8147000029368",
+        "source": "1994年《报刊精选》01",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1283,
+        "excerpt": "其中，除了电视主持人、主播推出的传记类图书和名记者的作品精选外，由节目制作人、编导、记者们记录精品栏目或报道重大活动的图书占了较大份额。",
+        "year": 1999,
+        "path": "1990s/1999/报刊/光明日报/1999_11.txt",
+        "recordId": "12953000003362",
+        "source": "1999 · 11",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "影像",
+    "storyId": "media-language-18",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-18-prehistory",
+      "name": "影子、形象与视觉记录",
+      "shortName": "影子、形象",
+      "description": "核对“影像”作为“影子、形象与视觉记录”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "影像 (影子|形象|画像|照相) time:1920s",
+    "totalResults": 2,
+    "candidates": [
+      {
+        "score": 0.0409,
+        "excerpt": "慧猛然想起那男人的后影像是谁来，但又记不清到底是谁；",
+        "year": 1927,
+        "path": "1920s/1927/文学/1927 茅盾 蚀_幻灭.txt",
+        "recordId": "1006000000002",
+        "source": "茅盾 蚀 · 幻灭",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0317,
+        "excerpt": "他所写的是否他亲闻亲见的事实，抑或他脑中创造的影像，且不管他；",
+        "year": 1922,
+        "path": "1920s/1922/文学/1922 梁启超 情圣杜甫.txt",
+        "recordId": "422000000000",
+        "source": "梁启超 情圣杜甫",
+        "hintHits": 0
+      }
+    ]
+  }
+]

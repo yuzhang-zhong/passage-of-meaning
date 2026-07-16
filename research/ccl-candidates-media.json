@@ -1,0 +1,1225 @@
+[
+  {
+    "word": "新闻",
+    "storyId": "media-language-01",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "media-language-01-turn",
+      "name": "现代新闻业与事实报道",
+      "shortName": "现代新闻业",
+      "description": "追踪“新闻”如何在制度、知识或媒介中稳定为“现代新闻业与事实报道”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(新闻报道|新闻事业|新闻记者) time:1930s",
+    "totalResults": 44,
+    "candidates": [
+      {
+        "score": 0.1474,
+        "excerpt": "他并非无意从事长篇创作，病后也曾试写一篇《记者外传》，小说中胪述了他所熟识的一些新闻记者的故事，实际与新闻业务无甚关联。",
+        "year": 1932,
+        "path": "1930s/1932/文学/1932 张恨水 金粉世家.txt",
+        "recordId": "1611000000092",
+        "source": "张恨水 金粉世家",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1306,
+        "excerpt": "但新闻记者的辩解，以为记载大抵采自经官的事实，却也是真的。",
+        "year": 1935,
+        "path": "1930s/1935/文学/1935 鲁迅 论“人言可畏”.txt",
+        "recordId": "2420000000000",
+        "source": "鲁迅 论“人言可畏”",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1267,
+        "excerpt": "青年新闻记者，自抗战后，多冒着危险，出入于战地，从事新闻工作，一扫以前记者蒙混他人的恶习，故文协对于有成绩的记者也承认之为会员，不过这些人多在前方工作，很难时常交换知识与意见。",
+        "year": 1937,
+        "path": "1930s/1937/文学/1937 老舍 老牛破车.txt",
+        "recordId": "2698000000755",
+        "source": "老舍 老牛破车",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "新闻",
+    "storyId": "media-language-01",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "media-language-01-contemporary",
+      "name": "实时资讯、聚合流与假新闻辨识",
+      "shortName": "实时资讯、聚合流",
+      "description": "检查当代“实时资讯、聚合流与假新闻辨识”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(假新闻|新闻聚合|实时新闻|新闻客户端) time:2010s",
+    "totalResults": 6629,
+    "candidates": [
+      {
+        "score": 0.2604,
+        "excerpt": "网络虚假新闻的表现。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000017376",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2259,
+        "excerpt": "网络虚假新闻的产生动因。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000017377",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2259,
+        "excerpt": "网络虚假新闻的治理对策。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000017378",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "报纸",
+    "storyId": "media-language-02",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "media-language-02-contemporary",
+      "name": "纸媒品牌、数字版与历史档案",
+      "shortName": "纸媒品牌、数字版",
+      "description": "检查当代“纸媒品牌、数字版与历史档案”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(数字报纸|报纸数字版|报纸档案|电子报纸) time:2010s",
+    "totalResults": 103,
+    "candidates": [
+      {
+        "score": 0.1537,
+        "excerpt": "应支持数字出版，开发电子图书、数字报纸、数字期刊、网络原创论文、数据库出版物、手机刊物等。",
+        "year": 2014,
+        "path": "2010s/2014/报刊/人民日报/rmrb_2014_04.txt",
+        "recordId": "15318000019353",
+        "source": "rmrb · 2014 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1495,
+        "excerpt": "孙寿山向与会来宾介绍，经过近十年的努力，中国数字出版产业规模不断扩大，已经形成了包括电子图书、数字报纸、数字期刊、数字音乐、原创网络文学、网络游戏、数据库、手机出版物等众多产品在内的较为完备的数字出版产品体系。",
+        "year": 2015,
+        "path": "2010s/2015/报刊/光明日报/2015_07.txt",
+        "recordId": "15358000022126",
+        "source": "2015 · 07",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1462,
+        "excerpt": "经过几年的发展，数字出版产品形态日趋多样，如今已基本形成了电子图书、网络图书、数字报纸、数字期刊、网络文学、网络地图、网络游戏、网络动漫、手机出版、数字音乐等新型出版业态。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_12.txt",
+        "recordId": "15092000021380",
+        "source": "2010 · 12",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "杂志",
+    "storyId": "media-language-03",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "media-language-03-contemporary",
+      "name": "杂志品牌、电子刊与视觉风格",
+      "shortName": "杂志品牌、电子刊",
+      "description": "检查当代“杂志品牌、电子刊与视觉风格”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(电子杂志|数字杂志|杂志品牌) time:2010s",
+    "totalResults": 643,
+    "candidates": [
+      {
+        "score": 0.2055,
+        "excerpt": "库 电子杂志社 盘版）电子杂志社、",
+        "year": 2011,
+        "path": "2010s/2011/报刊/光明日报/2011_03.txt",
+        "recordId": "15241000015735",
+        "source": "2011 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1934,
+        "excerpt": "（科技版） 电子杂志社 （光盘版）电子杂",
+        "year": 2011,
+        "path": "2010s/2011/报刊/光明日报/2011_03.txt",
+        "recordId": "15241000015743",
+        "source": "2011 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1562,
+        "excerpt": "王明亮 中国学术期刊电子杂志社",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_01.txt",
+        "recordId": "15081000009013",
+        "source": "2010 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "出版",
+    "storyId": "media-language-04",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "media-language-04-contemporary",
+      "name": "数字出版、自出版与内容上线",
+      "shortName": "数字出版、自出版",
+      "description": "检查当代“数字出版、自出版与内容上线”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(数字出版|自出版|网络出版) time:2010s",
+    "totalResults": 3978,
+    "candidates": [
+      {
+        "score": 0.4032,
+        "excerpt": "数字出版：阅读的未来",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000025117",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.3028,
+        "excerpt": "驶向数字出版“新大陆”（书界观察）",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000043057",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.301,
+        "excerpt": "它包括图书、报刊等纸介质传统出版产业，数字出版等非纸介质战略性新兴出版产业，数字出版、网络出版、手机出版等以数字化内容、数字化生产和传输为主要特征的战略性新兴新闻出版业态，动漫、游戏出版产业，印刷复制产业，新闻出版流通、物流产业等五方面内容。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000041749",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 2
+      }
+    ]
+  },
+  {
+    "word": "读者",
+    "storyId": "media-language-05",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "media-language-05-turn",
+      "name": "出版业与报刊的目标公众",
+      "shortName": "出版业",
+      "description": "追踪“读者”如何在制度、知识或媒介中稳定为“出版业与报刊的目标公众”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(报纸读者|读者对象|读者大众) time:1930s",
+    "totalResults": 5,
+    "candidates": [
+      {
+        "score": 0.1296,
+        "excerpt": "因为读者大众的对于某一作者，是未必和“批评”或“批判”者同仇敌慨的，一篇文章，纵使题目用头号字印成，他们也不大起劲，现在制出一个简括的诨名，就可以比较的不容易忘记了。",
+        "year": 1935,
+        "path": "1930s/1935/文学/1935 鲁迅 五论“文人相轻”——明术.txt",
+        "recordId": "2385000000000",
+        "source": "鲁迅 五论“文人相轻”——明术",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1245,
+        "excerpt": "正因为关心读者大众，不是便有许多人，据说为读者大众，永远如陀螺在那里转变吗？",
+        "year": 1934,
+        "path": "1930s/1934/文学/1934 沈从文 边城.txt",
+        "recordId": "2078000000000",
+        "source": "沈从文 边城",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1182,
+        "excerpt": "左翼文艺有革命的读者大众支持，“将来”正属于这一面。",
+        "year": 1931,
+        "path": "1930s/1931/文学/1931 鲁迅 黑暗中国的文艺界的现状.txt",
+        "recordId": "1548000000000",
+        "source": "鲁迅 黑暗中国的文艺界的现状",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "读者",
+    "storyId": "media-language-05",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "media-language-05-contemporary",
+      "name": "读者社群、数据画像与付费订阅者",
+      "shortName": "读者社群、数据画",
+      "description": "检查当代“读者社群、数据画像与付费订阅者”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(付费读者|读者社群|读者数据|读者画像) time:2010s",
+    "totalResults": 27,
+    "candidates": [
+      {
+        "score": 0.197,
+        "excerpt": "大数据勾勒京东读者画像",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/微信公众号/Wechat_097.txt",
+        "recordId": "15658000005096",
+        "source": "Wechat · 097",
+        "hintHits": 1
+      },
+      {
+        "score": 0.146,
+        "excerpt": "统一服务平台就是统一全市公共图书馆的条形码、RFID标签，建立统一的书目数据库，实现对馆藏数据、读者数据、流通数据的集中运作、管理和维护，通过“图书馆之城”门户网站，实现统一导航、统一检索，统一使用。",
+        "year": 2012,
+        "path": "2010s/2012/报刊/光明日报/2012_04.txt",
+        "recordId": "15275000018532",
+        "source": "2012 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.145,
+        "excerpt": "据Cook称，从免费读者转变为付费读者的变换比例至少是两位数，成果仍是可观的，随着订阅者的增加，公司收入将会相应增提高。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/微博/NLPIR_006.txt",
+        "recordId": "15789000052823",
+        "source": "NLPIR · 006",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "作者",
+    "storyId": "media-language-06",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "media-language-06-turn",
+      "name": "现代著作权与文化生产身份",
+      "shortName": "现代著作权",
+      "description": "追踪“作者”如何在制度、知识或媒介中稳定为“现代著作权与文化生产身份”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(著作权人|作者权利|作品作者) time:1950s",
+    "totalResults": 3,
+    "candidates": [
+      {
+        "score": 0.1595,
+        "excerpt": "保卫拉丁美洲国家的文化与文化工作者权利的决议敦促拉丁美洲国家的知识分子团结起来，加紧为保卫他们经济与政治的权利而斗争。",
+        "year": 1953,
+        "path": "1950s/1953/报刊/人民日报/rmrb_1953_05.txt",
+        "recordId": "3635000002861",
+        "source": "rmrb · 1953 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1497,
+        "excerpt": "【新华社七日讯】据塔斯社蒙得维的亚六日讯：第一届美洲大陆文化大会通过了一个告美国、苏联、英国、中华人民共和国和法国的文化界领袖和人民书以及关于各国间文化交流和保卫拉丁美洲国家的文化与文化工作者权利的决议。",
+        "year": 1953,
+        "path": "1950s/1953/报刊/人民日报/rmrb_1953_05.txt",
+        "recordId": "3635000002860",
+        "source": "rmrb · 1953 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1481,
+        "excerpt": "今年四月末到五月初在智利首都圣地亚哥举行的第一届美洲大陆文化大会，通过了保卫拉丁美洲国家的文化与文化工作者权利的决议。",
+        "year": 1953,
+        "path": "1950s/1953/报刊/人民日报/rmrb_1953_07.txt",
+        "recordId": "3637000006888",
+        "source": "rmrb · 1953 · 07",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "作者",
+    "storyId": "media-language-06",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "media-language-06-contemporary",
+      "name": "内容创作者、协作与 AI 作者争议",
+      "shortName": "内容创作者、协作",
+      "description": "检查当代“内容创作者、协作与 AI 作者争议”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(内容创作者|协作作者|人工智能作者) time:2010s",
+    "totalResults": 91,
+    "candidates": [
+      {
+        "score": 0.2721,
+        "excerpt": "激发内容创作者的积极性，推动电影行业迭代升级",
+        "year": 2018,
+        "path": "2010s/2018/报刊/光明日报/2018_05.txt",
+        "recordId": "15431000016244",
+        "source": "2018 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2392,
+        "excerpt": "获得千万数量级融资的内容创作者活跃在各大互联网平台。",
+        "year": 2017,
+        "path": "2010s/2017/报刊/人民日报/rmrb_2017_01.txt",
+        "recordId": "15389000015442",
+        "source": "rmrb · 2017 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2375,
+        "excerpt": "…营方式，改变了文化的生产、传播、消费方式，喜马拉雅FM、新浪微博、重庆猪八戒网等互联网平台企业，对零散的内容创作者进行专业化的服务和管理，使内容创作者专注于优质文化内容的生产创作，促进了文化企业生产组织方式变革，增强了企业创新能力和创造活力。",
+        "year": 2017,
+        "path": "2010s/2017/报刊/光明日报/2017_09.txt",
+        "recordId": "15409000015497",
+        "source": "2017 · 09",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "记者",
+    "storyId": "media-language-07",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "media-language-07-contemporary",
+      "name": "公民记者、自媒体与现场直播者",
+      "shortName": "公民记者、自媒体",
+      "description": "检查当代“公民记者、自媒体与现场直播者”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(公民记者|自媒体记者|网络记者) time:2010s",
+    "totalResults": 121,
+    "candidates": [
+      {
+        "score": 0.2801,
+        "excerpt": "在“全媒体时代”，当大量“网络记者”、“公民记者”在第一时间披露了新闻线索或信息后，专业新闻媒体机构并非无可作为。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000037138",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 2
+      },
+      {
+        "score": 0.2698,
+        "excerpt": "是公民记者，还是某一方的律师？",
+        "year": 2010,
+        "path": "2010s/201x/口语/对话/滕彪 分裂的真相——关于钱云会案的对话.txt",
+        "recordId": "15465000000064",
+        "source": "滕彪 分裂的真相——关于钱云会案的对话",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2676,
+        "excerpt": "」，被认为是确立了公民记者的采访权。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/中文维基/Wiki_015.txt",
+        "recordId": "15486000000273",
+        "source": "Wiki · 015",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "编辑",
+    "storyId": "media-language-08",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "media-language-08-contemporary",
+      "name": "内容编辑、算法编辑与产品操作",
+      "shortName": "内容编辑、算法编",
+      "description": "检查当代“内容编辑、算法编辑与产品操作”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(内容编辑|网络编辑|算法编辑|产品编辑) time:2010s",
+    "totalResults": 1691,
+    "candidates": [
+      {
+        "score": 0.1853,
+        "excerpt": "在内容编辑上，借助数字技术和网络平台，纪录片可谓易编又易改。",
+        "year": 2013,
+        "path": "2010s/2013/报刊/光明日报/2013_12.txt",
+        "recordId": "15313000005324",
+        "source": "2013 · 12",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1697,
+        "excerpt": "陆先高：在做好内容编辑和技术开发的同时，光明云媒也非常注重市场推广和产业化发展。",
+        "year": 2011,
+        "path": "2010s/2011/报刊/光明日报/2011_05.txt",
+        "recordId": "15243000004460",
+        "source": "2011 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1695,
+        "excerpt": "此外，对非技术类大学生创业者而言，低门槛操作是创业的前提，Mobile Market提供组件化的在线内容编辑工具，创业者只要提交构思或者素材，就能够直接生成主题、电子书、动漫等简单应用，经过初步审核后就可以快速上线，所以创业者再也不用考虑复杂的程序开发语言、机型覆盖等技术问题。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_12.txt",
+        "recordId": "15080000020225",
+        "source": "rmrb · 2010 · 12",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "传播",
+    "storyId": "media-language-09",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "media-language-09-turn",
+      "name": "现代传播学与大众媒介过程",
+      "shortName": "现代传播学",
+      "description": "追踪“传播”如何在制度、知识或媒介中稳定为“现代传播学与大众媒介过程”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(传播学|大众传播|传播过程) time:1950s",
+    "totalResults": 8,
+    "candidates": [
+      {
+        "score": 0.173,
+        "excerpt": "另方面，也可以作为传播学得的经验的基础。",
+        "year": 1956,
+        "path": "1950s/1956/报刊/人民日报/rmrb_1956_03.txt",
+        "recordId": "3726000003627",
+        "source": "rmrb · 1956 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1485,
+        "excerpt": "在中央文化部科学普及局和自然科学工作者代表会议筹备委员会的领导下，各地科学普及工作者通过科学展览会、讲演会、电影、幻灯等形式，向各地人民大众传播了生产技术知识、一般保健知识和妇婴卫生知识，得到人民大众的热烈欢迎。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_08.txt",
+        "recordId": "3547000015967",
+        "source": "rmrb · 1950 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1426,
+        "excerpt": "这主要因为地波在传播过程中逐渐被地面物体吸收了。",
+        "year": 1959,
+        "path": "1950s/1959/报刊/人民日报/rmrb_1959_03.txt",
+        "recordId": "3900000002088",
+        "source": "rmrb · 1959 · 03",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "传播",
+    "storyId": "media-language-09",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "media-language-09-contemporary",
+      "name": "社交扩散、病毒传播与可计量传播",
+      "shortName": "社交扩散、病毒传",
+      "description": "检查当代“社交扩散、病毒传播与可计量传播”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(病毒式传播|社交传播|传播数据) time:2010s",
+    "totalResults": 184,
+    "candidates": [
+      {
+        "score": 0.1908,
+        "excerpt": "“后真相”时代，社交媒体上假新闻规模化、病毒式传播成为全球关注的话题。",
+        "year": 2017,
+        "path": "2010s/2017/报刊/光明日报/2017_09.txt",
+        "recordId": "15409000009702",
+        "source": "2017 · 09",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1907,
+        "excerpt": "再利用社交性，利用微信群里的熟人关系，形成了病毒式传播的效果。",
+        "year": 2014,
+        "path": "2010s/2014/报刊/人民日报/rmrb_2014_02.txt",
+        "recordId": "15316000031934",
+        "source": "rmrb · 2014 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1671,
+        "excerpt": "一些网站编造的耸人听闻的信息，经常成为病毒式传播的典型案例。",
+        "year": 2016,
+        "path": "2010s/2016/报刊/人民日报/rmrb_2016_12.txt",
+        "recordId": "15376000003043",
+        "source": "rmrb · 2016 · 12",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "宣传",
+    "storyId": "media-language-10",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "media-language-10-turn",
+      "name": "组织化公共传播与动员",
+      "shortName": "组织化公共传播",
+      "description": "追踪“宣传”如何在制度、知识或媒介中稳定为“组织化公共传播与动员”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(宣传工作|宣传组织|公共宣传) time:1950s",
+    "totalResults": 3813,
+    "candidates": [
+      {
+        "score": 0.1664,
+        "excerpt": "广泛宣传组织分配公平合理",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000012885",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1457,
+        "excerpt": "组织工作和宣传工作应结合进行，在医务部门和地方卫生委员会组织起来时，要切实研究天花与种痘常识，通过小学及农会与青年组织，广泛向群众宣传并进行接种。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000007997",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.132,
+        "excerpt": "会上并通过认购公债的决议，号召全市工人动员起来展开宣传工作。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000010132",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "宣传",
+    "storyId": "media-language-10",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "media-language-10-contemporary",
+      "name": "品牌推广、自我宣传与贬义语感",
+      "shortName": "品牌推广、自我宣",
+      "description": "检查当代“品牌推广、自我宣传与贬义语感”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(品牌宣传|自我宣传|宣传推广) time:2010s",
+    "totalResults": 4984,
+    "candidates": [
+      {
+        "score": 0.2347,
+        "excerpt": "企业品牌宣传推广权，包括赛场周边的广告牌和现场大屏幕的电视广告播放……",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_06.txt",
+        "recordId": "15074000024174",
+        "source": "rmrb · 2010 · 06",
+        "hintHits": 2
+      },
+      {
+        "score": 0.2263,
+        "excerpt": "注重群众参与，充分发挥人民群众自我教育、自我宣传的作用。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_07.txt",
+        "recordId": "15075000014923",
+        "source": "rmrb · 2010 · 07",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1732,
+        "excerpt": "三是有效的前期宣传推广。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000014964",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "舆论",
+    "storyId": "media-language-11",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "media-language-11-contemporary",
+      "name": "热搜、数据监测与平台舆论",
+      "shortName": "热搜、数据监测",
+      "description": "检查当代“热搜、数据监测与平台舆论”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(网络舆论|舆论监测|舆论数据) time:2010s",
+    "totalResults": 1444,
+    "candidates": [
+      {
+        "score": 0.1654,
+        "excerpt": "随着网络舆论的持续，相关部门也着手开展调查。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000041865",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1518,
+        "excerpt": "主持人：重点主流新闻网站应当如何更好地起到引导网络舆论的作用？",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000030463",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1485,
+        "excerpt": "建立网络议题应对制度，提高领导干部正确引导网络舆论的能力。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_09.txt",
+        "recordId": "15077000000536",
+        "source": "rmrb · 2010 · 09",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "话语",
+    "storyId": "media-language-12",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "media-language-12-turn",
+      "name": "语言学与人文研究中的 discourse",
+      "shortName": "语言学",
+      "description": "追踪“话语”如何在制度、知识或媒介中稳定为“语言学与人文研究中的 discourse”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(话语分析|话语研究|语言话语) time:1990s",
+    "totalResults": 85,
+    "candidates": [
+      {
+        "score": 0.3654,
+        "excerpt": "后者被西方人径直译作话语，并等同于英、法、德文里的Discourse，Discours和Diskurs。",
+        "year": 1993,
+        "path": "1990s/1993/报刊/读书/vol-173.txt",
+        "recordId": "6847000000588",
+        "source": "vol-173",
+        "hintHits": 0
+      },
+      {
+        "score": 0.3601,
+        "excerpt": "第四卷：Discourse Analysis in Society（社会中的话语分析）。",
+        "year": 1995,
+        "path": "1990s/1995/应用文/议论文/1995 徐赳赳 话语分析二十年.txt",
+        "recordId": "8263000000051",
+        "source": "徐赳赳 话语分析二十年",
+        "hintHits": 1
+      },
+      {
+        "score": 0.3459,
+        "excerpt": "第三卷：Discourse andDialogue（话语和对话）；",
+        "year": 1995,
+        "path": "1990s/1995/应用文/议论文/1995 徐赳赳 话语分析二十年.txt",
+        "recordId": "8263000000051",
+        "source": "徐赳赳 话语分析二十年",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "话语",
+    "storyId": "media-language-12",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "media-language-12-contemporary",
+      "name": "话语权、品牌话语与平台表达",
+      "shortName": "话语权、品牌话语",
+      "description": "检查当代“话语权、品牌话语与平台表达”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(话语权|品牌话语|平台话语) time:2010s",
+    "totalResults": 10506,
+    "candidates": [
+      {
+        "score": 0.2863,
+        "excerpt": "争取更多的话语权",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000025457",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.241,
+        "excerpt": "与网络流言争夺话语权",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000037178",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.205,
+        "excerpt": "推进规范化，强化产业“话语权”。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000009691",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "文本",
+    "storyId": "media-language-13",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-13-prehistory",
+      "name": "文字篇章与本文",
+      "shortName": "文字篇章",
+      "description": "核对“文本”作为“文字篇章与本文”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "(本文|文本内容|文字文本) time:1930s",
+    "totalResults": 214,
+    "candidates": [
+      {
+        "score": 0.0309,
+        "excerpt": "系根据日本外村史郎和藏原惟人辑译的日文本转译，曾连载于《奔流》月刊，一九三○年六月由水沫书店出版，列为鲁迅、冯雪峰主编的《科学的艺术论丛书》之一。",
+        "year": 1930,
+        "path": "1930s/1930/文学/1930 鲁迅 “硬译”与“文学的阶级性”.txt",
+        "recordId": "1434000000002",
+        "source": "鲁迅 “硬译”与“文学的阶级性”",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0309,
+        "excerpt": "原文本是很简短的，只因为我于电影一道是门外汉，虽是平常的术语，也须查考，这就比别人烦难得多，即如有几个题目，便是从去年的旧报上翻出来的，查不到的，则只好“硬译”，而且误译之处，也恐怕决不能免。",
+        "year": 1930,
+        "path": "1930s/1930/文学/1930 鲁迅 现代电影与有产阶级（译文，并附记）.txt",
+        "recordId": "1446000000001",
+        "source": "鲁迅 现代电影与有产阶级（译文，并附记）",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "文本",
+    "storyId": "media-language-13",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "media-language-13-turn",
+      "name": "现代人文学科的分析对象",
+      "shortName": "现代人文学科的分",
+      "description": "追踪“文本”如何在制度、知识或媒介中稳定为“现代人文学科的分析对象”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(文本分析|文学文本|文本研究) time:1990s",
+    "totalResults": 29,
+    "candidates": [
+      {
+        "score": 0.1792,
+        "excerpt": "因为它对文学文本内部的精细分析不如别的理论。",
+        "year": 1994,
+        "path": "1990s/1994/报刊/人民日报/rmrb_1994_03.txt",
+        "recordId": "6967000007089",
+        "source": "rmrb · 1994 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1785,
+        "excerpt": "但是，正如不少研究者（尤其是文学研究者）所已经意识到的那样，文化研究存在着明显的局限性：它的过分注重文化的无所不在性，很容易模糊文学研究与文化研究的分野，使对文学文本的分析研究流于大而无当和缺乏深度；",
+        "year": 1996,
+        "path": "1990s/1996/报刊/光明日报/1996_04.txt",
+        "recordId": "10846000001714",
+        "source": "1996 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1739,
+        "excerpt": "谁是特定文学文本的读者？",
+        "year": 1991,
+        "path": "1990s/1991/报刊/读书/vol-143.txt",
+        "recordId": "5791000000045",
+        "source": "vol-143",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "直播",
+    "storyId": "media-language-14",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "media-language-14-turn",
+      "name": "广播电视的实时节目形态",
+      "shortName": "广播电视的实时节",
+      "description": "追踪“直播”如何在制度、知识或媒介中稳定为“广播电视的实时节目形态”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(电视直播|广播直播|现场直播) time:1980s",
+    "totalResults": 123,
+    "candidates": [
+      {
+        "score": 0.166,
+        "excerpt": "中央电视台将于明晚向全国现场直播这台节目的演出实况。",
+        "year": 1986,
+        "path": "1980s/1986/报刊/人民日报/rmrb_1986_09.txt",
+        "recordId": "5207000004219",
+        "source": "rmrb · 1986 · 09",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1635,
+        "excerpt": "法国将发射电视直播卫星",
+        "year": 1984,
+        "path": "1980s/1984/报刊/人民日报/rmrb_1984_12.txt",
+        "recordId": "5032000022333",
+        "source": "rmrb · 1984 · 12",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1579,
+        "excerpt": "法比尤斯说，法国的电视直播卫星将可以向西欧绝大部分国家转播四套电视节目，用户只要安装一个廉价的接收器即可收看到电视节目。",
+        "year": 1984,
+        "path": "1980s/1984/报刊/人民日报/rmrb_1984_12.txt",
+        "recordId": "5032000022336",
+        "source": "rmrb · 1984 · 12",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "直播",
+    "storyId": "media-language-14",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "media-language-14-contemporary",
+      "name": "平台直播、带货与实时互动",
+      "shortName": "平台直播、带货",
+      "description": "检查当代“平台直播、带货与实时互动”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "(网络直播|直播带货|直播互动) time:2010s",
+    "totalResults": 2690,
+    "candidates": [
+      {
+        "score": 0.1301,
+        "excerpt": "通过播放好人事迹短片、现场访谈、与观众互动、网络直播，故事在传颂，道德在彰显，精神在传递……在中国文明网、首都文明热线网站上，网友互动十分活跃。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_12.txt",
+        "recordId": "15080000011163",
+        "source": "rmrb · 2010 · 12",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1301,
+        "excerpt": "”他表示，“将审议过程进行网络直播，可让立法机关与人民群众互动，既能通过媒体直接收集群众的意见，还能让曾提出意见的公众直接了解自己的意见是否得到充分反映。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_05.txt",
+        "recordId": "15073000009738",
+        "source": "rmrb · 2010 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.123,
+        "excerpt": "据上海高院院长应勇介绍,为增强审判工作透明度,充分保障民众对司法活动的知情权、参与权和监督权,上海法院已实现庭审数字电视、网络直播的制度化、常态化。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_01.txt",
+        "recordId": "15081000014035",
+        "source": "2010 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "节目",
+    "storyId": "media-language-15",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "media-language-15-turn",
+      "name": "广播电视的内容单元",
+      "shortName": "广播电视的内容单",
+      "description": "追踪“节目”如何在制度、知识或媒介中稳定为“广播电视的内容单元”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(电视节目|广播节目|节目播出) time:1950s",
+    "totalResults": 383,
+    "candidates": [
+      {
+        "score": 0.2477,
+        "excerpt": "中央人民广播电台十日起改变广播节目",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_04.txt",
+        "recordId": "3543000001340",
+        "source": "rmrb · 1950 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.201,
+        "excerpt": "（一）全国各县市人民政府之尚未设置收音员者，除所在地为中心城市，出有大型日报者外，应一律指定政府内适当人员兼任收音员，其任务为收听或纪录中央和地方人民广播电台广播的新闻政令和其他重要内容，向群众介绍和预告广播节目，组织听众收听重要节目（如政府首长讲演、社会科学讲座等）。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_04.txt",
+        "recordId": "3543000012331",
+        "source": "rmrb · 1950 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1907,
+        "excerpt": "【新华社二日讯】中央人民广播电台决定从四月十日起改变广播节目。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_04.txt",
+        "recordId": "3543000001342",
+        "source": "rmrb · 1950 · 04",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "节目",
+    "storyId": "media-language-15",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "media-language-15-contemporary",
+      "name": "网络栏目、单期内容与算法切片",
+      "shortName": "网络栏目、单期内",
+      "description": "检查当代“网络栏目、单期内容与算法切片”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(网络节目|节目算法|节目上线) time:2010s",
+    "totalResults": 152,
+    "candidates": [
+      {
+        "score": 0.151,
+        "excerpt": "参观者可以通过阅读在园区内外发售的《中国2010年上海世博会文化演艺活动节目概览》、在园区出入口等地免费发放的当天节目单页、活动场地周边大屏幕滚动的电子节目单、世博会官网上的网络节目单、962010热线、手机报等多种形式获取世博会演艺信息。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_04.txt",
+        "recordId": "15072000024621",
+        "source": "rmrb · 2010 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1494,
+        "excerpt": "通过数字化形式、新媒体渠道、智能化终端呈现的互联网艺术，开始作为独立的艺术类型植根于人类的艺术之林，以网络音乐、网络电影、网络剧和网络节目为代表的网络视听内容，影响着网络社会的大众文化。",
+        "year": 2016,
+        "path": "2010s/2016/报刊/光明日报/2016_12.txt",
+        "recordId": "15388000012761",
+        "source": "2016 · 12",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1489,
+        "excerpt": "网络节目《@春晚》：实现多屏互动共赢",
+        "year": 2016,
+        "path": "2010s/2016/报刊/光明日报/2016_02.txt",
+        "recordId": "15378000020269",
+        "source": "2016 · 02",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "频道",
+    "storyId": "media-language-16",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "media-language-16-contemporary",
+      "name": "内容频道、销售渠道与个人频道",
+      "shortName": "内容频道、销售渠",
+      "description": "检查当代“内容频道、销售渠道与个人频道”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(内容频道|个人频道|电商频道) time:2010s",
+    "totalResults": 68,
+    "candidates": [
+      {
+        "score": 0.2229,
+        "excerpt": "现今在个人频道中，共经营有下列节目。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/中文维基/Wiki_087.txt",
+        "recordId": "15558000025779",
+        "source": "Wiki · 087",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2028,
+        "excerpt": "2015年5月，马伦开设了第二个个人频道“”。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/中文维基/Wiki_081.txt",
+        "recordId": "15552000013780",
+        "source": "Wiki · 081",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1789,
+        "excerpt": "1999年，搜狐推出新闻及内容频道，奠定了网站的雏形。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/中文维基/Wiki_005.txt",
+        "recordId": "15476000004352",
+        "source": "Wiki · 005",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "主播",
+    "storyId": "media-language-17",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "media-language-17-contemporary",
+      "name": "平台主播、带货与虚拟主播",
+      "shortName": "平台主播、带货",
+      "description": "检查当代“平台主播、带货与虚拟主播”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(网络主播|带货主播|虚拟主播) time:2010s",
+    "totalResults": 323,
+    "candidates": [
+      {
+        "score": 0.1778,
+        "excerpt": "而个别直播平台放任网络主播的违法行为，已对产业、社会和网民合法权益造成了严重后果。",
+        "year": 2016,
+        "path": "2010s/2016/报刊/光明日报/2016_11.txt",
+        "recordId": "15387000018060",
+        "source": "2016 · 11",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1643,
+        "excerpt": "此前，国家网信办等三部门组成联合检查组整治网络直播平台存在的乱象，将1879名严重违规网络主播纳入“黑名单”，在各直播平台禁止其重新注册账号。",
+        "year": 2017,
+        "path": "2010s/2017/报刊/人民日报/rmrb_2017_04.txt",
+        "recordId": "15392000002228",
+        "source": "rmrb · 2017 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1632,
+        "excerpt": "上海锦天城（重庆）律师事务所律师李炎：如果未成年人对网络主播的“打赏”金额巨大，未成年人的监护人有权向直播平台要求撤销赠与，但最终能否达到撤销赠与的结果，要视其举证是否充分而定。",
+        "year": 2017,
+        "path": "2010s/2017/报刊/人民日报/rmrb_2017_06.txt",
+        "recordId": "15394000035203",
+        "source": "rmrb · 2017 · 06",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "影像",
+    "storyId": "media-language-18",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "media-language-18-turn",
+      "name": "摄影电影与现代视觉媒介",
+      "shortName": "摄影电影",
+      "description": "追踪“影像”如何在制度、知识或媒介中稳定为“摄影电影与现代视觉媒介”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(电影影像|摄影影像|视觉影像) time:1950s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "影像",
+    "storyId": "media-language-18",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "media-language-18-contemporary",
+      "name": "数字影像、监控视觉与生成式图像",
+      "shortName": "数字影像、监控视",
+      "description": "检查当代“数字影像、监控视觉与生成式图像”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(数字影像|监控影像|生成影像) time:2010s",
+    "totalResults": 300,
+    "candidates": [
+      {
+        "score": 0.337,
+        "excerpt": "数字影像收发机研制成功",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_09.txt",
+        "recordId": "15077000012811",
+        "source": "rmrb · 2010 · 09",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2868,
+        "excerpt": "全球首款数字影像收发机问世",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_08.txt",
+        "recordId": "15088000014121",
+        "source": "2010 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2075,
+        "excerpt": "在当代，影像的最终视觉效果由数字影像造型手段与传统造型手段两者共同完成已经形成潮流。",
+        "year": 2011,
+        "path": "2010s/2011/报刊/光明日报/2011_06.txt",
+        "recordId": "15244000016283",
+        "source": "2011 · 06",
+        "hintHits": 1
+      }
+    ]
+  }
+]

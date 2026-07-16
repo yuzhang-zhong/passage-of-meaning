@@ -1,0 +1,92 @@
+[
+  {
+    "word": "实验",
+    "storyId": "knowledge-life-09",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "knowledge-life-09-contemporary",
+      "name": "产品实验、A/B 测试与社会实验",
+      "shortName": "产品实验、A/B",
+      "description": "检查当代“产品实验、A/B 测试与社会实验”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 4
+    },
+    "query": "(产品实验|社会实验) time:2010s",
+    "totalResults": 157,
+    "candidates": [
+      {
+        "score": 0.4032,
+        "excerpt": "第一支产品实验成功！",
+        "year": 2019,
+        "path": "2010s/2019/报刊/人民日报/rmrb_2019_11.txt",
+        "recordId": "15450000017494",
+        "source": "rmrb · 2019 · 11",
+        "hintHits": 1
+      },
+      {
+        "score": 0.4019,
+        "excerpt": "分为两种：全面社会实验和准社会实验。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_05.txt",
+        "recordId": "15085000009799",
+        "source": "2010 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.337,
+        "excerpt": "着力进行“周礼”的社会实验。",
+        "year": 2016,
+        "path": "2010s/2016/报刊/光明日报/2016_08.txt",
+        "recordId": "15384000017930",
+        "source": "2016 · 08",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "理论",
+    "storyId": "knowledge-life-10",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "knowledge-life-10-turn",
+      "name": "现代学科中的概念系统",
+      "shortName": "现代学科中的概念",
+      "description": "追踪“理论”如何在制度、知识或媒介中稳定为“现代学科中的概念系统”，并找出关键转折文本。",
+      "startIndex": 1
+    },
+    "query": "(科学理论体系|理论体系) time:1950s",
+    "totalResults": 57,
+    "candidates": [
+      {
+        "score": 0.2015,
+        "excerpt": "一思想出发，创造了完整的关于论述生物和管理生物的科学理论体系，并把它应用到改造自然、造福人民的农业实践上去。",
+        "year": 1952,
+        "path": "1950s/1952/报刊/人民日报/rmrb_1952_06.txt",
+        "recordId": "3619000011706",
+        "source": "rmrb · 1952 · 06",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1553,
+        "excerpt": "绝大多数学员对于中医经典著作的精神实质已有了明确的、系统的概念，认识到中医不但有它的理论体系，而且有一套较完整的诊断治疗法则；",
+        "year": 1957,
+        "path": "1950s/1957/报刊/人民日报/rmrb_1957_10.txt",
+        "recordId": "3771000007528",
+        "source": "rmrb · 1957 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1513,
+        "excerpt": "过去，基础课与专业课，多科并进，互不联属，教公共基础课的教师，只管本门学科的理论体系，不懂或者是不管专业课的理论体系，从教者来说，他所传授的东西诚然是系统的、完整的，但从学者来说，因为头绪纷繁，各自成理，在接受和消化各种不同的系统理论上，就要花上双倍的气力。",
+        "year": 1959,
+        "path": "1950s/1959/报刊/人民日报/rmrb_1959_04.txt",
+        "recordId": "3901000007256",
+        "source": "rmrb · 1959 · 04",
+        "hintHits": 1
+      }
+    ]
+  }
+]

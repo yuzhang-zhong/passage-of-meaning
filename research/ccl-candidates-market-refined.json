@@ -1,0 +1,227 @@
+[
+  {
+    "word": "职业",
+    "storyId": "market-life-05",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "market-life-05-turn",
+      "name": "现代职业资格与身份",
+      "shortName": "现代职业资格",
+      "description": "追踪“职业”如何在制度、知识或媒介中稳定为“现代职业资格与身份”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "职业资格 time:1990s",
+    "totalResults": 223,
+    "candidates": [
+      {
+        "score": 0.2934,
+        "excerpt": "《规定》将职业资格分为从业资格和执业资格两大类。",
+        "year": 1994,
+        "path": "1990s/1994/报刊/市场报/1994年03月《市场报》.txt",
+        "recordId": "8142000000842",
+        "source": "1994年03月《市场报》",
+        "hintHits": 0
+      },
+      {
+        "score": 0.2799,
+        "excerpt": "该规定将职业资格分为从业资格和执业资格两大类。",
+        "year": 1994,
+        "path": "1990s/1994/报刊/市场报/1994年04月《市场报》.txt",
+        "recordId": "8143000006878",
+        "source": "1994年04月《市场报》",
+        "hintHits": 0
+      },
+      {
+        "score": 0.2776,
+        "excerpt": "职业资格证书制度开始实行。",
+        "year": 1994,
+        "path": "1990s/1994/报刊/报刊精选/1994年《报刊精选》03.txt",
+        "recordId": "8149000036563",
+        "source": "1994年《报刊精选》03",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "公司",
+    "storyId": "market-life-07",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "market-life-07-contemporary",
+      "name": "平台公司、初创公司与雇主品牌",
+      "shortName": "平台公司、初创公",
+      "description": "检查当代“平台公司、初创公司与雇主品牌”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(互联网平台公司|初创公司) time:2010s",
+    "totalResults": 623,
+    "candidates": [
+      {
+        "score": 0.3272,
+        "excerpt": "初创公司决策快，紧迫感强。",
+        "year": 2016,
+        "path": "2010s/2016/报刊/人民日报/rmrb_2016_06.txt",
+        "recordId": "15370000023221",
+        "source": "rmrb · 2016 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2381,
+        "excerpt": "在德国，扶持初创公司正成为大企业的“新常态”。",
+        "year": 2016,
+        "path": "2010s/2016/报刊/人民日报/rmrb_2016_01.txt",
+        "recordId": "15365000039507",
+        "source": "rmrb · 2016 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2278,
+        "excerpt": "微软创投加速器助力百家初创公司(科技短波)",
+        "year": 2015,
+        "path": "2010s/2015/报刊/人民日报/rmrb_2015_02.txt",
+        "recordId": "15341000034593",
+        "source": "rmrb · 2015 · 02",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "服务",
+    "storyId": "market-life-12",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "market-life-12-contemporary",
+      "name": "用户体验、数字服务与服务化",
+      "shortName": "用户体验、数字服",
+      "description": "检查当代“用户体验、数字服务与服务化”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(数字服务|在线服务|用户服务体验) time:2010s",
+    "totalResults": 1093,
+    "candidates": [
+      {
+        "score": 0.2007,
+        "excerpt": "这个新开发的数字服务系统已经成为亚运会媒体服务的一个亮点。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_11.txt",
+        "recordId": "15079000016947",
+        "source": "rmrb · 2010 · 11",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1798,
+        "excerpt": "校报数字化建设一期工作的完成，标志着新中国成立后校报所有过刊由纸质文献转化为电子文档，并具备了向读者与用户提供在线阅读、信息检索、图片搜集、数据统计、科学研究、授权下载等全方位数字服务的能力。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_07.txt",
+        "recordId": "15087000007746",
+        "source": "2010 · 07",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1696,
+        "excerpt": "二是新闻出版数字服务平台，包括中国数字发行运营平台、中国传媒影响力数据分析平台、国家数字出版信息服务平台、手机文摘报等数字化重点服务项目，目前这4个项目均已进入全国新闻出版改革发展项目库；",
+        "year": 2011,
+        "path": "2010s/2011/报刊/光明日报/2011_12.txt",
+        "recordId": "15250000008911",
+        "source": "2011 · 12",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "投资",
+    "storyId": "market-life-16",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "market-life-16-contemporary",
+      "name": "时间、教育与自我投资",
+      "shortName": "时间、教育",
+      "description": "检查当代“时间、教育与自我投资”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(投资自己|投资于教育|教育投资) time:2010s",
+    "totalResults": 1076,
+    "candidates": [
+      {
+        "score": 0.1704,
+        "excerpt": "另外,从社会的教育供需角度来看,在一定时期内,教育投资的增长是有限度的,政府力量、民间力量或个体力量都无法满足人人有条件追加教育投资。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_03.txt",
+        "recordId": "15083000011094",
+        "source": "2010 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1635,
+        "excerpt": "丰厚的教育投资夯实了全民教育基础，法国从幼儿园到大学都实行义务教育。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_06.txt",
+        "recordId": "15074000013418",
+        "source": "rmrb · 2010 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1635,
+        "excerpt": "在大幅度增加财政性教育支出，保持适当的教育投资规模的同时，要把优化教育投入结构、提高教育经费使用效益放在更加重要的位置。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_10.txt",
+        "recordId": "15078000033879",
+        "source": "rmrb · 2010 · 10",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "风险",
+    "storyId": "market-life-17",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "market-life-17-turn",
+      "name": "概率、保险与金融风险",
+      "shortName": "概率、保险",
+      "description": "追踪“风险”如何在制度、知识或媒介中稳定为“概率、保险与金融风险”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "金融风险 time:1990s",
+    "totalResults": 980,
+    "candidates": [
+      {
+        "score": 0.286,
+        "excerpt": "七是金融风险程度加深。",
+        "year": 1996,
+        "path": "1990s/1996/报刊/人民日报/rmrb_1996_11.txt",
+        "recordId": "9745000000899",
+        "source": "rmrb · 1996 · 11",
+        "hintHits": 0
+      },
+      {
+        "score": 0.257,
+        "excerpt": "加强金融风险防范与管理",
+        "year": 1994,
+        "path": "1990s/1994/报刊/报刊精选/1994年《报刊精选》09.txt",
+        "recordId": "8155000120498",
+        "source": "1994年《报刊精选》09",
+        "hintHits": 0
+      },
+      {
+        "score": 0.2338,
+        "excerpt": "发展国际融资防范金融风险",
+        "year": 1996,
+        "path": "1990s/1996/报刊/人民日报/rmrb_1996_11.txt",
+        "recordId": "9745000000895",
+        "source": "rmrb · 1996 · 11",
+        "hintHits": 0
+      }
+    ]
+  }
+]

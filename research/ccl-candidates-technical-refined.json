@@ -1,0 +1,83 @@
+[
+  {
+    "word": "端口",
+    "storyId": "technical-metaphors-09",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "technical-metaphors-09-prehistory",
+      "name": "物体两端与出入之口",
+      "shortName": "物体两端",
+      "description": "核对“端口”作为“物体两端与出入之口”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "端口 time:1980s",
+    "totalResults": 2,
+    "candidates": [
+      {
+        "score": 0.0385,
+        "excerpt": "扩张成型还可使铝管端口翻边卷刃，这在航空工业上有独特的用途。",
+        "year": 1986,
+        "path": "1980s/1986/报刊/光明日报/1986_01.txt",
+        "recordId": "5211000001249",
+        "source": "1986 · 01",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0351,
+        "excerpt": "后来，印第安人发现“手卷烟叶，焚其一端，而以它端口吸入”颇有“滋味”，人类的抽烟就从此开始。",
+        "year": 1987,
+        "path": "1980s/1987/报刊/人民日报/rmrb_1987_11.txt",
+        "recordId": "5328000011050",
+        "source": "rmrb · 1987 · 11",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "终端",
+    "storyId": "technical-metaphors-11",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "technical-metaphors-11-prehistory",
+      "name": "末端、终点与边端位置",
+      "shortName": "末端、终点",
+      "description": "核对“终端”作为“末端、终点与边端位置”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "终端 time:1950s",
+    "totalResults": 15,
+    "candidates": [
+      {
+        "score": 0.036,
+        "excerpt": "终端机室全体工作同志。",
+        "year": 1951,
+        "path": "1950s/1951/报刊/人民日报/rmrb_1951_08.txt",
+        "recordId": "3586000008251",
+        "source": "rmrb · 1951 · 08",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0359,
+        "excerpt": "在下列终端地点间传递之电报费，私人寻常电报每字为五十生丁：迪化与阿拉木图间，疏附与伊尔克斯塘间，伊犁与阿拉木图间，塔城（秋古卡克）与巴赫特间。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_03.txt",
+        "recordId": "3542000000117",
+        "source": "rmrb · 1950 · 03",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0347,
+        "excerpt": "专业化后，接一万伏特的中间接头只用三个工，终端接头只用两个工，劳动效率提高一倍以上。",
+        "year": 1954,
+        "path": "1950s/1954/报刊/人民日报/rmrb_1954_05.txt",
+        "recordId": "3657000001611",
+        "source": "rmrb · 1954 · 05",
+        "hintHits": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,852 @@
+[
+  {
+    "word": "网络",
+    "storyId": "technical-metaphors-01",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "technical-metaphors-01-prehistory",
+      "name": "网状结构与交织关系",
+      "shortName": "网状结构",
+      "description": "核对“网络”作为“网状结构与交织关系”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "网络 time:1920s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "网络",
+    "storyId": "technical-metaphors-01",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "technical-metaphors-01-turn",
+      "name": "通信与计算机网络",
+      "shortName": "通信",
+      "description": "追踪“网络”如何在制度、知识或媒介中稳定为“通信与计算机网络”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "网络 time:1920s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "网络",
+    "storyId": "technical-metaphors-01",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "technical-metaphors-01-contemporary",
+      "name": "社会网络、平台权力与网络生活",
+      "shortName": "社会网络、平台权",
+      "description": "检查当代“社会网络、平台权力与网络生活”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "网络 time:2010s",
+    "totalResults": 603277,
+    "candidates": [
+      {
+        "score": 0.0482,
+        "excerpt": "MBA教育网络化是基于，在信息社会里，对于信息的开发、占有、控制、使用将成为企业管理的核心，开发和销售信息也将成为一个支柱产业。",
+        "year": 2010,
+        "path": "2010s/2010/应用文/社会科学/2010 Author MBA宝典.txt",
+        "recordId": "15066000000016",
+        "source": "Author MBA宝典",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0455,
+        "excerpt": "创意是他们的一种生活方式，用网络改变生活是他们不断实验的初衷。",
+        "year": 2010,
+        "path": "2010s/2010/口语/对话/2010 张向东 创业者对话创业者.txt",
+        "recordId": "15037000000004",
+        "source": "张向东 创业者对话创业者",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0414,
+        "excerpt": "五是项目经理与现代网络技术的联系密切。",
+        "year": 2010,
+        "path": "2010s/2010/应用文/社会科学/2010 Author MBA宝典.txt",
+        "recordId": "15066000000106",
+        "source": "Author MBA宝典",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "流量",
+    "storyId": "technical-metaphors-03",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "technical-metaphors-03-prehistory",
+      "name": "流体通过的数量",
+      "shortName": "流体通过的数量",
+      "description": "核对“流量”作为“流体通过的数量”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "流量 time:1920s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "窗口",
+    "storyId": "technical-metaphors-04",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "technical-metaphors-04-prehistory",
+      "name": "建筑采光通风之口",
+      "shortName": "建筑采光通风之口",
+      "description": "核对“窗口”作为“建筑采光通风之口”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "窗口 time:1920s",
+    "totalResults": 140,
+    "candidates": [
+      {
+        "score": 0.0452,
+        "excerpt": "一個二十三四歲的很時髦的女人背靠了窗口的卓子，遠遠的問他說。",
+        "year": 1923,
+        "path": "1920s/1923/报刊/1923 Author 創造周報_第15號.txt",
+        "recordId": "456000000116",
+        "source": "Author 創造周報 · 第15號",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0452,
+        "excerpt": "” 一个二十三四岁的很时髦的女人背靠了窗口的桌子，远远的问他说。",
+        "year": 1923,
+        "path": "1920s/1923/文学/1923 郁达夫 秋河.txt",
+        "recordId": "525000000000",
+        "source": "郁达夫 秋河",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0431,
+        "excerpt": "園，所以站在窗口的卓子前，一望能望見遠近許多紅白的屋頂和靑葱的樹木。",
+        "year": 1923,
+        "path": "1920s/1923/报刊/1923 Author 創造周報_第15號.txt",
+        "recordId": "456000000119",
+        "source": "Author 創造周報 · 第15號",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "桌面",
+    "storyId": "technical-metaphors-05",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "technical-metaphors-05-prehistory",
+      "name": "桌子的平面与工作场所",
+      "shortName": "桌子的平面",
+      "description": "核对“桌面”作为“桌子的平面与工作场所”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "桌面 time:1920s",
+    "totalResults": 34,
+    "candidates": [
+      {
+        "score": 0.1303,
+        "excerpt": "好好的平滑桌面。",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 新社會_第18號.txt",
+        "recordId": "293000000162",
+        "source": "Author 新社會 · 第18號",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0508,
+        "excerpt": "小饭铺的桌子都是石头面儿，铁腿儿，桌面擦得晶光，怪爱人儿的。",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 老舍 二马.txt",
+        "recordId": "1175000000005",
+        "source": "老舍 二马",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0508,
+        "excerpt": "小饭铺的桌子都是石头面儿，铁腿儿，桌面擦得晶光，怪爱人儿的。",
+        "year": 1929,
+        "path": "1920s/1929/文学/1929 老舍 二马.txt",
+        "recordId": "1319000000390",
+        "source": "老舍 二马",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "文件",
+    "storyId": "technical-metaphors-06",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "technical-metaphors-06-prehistory",
+      "name": "公文、书面材料与案卷",
+      "shortName": "公文、书面材料",
+      "description": "核对“文件”作为“公文、书面材料与案卷”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "文件 time:1920s",
+    "totalResults": 211,
+    "candidates": [
+      {
+        "score": 0.0973,
+        "excerpt": "（一）發文（通吿各級協會之文件作一件算）",
+        "year": 1926,
+        "path": "1920s/1926/报刊/1926 Author 中國農民_第1卷第6、7期.txt",
+        "recordId": "811000000715",
+        "source": "Author 中國農民 · 第1卷第6、7期",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0908,
+        "excerpt": "所有文件案卷，槪遭毀刧。",
+        "year": 1926,
+        "path": "1920s/1926/报刊/1926 Author 中國農民_第1卷第1期.txt",
+        "recordId": "806000000144",
+        "source": "Author 中國農民 · 第1卷第1期",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0462,
+        "excerpt": "六，收發兼掌卷，職掌文件之收受，發還登記校對編號與辦案卷之保護及編存。",
+        "year": 1926,
+        "path": "1920s/1926/报刊/1926 Author 中國農民_第1卷第2期.txt",
+        "recordId": "807000000359",
+        "source": "Author 中國農民 · 第1卷第2期",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "目录",
+    "storyId": "technical-metaphors-07",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "technical-metaphors-07-prehistory",
+      "name": "书目与条目次序",
+      "shortName": "书目",
+      "description": "核对“目录”作为“书目与条目次序”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "目录 time:1920s",
+    "totalResults": 28,
+    "candidates": [
+      {
+        "score": 0.0997,
+        "excerpt": "《也是园书目》是他的藏书目录，共十卷。",
+        "year": 1923,
+        "path": "1920s/1923/文学/1923 鲁迅 宋民间之所谓小说及其后来.txt",
+        "recordId": "538000000000",
+        "source": "鲁迅 宋民间之所谓小说及其后来",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0897,
+        "excerpt": "〔３〕《内阁文库书目》日本内阁文库的藏书目录。",
+        "year": 1927,
+        "path": "1920s/1927/文学/1927 鲁迅 关于小说目录两件.txt",
+        "recordId": "1031000000000",
+        "source": "鲁迅 关于小说目录两件",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0732,
+        "excerpt": "《遂初堂书目》，又名《益斋书目》，宋代尤袤家藏图书的目录，一卷。",
+        "year": 1922,
+        "path": "1920s/1922/文学/1922 鲁迅 《遂初堂书目》抄校说明.txt",
+        "recordId": "429000000000",
+        "source": "鲁迅 《遂初堂书目》抄校说明",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "地址",
+    "storyId": "technical-metaphors-08",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "technical-metaphors-08-prehistory",
+      "name": "居所位置与可到达地点",
+      "shortName": "居所位置",
+      "description": "核对“地址”作为“居所位置与可到达地点”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "地址 time:1920s",
+    "totalResults": 98,
+    "candidates": [
+      {
+        "score": 0.0457,
+        "excerpt": "位置及沿革 北京孔德學校的地址在北京東單牌樓方巾巷裏面他的校基是很狹隘的現在的校舍才不過三四十間他最初是由北京華法敎育會所創辦時在民國六年民國八年的冬天大衆公推蔡孑民先生爲校長初創辦的時候本來北京孔德女子小學校民國七年改成今名高小班男女合班是從今年春天開學時起的",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 少年世界_第1卷第8期.txt",
+        "recordId": "283000001049",
+        "source": "Author 少年世界 · 第1卷第8期",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0427,
+        "excerpt": "全所地址，大約有五畝地的羌",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 新社會_第8號.txt",
+        "recordId": "296000000111",
+        "source": "Author 新社會 · 第8號",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0409,
+        "excerpt": "最可恨者，票上有字号，不开地址。",
+        "year": 1920,
+        "path": "1920s/1920/文学/1920 蔡友梅 益世余谭_1920.txt",
+        "recordId": "325000000850",
+        "source": "蔡友梅 益世余谭 · 1920",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "接口",
+    "storyId": "technical-metaphors-10",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "technical-metaphors-10-prehistory",
+      "name": "器物衔接与连接部位",
+      "shortName": "器物衔接",
+      "description": "核对“接口”作为“器物衔接与连接部位”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "接口 time:1920s",
+    "totalResults": 146,
+    "candidates": [
+      {
+        "score": 0.0367,
+        "excerpt": "”令萱便接口道：“舜纳尧二女为妃，便是二后。",
+        "year": 1924,
+        "path": "1920s/1924/文学/小说笔记/1924 蔡东藩 南北史演义.txt",
+        "recordId": "622000002166",
+        "source": "蔡东藩 南北史演义",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0367,
+        "excerpt": "”光武帝凑巧听见，不由的接口道：“我御天下，亦欲以柔道为治，并不致后先矛盾哩！",
+        "year": 1926,
+        "path": "1920s/1926/文学/小说笔记/1926 蔡东藩 后汉演义.txt",
+        "recordId": "936000000273",
+        "source": "蔡东藩 后汉演义",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0347,
+        "excerpt": "”冀在旁接口道：“恐饮水后或致呕吐，不如不饮为是！",
+        "year": 1926,
+        "path": "1920s/1926/文学/小说笔记/1926 蔡东藩 后汉演义.txt",
+        "recordId": "936000000760",
+        "source": "蔡东藩 后汉演义",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "接口",
+    "storyId": "technical-metaphors-10",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "technical-metaphors-10-contemporary",
+      "name": "应用编程接口、服务窗口与组织接口",
+      "shortName": "应用编程接口、服",
+      "description": "检查当代“应用编程接口、服务窗口与组织接口”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "接口 time:2010s",
+    "totalResults": 12254,
+    "candidates": [
+      {
+        "score": 0.1087,
+        "excerpt": "二是制定接口的规范与标准的能力。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_04.txt",
+        "recordId": "15072000014260",
+        "source": "rmrb · 2010 · 04",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0739,
+        "excerpt": "例如，由丹参、三七、冰片三味药组成的复方丹参滴丸，一粒只有小米粒大，直接口服或者含服，剂量小、方便服用。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_09.txt",
+        "recordId": "15077000038212",
+        "source": "rmrb · 2010 · 09",
+        "hintHits": 0
+      },
+      {
+        "score": 0.067,
+        "excerpt": "在系统中，接口的兼容性非常关键，并不是把物件堆在一起就能生成系统。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_06.txt",
+        "recordId": "15074000037116",
+        "source": "rmrb · 2010 · 06",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "计算",
+    "storyId": "technical-metaphors-13",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "technical-metaphors-13-prehistory",
+      "name": "计数、算法与筹算",
+      "shortName": "计数、算法",
+      "description": "核对“计算”作为“计数、算法与筹算”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "计算 time:1920s",
+    "totalResults": 126,
+    "candidates": [
+      {
+        "score": 0.0557,
+        "excerpt": "我搬出来之后，略为计算了一下，差你的不过十来块钱。",
+        "year": 1922,
+        "path": "1920s/1922/文学/小说笔记/1922_10_1 向恺然 留东外史续集.txt",
+        "recordId": "448000001178",
+        "source": "1922 · 10 · 1 向恺然 留东外史续集",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0492,
+        "excerpt": "你们大概计算计算，不比西式房子还贵吗？",
+        "year": 1922,
+        "path": "1920s/1922/文学/小说笔记/1922_10_1 向恺然 留东外史续集.txt",
+        "recordId": "448000000934",
+        "source": "1922 · 10 · 1 向恺然 留东外史续集",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0396,
+        "excerpt": "上海的马路上，来来往往的，谁能计算他们的数目。",
+        "year": 1921,
+        "path": "1920s/1921/文学/1921 叶圣陶 生活.txt",
+        "recordId": "378000000007",
+        "source": "叶圣陶 生活",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "程序",
+    "storyId": "technical-metaphors-14",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "technical-metaphors-14-prehistory",
+      "name": "事务次序与法定步骤",
+      "shortName": "事务次序",
+      "description": "核对“程序”作为“事务次序与法定步骤”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "程序 time:1920s",
+    "totalResults": 82,
+    "candidates": [
+      {
+        "score": 0.0456,
+        "excerpt": "（四）第六次大會的議事程序，現在大致相定如下：",
+        "year": 1927,
+        "path": "1920s/1927/报刊/1927 Author 中央政治通訊_第13期.txt",
+        "recordId": "940000000141",
+        "source": "Author 中央政治通訊 · 第13期",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0449,
+        "excerpt": "一、國文 預定計畫分敎材敎法兩都敎材選用的程序分四期",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 少年世界_第1卷第6期.txt",
+        "recordId": "282000000456",
+        "source": "Author 少年世界 · 第1卷第6期",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0445,
+        "excerpt": "這就是民政關辦事的程序。",
+        "year": 1926,
+        "path": "1920s/1926/报刊/1926 Author 人民周刊_第24期.txt",
+        "recordId": "828000000057",
+        "source": "Author 人民周刊 · 第24期",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "代码",
+    "storyId": "technical-metaphors-15",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "technical-metaphors-15-prehistory",
+      "name": "代号、密码与编码符号",
+      "shortName": "代号、密码",
+      "description": "核对“代码”作为“代号、密码与编码符号”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "代码 time:1920s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "代码",
+    "storyId": "technical-metaphors-15",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "technical-metaphors-15-turn",
+      "name": "软件开发的 source code",
+      "shortName": "软件开发的 so",
+      "description": "追踪“代码”如何在制度、知识或媒介中稳定为“软件开发的 source code”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "代码 time:1920s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "机器",
+    "storyId": "technical-metaphors-16",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "technical-metaphors-16-prehistory",
+      "name": "机械装置与代替人力的工具",
+      "shortName": "机械装置",
+      "description": "核对“机器”作为“机械装置与代替人力的工具”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "机器 time:1920s",
+    "totalResults": 52,
+    "candidates": [
+      {
+        "score": 0.0557,
+        "excerpt": "有些暴躁的工人便放出声音大吼： ――“我们来捣毁机器罢！",
+        "year": 1927,
+        "path": "1920s/1927/文学/1927 郭沫若 一只手.txt",
+        "recordId": "1017000000000",
+        "source": "郭沫若 一只手",
+        "hintHits": 0
+      },
+      {
+        "score": 0.052,
+        "excerpt": "厂内一片捣毁机器的声音，厂外一片枪声，徒手的工人终竟敌不过他们自己所造出来的武器，看看有不少的工人已经被枪弹打死了。",
+        "year": 1927,
+        "path": "1920s/1927/文学/1927 郭沫若 一只手.txt",
+        "recordId": "1017000000000",
+        "source": "郭沫若 一只手",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0458,
+        "excerpt": "世界上只有两个大营寨，一个是有产阶級占据住一切生产工具剝夺劳动者的剩余的营寨，一个是无产阶級終身被剝夺被压迫为有产阶級少不来的活机器的营寨。",
+        "year": 1921,
+        "path": "1920s/1921/报刊/1921 Author 劳动与妇女_第5期.txt",
+        "recordId": "344000000009",
+        "source": "Author 劳动与妇女 · 第5期",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "智能",
+    "storyId": "technical-metaphors-17",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "technical-metaphors-17-prehistory",
+      "name": "智慧与人的认知能力",
+      "shortName": "智慧",
+      "description": "核对“智能”作为“智慧与人的认知能力”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "智能 time:1920s",
+    "totalResults": 23,
+    "candidates": [
+      {
+        "score": 0.0401,
+        "excerpt": "…何之區別若說到獨立的人格男女也是完全共同享有的而男子却矯而枉之蹂躪剝奪女子的天賊人權這不是暴戾之極嗎况且男女的智能各有短長使立一種分業的方法使之互相補益豈非人類全體的大利益這都是天意而非人所能隨意左右的今乃犯天意壓抑弱女子毀損其獨立而無所恥這眞是人類生活的大不幸呵公氏以滿腔的同情登高…",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 少年世界_第1卷第8期.txt",
+        "recordId": "283000000565",
+        "source": "Author 少年世界 · 第1卷第8期",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0382,
+        "excerpt": "有學問，智能，道德的，反使他落魄無聊，不得相當的位置。",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 上海夥友_第7册.txt",
+        "recordId": "234000000038",
+        "source": "Author 上海夥友 · 第7册",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0382,
+        "excerpt": "進而以天下爲己任，爲捄四海的同胞而殺身成仁的那樣的誠心，把自己的智能發揮到無限大，使與天地偉大的作用相比而無愧，終至於於神無多讓的那種崇高的精神，便是眞的「勇」之極致。",
+        "year": 1923,
+        "path": "1920s/1923/报刊/1923 Author 創造周報_第2號.txt",
+        "recordId": "472000000144",
+        "source": "Author 創造周報 · 第2號",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "算法",
+    "storyId": "technical-metaphors-18",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "technical-metaphors-18-prehistory",
+      "name": "算术的步骤与计算方法",
+      "shortName": "算术的步骤",
+      "description": "核对“算法”作为“算术的步骤与计算方法”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "算法 time:1920s",
+    "totalResults": 15,
+    "candidates": [
+      {
+        "score": 0.0429,
+        "excerpt": "坎字拳传习时光，叫习术的人，焚香叩拜，拜后直立不动，忽地跌倒在地，一会子起立，跳跃持械而舞，就算法术习成了。",
+        "year": 1921,
+        "path": "1920s/1921/文学/小说笔记/1921 陆士谔 清朝秘史.txt",
+        "recordId": "397000008559",
+        "source": "陆士谔 清朝秘史",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0379,
+        "excerpt": "她略能彈鋼琴，略懂一點算法，略懂一點繪畫，略有一點歷史和文法的智識，實在，她什麽都略微知道一點的。",
+        "year": 1929,
+        "path": "1920s/1929/报刊/1929 Author 大衆文藝_第1卷第6期.txt",
+        "recordId": "1247000000775",
+        "source": "Author 大衆文藝 · 第1卷第6期",
+        "hintHits": 0
+      },
+      {
+        "score": 0.036,
+        "excerpt": "最多的要算法國與希臘。",
+        "year": 1929,
+        "path": "1920s/1929/报刊/1929 Author 列寧青年_第1卷第13期.txt",
+        "recordId": "1228000000146",
+        "source": "Author 列寧青年 · 第1卷第13期",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "病毒",
+    "storyId": "technical-metaphors-19",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "technical-metaphors-19-prehistory",
+      "name": "疾病之毒与现代 virology 译名",
+      "shortName": "疾病之毒",
+      "description": "核对“病毒”作为“疾病之毒与现代 virology 译名”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "病毒 time:1920s",
+    "totalResults": 11,
+    "candidates": [
+      {
+        "score": 0.0391,
+        "excerpt": "欧士华本是要生活，能创作的人，因为父亲的不检，先天得了病毒，中途不能做人了。",
+        "year": 1926,
+        "path": "1920s/1926/文学/1926 鲁迅 坟.txt",
+        "recordId": "915000000046",
+        "source": "鲁迅 坟",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0375,
+        "excerpt": "這些病毒便是使日本文壇生不出偉大作品的重要原因。",
+        "year": 1928,
+        "path": "1920s/1928/报刊/1928 Author 創造月刊_第1卷第11期.txt",
+        "recordId": "1083000000032",
+        "source": "Author 創造月刊 · 第1卷第11期",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0342,
+        "excerpt": "然而俳句的輕快與新鮮，同時又是他的致命的病毒。",
+        "year": 1923,
+        "path": "1920s/1923/报刊/1923 Author 創造周報_第1號.txt",
+        "recordId": "461000000135",
+        "source": "Author 創造周報 · 第1號",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "病毒",
+    "storyId": "technical-metaphors-19",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "technical-metaphors-19-turn",
+      "name": "医学中的病毒性病原体",
+      "shortName": "医学中的病毒性病",
+      "description": "追踪“病毒”如何在制度、知识或媒介中稳定为“医学中的病毒性病原体”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "病毒 time:1920s",
+    "totalResults": 11,
+    "candidates": [
+      {
+        "score": 0.0916,
+        "excerpt": "蒲雷曹夫的病象徵着俄國社會的病毒，俄國資產階級的沒落。",
+        "year": 1923,
+        "path": "1920s/1923/报刊/1923 Author 文學_第1卷第4號.txt",
+        "recordId": "493000001207",
+        "source": "Author 文學 · 第1卷第4號",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0869,
+        "excerpt": "然而俳句的輕快與新鮮，同時又是他的致命的病毒。",
+        "year": 1923,
+        "path": "1920s/1923/报刊/1923 Author 創造周報_第1號.txt",
+        "recordId": "461000000135",
+        "source": "Author 創造周報 · 第1號",
+        "hintHits": 0
+      },
+      {
+        "score": 0.073,
+        "excerpt": "也正因爲這種輕視，我們的文藝運動纔在飽受許多無知與反動的言論的病毒。",
+        "year": 1927,
+        "path": "1920s/1927/报刊/1927 Author 創造月刊_第1卷第10期.txt",
+        "recordId": "953000000031",
+        "source": "Author 創造月刊 · 第1卷第10期",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "病毒",
+    "storyId": "technical-metaphors-19",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "technical-metaphors-19-contemporary",
+      "name": "计算机病毒、病毒式传播与污名化隐喻",
+      "shortName": "计算机病毒、病毒",
+      "description": "检查当代“计算机病毒、病毒式传播与污名化隐喻”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "病毒 time:2010s",
+    "totalResults": 51349,
+    "candidates": [
+      {
+        "score": 0.1056,
+        "excerpt": "坚持依法管理，不断完善互联网管理方面的法律法规，在《刑法》《治安管理处罚法》《全国人民代表大会常务委员会关于维护互联网安全的决定》《计算机信息系统安全保护条例》《电信条例》《计算机病毒防治管理办法》等多项法律法规中，对打击网络攻击等犯罪行为作出了明确规定。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000007431",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0808,
+        "excerpt": "那么木马病毒是怎么传播的呢？",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000033006",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0626,
+        "excerpt": "曾光表示，甲流病毒不会通过空气传播。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000004841",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "引擎",
+    "storyId": "technical-metaphors-20",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "technical-metaphors-20-prehistory",
+      "name": "发动机与机械动力",
+      "shortName": "发动机",
+      "description": "核对“引擎”作为“发动机与机械动力”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "引擎 time:1920s",
+    "totalResults": 27,
+    "candidates": [
+      {
+        "score": 0.046,
+        "excerpt": "…一千五百個啓羅瓦特電壓是五千二百五十佛爾脫這就是中央電力處電力的用處（A）是用來動各處馬達像煉鐵爐上應用的打風引擎各處金工廠的車床等（B）是用到礦裏去的先經過變換電壓機把電壓高到二萬二千佛爾脫然後到礦中機力室再經過變換電壓機變到五千五百佛爾脫流到更電流馬達裏備氣鑽的用處（C）是用來點…",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 少年世界_第1卷第6期.txt",
+        "recordId": "282000000129",
+        "source": "Author 少年世界 · 第1卷第6期",
+        "hintHits": 0
+      },
+      {
+        "score": 0.044,
+        "excerpt": "一架用汽力的小引擎正在刮刮地叫，烟囱中飞出一队一队的火星，像是些自由而活泼的新理想。",
+        "year": 1929,
+        "path": "1920s/1929/文学/1929 茅盾 色盲.txt",
+        "recordId": "1322000000002",
+        "source": "茅盾 色盲",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0403,
+        "excerpt": "第一處是機力室裏面有三個汽爐供一座三百匹馬力的引擎第二處是砲廠有各種機器來做件頭每月可造四五尊十幾生的的砲內部的機器不過是車床刨床等第三處是炮架廠另有一只三十匹馬力的引擎專做鐵輪鐵架木欄等第四處是金工廠機器是車床刨床種種…",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 少年世界_第1卷第6期.txt",
+        "recordId": "282000000159",
+        "source": "Author 少年世界 · 第1卷第6期",
+        "hintHits": 0
+      }
+    ]
+  }
+]

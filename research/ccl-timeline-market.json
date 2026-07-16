@@ -1,0 +1,933 @@
+[
+  {
+    "word": "市场",
+    "storyId": "market-life-01",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "market-life-01-prehistory",
+      "name": "集市、交易场所与买卖",
+      "shortName": "集市、交易场所",
+      "description": "核对“市场”作为“集市、交易场所与买卖”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "市场 (集市|买卖|交易场所|市场上) time:1920s",
+    "totalResults": 8,
+    "candidates": [
+      {
+        "score": 0.1151,
+        "excerpt": "市场上卖大头鱼的在腥臭一团之中把一盘子白煮肉用手抓着吃了。",
+        "year": 1927,
+        "path": "1920s/1927/文学/1927 老舍 赵子曰.txt",
+        "recordId": "1005000000860",
+        "source": "老舍 赵子曰",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1151,
+        "excerpt": "市场上卖大头鱼的在腥臭一团之中把一盘子白煮肉用手抓着吃了。",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 老舍 赵子曰.txt",
+        "recordId": "1176000000009",
+        "source": "老舍 赵子曰",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1144,
+        "excerpt": "俄国皇帝在莱比锡公共市场上向我行接吻礼，并称我为德意志的解放者。",
+        "year": 1928,
+        "path": "1920s/1928/翻译作品/文学/1928 魏兰 欧洲200年名人情书.txt",
+        "recordId": "1223000000712",
+        "source": "魏兰 欧洲200年名人情书",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "商品",
+    "storyId": "market-life-02",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "market-life-02-prehistory",
+      "name": "可买卖之物",
+      "shortName": "可买卖之物",
+      "description": "核对“商品”作为“可买卖之物”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "商品 (货物|买卖|价格|交易) time:1920s",
+    "totalResults": 3,
+    "candidates": [
+      {
+        "score": 0.1113,
+        "excerpt": "德國交易的水平線抬高得很快——這其間得美國借款的幫助是不少的——而又必須償付賠款及國債利息，但是德國却找不到夠足的市場去消售他的商品，於是整個的系統遂坐靠不斷的向美國借債以維持下去——但外債轉又增加了德國世界市場上的競爭能力。",
+        "year": 1928,
+        "path": "1920s/1928/报刊/1928 Author 列寧青年_第1卷第3期.txt",
+        "recordId": "1078000000056",
+        "source": "Author 列寧青年 · 第1卷第3期",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1071,
+        "excerpt": "最近强發十六年公債二千萬，各地已强行派款，開封五十萬，其餘營業特捐——商品交易須貼馮玉祥之印花，煤油專賣，鴉片煙畝捐（每畝八元，劉鎭華在豫西强迫農民種鴉片），剝削已極盡五花八門。",
+        "year": 1927,
+        "path": "1920s/1927/报刊/1927 Author 中央政治通訊_第6期.txt",
+        "recordId": "950000000151",
+        "source": "Author 中央政治通訊 · 第6期",
+        "hintHits": 1
+      },
+      {
+        "score": 0.0484,
+        "excerpt": "一切的商品都是赃物，我们是可以夺取的。",
+        "year": 1924,
+        "path": "1920s/1924/文学/1924 郭沫若 万引.txt",
+        "recordId": "587000000000",
+        "source": "郭沫若 万引",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "资本",
+    "storyId": "market-life-03",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "market-life-03-prehistory",
+      "name": "本钱、资财与经营本钱",
+      "shortName": "本钱、资财",
+      "description": "核对“资本”作为“本钱、资财与经营本钱”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "资本 (本钱|资财|资本金|生意) time:1920s",
+    "totalResults": 15,
+    "candidates": [
+      {
+        "score": 0.1308,
+        "excerpt": "当有二姨太黄氏，与三姨太何氏，首先发起拟将家人私蓄拨出若干，作为筹备处的资本金。",
+        "year": 1920,
+        "path": "1920s/192x/文学/小说笔记/192x 蔡东藩_许廑父 民国演义.txt",
+        "recordId": "1341000001564",
+        "source": "192x 蔡东藩 · 许廑父 民国演义",
+        "hintHits": 1
+      },
+      {
+        "score": 0.125,
+        "excerpt": "这些东西原来不过是一些装饰，那知道暗中起了作用：自从界墙上的八卦画好，门上的镇物悬起，对面的中法银行的生意便一天低落一天，不到二年竟自把一座资本雄厚的银行会挤倒歇业，虽然法国人死不承认这些镇物有灵，可是事实所在，社会上一班的舆论全以为神易大学是将来中国不用刀兵而战胜世界列强的希望所在！",
+        "year": 1927,
+        "path": "1920s/1927/文学/1927 老舍 赵子曰.txt",
+        "recordId": "1005000000482",
+        "source": "老舍 赵子曰",
+        "hintHits": 1
+      },
+      {
+        "score": 0.125,
+        "excerpt": "这些东西原来不过是一些装饰，那知道暗中起了作用：自从界墙上的八卦画好，门上的镇物悬起，对面的中法银行的生意便一天低落一天，不到二年竟自把一座资本雄厚的银行会挤倒歇业，虽然法国人死不承认这些镇物有灵，可是事实所在，社会上一班的舆论全以为神易大学是将来中国不用刀兵而战胜世界列强的希望所在！",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 老舍 赵子曰.txt",
+        "recordId": "1176000000005",
+        "source": "老舍 赵子曰",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "劳动",
+    "storyId": "market-life-04",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "market-life-04-prehistory",
+      "name": "劳苦用力与做工",
+      "shortName": "劳苦用力",
+      "description": "核对“劳动”作为“劳苦用力与做工”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "劳动 (劳苦|做工|体力|劳动者) time:1920s",
+    "totalResults": 69,
+    "candidates": [
+      {
+        "score": 0.2164,
+        "excerpt": "「有錢不怕沒有人做工」，「不做工沒有飯吃」，这两句話，上一句非有产阶級不能說的，下一句非无产阶級的劳动者不用說的。",
+        "year": 1921,
+        "path": "1920s/1921/报刊/1921 Author 劳动与妇女_第5期.txt",
+        "recordId": "344000000010",
+        "source": "Author 劳动与妇女 · 第5期",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1384,
+        "excerpt": "因为劳动者的找不到資本，正如妇女們的沒有社会一样。",
+        "year": 1921,
+        "path": "1920s/1921/报刊/1921 Author 劳动与妇女_第1期.txt",
+        "recordId": "340000000008",
+        "source": "Author 劳动与妇女 · 第1期",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1379,
+        "excerpt": "我們对于劳动者的希望",
+        "year": 1921,
+        "path": "1920s/1921/报刊/1921 Author 劳动与妇女_第1期.txt",
+        "recordId": "340000000038",
+        "source": "Author 劳动与妇女 · 第1期",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "劳动",
+    "storyId": "market-life-04",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "market-life-04-turn",
+      "name": "生产关系中的劳动",
+      "shortName": "生产关系中的劳动",
+      "description": "追踪“劳动”如何在制度、知识或媒介中稳定为“生产关系中的劳动”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "劳动 (劳动生产|劳动关系|劳动力|劳动价值) time:1950s",
+    "totalResults": 17488,
+    "candidates": [
+      {
+        "score": 0.2227,
+        "excerpt": "在运河建设工程中，劳动人民充分表现了热烈的竞赛与高度的劳动生产率。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000006373",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2145,
+        "excerpt": "他们的演说促进工作的先进方法，提高工人的劳动生产率，更好的利用设备。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000003292",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2034,
+        "excerpt": "一九五○年工资的进一步提高，将以劳动生产率的增涨为基础。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000001946",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "经理",
+    "storyId": "market-life-06",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "market-life-06-prehistory",
+      "name": "经营、处理事务的行为",
+      "shortName": "经营、处理事务的",
+      "description": "核对“经理”作为“经营、处理事务的行为”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "经理 (经营|经理事务|经理人|管理) time:1920s",
+    "totalResults": 9,
+    "candidates": [
+      {
+        "score": 0.114,
+        "excerpt": "那天受了经理人的叱退丧气而退出银行时，他慢慢地踱在路上，诚不知应当找一点什么东西去慰他的老母在饥饿中的期望！",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 陈学昭 拉斐德墅之游.txt",
+        "recordId": "1201000000017",
+        "source": "陈学昭 拉斐德墅之游",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1136,
+        "excerpt": "原来这经理人的屋正对着这条路的，一眼望见这被叱退的贫困少年，在半路中，分明是拾得了东西，不觉好奇地催侍者去追他回来。",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 陈学昭 拉斐德墅之游.txt",
+        "recordId": "1201000000017",
+        "source": "陈学昭 拉斐德墅之游",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1087,
+        "excerpt": "我曾经替人代理过一回收版税的译本，打听得卖完之后，向书店去要钱，回信却道，旧经理人已经辞职回家了，你向他要去罢；",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 鲁迅 并非闲话（三）.txt",
+        "recordId": "743000000000",
+        "source": "鲁迅 并非闲话（三）",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "公司",
+    "storyId": "market-life-07",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "market-life-07-prehistory",
+      "name": "公众共同处理事务的词形前史",
+      "shortName": "公众共同处理事务",
+      "description": "核对“公司”作为“公众共同处理事务的词形前史”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "公司 (公共事务|公司事务|合股公司|公同) time:1920s",
+    "totalResults": 5,
+    "candidates": [
+      {
+        "score": 0.148,
+        "excerpt": "（第三号）日本国政府及中国政府，因现在日本国资本家，与汉冶萍公司有密切关系，愿增进两国公同利益，兹议定条款如下：（一）两缔约国互相约定，俟将来相当机会，将汉冶萍公司作为两国合办事业，并允如未经日本国政府同意，所有属于该公司一切权利产业，中国政府，不得自行处分，亦不得使该公司任意处分。",
+        "year": 1920,
+        "path": "1920s/192x/文学/小说笔记/192x 蔡东藩_许廑父 民国演义.txt",
+        "recordId": "1341000001223",
+        "source": "192x 蔡东藩 · 许廑父 民国演义",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1074,
+        "excerpt": "幸虧經過各公司公同議决，總算每噸工力照原價加洋二分，計合七分，和原定每噸下力工價相等。",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 勞動界_第4册.txt",
+        "recordId": "252000000035",
+        "source": "Author 勞動界 · 第4册",
+        "hintHits": 1
+      },
+      {
+        "score": 0.0344,
+        "excerpt": "世界各鋼鐵業的生產，非常之多，比漢冶萍公司大的資本，還不知道有多少。",
+        "year": 1927,
+        "path": "1920s/1927/报刊/1927 Author 布爾塞維克_第1卷第11期.txt",
+        "recordId": "959000000121",
+        "source": "Author 布爾塞維克 · 第1卷第11期",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "公司",
+    "storyId": "market-life-07",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "market-life-07-turn",
+      "name": "现代企业法人组织",
+      "shortName": "现代企业法人组织",
+      "description": "追踪“公司”如何在制度、知识或媒介中稳定为“现代企业法人组织”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "公司 (股份公司|公司组织|有限公司|企业法人) time:1950s",
+    "totalResults": 650,
+    "candidates": [
+      {
+        "score": 0.159,
+        "excerpt": "华北土产公司组织群众副业手工业",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_03.txt",
+        "recordId": "3542000006319",
+        "source": "rmrb · 1950 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1313,
+        "excerpt": "）但无论如何，现在我们已经有了与俄国资本家和外国资本家合办的股份公司。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_04.txt",
+        "recordId": "3543000002337",
+        "source": "rmrb · 1950 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1247,
+        "excerpt": "自然投入生产的方式可能不是直接的，这点在中国人民保险公司组织条例第四十九条规定其盈余除提出公积金及准备金外，有百分之三十是提交政府。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_02.txt",
+        "recordId": "3541000001131",
+        "source": "rmrb · 1950 · 02",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "企业",
+    "storyId": "market-life-08",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "market-life-08-prehistory",
+      "name": "企图事业与经营活动",
+      "shortName": "企图事业",
+      "description": "核对“企业”作为“企图事业与经营活动”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "企业 (企图|事业|企业之心|兴办) time:1920s",
+    "totalResults": 1,
+    "candidates": [
+      {
+        "score": 0.0334,
+        "excerpt": "必須准备沒收反革命派的一切財产企业工厂，采用极严",
+        "year": 1927,
+        "path": "1920s/1927/报刊/1927 Author 中央政治通訊_第2期.txt",
+        "recordId": "946000000119",
+        "source": "Author 中央政治通訊 · 第2期",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "企业",
+    "storyId": "market-life-08",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "market-life-08-turn",
+      "name": "现代经济组织与市场主体",
+      "shortName": "现代经济组织",
+      "description": "追踪“企业”如何在制度、知识或媒介中稳定为“现代经济组织与市场主体”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "企业 (企业组织|企业单位|工商企业|企业管理) time:1950s",
+    "totalResults": 3225,
+    "candidates": [
+      {
+        "score": 0.1489,
+        "excerpt": "这就首先要求国营经济各部门有统一的管理以及生产组织，有经济核算、业务经营、企业管理、工资待遇等各方面的统一的制度。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_02.txt",
+        "recordId": "3541000002800",
+        "source": "rmrb · 1950 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1382,
+        "excerpt": "在某些私营企业组织工会时，资方曾企图阻碍组织工会，或者企图组织资方御用的工会，以公开的或秘密的方式，挑拨分化职工的团结。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_02.txt",
+        "recordId": "3541000001353",
+        "source": "rmrb · 1950 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1381,
+        "excerpt": "津市解放初期，一般职工有迫切学习革命知识的要求，各公营企业单位和较大私营工厂的工作组与临时职工代表会，即抓紧业余或生产空隙时间，组织职工以上大课、座谈会、讨论会、短期学习班等方式进行学习，其中以上大课为主。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000005199",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "工资",
+    "storyId": "market-life-09",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "market-life-09-prehistory",
+      "name": "工作报酬与按日计酬",
+      "shortName": "工作报酬",
+      "description": "核对“工资”作为“工作报酬与按日计酬”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "工资 (工钱|薪金|报酬|工资收入) time:1920s",
+    "totalResults": 3,
+    "candidates": [
+      {
+        "score": 0.1342,
+        "excerpt": "早先五百人的工资，如今却被二千余人分占了，当然是报酬不抵所苦了。",
+        "year": 1924,
+        "path": "1920s/1924/文学/1924 穆辰公 北京.txt",
+        "recordId": "582000000347",
+        "source": "穆辰公 北京",
+        "hintHits": 1
+      },
+      {
+        "score": 0.105,
+        "excerpt": "行医一道，原是慈善事业，跟寻常买卖手艺不同，讲究将来图利，凭工夫换钱，不合式许卖不着，工钱少啦，许齐行罢工，要求长工资。",
+        "year": 1920,
+        "path": "1920s/1920/文学/1920 蔡友梅 益世余谭_1920.txt",
+        "recordId": "325000000291",
+        "source": "蔡友梅 益世余谭 · 1920",
+        "hintHits": 1
+      },
+      {
+        "score": 0.0376,
+        "excerpt": "”冯元甫道：“中国那有按时给工资的工厂？",
+        "year": 1924,
+        "path": "1920s/1924/文学/1924 穆辰公 北京.txt",
+        "recordId": "582000000345",
+        "source": "穆辰公 北京",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "工资",
+    "storyId": "market-life-09",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "market-life-09-turn",
+      "name": "现代雇佣制度中的货币报酬",
+      "shortName": "现代雇佣制度中的",
+      "description": "追踪“工资”如何在制度、知识或媒介中稳定为“现代雇佣制度中的货币报酬”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "工资 (工资制度|工资标准|工资等级|工资支付) time:1950s",
+    "totalResults": 866,
+    "candidates": [
+      {
+        "score": 0.2231,
+        "excerpt": "改善工作制度与工资制度",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000010857",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1927,
+        "excerpt": "合理改进工资制度",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_03.txt",
+        "recordId": "3542000012399",
+        "source": "rmrb · 1950 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1664,
+        "excerpt": "②什么是“交叉累进”的工资制度？",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_02.txt",
+        "recordId": "3541000001027",
+        "source": "rmrb · 1950 · 02",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "收入",
+    "storyId": "market-life-10",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "market-life-10-prehistory",
+      "name": "收进钱物与所得",
+      "shortName": "收进钱物",
+      "description": "核对“收入”作为“收进钱物与所得”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "收入 (收进|进款|收入款项|所得) time:1920s",
+    "totalResults": 32,
+    "candidates": [
+      {
+        "score": 0.1796,
+        "excerpt": "各人消費的物資有一定的限制，不得超過自己收入所得的價値。",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 共産黨_第2號.txt",
+        "recordId": "238000000025",
+        "source": "Author 共産黨 · 第2號",
+        "hintHits": 1
+      },
+      {
+        "score": 0.179,
+        "excerpt": "結果使政府所得的錢少，收入又遲滯困難，不滿意政府的人多。",
+        "year": 1926,
+        "path": "1920s/1926/报刊/1926 Author 中國農民_第1卷第6、7期.txt",
+        "recordId": "811000001537",
+        "source": "Author 中國農民 · 第1卷第6、7期",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1562,
+        "excerpt": "據調査所得，公司每月的收入如下：",
+        "year": 1929,
+        "path": "1920s/1929/报刊/1929 Author 工人寶鑑_第2册.txt",
+        "recordId": "1251000000015",
+        "source": "Author 工人寶鑑 · 第2册",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "消费",
+    "storyId": "market-life-11",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "market-life-11-prehistory",
+      "name": "消耗、使用与开支",
+      "shortName": "消耗、使用",
+      "description": "核对“消费”作为“消耗、使用与开支”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "消费 (消耗|花费|消费品|用度) time:1920s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "服务",
+    "storyId": "market-life-12",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "market-life-12-prehistory",
+      "name": "服役、任职与为人做事",
+      "shortName": "服役、任职",
+      "description": "核对“服务”作为“服役、任职与为人做事”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "服务 (服役|服务他人|为人服务|任职) time:1920s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "品牌",
+    "storyId": "market-life-13",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "market-life-13-prehistory",
+      "name": "牌号、商标与商品识别",
+      "shortName": "牌号、商标",
+      "description": "核对“品牌”作为“牌号、商标与商品识别”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "品牌 (牌号|商标|品牌名称|标记) time:1950s",
+    "totalResults": 1,
+    "candidates": [
+      {
+        "score": 0.1195,
+        "excerpt": "在世界上第一个制造显微镜头的蔡司光学仪器厂里，美军偷走了所有的重要设计文件，并且鼓励蔡司的董事们在西德开设了一个同一产品牌号的小小的工厂来和耶那蔡司抗衡……。",
+        "year": 1957,
+        "path": "1950s/1957/报刊/人民日报/rmrb_1957_07.txt",
+        "recordId": "3768000011422",
+        "source": "rmrb · 1957 · 07",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "品牌",
+    "storyId": "market-life-13",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "market-life-13-turn",
+      "name": "现代营销中的品牌资产",
+      "shortName": "现代营销中的品牌",
+      "description": "追踪“品牌”如何在制度、知识或媒介中稳定为“现代营销中的品牌资产”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "品牌 (品牌形象|品牌价值|品牌营销|品牌战略) time:1990s",
+    "totalResults": 285,
+    "candidates": [
+      {
+        "score": 0.2138,
+        "excerpt": "它的品牌价值被评估为２．６９亿元。",
+        "year": 1994,
+        "path": "1990s/1994/报刊/报刊精选/1994年《报刊精选》06.txt",
+        "recordId": "8152000021887",
+        "source": "1994年《报刊精选》06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1525,
+        "excerpt": "消费者的品牌意识造就了经济界的品牌战略，精明的实业家围绕着商标做出一篇篇奇文妙章，令人目不暇接—— 涛飞浪卷商标潮",
+        "year": 1994,
+        "path": "1990s/1994/报刊/人民日报/rmrb_1994_08.txt",
+        "recordId": "6972000012086",
+        "source": "rmrb · 1994 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1487,
+        "excerpt": "从此，我与霞飞成了密不可分的整体，我成了霞飞系列产品的品牌形象。",
+        "year": 1995,
+        "path": "1990s/1995/报刊/作家文摘/1995 潘虹 潘虹独语(连载之四).txt",
+        "recordId": "9193000000071",
+        "source": "潘虹 潘虹独语(连载之四)",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "广告",
+    "storyId": "market-life-14",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "market-life-14-prehistory",
+      "name": "广而告之与公示词形",
+      "shortName": "广而告之",
+      "description": "核对“广告”作为“广而告之与公示词形”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "广告 (广告启事|广而告之|公告|告白) time:1920s",
+    "totalResults": 1,
+    "candidates": [
+      {
+        "score": 0.1113,
+        "excerpt": "贵报想敲竹杠，将鄙人之告白告白：广告。",
+        "year": 1921,
+        "path": "1920s/1921/文学/1921 蔡友梅 益世余墨.txt",
+        "recordId": "384000000557",
+        "source": "蔡友梅 益世余墨",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "广告",
+    "storyId": "market-life-14",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "market-life-14-turn",
+      "name": "付费商业传播与媒介产业",
+      "shortName": "付费商业传播",
+      "description": "追踪“广告”如何在制度、知识或媒介中稳定为“付费商业传播与媒介产业”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "广告 (广告业|广告公司|商业广告|广告经营) time:1950s",
+    "totalResults": 53,
+    "candidates": [
+      {
+        "score": 0.1684,
+        "excerpt": "商业广告在不同的会社制度下具有不同的性质。",
+        "year": 1959,
+        "path": "1950s/1959/报刊/人民日报/rmrb_1959_09.txt",
+        "recordId": "3906000004804",
+        "source": "rmrb · 1959 · 09",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1556,
+        "excerpt": "许多广告公司，在无线电台和工商业垄断资本家中间起着媒介作用。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_05.txt",
+        "recordId": "3544000013330",
+        "source": "rmrb · 1950 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1463,
+        "excerpt": "我认为在国内写英文的商业广告是完全没有必要的，希望工商业者和出版者注意纠正。",
+        "year": 1952,
+        "path": "1950s/1952/报刊/人民日报/rmrb_1952_02.txt",
+        "recordId": "3615000002286",
+        "source": "rmrb · 1952 · 02",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "信用",
+    "storyId": "market-life-15",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "market-life-15-prehistory",
+      "name": "信任、任用与可信声誉",
+      "shortName": "信任、任用",
+      "description": "核对“信用”作为“信任、任用与可信声誉”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "信用 (可靠|守信用|名誉|信誉) time:1920s",
+    "totalResults": 10,
+    "candidates": [
+      {
+        "score": 0.1409,
+        "excerpt": "说起来，不独先生笑话，于敝店的名誉信用，都有很大的妨碍。",
+        "year": 1922,
+        "path": "1920s/1922/文学/小说笔记/1922_10_1 向恺然 留东外史续集.txt",
+        "recordId": "448000000854",
+        "source": "1922 · 10 · 1 向恺然 留东外史续集",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1241,
+        "excerpt": "却说林巨章听得林胡子的骂声，又被陆凤娇一激，觉得自己对于民党的名誉信用，难得存在，只有投诚的一条道路可走。",
+        "year": 1922,
+        "path": "1920s/1922/文学/小说笔记/1922_10_1 向恺然 留东外史续集.txt",
+        "recordId": "448000000341",
+        "source": "1922 · 10 · 1 向恺然 留东外史续集",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1071,
+        "excerpt": "恰巧石守信用诱敌计，把李筠引诱出寨，卢赞、伟融又集起寨内精卒，帮着李筠，追杀宋军，只留些老弱残兵守寨。",
+        "year": 1929,
+        "path": "1920s/1929/文学/小说笔记/1929 许慕羲 宋代宫闱史.txt",
+        "recordId": "1335000000488",
+        "source": "许慕羲 宋代宫闱史",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "信用",
+    "storyId": "market-life-15",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "market-life-15-turn",
+      "name": "金融借贷与制度化信用",
+      "shortName": "金融借贷",
+      "description": "追踪“信用”如何在制度、知识或媒介中稳定为“金融借贷与制度化信用”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "信用 (银行信用|信用贷款|信用制度|金融) time:1950s",
+    "totalResults": 229,
+    "candidates": [
+      {
+        "score": 0.212,
+        "excerpt": "目前通货和物价都均已趋向稳定，投机的可能性已日趋缩小，正当的银行信用制度有条件重新建立。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_08.txt",
+        "recordId": "3547000014002",
+        "source": "rmrb · 1950 · 08",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1457,
+        "excerpt": "会议指出，私营金融业争取发展另一良好条件是通货的稳定，信用的恢复。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_08.txt",
+        "recordId": "3547000013969",
+        "source": "rmrb · 1950 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1416,
+        "excerpt": "【新华社一日讯】应邀来我国讲学的苏联经济学硕士包德列夫，在京讲学日程已经排定，三日讲《苏联的税收制度》，四日和八日讲《苏联的国家信用制度》，五日讲《苏联的银行制度》，六日讲《苏联的国家预算》，七日讲《苏联的财政》，九日讲《东欧人民民主国家财政体系的建设》。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_04.txt",
+        "recordId": "3543000000587",
+        "source": "rmrb · 1950 · 04",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "投资",
+    "storyId": "market-life-16",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "market-life-16-prehistory",
+      "name": "投入财货与经营本钱",
+      "shortName": "投入财货",
+      "description": "核对“投资”作为“投入财货与经营本钱”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "投资 (投入资本|投资款|投资经营|本钱) time:1920s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "投资",
+    "storyId": "market-life-16",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "market-life-16-turn",
+      "name": "现代金融投资与资产配置",
+      "shortName": "现代金融投资",
+      "description": "追踪“投资”如何在制度、知识或媒介中稳定为“现代金融投资与资产配置”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "投资 (金融投资|投资公司|投资市场|证券) time:1950s",
+    "totalResults": 195,
+    "candidates": [
+      {
+        "score": 0.1923,
+        "excerpt": "１．投资公司的证券应有转让的便利。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_08.txt",
+        "recordId": "3547000014781",
+        "source": "rmrb · 1950 · 08",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1366,
+        "excerpt": "投资公司为金融业与生产进一步结合的良好方式，应予赞助推广。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_08.txt",
+        "recordId": "3547000014772",
+        "source": "rmrb · 1950 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1312,
+        "excerpt": "（３）公私金融业倡导组织投资公司，以便投资或长期贷款于工商业。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_09.txt",
+        "recordId": "3548000018287",
+        "source": "rmrb · 1950 · 09",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "风险",
+    "storyId": "market-life-17",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "market-life-17-prehistory",
+      "name": "风浪险阻与危险",
+      "shortName": "风浪险阻",
+      "description": "核对“风险”作为“风浪险阻与危险”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "风险 (危险|风浪|险阻|冒险) time:1920s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "创业",
+    "storyId": "market-life-18",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "market-life-18-prehistory",
+      "name": "创立事业与开创基业",
+      "shortName": "创立事业",
+      "description": "核对“创业”作为“创立事业与开创基业”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "创业 (创立事业|创业维艰|开创事业|兴业) time:1920s",
+    "totalResults": 0,
+    "candidates": []
+  }
+]

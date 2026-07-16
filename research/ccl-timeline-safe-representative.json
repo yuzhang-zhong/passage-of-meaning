@@ -1,0 +1,47 @@
+[
+  {
+    "word": "代表",
+    "storyId": "public-life-10",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "public-life-10-prehistory",
+      "name": "代替、表达与象征",
+      "shortName": "代替、表达",
+      "description": "核对“代表”作为“代替、表达与象征”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "代表 (象征|意味着|表现|代替) time:1920s",
+    "totalResults": 48,
+    "candidates": [
+      {
+        "score": 0.1472,
+        "excerpt": "茶道的意思，用平凡的话来说，可以称作“忙里偷闲，苦中作乐”，在不完全的现世享乐一点美与和谐，在刹那间体会永久，是日本之“象征的文化”里的一种代表艺术。",
+        "year": 1924,
+        "path": "1920s/1924/文学/1924 周作人 喝茶.txt",
+        "recordId": "570000000005",
+        "source": "周作人 喝茶",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1412,
+        "excerpt": "未生以前，曾經主張過用產業的代表，代替地方的代表。",
+        "year": 1921,
+        "path": "1920s/1921/报刊/1921 Author 共産黨_第5號.txt",
+        "recordId": "338000000174",
+        "source": "Author 共産黨 · 第5號",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1334,
+        "excerpt": "佩弦作长诗原有他自己的一种特异的作风，如《转眼》、《自从》等诗都是的，不过在《毁灭》把这种风格格外表现得圆满充足，这诗遂成为现在的他的代表作。",
+        "year": 1923,
+        "path": "1920s/1923/文学/1923 俞平伯 读《毁灭》.txt",
+        "recordId": "498000000000",
+        "source": "俞平伯 读《毁灭》",
+        "hintHits": 1
+      }
+    ]
+  }
+]

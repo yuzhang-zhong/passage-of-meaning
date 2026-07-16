@@ -1,0 +1,109 @@
+[
+  {
+    "word": "身体",
+    "storyId": "self-and-feeling-01",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-01-turn",
+      "name": "医学、教育与现代身体观",
+      "shortName": "医学、教育",
+      "description": "追踪“身体”如何在制度、知识或媒介中稳定为“医学、教育与现代身体观”，并找出关键转折文本。",
+      "startIndex": 0
+    },
+    "query": "身体意识 time:2010s",
+    "totalResults": 58,
+    "candidates": [
+      {
+        "score": 0.0689,
+        "excerpt": "但是这种身体意识在传统的人文主义教育中不是被忽视就是被边缘化，一个突出的偏见是人们往往把人文主义教育看作是相对于自然主义的精神科学，这样人文主义教育过于注重人的精神方面，而自然主义又…",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_09.txt",
+        "recordId": "15089000014992",
+        "source": "2010 · 09",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0616,
+        "excerpt": "论著把每一个时期的身体叙事分别论述，也注重研究各个对象之间的内在关联，从而建构了一条清晰的中国现代文学身体诗学的脉络，从不同侧面较系统地实现了对现代文学的身体意识的整体性的把握。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_03.txt",
+        "recordId": "15083000009495",
+        "source": "2010 · 03",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0579,
+        "excerpt": "然而，为了和现象学的理论相区别，我需要强调一些关键之处：首先，身体美学所追求的不是揭示原初的、基本的和普遍的身体意识，即梅洛—庞蒂所说的“一旦给予即永远存在的不变之物”和在所有的时代和文化之中“都为人所知”（的真理）。",
+        "year": 2011,
+        "path": "2010s/2011/报刊/光明日报/2011_10.txt",
+        "recordId": "15248000003648",
+        "source": "2011 · 10",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "爱情",
+    "storyId": "self-and-feeling-07",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-07-turn",
+      "name": "自由恋爱、婚姻选择与现代爱情",
+      "shortName": "自由恋爱、婚姻选",
+      "description": "追踪“爱情”如何在制度、知识或媒介中稳定为“自由恋爱、婚姻选择与现代爱情”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "爱情自由 time:1930s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "亲密",
+    "storyId": "self-and-feeling-11",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "self-and-feeling-11-contemporary",
+      "name": "数字亲密、边界协商与亲密劳动",
+      "shortName": "数字亲密、边界协",
+      "description": "检查当代“数字亲密、边界协商与亲密劳动”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "网络亲密 time:2000s",
+    "totalResults": 4,
+    "candidates": [
+      {
+        "score": 0.0396,
+        "excerpt": "网络亲密接触足球",
+        "year": 2002,
+        "path": "2000s/2002/报刊/光明日报/2002_03.txt",
+        "recordId": "13292000011071",
+        "source": "2002 · 03",
+        "hintHits": 0
+      },
+      {
+        "score": 0.035,
+        "excerpt": "因为他们中的相当一部分人自从与宽带网络亲密接触之后，原有的阅读生活随即被刷新而发生了根本的变化。",
+        "year": 2003,
+        "path": "2000s/2003/报刊/人民日报/rmrb_2003_11.txt",
+        "recordId": "13510000024758",
+        "source": "rmrb · 2003 · 11",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0155,
+        "excerpt": "手机与网络亲密接触而成的“手机媒体”成为可接受图片、文字、视频、音频的私人信息终端。",
+        "year": 2000,
+        "path": "2000s/200x/网络语料/网页/200x Author C000024.txt",
+        "recordId": "15033000010308",
+        "source": "200x Author C000024",
+        "hintHits": 0
+      }
+    ]
+  }
+]

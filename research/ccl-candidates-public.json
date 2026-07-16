@@ -1,0 +1,1369 @@
+[
+  {
+    "word": "国家",
+    "storyId": "public-life-01",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "public-life-01-contemporary",
+      "name": "国家能力与公共象征",
+      "shortName": "国家能力",
+      "description": "检查当代“国家能力与公共象征”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(国家能力|国家象征|国家形象) time:2010s",
+    "totalResults": 3139,
+    "candidates": [
+      {
+        "score": 0.2793,
+        "excerpt": "保密能力是国家能力的重要体现和保障。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_04.txt",
+        "recordId": "15072000000631",
+        "source": "rmrb · 2010 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2509,
+        "excerpt": "这是社会主义中国“国家能力”的最好注脚。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000040755",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2509,
+        "excerpt": "这是社会主义中国“国家能力”的最好注脚。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000040881",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "政治",
+    "storyId": "public-life-02",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "public-life-02-turn",
+      "name": "现代政治制度与领域",
+      "shortName": "现代政治制度",
+      "description": "追踪“政治”如何在制度、知识或媒介中稳定为“现代政治制度与领域”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(政治制度|政治学|政治领域) time:1930s",
+    "totalResults": 36,
+    "candidates": [
+      {
+        "score": 0.2588,
+        "excerpt": "至於政治制度，應該盡可能的民主化。",
+        "year": 1939,
+        "path": "1930s/1939/报刊/1939 Author 民族公論_第2卷第2期.txt",
+        "recordId": "2814000000124",
+        "source": "Author 民族公論 · 第2卷第2期",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2534,
+        "excerpt": "政治負責者和政治制度是交互影響的；",
+        "year": 1939,
+        "path": "1930s/1939/报刊/1939 Author 民族公論_第2卷第2期.txt",
+        "recordId": "2814000000125",
+        "source": "Author 民族公論 · 第2卷第2期",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2123,
+        "excerpt": "「現代的」總括一切適應現代環境需要的政治制度，司法制度，經濟制度，敎育制度，衞生制度，學",
+        "year": 1930,
+        "path": "1930s/1930/报刊/1930 Author 新思想_第7號.txt",
+        "recordId": "1365000000051",
+        "source": "Author 新思想 · 第7號",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "政治",
+    "storyId": "public-life-02",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "public-life-02-contemporary",
+      "name": "组织关系中的“政治”",
+      "shortName": "组织关系中的“政",
+      "description": "检查当代“组织关系中的“政治””的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(办公室政治|组织政治|职场政治) time:2010s",
+    "totalResults": 572,
+    "candidates": [
+      {
+        "score": 0.1732,
+        "excerpt": "《组织政治与人力资源管理》",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_11.txt",
+        "recordId": "15091000002081",
+        "source": "2010 · 11",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1702,
+        "excerpt": "黄忠东博士经过十余年的潜心钻研，在查阅国内外相关研究成果的基础上，开发出一套适合中国国情的组织政治知觉和组织政治行为量表，在此基础上，进行了大样本问卷调查，对组织政治与组织承诺、工作满意度、晋升与加薪、离职倾向、绩效考评等关系进行了实证分析。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_11.txt",
+        "recordId": "15091000002079",
+        "source": "2010 · 11",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1618,
+        "excerpt": "把国有企业党组织建设成学习型党组织，是发挥企业党组织政治核心作用的重要保证。",
+        "year": 2012,
+        "path": "2010s/2012/报刊/人民日报/rmrb_2012_04.txt",
+        "recordId": "15263000030859",
+        "source": "rmrb · 2012 · 04",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "政府",
+    "storyId": "public-life-03",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "public-life-03-turn",
+      "name": "现代行政组织",
+      "shortName": "现代行政组织",
+      "description": "追踪“政府”如何在制度、知识或媒介中稳定为“现代行政组织”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(政府机关|行政政府|政府机构) time:1930s",
+    "totalResults": 8,
+    "candidates": [
+      {
+        "score": 0.116,
+        "excerpt": "至于宣传的文字，政府机关只要委托我们写制，我们必尽力去作。",
+        "year": 1937,
+        "path": "1930s/1937/文学/1937 老舍 老牛破车.txt",
+        "recordId": "2698000000195",
+        "source": "老舍 老牛破车",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1153,
+        "excerpt": "参与会议：政府机关与民众团体邀请本会参加的会议，均派代表出席，如政治部扩大宣传周筹备会，援救沪上八百壮士大会……。",
+        "year": 1939,
+        "path": "1930s/1939/文学/1939 中华全国文艺界抗敌协会抗战文艺编辑委员会总务部 抗战文艺_第4卷_第1期_总务部报告.txt",
+        "recordId": "2821000000000",
+        "source": "中华全国文艺界抗敌协会抗战文艺编辑委员会总务部 抗战文艺 · 第4卷 · 第1期 · 总务部报告",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1147,
+        "excerpt": "在开源方面，我们除了政府机关的补助，概不接受。",
+        "year": 1937,
+        "path": "1930s/1937/文学/1937 老舍 老牛破车.txt",
+        "recordId": "2698000000194",
+        "source": "老舍 老牛破车",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "政府",
+    "storyId": "public-life-03",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "public-life-03-contemporary",
+      "name": "服务型与数字政府",
+      "shortName": "服务型",
+      "description": "检查当代“服务型与数字政府”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(数字政府|服务型政府|电子政府) time:2010s",
+    "totalResults": 2484,
+    "candidates": [
+      {
+        "score": 0.3356,
+        "excerpt": "背景链接：服务型政府",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000019895",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2855,
+        "excerpt": "”并提出了建设服务型政府的改革目标。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000019896",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2438,
+        "excerpt": "服务型政府，如何让人民更满意？",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000034597",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "党",
+    "storyId": "public-life-04",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "public-life-04-turn",
+      "name": "现代政党组织",
+      "shortName": "现代政党组织",
+      "description": "追踪“党”如何在制度、知识或媒介中稳定为“现代政党组织”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(政党组织|党派组织|政党制度) time:1930s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "党",
+    "storyId": "public-life-04",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "public-life-04-contemporary",
+      "name": "党派、成员与组织身份",
+      "shortName": "党派、成员",
+      "description": "检查当代“党派、成员与组织身份”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(党派成员|政党成员|党派身份) time:2010s",
+    "totalResults": 402,
+    "candidates": [
+      {
+        "score": 0.2429,
+        "excerpt": "从此，各民主党派以“参政党”的身份，同共产党合作和协商，共产党也进一步发挥民主党派成员和无党派人士的作用，举荐民主党派成员和无党派人士担任各级政府及司法机关的领导职务，进一步发挥民主党派在人民政协中的作用、支持民主党派加强自身建设。",
+        "year": 2011,
+        "path": "2010s/2011/报刊/光明日报/2011_06.txt",
+        "recordId": "15244000022666",
+        "source": "2011 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.233,
+        "excerpt": "民进中央主席严隽琪谈到，树立和践行社会主义核心价值体系，具有鲜明的实践性，要体现在党派工作的各个方面，体现在党派成员的思想政治素质上，体现在党派成员的人生态度、行为准则和价值取向中，体现在参政党自身建设和履行职能的实践中。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_12.txt",
+        "recordId": "15080000032228",
+        "source": "rmrb · 2010 · 12",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2329,
+        "excerpt": "8个民主党派成员共142名，占委员总数的8.64%；",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_08.txt",
+        "recordId": "15076000011124",
+        "source": "rmrb · 2010 · 08",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "组织",
+    "storyId": "public-life-05",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "public-life-05-turn",
+      "name": "机构团体与管理体系",
+      "shortName": "机构团体",
+      "description": "追踪“组织”如何在制度、知识或媒介中稳定为“机构团体与管理体系”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(社会组织|组织机构|组织体系) time:1950s",
+    "totalResults": 1267,
+    "candidates": [
+      {
+        "score": 0.181,
+        "excerpt": "二、讨论如何有系统地建立渔业组织机构。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_02.txt",
+        "recordId": "3541000004003",
+        "source": "rmrb · 1950 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.181,
+        "excerpt": "二、讨论如何有系统地建立林业组织机构。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_03.txt",
+        "recordId": "3542000000849",
+        "source": "rmrb · 1950 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1802,
+        "excerpt": "应健全各部组织机构；",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000009580",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "组织",
+    "storyId": "public-life-05",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "public-life-05-contemporary",
+      "name": "组织能力与平台化组织",
+      "shortName": "组织能力",
+      "description": "检查当代“组织能力与平台化组织”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(平台化组织|组织能力|网络组织) time:2010s",
+    "totalResults": 3081,
+    "candidates": [
+      {
+        "score": 0.2948,
+        "excerpt": "“高超的组织能力创造生命奇迹”",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_04.txt",
+        "recordId": "15084000004003",
+        "source": "2010 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2198,
+        "excerpt": "科学发展观能不能贯彻落实到基层，关键是看基层党组织的动员能力和组织能力。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_07.txt",
+        "recordId": "15075000040929",
+        "source": "rmrb · 2010 · 07",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2149,
+        "excerpt": "出色的技术方案和施工组织能力，赢得了外方赞赏。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_12.txt",
+        "recordId": "15080000032497",
+        "source": "rmrb · 2010 · 12",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "单位",
+    "storyId": "public-life-06",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "public-life-06-turn",
+      "name": "工作机构与制度身份",
+      "shortName": "工作机构",
+      "description": "追踪“单位”如何在制度、知识或媒介中稳定为“工作机构与制度身份”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(工作单位|单位职工|单位制度) time:1950s",
+    "totalResults": 360,
+    "candidates": [
+      {
+        "score": 0.1548,
+        "excerpt": "最近在争取提前完成二年计划的斗争中，各工作单位发行工作通讯，用以反映并推动建设工作。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_07.txt",
+        "recordId": "3546000017929",
+        "source": "rmrb · 1950 · 07",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1479,
+        "excerpt": "第一次工作时间约为半年，随行工作单位尚有北京电影制片厂摄影队，及新华书店、三联书店和工人出版社、青年出版社等出版机构合组之流动文化供应站。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_03.txt",
+        "recordId": "3542000013304",
+        "source": "rmrb · 1950 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1474,
+        "excerpt": "各单位负责人向本单位职工作自我批评。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_07.txt",
+        "recordId": "3546000008773",
+        "source": "rmrb · 1950 · 07",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "单位",
+    "storyId": "public-life-06",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "public-life-06-contemporary",
+      "name": "数据、模块与最小单位",
+      "shortName": "数据、模块",
+      "description": "检查当代“数据、模块与最小单位”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(最小单位|数据单位|基本单位|模块单位) time:2010s",
+    "totalResults": 1508,
+    "candidates": [
+      {
+        "score": 0.2948,
+        "excerpt": "常人眼里，一滴是水的最小单位。",
+        "year": 2012,
+        "path": "2010s/2012/报刊/人民日报/rmrb_2012_01.txt",
+        "recordId": "15260000027405",
+        "source": "rmrb · 2012 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2551,
+        "excerpt": "音素是构成语言音节的最小单位或最小的片段。",
+        "year": 2011,
+        "path": "2010s/2011/报刊/光明日报/2011_05.txt",
+        "recordId": "15243000006955",
+        "source": "2011 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1736,
+        "excerpt": "艺术家从个人的私密性角度对社会组成的最小单位进行解构是以前从来没有过的。",
+        "year": 2011,
+        "path": "2010s/2011/报刊/光明日报/2011_08.txt",
+        "recordId": "15246000022138",
+        "source": "2011 · 08",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "机关",
+    "storyId": "public-life-07",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "public-life-07-turn",
+      "name": "行政机构与办事部门",
+      "shortName": "行政机构",
+      "description": "追踪“机关”如何在制度、知识或媒介中稳定为“行政机构与办事部门”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(行政机关|国家机关|办事机关) time:1950s",
+    "totalResults": 4035,
+    "candidates": [
+      {
+        "score": 0.1862,
+        "excerpt": "四、行政机关和事业机关分开，把事业性的机关改为企业化。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_03.txt",
+        "recordId": "3542000003122",
+        "source": "rmrb · 1950 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1853,
+        "excerpt": "在各地区的城乡行政机关内表明争取和平的意志！",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000016964",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1777,
+        "excerpt": "国家行政机关被辞退的雇员以及其他许多人包括在内。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_04.txt",
+        "recordId": "3543000001388",
+        "source": "rmrb · 1950 · 04",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "干部",
+    "storyId": "public-life-08",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "public-life-08-contemporary",
+      "name": "管理者称谓与职业化",
+      "shortName": "管理者称谓",
+      "description": "检查当代“管理者称谓与职业化”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(管理干部|干部职业化|干部管理) time:2010s",
+    "totalResults": 4145,
+    "candidates": [
+      {
+        "score": 0.1551,
+        "excerpt": "要不断完善案件检查、案件审理、案件管理、专项治理、监督检查、纠风、执法监察、信访举报、干部管理、行政管理等方面的制度，建立健全监督制约机制，进一步提高纪检监察工作能力和水平。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000023349",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1534,
+        "excerpt": "这三个管理岗位所招聘的职员如被正式录用，属于事业单位管理干部编制。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000012742",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1528,
+        "excerpt": "从严治党，重点是严格管理干部。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000021174",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "领导",
+    "storyId": "public-life-09",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "public-life-09-turn",
+      "name": "组织中的职位与称谓",
+      "shortName": "组织中的职位",
+      "description": "追踪“领导”如何在制度、知识或媒介中稳定为“组织中的职位与称谓”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(单位领导|领导职务|组织领导) time:1950s",
+    "totalResults": 2086,
+    "candidates": [
+      {
+        "score": 0.1927,
+        "excerpt": "统一交通组织领导",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000003076",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1791,
+        "excerpt": "一年来山东妇女工作的主要缺点是在组织农村妇女及城市家庭劳动妇女生产问题上，许多干部忽略了实际情况，不是如何在原有的生活条件下加以组织领导，而是单纯地希望在城市中马上开办工厂，在农村中恢复过去曾有效果而现在已为城市机器生产所代替了的手工纺织，因而使组织妇女参加生产的工作因不切实际而减低了应有效果。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_03.txt",
+        "recordId": "3542000004396",
+        "source": "rmrb · 1950 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1708,
+        "excerpt": "加强组织领导生产救灾",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000003545",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "领导",
+    "storyId": "public-life-09",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "public-life-09-contemporary",
+      "name": "“领导力”与管理能力",
+      "shortName": "“领导力”",
+      "description": "检查当代““领导力”与管理能力”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(领导力|领导能力|管理能力) time:2010s",
+    "totalResults": 14145,
+    "candidates": [
+      {
+        "score": 0.2143,
+        "excerpt": "党政主导，为大调解提供了‘大马力’，领导力度是空前的。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000012006",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2113,
+        "excerpt": "一方面，危机通常是领导力缺乏或者领导力低下的产物。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000018390",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1924,
+        "excerpt": "3．通过MBA的训练，不但在管理概念上有所进益，而且在学习过程中，要求主动参与讨论（培养有个人主见的能力），小组项目（与队员沟通能力、领导能力和团队精神），自己提出项目、寻找原始资料（主动性格，经商必备的条件），演讲技巧（培养个人的感染力）等。",
+        "year": 2010,
+        "path": "2010s/2010/应用文/社会科学/2010 Author MBA宝典.txt",
+        "recordId": "15066000000174",
+        "source": "Author MBA宝典",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "法律",
+    "storyId": "public-life-11",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "public-life-11-contemporary",
+      "name": "规则、合规与日常权利",
+      "shortName": "规则、合规",
+      "description": "检查当代“规则、合规与日常权利”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(法律规则|法律合规|法律权利|法律意识) time:2010s",
+    "totalResults": 2749,
+    "candidates": [
+      {
+        "score": 0.1346,
+        "excerpt": "这不仅体现在战后以《联合国宪章》为基础的集体安全制度和相关法律规则的建立，还包括宣布侵略战争非法,禁止使用武力,要求和平解决国际争端,集体协助等。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_05.txt",
+        "recordId": "15073000001982",
+        "source": "rmrb · 2010 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1346,
+        "excerpt": "钟昌林所说“我是国家公务员，我的法律意识是很强的”，甚至反问“在法律面前，法大，还是权大，还是情大，我肯定要维护法律法规的尊严”，这暴露出他作为城管执法局局长，掌握规则、解释规则的傲慢。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_04.txt",
+        "recordId": "15072000025117",
+        "source": "rmrb · 2010 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1333,
+        "excerpt": "合法的身份是公民享有法律权利、履行法律义务以及承担法律责任的基础。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_07.txt",
+        "recordId": "15075000027587",
+        "source": "rmrb · 2010 · 07",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "宪法",
+    "storyId": "public-life-12",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "public-life-12-turn",
+      "name": "国家根本法",
+      "shortName": "国家根本法",
+      "description": "追踪“宪法”如何在制度、知识或媒介中稳定为“国家根本法”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(国家根本法|宪法规定|宪法制度) time:1950s",
+    "totalResults": 365,
+    "candidates": [
+      {
+        "score": 0.1492,
+        "excerpt": "苏联宪法规定，加盟共和国各部也管理国家武装力量、对外关系、国家安全、国家检查、财政、保健以及其他。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000013252",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1403,
+        "excerpt": "这些所谓“罪状”是莫须有到那样荒谬的田地，违反言论自由和人权的原则竟昭彰到那样的田地，连最高法院法官道格拉斯也不得不指出：“以合法言论为非法……这就根本离开了过去的道路，违背了我们宪法制度的基本原则”（道格拉斯是最高法院中对原则表示异议的两个法官之一）。",
+        "year": 1951,
+        "path": "1950s/1951/报刊/人民日报/rmrb_1951_09.txt",
+        "recordId": "3587000006280",
+        "source": "rmrb · 1951 · 09",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1359,
+        "excerpt": "他们知道根据波茨坦公告的精神，日本新宪法规定不设陆海空军，全面和约缔结之后，由联合国共同保证日本永为和平中立的国家。",
+        "year": 1951,
+        "path": "1950s/1951/报刊/人民日报/rmrb_1951_04.txt",
+        "recordId": "3582000009225",
+        "source": "rmrb · 1951 · 04",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "宪法",
+    "storyId": "public-life-12",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "public-life-12-contemporary",
+      "name": "组织章程与“宪法性”比喻",
+      "shortName": "组织章程",
+      "description": "检查当代“组织章程与“宪法性”比喻”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(行业宪法|经济宪法|宪法性|组织宪法) time:2010s",
+    "totalResults": 218,
+    "candidates": [
+      {
+        "score": 0.1689,
+        "excerpt": "”焦宏昌认为，宪法及宪法性法律的作用也日渐凸显。",
+        "year": 2011,
+        "path": "2010s/2011/报刊/人民日报/rmrb_2011_02.txt",
+        "recordId": "15228000029505",
+        "source": "rmrb · 2011 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1675,
+        "excerpt": "根据政权建设的需要，从１９４９年到１９５４年第一届全国人民代表大会召开前，中国颁布实施了具有临时宪法性质的《中国人民政治协商会议共同纲领》，制定了中央人民政府组织法、工会法、婚姻法、土地改革法、人民法院暂行组织条例、最高人民检察署暂行组织条例、惩治反革命条例、妨害国家货…",
+        "year": 2011,
+        "path": "2010s/2011/报刊/人民日报/rmrb_2011_10.txt",
+        "recordId": "15236000003941",
+        "source": "rmrb · 2011 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1675,
+        "excerpt": "根据政权建设的需要,从1949年到1954年第一届全国人民代表大会召开前,中国颁布实施了具有临时宪法性质的《中国人民政治协商会议共同纲领》,制定了中央人民政府组织法、工会法、婚姻法、土地改革法、人民法院暂行组织条例、最高人民检察署暂行组织条例、惩治反革命条例、妨害国家货…",
+        "year": 2011,
+        "path": "2010s/2011/报刊/光明日报/2011_10.txt",
+        "recordId": "15248000017861",
+        "source": "2011 · 10",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "秩序",
+    "storyId": "public-life-13",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "public-life-13-turn",
+      "name": "社会与公共秩序",
+      "shortName": "社会",
+      "description": "追踪“秩序”如何在制度、知识或媒介中稳定为“社会与公共秩序”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(公共秩序|社会秩序|市场秩序) time:1950s",
+    "totalResults": 1060,
+    "candidates": [
+      {
+        "score": 0.2,
+        "excerpt": "有了新社会，才会有新社会秩序呀！",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_02.txt",
+        "recordId": "3541000003906",
+        "source": "rmrb · 1950 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1721,
+        "excerpt": "二、经过反特治安工作，社会秩序基本上稳定了。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_03.txt",
+        "recordId": "3542000011996",
+        "source": "rmrb · 1950 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1621,
+        "excerpt": "在老解放区，作为封建社会的经济基础的封建土地制度已经消灭了，作为封建社会的政治秩序的地主统治也已经消灭了，则作为封建社会的社会秩序之一的封建婚姻制度也必然是要消灭的。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_03.txt",
+        "recordId": "3542000003703",
+        "source": "rmrb · 1950 · 03",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "秩序",
+    "storyId": "public-life-13",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "public-life-13-contemporary",
+      "name": "平台规则与算法秩序",
+      "shortName": "平台规则",
+      "description": "检查当代“平台规则与算法秩序”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(平台秩序|算法秩序|网络秩序) time:2010s",
+    "totalResults": 249,
+    "candidates": [
+      {
+        "score": 0.2138,
+        "excerpt": "5.做绿色网络秩序的维护者",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_06.txt",
+        "recordId": "15086000010430",
+        "source": "2010 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1857,
+        "excerpt": "网络秩序是现实秩序的延伸(读者反馈)",
+        "year": 2011,
+        "path": "2010s/2011/报刊/人民日报/rmrb_2011_05.txt",
+        "recordId": "15231000036530",
+        "source": "rmrb · 2011 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1583,
+        "excerpt": "姜奇平认为，此次淘宝商城新规实际上是构建电子商务平台秩序的一种尝试，如果大小企业、商户能在电商平台各行其道，找到适合自己发展的商业模式，“那么这次‘小卖家’围攻‘大卖家’就是我国电子商务领域转型的‘阵痛’。",
+        "year": 2011,
+        "path": "2010s/2011/报刊/人民日报/rmrb_2011_10.txt",
+        "recordId": "15236000020996",
+        "source": "rmrb · 2011 · 10",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "公共",
+    "storyId": "public-life-14",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "public-life-14-turn",
+      "name": "公共领域与公共利益",
+      "shortName": "公共领域",
+      "description": "追踪“公共”如何在制度、知识或媒介中稳定为“公共领域与公共利益”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(公共领域|公共利益|公共事务) time:1950s",
+    "totalResults": 186,
+    "candidates": [
+      {
+        "score": 0.4383,
+        "excerpt": "人人爱护公共利益；",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_03.txt",
+        "recordId": "3542000010325",
+        "source": "rmrb · 1950 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.366,
+        "excerpt": "关心公共利益编辑同志：",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_03.txt",
+        "recordId": "3542000008825",
+        "source": "rmrb · 1950 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2479,
+        "excerpt": "从“个人与公共利益的协调结合”上建筑起的“个性的发展”；",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_06.txt",
+        "recordId": "3545000016252",
+        "source": "rmrb · 1950 · 06",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "公共",
+    "storyId": "public-life-14",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "public-life-14-contemporary",
+      "name": "公共空间、数据与服务",
+      "shortName": "公共空间、数据",
+      "description": "检查当代“公共空间、数据与服务”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(公共空间|公共数据|公共服务) time:2010s",
+    "totalResults": 41275,
+    "candidates": [
+      {
+        "score": 0.2322,
+        "excerpt": "这拓宽了人们对公共服务的认识。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000015420",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1927,
+        "excerpt": "全面加强公共服务",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000000845",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1783,
+        "excerpt": "要积极推进政府购买服务的改革，逐步实现老龄公共服务普惠化、均等化。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000000966",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "社会主义",
+    "storyId": "public-life-15",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "public-life-15-contemporary",
+      "name": "历史、学术与日常复合语境",
+      "shortName": "历史、学术",
+      "description": "检查当代“历史、学术与日常复合语境”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(社会主义历史|社会主义理论|社会主义研究) time:2010s",
+    "totalResults": 10599,
+    "candidates": [
+      {
+        "score": 0.1249,
+        "excerpt": "…进马克思主义学习型政党建设紧密结合起来，与推进马克思主义中国化、时代化、大众化紧密结合起来，与研究阐释中国特色社会主义理论体系紧密结合起来，与学习贯彻科学发展观紧密结合起来，与开展社会主义核心价值体系学习教育紧密结合起来，努力掌握马克思主义立场、观点、方法，不断推进用发展着的马克思主义指…",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000031849",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1238,
+        "excerpt": "在当代中国，坚持中国特色社会主义理论体系，就是真正坚持马克思主义。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000008477",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1231,
+        "excerpt": "成立以这四位开国元勋名字命名的研究会，研究和宣传他们的思想理论、生平业绩、精神风范，有助于学习理解毛泽东思想的丰富内涵和历史地位，全面准确地把握毛泽东思想和中国特色社会主义理论体系之间继承和发展的关系；",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000005720",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "民族",
+    "storyId": "public-life-16",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "public-life-16-contemporary",
+      "name": "法律身份、文化认同与品牌修辞",
+      "shortName": "法律身份、文化认",
+      "description": "检查当代“法律身份、文化认同与品牌修辞”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(民族身份|民族文化|民族品牌) time:2010s",
+    "totalResults": 22057,
+    "candidates": [
+      {
+        "score": 0.2,
+        "excerpt": "重新辨识民族文化价值（文化圆桌）",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000005124",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1622,
+        "excerpt": "政府鼓励发展各民族的文化艺术，形成了多元的民族文化。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000003103",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1576,
+        "excerpt": "树民族品牌 兴中国奶业（建言）",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000039938",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "中华",
+    "storyId": "public-life-17",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "public-life-17-contemporary",
+      "name": "文化认同与象征性修辞",
+      "shortName": "文化认同",
+      "description": "检查当代“文化认同与象征性修辞”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 4
+    },
+    "query": "(中华文化|中华文明|中华传统) time:2010s",
+    "totalResults": 38885,
+    "candidates": [
+      {
+        "score": 0.1763,
+        "excerpt": "组织对外文化交流，增强中华文化的影响力。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000039414",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1559,
+        "excerpt": "”文化部部长蔡武说：“我们一定要充分认清面临的形势和肩负的使命，充分认识深化文化体制改革是完善社会主义市场经济体制的需要，是全面贯彻落实科学发展观的需要，是推动文化自身发展的需要，是推动中华文化走出去的需要，也是维护国家文化安全的需要。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000043170",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1512,
+        "excerpt": "与此同时，我们还要花大力气向世界介绍中华文化。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000024066",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "独立",
+    "storyId": "public-life-18",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "public-life-18-turn",
+      "name": "政治、法律与机构独立",
+      "shortName": "政治、法律",
+      "description": "追踪“独立”如何在制度、知识或媒介中稳定为“政治、法律与机构独立”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(司法独立|机构独立|独立法人) time:1950s",
+    "totalResults": 12,
+    "candidates": [
+      {
+        "score": 0.144,
+        "excerpt": "八、司法独立，除了法律的权力，它不服从任何权力。",
+        "year": 1958,
+        "path": "1950s/1958/报刊/人民日报/rmrb_1958_02.txt",
+        "recordId": "3818000005019",
+        "source": "rmrb · 1958 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1397,
+        "excerpt": "具有旧法观点的人，非常热中于脱离政治的所谓“司法独立”，似乎他们是可以脱离政治斗争而独立存在的。",
+        "year": 1952,
+        "path": "1950s/1952/报刊/人民日报/rmrb_1952_10.txt",
+        "recordId": "3623000007945",
+        "source": "rmrb · 1952 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1336,
+        "excerpt": "经过分析批判之后，大家明确地认识到那些“法律面前人人平等”、“司法独立”等等所谓“超阶级”、“超政治”观点的错误。",
+        "year": 1953,
+        "path": "1950s/1953/报刊/人民日报/rmrb_1953_02.txt",
+        "recordId": "3632000005543",
+        "source": "rmrb · 1953 · 02",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "独立",
+    "storyId": "public-life-18",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "public-life-18-contemporary",
+      "name": "个人生活与判断能力",
+      "shortName": "个人生活",
+      "description": "检查当代“个人生活与判断能力”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(独立生活|独立思考|独立判断) time:2010s",
+    "totalResults": 6946,
+    "candidates": [
+      {
+        "score": 0.2595,
+        "excerpt": "他们坚持独立思考、强调独立判断，对新知识、新事物具有敏锐的判断能力，对社会的发展趋势具有比较深刻的洞察力。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_05.txt",
+        "recordId": "15073000035161",
+        "source": "rmrb · 2010 · 05",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1635,
+        "excerpt": "法律规定，一个人到了18岁才算成年人，才可独立生活。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_04.txt",
+        "recordId": "15072000018719",
+        "source": "rmrb · 2010 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1629,
+        "excerpt": "“必须全面实施素质教育，坚持把立德树人作为根本任务，以提高思想道德素质和创新能力为核心，激发学习者独立思考和创新的意识，重视培养他们收集处理信息获取新知识、分析解决问题、团结协作和社会活动的能力，注重公民意识、科学精神、人文素质和终身学习能力的综合培养。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_06.txt",
+        "recordId": "15074000016622",
+        "source": "rmrb · 2010 · 06",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "解放",
+    "storyId": "public-life-19",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "public-life-19-turn",
+      "name": "政治与社会解放概念",
+      "shortName": "政治",
+      "description": "追踪“解放”如何在制度、知识或媒介中稳定为“政治与社会解放概念”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(社会解放|思想解放|妇女解放) time:1950s",
+    "totalResults": 663,
+    "candidates": [
+      {
+        "score": 0.3334,
+        "excerpt": "妇女解放是社会解放的重要标志之一。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_04.txt",
+        "recordId": "3543000008739",
+        "source": "rmrb · 1950 · 04",
+        "hintHits": 2
+      },
+      {
+        "score": 0.3001,
+        "excerpt": "因为妇女解放是社会解放的尺度，儿童幸福是社会进步的表现。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_05.txt",
+        "recordId": "3544000014065",
+        "source": "rmrb · 1950 · 05",
+        "hintHits": 2
+      },
+      {
+        "score": 0.2911,
+        "excerpt": "婚姻制度的改革，在妇女解放和社会解放事业中是具有重大意义的。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_04.txt",
+        "recordId": "3543000008739",
+        "source": "rmrb · 1950 · 04",
+        "hintHits": 2
+      }
+    ]
+  },
+  {
+    "word": "解放",
+    "storyId": "public-life-19",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "public-life-19-contemporary",
+      "name": "身体、情感与生活方式的解放",
+      "shortName": "身体、情感",
+      "description": "检查当代“身体、情感与生活方式的解放”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(解放双手|解放时间|解放天性|自我解放) time:2010s",
+    "totalResults": 761,
+    "candidates": [
+      {
+        "score": 0.1927,
+        "excerpt": "解放双手 轻松生活",
+        "year": 2016,
+        "path": "2010s/2016/报刊/光明日报/2016_11.txt",
+        "recordId": "15387000019296",
+        "source": "2016 · 11",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1809,
+        "excerpt": "…维、生活方式，都与过去的形态发生了质的变化，如何真正打开心灵，让世界看到中国式的生命创造能量与活力，尤其是自我解放、提升、超越的能力，这是当下书写中国好故事的关键。",
+        "year": 2013,
+        "path": "2010s/2013/报刊/人民日报/rmrb_2013_12.txt",
+        "recordId": "15301000026278",
+        "source": "rmrb · 2013 · 12",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1639,
+        "excerpt": "指明首先应是工人阶级的自我解放（阶级的解放），而后才谈得上全人类的解放，最终实现共产主义。",
+        "year": 2011,
+        "path": "2010s/2011/报刊/光明日报/2011_10.txt",
+        "recordId": "15248000014053",
+        "source": "2011 · 10",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "建设",
+    "storyId": "public-life-20",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "public-life-20-turn",
+      "name": "国家、社会与制度建设",
+      "shortName": "国家、社会",
+      "description": "追踪“建设”如何在制度、知识或媒介中稳定为“国家、社会与制度建设”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(国家建设|社会建设|制度建设) time:1950s",
+    "totalResults": 6495,
+    "candidates": [
+      {
+        "score": 0.1664,
+        "excerpt": "满足经济文化社会建设需要",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_02.txt",
+        "recordId": "3541000006931",
+        "source": "rmrb · 1950 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1576,
+        "excerpt": "服务人民需要配合国家建设",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000016863",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1508,
+        "excerpt": "为了大量培养新型知识分子，适应国家建设需要，中央人民政府政务院决定，中国人民大学在本期招收一部分职工，以培养国家各种建设部门中的骨干。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000002556",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "建设",
+    "storyId": "public-life-20",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "public-life-20-contemporary",
+      "name": "能力、团队与生态建设",
+      "shortName": "能力、团队",
+      "description": "检查当代“能力、团队与生态建设”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(能力建设|团队建设|生态建设) time:2010s",
+    "totalResults": 20239,
+    "candidates": [
+      {
+        "score": 0.3068,
+        "excerpt": "基础设施发展 生态建设进步",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000019068",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2948,
+        "excerpt": "节能减排和生态建设扎实推进",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000016109",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2551,
+        "excerpt": "基础设施突飞猛进 生态建设成效显著",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000012939",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      }
+    ]
+  }
+]

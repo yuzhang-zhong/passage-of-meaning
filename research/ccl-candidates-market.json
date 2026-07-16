@@ -1,0 +1,1234 @@
+[
+  {
+    "word": "市场",
+    "storyId": "market-life-01",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "market-life-01-turn",
+      "name": "价格与交换机制",
+      "shortName": "价格",
+      "description": "追踪“市场”如何在制度、知识或媒介中稳定为“价格与交换机制”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(市场价格|市场交换|市场机制) time:1950s",
+    "totalResults": 291,
+    "candidates": [
+      {
+        "score": 0.2,
+        "excerpt": "对市场价格、城乡交流的影响如何？",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_07.txt",
+        "recordId": "3546000004064",
+        "source": "rmrb · 1950 · 07",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1987,
+        "excerpt": "（二）应对工农产品差价，批发与零售差价，合作社的优待价格，地区差价，以及调拨价格与市场价格的关系，贸易部规定价格与自由市场价格的关系，进行具体研究，提出方案。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_10.txt",
+        "recordId": "3549000013623",
+        "source": "rmrb · 1950 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1743,
+        "excerpt": "同时国营粮食公司在各产麦地区或市场上，始终是贯彻了合理的价格政策，维持小麦与杂粮的适当比例，对稳定市场价格与保障农民利益上，都起了相当的作用。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_08.txt",
+        "recordId": "3547000002505",
+        "source": "rmrb · 1950 · 08",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "市场",
+    "storyId": "market-life-01",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "market-life-01-contemporary",
+      "name": "受众、机会与“个人市场”",
+      "shortName": "受众、机会",
+      "description": "检查当代“受众、机会与“个人市场””的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(人才市场|目标市场|个人市场|市场机会) time:2010s",
+    "totalResults": 4893,
+    "candidates": [
+      {
+        "score": 0.1717,
+        "excerpt": "目标市场的变化，带动出口产品结构调整。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000011225",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1624,
+        "excerpt": "李茜是重庆一家人才市场的负责人，对这种变化感受颇深。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000020900",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.155,
+        "excerpt": "像华菱衡钢这样转移目标市场的中国钢企不在少数。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000011223",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "商品",
+    "storyId": "market-life-02",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "market-life-02-turn",
+      "name": "现代商品生产与价值形式",
+      "shortName": "现代商品生产",
+      "description": "追踪“商品”如何在制度、知识或媒介中稳定为“现代商品生产与价值形式”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(商品生产|商品价值|商品交换) time:1950s",
+    "totalResults": 968,
+    "candidates": [
+      {
+        "score": 0.605,
+        "excerpt": "（二）小商品生产；",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_12.txt",
+        "recordId": "3551000000234",
+        "source": "rmrb · 1950 · 12",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2868,
+        "excerpt": "所以农民依然是小商品生产者。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_12.txt",
+        "recordId": "3551000003146",
+        "source": "rmrb · 1950 · 12",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2148,
+        "excerpt": "因此农民小生产者的商品生产也就随着市场的需要而增加。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_07.txt",
+        "recordId": "3546000004735",
+        "source": "rmrb · 1950 · 07",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "商品",
+    "storyId": "market-life-02",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "market-life-02-contemporary",
+      "name": "内容、服务与数据商品化",
+      "shortName": "内容、服务",
+      "description": "检查当代“内容、服务与数据商品化”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(数据商品|内容商品|服务商品|商品化) time:2010s",
+    "totalResults": 1456,
+    "candidates": [
+      {
+        "score": 0.1954,
+        "excerpt": "同时，适时推动代用燃料汽车商品化。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000003216",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1954,
+        "excerpt": "同时，适时推动代用燃料汽车商品化。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000004533",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1887,
+        "excerpt": "首先，相亲节目中呈现的“情感货币化和商品化”的不良倾向应当警惕。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_06.txt",
+        "recordId": "15074000024752",
+        "source": "rmrb · 2010 · 06",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "资本",
+    "storyId": "market-life-03",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "market-life-03-turn",
+      "name": "现代经济中的资本关系",
+      "shortName": "现代经济中的资本",
+      "description": "追踪“资本”如何在制度、知识或媒介中稳定为“现代经济中的资本关系”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(资本关系|资本积累|资本运动) time:1950s",
+    "totalResults": 37,
+    "candidates": [
+      {
+        "score": 0.2588,
+        "excerpt": "内阁大部成员同垄断资本关系密切",
+        "year": 1959,
+        "path": "1950s/1959/报刊/人民日报/rmrb_1959_10.txt",
+        "recordId": "3907000010765",
+        "source": "rmrb · 1959 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2046,
+        "excerpt": "库比契克当选总统以前是密纳斯州的州长，他同欧洲国家的资本关系比较密切。",
+        "year": 1957,
+        "path": "1950s/1957/报刊/人民日报/rmrb_1957_01.txt",
+        "recordId": "3762000022003",
+        "source": "rmrb · 1957 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2003,
+        "excerpt": "第三十二条 本条例之规定不适用于有外国资本关系之矿。",
+        "year": 1951,
+        "path": "1950s/1951/报刊/人民日报/rmrb_1951_04.txt",
+        "recordId": "3582000012840",
+        "source": "rmrb · 1951 · 04",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "资本",
+    "storyId": "market-life-03",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "market-life-03-contemporary",
+      "name": "人力、社会与注意力资本",
+      "shortName": "人力、社会",
+      "description": "检查当代“人力、社会与注意力资本”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(人力资本|社会资本|注意力资本) time:2010s",
+    "totalResults": 11129,
+    "candidates": [
+      {
+        "score": 0.3885,
+        "excerpt": "人力资本的形成需要投资。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_04.txt",
+        "recordId": "15072000000594",
+        "source": "rmrb · 2010 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.214,
+        "excerpt": "人力资本对经济增长的贡献非常重要。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000018841",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1899,
+        "excerpt": "经理人是一种非常稀缺的人力资本，尤其需要激励。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000000586",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "劳动",
+    "storyId": "market-life-04",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "market-life-04-contemporary",
+      "name": "情感、数字与平台劳动",
+      "shortName": "情感、数字",
+      "description": "检查当代“情感、数字与平台劳动”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(情感劳动|数字劳动|平台劳动) time:2010s",
+    "totalResults": 15,
+    "candidates": [
+      {
+        "score": 0.1704,
+        "excerpt": "劳动和游戏区别的模糊性在数字时代表现得更为明显，数字劳动模糊了娱乐与工作的时空边界，消解了传统的玩乐与劳动的对立关系。",
+        "year": 2019,
+        "path": "2010s/2019/报刊/光明日报/2019_10.txt",
+        "recordId": "15461000022579",
+        "source": "2019 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1648,
+        "excerpt": "[内容]: 近来，一个关于“情感劳动”的话题在坊间流传。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/微信公众号/Wechat_019.txt",
+        "recordId": "15580000002103",
+        "source": "Wechat · 019",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1591,
+        "excerpt": "比如，规定最高工作时间限制、最低小时工资保障、必要安全保护措施，建立适合网络平台劳动者的集体组织、社会保险等制度，既促进新经济、新业态发展，也最大限度降低侵权风险，更好保护劳动者权益。",
+        "year": 2019,
+        "path": "2010s/2019/报刊/人民日报/rmrb_2019_07.txt",
+        "recordId": "15446000005902",
+        "source": "rmrb · 2019 · 07",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "职业",
+    "storyId": "market-life-05",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "market-life-05-turn",
+      "name": "现代职业资格与身份",
+      "shortName": "现代职业资格",
+      "description": "追踪“职业”如何在制度、知识或媒介中稳定为“现代职业资格与身份”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(职业资格|职业身份|职业教育) time:1950s",
+    "totalResults": 93,
+    "candidates": [
+      {
+        "score": 0.1272,
+        "excerpt": "依附于这主要的一面的，并且作为它的补充的，还有所谓“科学教育”、“民众教育”、“职业教育”、“生产教育”等等改良主义的教育，这种教育曾给中国人民以一定的文化科学的知识和技能，正因为这样，也就给上述基本的丑恶的一面搽上了粉。",
+        "year": 1951,
+        "path": "1950s/1951/报刊/人民日报/rmrb_1951_08.txt",
+        "recordId": "3586000011446",
+        "source": "rmrb · 1951 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1235,
+        "excerpt": "正如卜波娃指出的：“国家经济各部门的技术改良，用机器代替了手工劳动，职业教育的广大制度——训练班、工厂学校，和在机器旁边由熟练生产者带徒弟培养青年干部。",
+        "year": 1951,
+        "path": "1950s/1951/报刊/人民日报/rmrb_1951_04.txt",
+        "recordId": "3582000009693",
+        "source": "rmrb · 1951 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1235,
+        "excerpt": "我们这一批教育工作者，中华职业教育社及其所属各单位的工作人员，怀着万分兴奋的心情，于四月五日至十一日在北京举行了解放以后的第一次全国工作讨论会，对本社过去的工作，作了坦白的、深刻的报告和检讨，进而规定了今后本社工作的路线、立场、方针、任务和制度。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_04.txt",
+        "recordId": "3543000013675",
+        "source": "rmrb · 1950 · 04",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "职业",
+    "storyId": "market-life-05",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "market-life-05-contemporary",
+      "name": "职业发展、副业与个人品牌",
+      "shortName": "职业发展、副业",
+      "description": "检查当代“职业发展、副业与个人品牌”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(职业发展|职业规划|个人品牌|副业) time:2010s",
+    "totalResults": 8903,
+    "candidates": [
+      {
+        "score": 0.337,
+        "excerpt": "关注幼师的职业发展空间。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_06.txt",
+        "recordId": "15074000004697",
+        "source": "rmrb · 2010 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.3339,
+        "excerpt": "设立女性职业发展基金，帮助她们加快职业发展；",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000029345",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2182,
+        "excerpt": "制定高技能人才与工程技术人才职业发展贯通办法。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_06.txt",
+        "recordId": "15074000031118",
+        "source": "rmrb · 2010 · 06",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "经理",
+    "storyId": "market-life-06",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "market-life-06-turn",
+      "name": "企业管理职位",
+      "shortName": "企业管理职位",
+      "description": "追踪“经理”如何在制度、知识或媒介中稳定为“企业管理职位”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(公司经理|总经理|经理职位) time:1950s",
+    "totalResults": 1305,
+    "candidates": [
+      {
+        "score": 0.1317,
+        "excerpt": "“鞍钢”在星期六建立了一种习以为常的新制度，任何职工都可随便去找领导的最高负责人——公司经理或党委书记谈话，内容不拘，从工作到领导，从职工福利到家庭琐事，什么都可以谈。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000002783",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1313,
+        "excerpt": "李南生为中国煤业公司经理；",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_03.txt",
+        "recordId": "3542000005680",
+        "source": "rmrb · 1950 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1263,
+        "excerpt": "王文波为中国盐业公司经理，李秋野为副经理。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_02.txt",
+        "recordId": "3541000011494",
+        "source": "rmrb · 1950 · 02",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "经理",
+    "storyId": "market-life-06",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "market-life-06-contemporary",
+      "name": "产品、项目与职能经理分化",
+      "shortName": "产品、项目",
+      "description": "检查当代“产品、项目与职能经理分化”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(产品经理|项目经理|客户经理) time:2010s",
+    "totalResults": 8053,
+    "candidates": [
+      {
+        "score": 0.1543,
+        "excerpt": "五是项目经理与现代网络技术的联系密切。",
+        "year": 2010,
+        "path": "2010s/2010/应用文/社会科学/2010 Author MBA宝典.txt",
+        "recordId": "15066000000106",
+        "source": "Author MBA宝典",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1474,
+        "excerpt": "项目经理张贝贝说，医院广泛使用了先进的节能环保技术，“我们的目标是‘鲁班奖’！",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000031341",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1474,
+        "excerpt": "项目经理张贝贝说，医院广泛使用了先进的节能环保技术，“我们的目标是‘鲁班奖’！",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000031835",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "公司",
+    "storyId": "market-life-07",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "market-life-07-contemporary",
+      "name": "平台公司、初创公司与雇主品牌",
+      "shortName": "平台公司、初创公",
+      "description": "检查当代“平台公司、初创公司与雇主品牌”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(平台公司|初创公司|公司品牌|雇主品牌) time:2010s",
+    "totalResults": 2360,
+    "candidates": [
+      {
+        "score": 0.2868,
+        "excerpt": "对融资平台公司进行清理规范。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_08.txt",
+        "recordId": "15076000016420",
+        "source": "rmrb · 2010 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2717,
+        "excerpt": "融资平台公司清理核实范围明确",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_08.txt",
+        "recordId": "15076000016410",
+        "source": "rmrb · 2010 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2383,
+        "excerpt": "四部门联合发文规范地方融资平台公司",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_08.txt",
+        "recordId": "15076000016405",
+        "source": "rmrb · 2010 · 08",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "企业",
+    "storyId": "market-life-08",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "market-life-08-contemporary",
+      "name": "企业文化、责任与平台生态",
+      "shortName": "企业文化、责任",
+      "description": "检查当代“企业文化、责任与平台生态”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(企业文化|企业责任|企业生态) time:2010s",
+    "totalResults": 9295,
+    "candidates": [
+      {
+        "score": 0.3664,
+        "excerpt": "责任是企业文化的核心内容。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000024488",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.355,
+        "excerpt": "执行力来自于企业文化。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000006350",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2948,
+        "excerpt": "风险控制是企业文化的DNA",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000031142",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "工资",
+    "storyId": "market-life-09",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "market-life-09-contemporary",
+      "name": "薪酬包、平台结算与透明度",
+      "shortName": "薪酬包、平台结算",
+      "description": "检查当代“薪酬包、平台结算与透明度”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(工资透明|平台工资|工资结算|薪酬包) time:2010s",
+    "totalResults": 125,
+    "candidates": [
+      {
+        "score": 0.2554,
+        "excerpt": "工资结算：次日结算。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/微信公众号/Wechat_044.txt",
+        "recordId": "15605000002070",
+        "source": "Wechat · 044",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2554,
+        "excerpt": "工资结算：次日结算。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/微信公众号/Wechat_044.txt",
+        "recordId": "15605000002078",
+        "source": "Wechat · 044",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1473,
+        "excerpt": "空乘的薪酬包括三个部分：基础工资、飞行小时费以及驻外补贴。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/微信公众号/Wechat_028.txt",
+        "recordId": "15589000000059",
+        "source": "Wechat · 028",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "收入",
+    "storyId": "market-life-10",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "market-life-10-turn",
+      "name": "个人与机构的经济流入",
+      "shortName": "个人",
+      "description": "追踪“收入”如何在制度、知识或媒介中稳定为“个人与机构的经济流入”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(个人收入|财政收入|营业收入) time:1950s",
+    "totalResults": 596,
+    "candidates": [
+      {
+        "score": 0.1769,
+        "excerpt": "因此我们不是光为征税而征税，必须要在下列原则下来保障财政收入，帮助通货稳定，使经济财政制度走向正常发展的途径：第一、鼓励有利于国计民生的经济大量发展；",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_03.txt",
+        "recordId": "3542000005507",
+        "source": "rmrb · 1950 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1582,
+        "excerpt": "在这种情况下，如果国家财政收入的主要项目不作统一的管理和有计划的使用，则非但不利于国家的财政和经济工作，且将严重地影响人民的经济生活与妨害国家的恢复和建设。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_03.txt",
+        "recordId": "3542000001803",
+        "source": "rmrb · 1950 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1471,
+        "excerpt": "不过，公债在财政收入的分量上所占百分比不重，这是因为苏联的财政收入主要来源是社会主义的经济积累。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000004884",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "收入",
+    "storyId": "market-life-10",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "market-life-10-contemporary",
+      "name": "多元收入、被动收入与数字收益",
+      "shortName": "多元收入、被动收",
+      "description": "检查当代“多元收入、被动收入与数字收益”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(多元收入|被动收入|数字收入|收入来源) time:2010s",
+    "totalResults": 3283,
+    "candidates": [
+      {
+        "score": 0.1885,
+        "excerpt": "二儿子当司机，两口子加起来，有2000多元收入，刚够维持生活。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000017889",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1699,
+        "excerpt": "而对大多数人来说，劳动收入，是最为重要的收入来源。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000025456",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1606,
+        "excerpt": "3个孩子在老家读书，一个大三，一个大一，一个技校，全靠梁彩平每月1000多元收入支撑。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000029754",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "消费",
+    "storyId": "market-life-11",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "market-life-11-turn",
+      "name": "现代经济中的购买与需求",
+      "shortName": "现代经济中的购买",
+      "description": "追踪“消费”如何在制度、知识或媒介中稳定为“现代经济中的购买与需求”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(消费需求|消费市场|购买消费) time:1950s",
+    "totalResults": 65,
+    "candidates": [
+      {
+        "score": 0.159,
+        "excerpt": "四、一般消费需求也呈现出同样趋势。",
+        "year": 1958,
+        "path": "1950s/1958/报刊/人民日报/rmrb_1958_03.txt",
+        "recordId": "3819000024119",
+        "source": "rmrb · 1958 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1551,
+        "excerpt": "第六个是边际的消费需求递减的概念。",
+        "year": 1957,
+        "path": "1950s/1957/报刊/人民日报/rmrb_1957_09.txt",
+        "recordId": "3770000015290",
+        "source": "rmrb · 1957 · 09",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1513,
+        "excerpt": "但社会购买力虽然主要是购买消费品，也有一部分是用来购买生产资料，例如：肥料、农具等等。",
+        "year": 1955,
+        "path": "1950s/1955/报刊/人民日报/rmrb_1955_08.txt",
+        "recordId": "3701000007712",
+        "source": "rmrb · 1955 · 08",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "消费",
+    "storyId": "market-life-11",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "market-life-11-contemporary",
+      "name": "文化、内容与绿色消费",
+      "shortName": "文化、内容",
+      "description": "检查当代“文化、内容与绿色消费”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(文化消费|内容消费|绿色消费) time:2010s",
+    "totalResults": 5822,
+    "candidates": [
+      {
+        "score": 0.3905,
+        "excerpt": "倡导绿色消费，发展绿色新文化。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000023482",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2993,
+        "excerpt": "要引导绿色消费，实施生态文化工程。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000032597",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2332,
+        "excerpt": "文化消费费用高成为制约文化消费的重要因素。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000014948",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "服务",
+    "storyId": "market-life-12",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "market-life-12-turn",
+      "name": "现代服务业与公共服务",
+      "shortName": "现代服务业",
+      "description": "追踪“服务”如何在制度、知识或媒介中稳定为“现代服务业与公共服务”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(服务业|公共服务|服务行业) time:1950s",
+    "totalResults": 297,
+    "candidates": [
+      {
+        "score": 0.4676,
+        "excerpt": "（９７）介绍服务业 ５％",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_12.txt",
+        "recordId": "3551000012036",
+        "source": "rmrb · 1950 · 12",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2746,
+        "excerpt": "（二）服务业的工资制度问题。",
+        "year": 1956,
+        "path": "1950s/1956/报刊/人民日报/rmrb_1956_10.txt",
+        "recordId": "3733000012853",
+        "source": "rmrb · 1956 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2039,
+        "excerpt": "还要积极发展饮食业和服务业。",
+        "year": 1956,
+        "path": "1950s/1956/报刊/人民日报/rmrb_1956_10.txt",
+        "recordId": "3733000023677",
+        "source": "rmrb · 1956 · 10",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "服务",
+    "storyId": "market-life-12",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "market-life-12-contemporary",
+      "name": "用户体验、数字服务与服务化",
+      "shortName": "用户体验、数字服",
+      "description": "检查当代“用户体验、数字服务与服务化”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(数字服务|用户服务|服务体验|服务化) time:2010s",
+    "totalResults": 2242,
+    "candidates": [
+      {
+        "score": 0.305,
+        "excerpt": "经济结构服务化的三个阶段",
+        "year": 2011,
+        "path": "2010s/2011/报刊/人民日报/rmrb_2011_01.txt",
+        "recordId": "15227000014927",
+        "source": "rmrb · 2011 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2717,
+        "excerpt": "促进我国经济结构服务化的思路",
+        "year": 2011,
+        "path": "2010s/2011/报刊/人民日报/rmrb_2011_01.txt",
+        "recordId": "15227000014936",
+        "source": "rmrb · 2011 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2717,
+        "excerpt": "——关于经济结构服务化的研究综述",
+        "year": 2011,
+        "path": "2010s/2011/报刊/人民日报/rmrb_2011_01.txt",
+        "recordId": "15227000014924",
+        "source": "rmrb · 2011 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "品牌",
+    "storyId": "market-life-13",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "market-life-13-contemporary",
+      "name": "个人品牌、城市品牌与信任",
+      "shortName": "个人品牌、城市品",
+      "description": "检查当代“个人品牌、城市品牌与信任”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(个人品牌|城市品牌|品牌信任) time:2010s",
+    "totalResults": 1197,
+    "candidates": [
+      {
+        "score": 0.4383,
+        "excerpt": "文化铸造城市品牌",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_10.txt",
+        "recordId": "15090000006270",
+        "source": "2010 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.3565,
+        "excerpt": "市长与传媒共话城市品牌",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_11.txt",
+        "recordId": "15091000005271",
+        "source": "2010 · 11",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2383,
+        "excerpt": "发掘历史文化资源，有利于树立城市品牌。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_03.txt",
+        "recordId": "15083000009768",
+        "source": "2010 · 03",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "广告",
+    "storyId": "market-life-14",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "market-life-14-contemporary",
+      "name": "精准投放、原生广告与推荐边界",
+      "shortName": "精准投放、原生广",
+      "description": "检查当代“精准投放、原生广告与推荐边界”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(精准广告|原生广告|广告投放|推荐广告) time:2010s",
+    "totalResults": 1691,
+    "candidates": [
+      {
+        "score": 0.2108,
+        "excerpt": "2005年，该市宣布要提供完全免费的无线网络服务，并选定EarthLink与谷歌公司合作，两家公司承担建设费用，通过精准广告投放获取收益。",
+        "year": 2012,
+        "path": "2010s/2012/报刊/人民日报/rmrb_2012_11.txt",
+        "recordId": "15270000003857",
+        "source": "rmrb · 2012 · 11",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1818,
+        "excerpt": "加大公益广告投放力度；",
+        "year": 2012,
+        "path": "2010s/2012/报刊/人民日报/rmrb_2012_07.txt",
+        "recordId": "15266000015370",
+        "source": "rmrb · 2012 · 07",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1562,
+        "excerpt": "但是很多推送广告投放之精准，让他怀疑与手机隐私泄露有关。",
+        "year": 2012,
+        "path": "2010s/2012/报刊/人民日报/rmrb_2012_12.txt",
+        "recordId": "15271000040200",
+        "source": "rmrb · 2012 · 12",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "信用",
+    "storyId": "market-life-15",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "market-life-15-contemporary",
+      "name": "信用评分、平台声誉与数据化",
+      "shortName": "信用评分、平台声",
+      "description": "检查当代“信用评分、平台声誉与数据化”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(信用评分|信用数据|平台信用|信用记录) time:2010s",
+    "totalResults": 1883,
+    "candidates": [
+      {
+        "score": 0.1763,
+        "excerpt": "要充分考虑文化企业的特点，建立和完善科学、合理的信用评级和信用评分制度，建立专门针对文化产业金融服务的考评体系。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_04.txt",
+        "recordId": "15072000033578",
+        "source": "rmrb · 2010 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.173,
+        "excerpt": "各金融机构在确定内部评级要素，设计内部评级指标体系、评级模型和计分标准的过程中，应充分考虑文化企业的特点，建立和完善科学、合理的信用评级和信用评分制度。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_04.txt",
+        "recordId": "15072000033545",
+        "source": "rmrb · 2010 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.173,
+        "excerpt": "各金融机构在确定内部评级要素,设计内部评级指标体系、评级模型和计分标准的过程中,应充分考虑文化企业的特点,建立和完善科学、合理的信用评级和信用评分制度。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_04.txt",
+        "recordId": "15084000006144",
+        "source": "2010 · 04",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "投资",
+    "storyId": "market-life-16",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "market-life-16-contemporary",
+      "name": "时间、教育与自我投资",
+      "shortName": "时间、教育",
+      "description": "检查当代“时间、教育与自我投资”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(投资时间|投资教育|自我投资) time:2010s",
+    "totalResults": 300,
+    "candidates": [
+      {
+        "score": 0.2541,
+        "excerpt": "“林业是一个投资时间长、见效慢的行业。",
+        "year": 2015,
+        "path": "2010s/2015/报刊/人民日报/rmrb_2015_08.txt",
+        "recordId": "15347000000734",
+        "source": "rmrb · 2015 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2463,
+        "excerpt": "由于基础设施投资时间较长、成本较高，吸引投资的难度很大。",
+        "year": 2013,
+        "path": "2010s/2013/报刊/人民日报/rmrb_2013_04.txt",
+        "recordId": "15293000007336",
+        "source": "rmrb · 2013 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1888,
+        "excerpt": "投资方面包括投资项目、方式、资金数额、投资时间、获得收益等情况；",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_05.txt",
+        "recordId": "15073000028973",
+        "source": "rmrb · 2010 · 05",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "风险",
+    "storyId": "market-life-17",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "market-life-17-turn",
+      "name": "概率、保险与金融风险",
+      "shortName": "概率、保险",
+      "description": "追踪“风险”如何在制度、知识或媒介中稳定为“概率、保险与金融风险”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(金融风险|保险风险|风险概率) time:1950s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "风险",
+    "storyId": "market-life-17",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "market-life-17-contemporary",
+      "name": "风险管理、风险偏好与日常判断",
+      "shortName": "风险管理、风险偏",
+      "description": "检查当代“风险管理、风险偏好与日常判断”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(风险管理|风险偏好|风险判断) time:2010s",
+    "totalResults": 4809,
+    "candidates": [
+      {
+        "score": 0.4383,
+        "excerpt": "提高风险管理水平。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000035872",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.3907,
+        "excerpt": "首先是强化风险管理。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000002246",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.3138,
+        "excerpt": "风险管理决定成败（国际视野）",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000013567",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "创业",
+    "storyId": "market-life-18",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "market-life-18-turn",
+      "name": "现代企业家与初创企业活动",
+      "shortName": "现代企业家",
+      "description": "追踪“创业”如何在制度、知识或媒介中稳定为“现代企业家与初创企业活动”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(创办企业|创业企业|创业活动) time:1990s",
+    "totalResults": 206,
+    "candidates": [
+      {
+        "score": 0.1858,
+        "excerpt": "以创业活动造就企业文化的时代特色，是南汽企业文化建设的又一个重要特征。",
+        "year": 1994,
+        "path": "1990s/1994/报刊/人民日报/rmrb_1994_11.txt",
+        "recordId": "6975000002523",
+        "source": "rmrb · 1994 · 11",
+        "hintHits": 1
+      },
+      {
+        "score": 0.155,
+        "excerpt": "在斯坦福大学工程学院，大多数教授都参与了企业的创业活动，他们或是创办人、合伙人，或是公司董事会成员。",
+        "year": 1990,
+        "path": "1990s/1990/报刊/人民日报/rmrb_1990_12.txt",
+        "recordId": "5666000006450",
+        "source": "rmrb · 1990 · 12",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1385,
+        "excerpt": "另一方面，高技术产业发展不仅能带动地区的加工工业及第三产业，还能带来人才、信息的相对集中，造成产业群的互补与竞争格局，进一步刺激新的投资与创业活动。",
+        "year": 1990,
+        "path": "1990s/1990/报刊/人民日报/rmrb_1990_08.txt",
+        "recordId": "5662000022967",
+        "source": "rmrb · 1990 · 08",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "创业",
+    "storyId": "market-life-18",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "market-life-18-contemporary",
+      "name": "平台创业、副业与自我雇佣",
+      "shortName": "平台创业、副业",
+      "description": "检查当代“平台创业、副业与自我雇佣”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(平台创业|副业创业|自我雇佣) time:2010s",
+    "totalResults": 94,
+    "candidates": [
+      {
+        "score": 0.2717,
+        "excerpt": "最终他选择回到西光所平台创业。",
+        "year": 2015,
+        "path": "2010s/2015/报刊/光明日报/2015_11.txt",
+        "recordId": "15362000006919",
+        "source": "2015 · 11",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2131,
+        "excerpt": "在此背景下，在海外平台创业的第三方开发者有望回归国内平台。",
+        "year": 2011,
+        "path": "2010s/2011/报刊/人民日报/rmrb_2011_10.txt",
+        "recordId": "15236000028874",
+        "source": "rmrb · 2011 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2069,
+        "excerpt": "社会（个人）应用将使用到“云上贵州”系统平台创业、创富。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/微信公众号/Wechat_073.txt",
+        "recordId": "15634000011124",
+        "source": "Wechat · 073",
+        "hintHits": 1
+      }
+    ]
+  }
+]

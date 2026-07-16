@@ -1,0 +1,1116 @@
+[
+  {
+    "word": "城市",
+    "storyId": "space-and-mobility-01",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "space-and-mobility-01-prehistory",
+      "name": "城郭与交易聚落",
+      "shortName": "城郭",
+      "description": "核对“城市”作为“城郭与交易聚落”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "城市 time:1920s",
+    "totalResults": 1118,
+    "candidates": [
+      {
+        "score": 0.0455,
+        "excerpt": "…與情底主因農人恨他們因爲他們多取了食物市民恨他們因爲他們少取了食物農人所渴望的便是自由易自由貿易底政策如果通行城市之民勢將死普通晨人至今仍不知有封鎖這件事他只知前此有六條牛現在政府欲將牛均分於較貧的農人每人只許有一條牛加之政府復行踐價購取物農人乃之入骨他們不了解國事眼光只落在小部落的…",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 少年世界_第1卷第10期.txt",
+        "recordId": "275000000050",
+        "source": "Author 少年世界 · 第1卷第10期",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0435,
+        "excerpt": "…之後頓失情在俄國政黨之得人心不恃已往的布而賴未來的希望他們這樣然不能謀眞正和平反乃武他們濫發紙票交換農作物救濟城市的糧食大失農人底歡心他們不孚衆乃轉而取高壓手段和中央集權生產底急需遂使他們採用工業登錄嚴厲的方法愛自由者對着這些情形當然惡但須記取自由底缺乏底主因是戰爭和封鎖只有和平與\ud850…",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 少年世界_第1卷第10期.txt",
+        "recordId": "275000000009",
+        "source": "Author 少年世界 · 第1卷第10期",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0394,
+        "excerpt": "原來羣衆的社會生活靠著交通的便利愈加發達在交通不便的地方農人的見解很窄狹合羣的能力很薄弱社會的娛樂更是不用說所以有旨趣的村落靑年不甘困守田就移向城市去要防止這種危險造良好的道路也是一種方法因爲這樣我們可以得着下述的幾層利益",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 少年世界_第1卷第9期.txt",
+        "recordId": "284000000351",
+        "source": "Author 少年世界 · 第1卷第9期",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "城市",
+    "storyId": "space-and-mobility-01",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "space-and-mobility-01-turn",
+      "name": "现代 urban city 与市民生活",
+      "shortName": "现代 urban",
+      "description": "追踪“城市”如何在制度、知识或媒介中稳定为“现代 urban city 与市民生活”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "城市 time:1920s",
+    "totalResults": 1118,
+    "candidates": [
+      {
+        "score": 0.0579,
+        "excerpt": "第三等的人民多半在不講衛生底城市和村野裏頭可以找出來。",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 新社會_第16號.txt",
+        "recordId": "291000000065",
+        "source": "Author 新社會 · 第16號",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0484,
+        "excerpt": "…otherʼs Association等都要推舉代表的因爲家事和保育兒童乃是大家公認爲最重要的社會服務所以每個城市的『母社』都要照着別種職業一樣的推舉代表我在彼得格勒和薩馬拉曾和些『母社』的代表譚過他們都是很有學識並且很沉靜的婦人在他們的蘇維埃裏也都是很有勢力的那些沒有子女的婦人所享…",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 少年世界_第1卷第6期.txt",
+        "recordId": "282000000017",
+        "source": "Author 少年世界 · 第1卷第6期",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0457,
+        "excerpt": "我們試到街上去看，——無論在城市或鄕村，——有一班人是市民中點綴所必不可少的，就是「乞丐。",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 北京大學學生周刊_第14號.txt",
+        "recordId": "262000000129",
+        "source": "Author 北京大學學生周刊 · 第14號",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "乡村",
+    "storyId": "space-and-mobility-02",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "space-and-mobility-02-prehistory",
+      "name": "乡里、村落与农耕聚居",
+      "shortName": "乡里、村落",
+      "description": "核对“乡村”作为“乡里、村落与农耕聚居”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "乡村 time:1920s",
+    "totalResults": 81,
+    "candidates": [
+      {
+        "score": 0.0501,
+        "excerpt": "那些兵弁更结队成群，到各城乡村落，奸淫掳掠畅所欲为。",
+        "year": 1921,
+        "path": "1920s/1921/文学/小说笔记/1921 陆士谔 清朝秘史.txt",
+        "recordId": "397000003670",
+        "source": "陆士谔 清朝秘史",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0397,
+        "excerpt": "这才真是Ｌｏｉｓｉｅｕｘ村人的话，因为真的乡村生活是悠闲的。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 朱自清 《山野掇拾》.txt",
+        "recordId": "649000000000",
+        "source": "朱自清 《山野掇拾》",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0396,
+        "excerpt": "这岂可与现在这里学生的乡村生活相提并论呢？",
+        "year": 1924,
+        "path": "1920s/1924/文学/1924 朱自清 春晖的一月.txt",
+        "recordId": "576000000000",
+        "source": "朱自清 春晖的一月",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "社区",
+    "storyId": "space-and-mobility-03",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "space-and-mobility-03-prehistory",
+      "name": "社团、地区与 community 译名前史",
+      "shortName": "社团、地区",
+      "description": "核对“社区”作为“社团、地区与 community 译名前史”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "社区 time:1920s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "社区",
+    "storyId": "space-and-mobility-03",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "space-and-mobility-03-turn",
+      "name": "基层居住与公共治理单元",
+      "shortName": "基层居住",
+      "description": "追踪“社区”如何在制度、知识或媒介中稳定为“基层居住与公共治理单元”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "社区 time:1920s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "街道",
+    "storyId": "space-and-mobility-04",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "space-and-mobility-04-prehistory",
+      "name": "城镇道路与街巷",
+      "shortName": "城镇道路",
+      "description": "核对“街道”作为“城镇道路与街巷”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "街道 time:1920s",
+    "totalResults": 231,
+    "candidates": [
+      {
+        "score": 0.0542,
+        "excerpt": "幽靜的五月的街道。",
+        "year": 1923,
+        "path": "1920s/1923/报刊/1923 Author 文學_創刊號.txt",
+        "recordId": "490000002468",
+        "source": "Author 文學 · 創刊號",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0396,
+        "excerpt": "譯前的街道，正是石子專橫的時代。",
+        "year": 1923,
+        "path": "1920s/1923/报刊/1923 Author 創造季刊_第1卷第2期.txt",
+        "recordId": "486000002516",
+        "source": "Author 創造季刊 · 第1卷第2期",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0388,
+        "excerpt": "…婚數比目鄕下多換一句話就是城市的生長是離婚增加的一個原因城市的人民他們所生活的經濟情形差不多是無家可言在貧苦的街道裏在租借區內竟找不出一個常能的家庭來幷且在城市裏不道德的事情和種種罪惡容易發生公意是絕少有節制力住居之密生活程度之高都是產生和樂家庭的阻力婦女日常到工廠裏工作之外還要到",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 少年世界_第1卷第8期.txt",
+        "recordId": "283000001218",
+        "source": "Author 少年世界 · 第1卷第8期",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "广场",
+    "storyId": "space-and-mobility-05",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "space-and-mobility-05-prehistory",
+      "name": "宽广场地与建筑空间",
+      "shortName": "宽广场地",
+      "description": "核对“广场”作为“宽广场地与建筑空间”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "广场 time:1920s",
+    "totalResults": 14,
+    "candidates": [
+      {
+        "score": 0.0396,
+        "excerpt": "今晨一早起来，我打算到静安寺前的广场去散步。",
+        "year": 1923,
+        "path": "1920s/1923/文学/1923 郭沫若 梦与现实.txt",
+        "recordId": "534000000015",
+        "source": "郭沫若 梦与现实",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0375,
+        "excerpt": "然后，他看见自己站在一片广场的前面。",
+        "year": 1929,
+        "path": "1920s/1929/文学/1929 茅盾 色盲.txt",
+        "recordId": "1322000000003",
+        "source": "茅盾 色盲",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0347,
+        "excerpt": "这时，只听得一片大广场里鸣呜的角声鸣处，两扇大青旗忽地竖了起来。",
+        "year": 1927,
+        "path": "1920s/1927/文学/小说笔记/1927 许啸天 明代宫闱史.txt",
+        "recordId": "1065000000008",
+        "source": "许啸天 明代宫闱史",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "公园",
+    "storyId": "space-and-mobility-06",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "space-and-mobility-06-prehistory",
+      "name": "公共园林与休闲场所",
+      "shortName": "公共园林",
+      "description": "核对“公园”作为“公共园林与休闲场所”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "公园 time:1920s",
+    "totalResults": 158,
+    "candidates": [
+      {
+        "score": 0.0601,
+        "excerpt": "Ｎ公园在Ｆ市的南边。",
+        "year": 1924,
+        "path": "1920s/1924/文学/1924 郭沫若 喀尔美萝姑娘.txt",
+        "recordId": "589000000001",
+        "source": "郭沫若 喀尔美萝姑娘",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0601,
+        "excerpt": "据说，教育当局因为公共娱乐场中常常发生有伤风化情事，所以令行各校，禁止女学生往游艺场和公园，并通知女主家属，协同禁止。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 鲁迅 坚壁清野主义.txt",
+        "recordId": "731000000000",
+        "source": "鲁迅 坚壁清野主义",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0469,
+        "excerpt": "公园市场，闲游取乐如故；",
+        "year": 1921,
+        "path": "1920s/1921/文学/1921 蔡友梅 益世余墨.txt",
+        "recordId": "384000000239",
+        "source": "蔡友梅 益世余墨",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "公园",
+    "storyId": "space-and-mobility-06",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "space-and-mobility-06-turn",
+      "name": "现代城市绿地与市民设施",
+      "shortName": "现代城市绿地",
+      "description": "追踪“公园”如何在制度、知识或媒介中稳定为“现代城市绿地与市民设施”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "公园 time:1920s",
+    "totalResults": 158,
+    "candidates": [
+      {
+        "score": 0.0601,
+        "excerpt": "Ｎ公园在Ｆ市的南边。",
+        "year": 1924,
+        "path": "1920s/1924/文学/1924 郭沫若 喀尔美萝姑娘.txt",
+        "recordId": "589000000001",
+        "source": "郭沫若 喀尔美萝姑娘",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0469,
+        "excerpt": "公园市场，闲游取乐如故；",
+        "year": 1921,
+        "path": "1920s/1921/文学/1921 蔡友梅 益世余墨.txt",
+        "recordId": "384000000239",
+        "source": "蔡友梅 益世余墨",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0465,
+        "excerpt": "当时竟有一批曾在外国留学的人在北京组织“国外大学毕业参加国民会议同志会”，于三月二十九日在中央公园开会，向“善后会议”提请愿书，要求在未来的国民会议中给他们保留名额，其中说：“查国民代表会议之最大任务为规定中华民国宪法，留学者为一特殊知识阶级，无庸讳言，其应参加此项会议，多多益善。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 鲁迅 春末闲谈.txt",
+        "recordId": "755000000000",
+        "source": "鲁迅 春末闲谈",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "空间",
+    "storyId": "space-and-mobility-07",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "space-and-mobility-07-prehistory",
+      "name": "空处、间隔与容纳之所",
+      "shortName": "空处、间隔",
+      "description": "核对“空间”作为“空处、间隔与容纳之所”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "空间 time:1920s",
+    "totalResults": 28,
+    "candidates": [
+      {
+        "score": 0.0558,
+        "excerpt": "同时他抡开右手的五个指头很神气地向空间作了个捞捕的姿势，很像已经抓进了一个碰在手边的女子。",
+        "year": 1929,
+        "path": "1920s/1929/文学/1929 茅盾 色盲.txt",
+        "recordId": "1322000000001",
+        "source": "茅盾 色盲",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0551,
+        "excerpt": "“时间与空间——”",
+        "year": 1929,
+        "path": "1920s/1929/文学/1929 老舍 旅行.txt",
+        "recordId": "1320000000030",
+        "source": "老舍 旅行",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0455,
+        "excerpt": "因为空间姑且不追究它如何广大或无限，我们总可以把握其一端，认定其一点。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 丰子恺 渐.txt",
+        "recordId": "628000000000",
+        "source": "丰子恺 渐",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "空间",
+    "storyId": "space-and-mobility-07",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "space-and-mobility-07-turn",
+      "name": "现代几何、物理与社会空间",
+      "shortName": "现代几何、物理",
+      "description": "追踪“空间”如何在制度、知识或媒介中稳定为“现代几何、物理与社会空间”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "空间 time:1920s",
+    "totalResults": 28,
+    "candidates": [
+      {
+        "score": 0.0766,
+        "excerpt": "〔１０〕相对论关于物质运动与时间空间关系的理论，现代物理学的理论基础之一。",
+        "year": 1922,
+        "path": "1920s/1922/文学/1922 鲁迅 不懂的音译.txt",
+        "recordId": "430000000000",
+        "source": "鲁迅 不懂的音译",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0551,
+        "excerpt": "“时间与空间——”",
+        "year": 1929,
+        "path": "1920s/1929/文学/1929 老舍 旅行.txt",
+        "recordId": "1320000000030",
+        "source": "老舍 旅行",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0542,
+        "excerpt": "因为空间姑且不追究它如何广大或无限，我们总可以把握其一端，认定其一点。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 丰子恺 渐.txt",
+        "recordId": "628000000000",
+        "source": "丰子恺 渐",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "地方",
+    "storyId": "space-and-mobility-08",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "space-and-mobility-08-prehistory",
+      "name": "所在之地与方域",
+      "shortName": "所在之地",
+      "description": "核对“地方”作为“所在之地与方域”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 0
+    },
+    "query": "地方 time:1920s",
+    "totalResults": 6867,
+    "candidates": [
+      {
+        "score": 0.0425,
+        "excerpt": "惟所記如有錯誤的地方，還要請讀者指敎！",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 上海夥友_第9册.txt",
+        "recordId": "236000000033",
+        "source": "Author 上海夥友 · 第9册",
+        "hintHits": 0
+      },
+      {
+        "score": 0.042,
+        "excerpt": "光明的地方走去，不曉得在黑喑的地方墮落。",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 上海夥友_第1册.txt",
+        "recordId": "229000000087",
+        "source": "Author 上海夥友 · 第1册",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0385,
+        "excerpt": "因爲商業競爭上的關係，把人類有用的精力用在許多無用的地方，這是資本家生產制各種弊害之一；",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 上海夥友_第1册.txt",
+        "recordId": "229000000003",
+        "source": "Author 上海夥友 · 第1册",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "地方",
+    "storyId": "space-and-mobility-08",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "space-and-mobility-08-turn",
+      "name": "现代行政、区域与地方性",
+      "shortName": "现代行政、区域",
+      "description": "追踪“地方”如何在制度、知识或媒介中稳定为“现代行政、区域与地方性”，并找出关键转折文本。",
+      "startIndex": 0
+    },
+    "query": "地方 time:1920s",
+    "totalResults": 6867,
+    "candidates": [
+      {
+        "score": 0.0408,
+        "excerpt": "在這種地方看起來，無政府主義的生產組織，有一種最大的缺點，卽是不能使生產力保持平· 要使各地方各職業的生產力保持平，無論如何，非倚賴中央的權力不可。",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 共産黨_第2號.txt",
+        "recordId": "238000000022",
+        "source": "Author 共産黨 · 第2號",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0396,
+        "excerpt": "只是在生產力未發達的地方與生產力未發達的時期內，若用這種分配制度，社會的經濟的秩序就要弄糟了。",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 共産黨_第2號.txt",
+        "recordId": "238000000026",
+        "source": "Author 共産黨 · 第2號",
+        "hintHits": 0
+      },
+      {
+        "score": 0.039,
+        "excerpt": "八 因爲地方政府是行政的機關，所以共產黨支部，必不可與他羣衆格不相入，須留心觀聽他們生活中底一切需求，以便與蘇維埃聯合，並須彼此有不斷底固結勢力。",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 共産黨_第1號.txt",
+        "recordId": "237000000085",
+        "source": "Author 共産黨 · 第1號",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "地方",
+    "storyId": "space-and-mobility-08",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "space-and-mobility-08-contemporary",
+      "name": "地方感、本地服务与位置数据",
+      "shortName": "地方感、本地服务",
+      "description": "检查当代“地方感、本地服务与位置数据”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 4
+    },
+    "query": "地方 time:2010s",
+    "totalResults": 477049,
+    "candidates": [
+      {
+        "score": 0.0227,
+        "excerpt": "这个也没有什么神奇的地方，无非就是广告、服务收费以及买卖的模式。",
+        "year": 2010,
+        "path": "2010s/2010/口语/对话/2010 张向东 创业者对话创业者.txt",
+        "recordId": "15037000000262",
+        "source": "张向东 创业者对话创业者",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0175,
+        "excerpt": "应该有这么一个地方，能够让任何一个人或者任何一个机构有机会把自己的东西发布出来，直接面对自己的观众。",
+        "year": 2010,
+        "path": "2010s/2010/口语/对话/2010 张向东 创业者对话创业者.txt",
+        "recordId": "15037000000249",
+        "source": "张向东 创业者对话创业者",
+        "hintHits": 0
+      },
+      {
+        "score": 0.017,
+        "excerpt": "另一方面则是因为我觉得互联网很有意思，而且我以前专业是计算机，所以觉得应该有这么一个地方，能够让任何一个人或者任何一个机构有机会把自己的东西发布出来，直接面对自己的观众，那么，后面很多事情就会顺理成章发生。",
+        "year": 2010,
+        "path": "2010s/2010/口语/对话/2010 张向东 创业者对话创业者.txt",
+        "recordId": "15037000000253",
+        "source": "张向东 创业者对话创业者",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "地图",
+    "storyId": "space-and-mobility-09",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "space-and-mobility-09-prehistory",
+      "name": "疆域图籍与空间再现",
+      "shortName": "疆域图籍",
+      "description": "核对“地图”作为“疆域图籍与空间再现”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "地图 time:1920s",
+    "totalResults": 43,
+    "candidates": [
+      {
+        "score": 0.0469,
+        "excerpt": "沈维敬托词侦探，先行渡海，私奉秀吉蟒袍玉带，及地图武经，又取壮马三百，作为馈礼；",
+        "year": 1920,
+        "path": "1920s/1920/文学/小说笔记/1920 蔡东藩 明史演义.txt",
+        "recordId": "332000001297",
+        "source": "蔡东藩 明史演义",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0448,
+        "excerpt": "惟现在因无蒙古详细地图，而各处行政区域，又未划清界限，是以确定外蒙古疆域，及科布多、阿尔泰划界之处，应按照声明文件第五款所载，日后商定。",
+        "year": 1920,
+        "path": "1920s/192x/文学/小说笔记/192x 蔡东藩_许廑父 民国演义.txt",
+        "recordId": "1341000000937",
+        "source": "192x 蔡东藩 · 许廑父 民国演义",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0447,
+        "excerpt": "我不用扫地了，先画地图吧！",
+        "year": 1922,
+        "path": "1920s/1922/文学/1922 老舍 小铃儿.txt",
+        "recordId": "423000000058",
+        "source": "老舍 小铃儿",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "地图",
+    "storyId": "space-and-mobility-09",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "space-and-mobility-09-turn",
+      "name": "现代测绘与标准化地图",
+      "shortName": "现代测绘",
+      "description": "追踪“地图”如何在制度、知识或媒介中稳定为“现代测绘与标准化地图”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "地图 time:1920s",
+    "totalResults": 43,
+    "candidates": [
+      {
+        "score": 0.0469,
+        "excerpt": "蒙古地图，何不尽行献出？",
+        "year": 1920,
+        "path": "1920s/192x/文学/小说笔记/192x 蔡东藩_许廑父 民国演义.txt",
+        "recordId": "1341000000396",
+        "source": "192x 蔡东藩 · 许廑父 民国演义",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0442,
+        "excerpt": "这工程，虽在地图上也还有它的小像，凡是世界上稍有知识的人们，大概都知道的罢。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 鲁迅 伟大的长城〔2〕！.txt",
+        "recordId": "721000000000",
+        "source": "鲁迅 伟大的长城〔2〕！",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0427,
+        "excerpt": "至图上所绘者，则中国地图也。",
+        "year": 1921,
+        "path": "1920s/1921/文学/小说笔记/1921 陆士谔 清朝秘史.txt",
+        "recordId": "397000009303",
+        "source": "陆士谔 清朝秘史",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "边界",
+    "storyId": "space-and-mobility-10",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "space-and-mobility-10-prehistory",
+      "name": "疆界、界线与范围",
+      "shortName": "疆界、界线",
+      "description": "核对“边界”作为“疆界、界线与范围”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "边界 time:1920s",
+    "totalResults": 20,
+    "candidates": [
+      {
+        "score": 0.075,
+        "excerpt": "才过了仙霞岭，到得福建邵武府的边界，地名叫做黄村。",
+        "year": 1921,
+        "path": "1920s/1921/文学/小说笔记/1921 李伯通 西太后艳史演义.txt",
+        "recordId": "396000000016",
+        "source": "李伯通 西太后艳史演义",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0568,
+        "excerpt": "这里赛中堂奉旨出京，那里向荣、周天爵、乌兰泰，早接到上谕，各带各的营头，分向两广的边界驻扎。",
+        "year": 1921,
+        "path": "1920s/1921/文学/小说笔记/1921 李伯通 西太后艳史演义.txt",
+        "recordId": "396000000067",
+        "source": "李伯通 西太后艳史演义",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0537,
+        "excerpt": "在诸山的边界上，超过山谷，更有拉斯达特（Rastatt）的平原，有莱因河（Rhein）的河流，有亚尔萨斯（Elsass）直接佛格息山脉（Vogesische Gebirge），而此山脉则以一道秀丽地平线封锁观者的眼界；",
+        "year": 1928,
+        "path": "1920s/1928/翻译作品/文学/1928 魏兰 欧洲200年名人情书.txt",
+        "recordId": "1223000000865",
+        "source": "魏兰 欧洲200年名人情书",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "中心",
+    "storyId": "space-and-mobility-11",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "space-and-mobility-11-prehistory",
+      "name": "当中之心与核心位置",
+      "shortName": "当中之心",
+      "description": "核对“中心”作为“当中之心与核心位置”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 0
+    },
+    "query": "中心 time:1920s",
+    "totalResults": 1194,
+    "candidates": [
+      {
+        "score": 0.0432,
+        "excerpt": "…之與之相反對者爲最左翼琴墨瓦爾德一派此派主張與列寧一拒絕與有產階級之一切妥協主張立時和第三爲中間派此派以命格爲中心主張無勝負之平和了結及後對於講和會議之意見頗有命格派與琴墨瓦爾德派相提以對抗妥瑪一派之傾向卒以一千五百二十八票對一千二百十二票之多數遂占勝從來之少數黨遂一面占多數黨之位置…",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 少年世界_第1卷第11期.txt",
+        "recordId": "276000000151",
+        "source": "Author 少年世界 · 第1卷第11期",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0425,
+        "excerpt": "因此，我擬想他們將來的地位一定是支配一切之中心。",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 北京大學學生周刊_第14號.txt",
+        "recordId": "262000000046",
+        "source": "Author 北京大學學生周刊 · 第14號",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0395,
+        "excerpt": "白爾曼學校密倩爾（D.Mitchel）規定醫科心理學爲一種職業的行爲與試驗室中心理學之科學恰恰相對醫科心理學又與應用心理學不同因爲後者可以和個人沒關係醫科心理學是審斷心理狀况的行爲以便指定所需敎育之種類及方法發現有職業重要之能力及弱點駕馭情感的發展好…",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 少年世界_第1卷第6期.txt",
+        "recordId": "282000000086",
+        "source": "Author 少年世界 · 第1卷第6期",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "舞台",
+    "storyId": "space-and-mobility-12",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "space-and-mobility-12-prehistory",
+      "name": "表演所用高台",
+      "shortName": "表演所用高台",
+      "description": "核对“舞台”作为“表演所用高台”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 0
+    },
+    "query": "舞台 time:1920s",
+    "totalResults": 272,
+    "candidates": [
+      {
+        "score": 0.056,
+        "excerpt": "姐夫的头脑陈腐，不是二十世纪新舞台的人物。",
+        "year": 1922,
+        "path": "1920s/1922/文学/小说笔记/1922_10_1 向恺然 留东外史续集.txt",
+        "recordId": "448000001035",
+        "source": "1922 · 10 · 1 向恺然 留东外史续集",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0431,
+        "excerpt": "可是话又说回来了，那两处舞台的楼房，建筑的也实在糟心，比送圣送圣：送库。",
+        "year": 1921,
+        "path": "1920s/1921/文学/1921 蔡友梅 益世余墨.txt",
+        "recordId": "384000000701",
+        "source": "蔡友梅 益世余墨",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0429,
+        "excerpt": "我于是忘了前几年的冬冬皇皇之灾，竟到第一舞台去了，但大约一半也因为重价购来的宝票，总得使用了才舒服。",
+        "year": 1922,
+        "path": "1920s/1922/文学/1922 鲁迅 社戏.txt",
+        "recordId": "443000000012",
+        "source": "鲁迅 社戏",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "舞台",
+    "storyId": "space-and-mobility-12",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "space-and-mobility-12-contemporary",
+      "name": "展示机会、公共场域与人生舞台",
+      "shortName": "展示机会、公共场",
+      "description": "检查当代“展示机会、公共场域与人生舞台”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 4
+    },
+    "query": "舞台 time:2010s",
+    "totalResults": 98055,
+    "candidates": [
+      {
+        "score": 0.0216,
+        "excerpt": "1986年到1990年的四年间，上海滑稽名家姚慕双、周柏春对他悉心指导，毕业后走上舞台的周立波风光一时，那时的他，每逢演出之时基本上场场压轴，可顽劣不改的他常常开起老师们的玩笑。",
+        "year": 2010,
+        "path": "2010s/2010/口语/对话/2010 鲁豫_周立波_郭德纲_吴宗宪_等 鲁豫有约_开心果.txt",
+        "recordId": "15041000000147",
+        "source": "鲁豫 · 周立波 · 郭德纲 · 吴宗宪 · 等 鲁豫有约 · 开心果",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0202,
+        "excerpt": "吴宗宪要粉墨登场的是生意的舞台。",
+        "year": 2010,
+        "path": "2010s/2010/口语/对话/2010 鲁豫_周立波_郭德纲_吴宗宪_等 鲁豫有约_开心果.txt",
+        "recordId": "15041000000814",
+        "source": "鲁豫 · 周立波 · 郭德纲 · 吴宗宪 · 等 鲁豫有约 · 开心果",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0145,
+        "excerpt": "从2006年重返舞台到2009年突然窜红，周立波的“海派清口”越说越火，一场120分钟，需要话题有足够的延展性，当代中国正剧、闹剧、喜剧、悲剧穿插上演，给周立波提供了足够的段子。",
+        "year": 2010,
+        "path": "2010s/2010/口语/对话/2010 鲁豫_周立波_郭德纲_吴宗宪_等 鲁豫有约_开心果.txt",
+        "recordId": "15041000000219",
+        "source": "鲁豫 · 周立波 · 郭德纲 · 吴宗宪 · 等 鲁豫有约 · 开心果",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "旅行",
+    "storyId": "space-and-mobility-14",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "space-and-mobility-14-prehistory",
+      "name": "离家行旅与远行",
+      "shortName": "离家行旅",
+      "description": "核对“旅行”作为“离家行旅与远行”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "旅行 time:1920s",
+    "totalResults": 251,
+    "candidates": [
+      {
+        "score": 0.0864,
+        "excerpt": "（八）文学家要多作旅行的工夫。",
+        "year": 1920,
+        "path": "1920s/1920/文学/1920 冰心 文学家的造就.txt",
+        "recordId": "312000000028",
+        "source": "冰心 文学家的造就",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0655,
+        "excerpt": "文学家因此便须多做旅行的工夫了。",
+        "year": 1920,
+        "path": "1920s/1920/文学/1920 冰心 文学家的造就.txt",
+        "recordId": "312000000028",
+        "source": "冰心 文学家的造就",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0615,
+        "excerpt": "我心中也生出了幾分旅行的興趣。",
+        "year": 1923,
+        "path": "1920s/1923/报刊/1923 Author 創造季刊_第1卷第2期.txt",
+        "recordId": "486000002524",
+        "source": "Author 創造季刊 · 第1卷第2期",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "移民",
+    "storyId": "space-and-mobility-15",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "space-and-mobility-15-prehistory",
+      "name": "迁徙人口与移居他地",
+      "shortName": "迁徙人口",
+      "description": "核对“移民”作为“迁徙人口与移居他地”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "移民 time:1920s",
+    "totalResults": 59,
+    "candidates": [
+      {
+        "score": 0.0592,
+        "excerpt": "（四）各省區中的國有土地的一部分，作爲蘇維埃政府移民墾植之用，分配工農軍的兵士，供其經濟上的使用。",
+        "year": 1928,
+        "path": "1920s/1928/报刊/1928 Author 布爾塞維克_第2卷第2期.txt",
+        "recordId": "1120000000394",
+        "source": "Author 布爾塞維克 · 第2卷第2期",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0573,
+        "excerpt": "尙不滿四十萬（）此器用原料不也物產富源如此弱而人口密度及如此其大國民生存文化發之題將如何解決耶此本政家所焦而國策所由之決定者也吾人設身處地從消極方面計之有限制人口增殖一法從極方計之則（一）爲海外移民策（二）領土張策（三）工商業發展策言之利用外原料加工製造賣取其中間得以自之三策而已今將各項分別硏究",
+        "year": 1925,
+        "path": "1920s/1925/报刊/1925 Author 少年世界_增刊_日本號.txt",
+        "recordId": "626000000640",
+        "source": "Author 少年世界 · 增刊 · 日本號",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0519,
+        "excerpt": "提倡查其一千九百十七年六月查在滿洲留人數已有十一萬二千餘人然日本對於此方面移民之目固非如在美濠單純移住問題實爲殖民地取得之準備日本國內人口五千六百餘萬其增殖率一一·八共每年增加人口總在六十萬以上今查其一千九百十六七年調查海外居留人數四五〇，七七三比…",
+        "year": 1925,
+        "path": "1920s/1925/报刊/1925 Author 少年世界_增刊_日本號.txt",
+        "recordId": "626000000643",
+        "source": "Author 少年世界 · 增刊 · 日本號",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "移民",
+    "storyId": "space-and-mobility-15",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "space-and-mobility-15-turn",
+      "name": "现代国家法律与跨境移民身份",
+      "shortName": "现代国家法律",
+      "description": "追踪“移民”如何在制度、知识或媒介中稳定为“现代国家法律与跨境移民身份”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "移民 time:1920s",
+    "totalResults": 59,
+    "candidates": [
+      {
+        "score": 0.0485,
+        "excerpt": "尙不滿四十萬（）此器用原料不也物產富源如此弱而人口密度及如此其大國民生存文化發之題將如何解決耶此本政家所焦而國策所由之決定者也吾人設身處地從消極方面計之有限制人口增殖一法從極方計之則（一）爲海外移民策（二）領土張策（三）工商業發展策言之利用外原料加工製造賣取其中間得以自之三策而已今將各項分別硏究",
+        "year": 1925,
+        "path": "1920s/1925/报刊/1925 Author 少年世界_增刊_日本號.txt",
+        "recordId": "626000000640",
+        "source": "Author 少年世界 · 增刊 · 日本號",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0445,
+        "excerpt": "東方移民律下之中國工人",
+        "year": 1928,
+        "path": "1920s/1928/报刊/1928 Author 中國工人_第4期（1928年）.txt",
+        "recordId": "1069000000235",
+        "source": "Author 中國工人 · 第4期（1928年）",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0445,
+        "excerpt": "日本對於這個問題，一定要提出移民問題來抵制。",
+        "year": 1921,
+        "path": "1920s/1921/报刊/1921 Author 共産黨_第6號.txt",
+        "recordId": "339000000062",
+        "source": "Author 共産黨 · 第6號",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "流动",
+    "storyId": "space-and-mobility-16",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "space-and-mobility-16-prehistory",
+      "name": "水流、移动与不固定",
+      "shortName": "水流、移动",
+      "description": "核对“流动”作为“水流、移动与不固定”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "流动 time:1920s",
+    "totalResults": 39,
+    "candidates": [
+      {
+        "score": 0.138,
+        "excerpt": "象現在一般人所說的：以性慾为恋爱动机，恋爱是流动不固定的。",
+        "year": 1921,
+        "path": "1920s/1921/报刊/1921 Author 劳动与妇女_第8期.txt",
+        "recordId": "347000000045",
+        "source": "Author 劳动与妇女 · 第8期",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0959,
+        "excerpt": "现在这个老赵五十多岁，他那个钱摊儿，不是固定的，是个流动的。",
+        "year": 1920,
+        "path": "1920s/1920/文学/1920 蔡友梅 益世余谭_1920.txt",
+        "recordId": "325000000023",
+        "source": "蔡友梅 益世余谭 · 1920",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0456,
+        "excerpt": "倘若你是由远远的另一处地方听着，那种喧嚣的起伏，你会疑心到是滩水流动的声音了！",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 沈从文 市集.txt",
+        "recordId": "657000000008",
+        "source": "沈从文 市集",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "风景",
+    "storyId": "space-and-mobility-17",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "space-and-mobility-17-prehistory",
+      "name": "风光景物与可观之景",
+      "shortName": "风光景物",
+      "description": "核对“风景”作为“风光景物与可观之景”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 0
+    },
+    "query": "风景 time:1920s",
+    "totalResults": 153,
+    "candidates": [
+      {
+        "score": 0.1127,
+        "excerpt": "扬州风景，必有可观。",
+        "year": 1921,
+        "path": "1920s/1921/文学/小说笔记/1921 陆士谔 清朝秘史.txt",
+        "recordId": "397000003271",
+        "source": "陆士谔 清朝秘史",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0674,
+        "excerpt": "七 工部流连风景的诗比较少，但每有所作，一定于所咏的景物观察入微。",
+        "year": 1922,
+        "path": "1920s/1922/文学/1922 梁启超 情圣杜甫.txt",
+        "recordId": "422000000000",
+        "source": "梁启超 情圣杜甫",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0459,
+        "excerpt": "记得咸丰末年，来了杀风景的几个洋人，把一座园子毁了。",
+        "year": 1921,
+        "path": "1920s/1921/文学/小说笔记/1921 李伯通 西太后艳史演义.txt",
+        "recordId": "396000000006",
+        "source": "李伯通 西太后艳史演义",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "家园",
+    "storyId": "space-and-mobility-18",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "space-and-mobility-18-prehistory",
+      "name": "家宅园地与故乡",
+      "shortName": "家宅园地",
+      "description": "核对“家园”作为“家宅园地与故乡”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 0
+    },
+    "query": "家园 time:1920s",
+    "totalResults": 9,
+    "candidates": [
+      {
+        "score": 0.0353,
+        "excerpt": "后来看见有了许多的荼蘼架子，才知道是家园。",
+        "year": 1928,
+        "path": "1920s/1928/文学/小说笔记/1928 徐哲身 汉代宫廷艳史.txt",
+        "recordId": "1222000001349",
+        "source": "徐哲身 汉代宫廷艳史",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0317,
+        "excerpt": "此次因故去职，负疚孔多，以后息影家园，不闻政治，恐劳远系，特此奉闻。",
+        "year": 1920,
+        "path": "1920s/192x/文学/小说笔记/192x 蔡东藩_许廑父 民国演义.txt",
+        "recordId": "1341000002431",
+        "source": "192x 蔡东藩 · 许廑父 民国演义",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0309,
+        "excerpt": "他又仿佛看见孤灯独坐的赵筠秋想起了被摈弃在寂寞的家园的母亲，便诅咒她的恶浊的家庭，她的腐化的父亲，诅咒封建社会的一切制度和习惯。",
+        "year": 1929,
+        "path": "1920s/1929/文学/1929 茅盾 色盲.txt",
+        "recordId": "1322000000001",
+        "source": "茅盾 色盲",
+        "hintHits": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "word": "杂志",
+    "storyId": "media-language-03",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "media-language-03-contemporary",
+      "name": "杂志品牌、电子刊与视觉风格",
+      "shortName": "杂志品牌、电子刊",
+      "description": "检查当代“杂志品牌、电子刊与视觉风格”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(网络杂志|数字杂志) time:2000s",
+    "totalResults": 27,
+    "candidates": [
+      {
+        "score": 0.1571,
+        "excerpt": "与其他媒体网站“求新、求快”的定位不同，中国网力求办成一个具有“超级网络杂志”风格的网站。",
+        "year": 2000,
+        "path": "2000s/2000/报刊/人民日报/rmrb_2000_08.txt",
+        "recordId": "13127000011176",
+        "source": "rmrb · 2000 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1265,
+        "excerpt": "我们把这种由热点新闻深度报道和背景资料、文献统计综合而成的专题信息，称之为“超级网络杂志”，这是中国网的风格之一。",
+        "year": 2000,
+        "path": "2000s/2000/报刊/光明日报/2000_08.txt",
+        "recordId": "13139000003313",
+        "source": "2000 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1219,
+        "excerpt": "目前，学界认可度比较高的是：新兴媒体是新技术支撑体系下出现的媒体形态，如数字杂志、数字报纸、数字广播、手机短信、移动电视、网络、桌面视窗、数字电视、数字电影、触摸媒体等。",
+        "year": 2009,
+        "path": "2000s/2009/报刊/光明日报/2009_12.txt",
+        "recordId": "14727000001143",
+        "source": "2009 · 12",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "作者",
+    "storyId": "media-language-06",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "media-language-06-turn",
+      "name": "现代著作权与文化生产身份",
+      "shortName": "现代著作权",
+      "description": "追踪“作者”如何在制度、知识或媒介中稳定为“现代著作权与文化生产身份”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(作者著作权|作者享有著作权|作者权) time:1990s",
+    "totalResults": 63,
+    "candidates": [
+      {
+        "score": 0.2296,
+        "excerpt": "因为前者便是法国保护文字作者著作权的集体管理机构，后者则是保护视听作品作者权利的机构。",
+        "year": 1997,
+        "path": "1990s/1997/报刊/人民日报/rmrb_1997_10.txt",
+        "recordId": "10962000013765",
+        "source": "rmrb · 1997 · 10",
+        "hintHits": 2
+      },
+      {
+        "score": 0.2147,
+        "excerpt": "著作权法是怎样保护歌曲作者权益的？",
+        "year": 1992,
+        "path": "1990s/1992/报刊/光明日报/1992_01.txt",
+        "recordId": "5978000001448",
+        "source": "1992 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1913,
+        "excerpt": "我国《著作权法》第9条规定，“著作权人包括：（一）作者；",
+        "year": 1993,
+        "path": "1990s/1993/报刊/光明日报/1993_04.txt",
+        "recordId": "6831000002394",
+        "source": "1993 · 04",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "传播",
+    "storyId": "media-language-09",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "media-language-09-turn",
+      "name": "现代传播学与大众媒介过程",
+      "shortName": "现代传播学",
+      "description": "追踪“传播”如何在制度、知识或媒介中稳定为“现代传播学与大众媒介过程”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(大众传播学|传播学研究|传播理论) time:1990s",
+    "totalResults": 41,
+    "candidates": [
+      {
+        "score": 0.3356,
+        "excerpt": "《大众传播学总论》出版",
+        "year": 1993,
+        "path": "1990s/1993/报刊/人民日报/rmrb_1993_10.txt",
+        "recordId": "6093000018288",
+        "source": "rmrb · 1993 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.269,
+        "excerpt": "“传播与文化”译丛，在全面而系统地介绍西方近一个世纪传播学的研究成果的同时（包括有六本译著：《当代西方修辞学：演讲与话语批评》、《当代西方修辞学：批评模式与方法》、《传播理论》、《跨文化传播学：东方视角》、《大众传播学：影响研究范式》、《重组话语频道》），也将推出有关传播与各个文化领域的研究著述。",
+        "year": 1999,
+        "path": "1990s/1999/报刊/人民日报/rmrb_1999_04.txt",
+        "recordId": "12934000019319",
+        "source": "rmrb · 1999 · 04",
+        "hintHits": 2
+      },
+      {
+        "score": 0.2673,
+        "excerpt": "它论述了传播学的基本理论、大众传播的五大部类研究、传播学理论的应用（传播与舆论、传播与民意测验、传播与广告等）、大众传播学的研究方法以及传播学研究的新领域——“发展传播学”。",
+        "year": 1993,
+        "path": "1990s/1993/报刊/人民日报/rmrb_1993_10.txt",
+        "recordId": "6093000018290",
+        "source": "rmrb · 1993 · 10",
+        "hintHits": 2
+      }
+    ]
+  },
+  {
+    "word": "影像",
+    "storyId": "media-language-18",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "media-language-18-turn",
+      "name": "摄影电影与现代视觉媒介",
+      "shortName": "摄影电影",
+      "description": "追踪“影像”如何在制度、知识或媒介中稳定为“摄影电影与现代视觉媒介”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(影像艺术|电影影像|摄影影像) time:1990s",
+    "totalResults": 7,
+    "candidates": [
+      {
+        "score": 0.1589,
+        "excerpt": "这是一次从电影本体、电影语言、电影影像到电影的表现方式的全面更新。",
+        "year": 1998,
+        "path": "1990s/1998/报刊/人民日报/rmrb_1998_12.txt",
+        "recordId": "12816000009203",
+        "source": "rmrb · 1998 · 12",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1492,
+        "excerpt": "电影美术师（或称美工），以形、光、色等造型手段创造电影影像。",
+        "year": 1991,
+        "path": "1990s/1991/应用文/自然科学/1991 林崇德_王德胜 中国儿童百科全书.txt",
+        "recordId": "5765000022356",
+        "source": "林崇德 · 王德胜 中国儿童百科全书",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1344,
+        "excerpt": "一般的电影影像都是平面的，缺少纵深感和立体感，立体电影弥补了这个缺陷。",
+        "year": 1991,
+        "path": "1990s/1991/应用文/自然科学/1991 林崇德_王德胜 中国儿童百科全书.txt",
+        "recordId": "5765000022273",
+        "source": "林崇德 · 王德胜 中国儿童百科全书",
+        "hintHits": 1
+      }
+    ]
+  }
+]

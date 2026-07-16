@@ -1,0 +1,1386 @@
+[
+  {
+    "word": "流量",
+    "storyId": "technical-metaphors-03",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "technical-metaphors-03-turn",
+      "name": "通信网络中的数据流量",
+      "shortName": "通信网络中的数据",
+      "description": "追踪“流量”如何在制度、知识或媒介中稳定为“通信网络中的数据流量”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(网络流量|数据流量|通信流量) time:1990s",
+    "totalResults": 9,
+    "candidates": [
+      {
+        "score": 0.2055,
+        "excerpt": "参加数据通信局上网工程的部委，建立站点、发布信息都不用掏钱，数据流量也不计费。",
+        "year": 1999,
+        "path": "1990s/1999/报刊/人民日报/rmrb_1999_01.txt",
+        "recordId": "12931000000980",
+        "source": "rmrb · 1999 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1993,
+        "excerpt": "两三年内IP数据流量将超过话音成为通信业务的主流，人们已经开始以IP业务为主对网络进行优化设计。",
+        "year": 1999,
+        "path": "1990s/1999/报刊/光明日报/1999_08.txt",
+        "recordId": "12950000000488",
+        "source": "1999 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1921,
+        "excerpt": "一个站点知名度越大、访问的人越多，数据流量就越大，交的钱也就越多。",
+        "year": 1999,
+        "path": "1990s/1999/报刊/光明日报/1999_07.txt",
+        "recordId": "12949000002696",
+        "source": "1999 · 07",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "流量",
+    "storyId": "technical-metaphors-03",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "technical-metaphors-03-contemporary",
+      "name": "注意力、受众与可变现流量",
+      "shortName": "注意力、受众",
+      "description": "检查当代“注意力、受众与可变现流量”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "(流量变现|流量明星|流量经济) time:2010s",
+    "totalResults": 335,
+    "candidates": [
+      {
+        "score": 0.1607,
+        "excerpt": "出于对演技的无视以及对流量的片面追求，一些操盘者更是以“注意力经济”为理据、以刷流量为手段，推制出所谓“流量明星”，遑顾“流量明星”是不是有演艺才能，遑顾“流量”所系的内容是不是与社会公共价值抵触。",
+        "year": 2017,
+        "path": "2010s/2017/报刊/人民日报/rmrb_2017_09.txt",
+        "recordId": "15397000032499",
+        "source": "rmrb · 2017 · 09",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1572,
+        "excerpt": "“直播十分消耗流量，也不是制造新流量的产品，只有与平台结合才可以转换为流量变现的工具。",
+        "year": 2017,
+        "path": "2010s/2017/报刊/光明日报/2017_06.txt",
+        "recordId": "15406000009548",
+        "source": "2017 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1511,
+        "excerpt": "而这，正是流量经济带给人们的一大困惑，它争夺的是人的注意力，产生的最大问题是迷失。",
+        "year": 2017,
+        "path": "2010s/2017/报刊/光明日报/2017_08.txt",
+        "recordId": "15408000017644",
+        "source": "2017 · 08",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "窗口",
+    "storyId": "technical-metaphors-04",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "technical-metaphors-04-turn",
+      "name": "图形界面中的 window",
+      "shortName": "图形界面中的 w",
+      "description": "追踪“窗口”如何在制度、知识或媒介中稳定为“图形界面中的 window”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(电脑窗口|图形窗口|窗口界面) time:1990s",
+    "totalResults": 3,
+    "candidates": [
+      {
+        "score": 0.3936,
+        "excerpt": "随着图形窗口界面（如Windows）的流行，鼠标的使用也越来越广泛。",
+        "year": 1996,
+        "path": "1990s/1996/报刊/光明日报/1996_03.txt",
+        "recordId": "10845000002431",
+        "source": "1996 · 03",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1332,
+        "excerpt": "通译InternetV2.0是一个集在线翻译、窗口界面汉化和多功能电子词典于一体的全能网上翻译工具，涉及机械、电信、化工等24个专业领域的词库可任意挂接，译后文章可读性达80％以上，整屏翻译只需5秒，速度与浏览同步。",
+        "year": 1997,
+        "path": "1990s/1997/报刊/光明日报/1997_08.txt",
+        "recordId": "12735000002818",
+        "source": "1997 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1196,
+        "excerpt": "由书虫我又想到了“网虫”：一个个电脑窗口，一个个网络站点，网虫们不停地点击，不断地汲取新的知识和信息。",
+        "year": 1999,
+        "path": "1990s/1999/报刊/光明日报/1999_05.txt",
+        "recordId": "12947000003450",
+        "source": "1999 · 05",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "窗口",
+    "storyId": "technical-metaphors-04",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "technical-metaphors-04-contemporary",
+      "name": "服务入口、时间窗口与机会窗口",
+      "shortName": "服务入口、时间窗",
+      "description": "检查当代“服务入口、时间窗口与机会窗口”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "(服务窗口|时间窗口|机会窗口) time:2010s",
+    "totalResults": 2753,
+    "candidates": [
+      {
+        "score": 0.2128,
+        "excerpt": "由此，2009年12月31日成了退保者的时间窗口。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000037687",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2039,
+        "excerpt": "对要融资或者再融资的企业来说，合适的时间窗口很关键。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_05.txt",
+        "recordId": "15073000027914",
+        "source": "rmrb · 2010 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2039,
+        "excerpt": "“这次金融危机，是我们转变发展方式的最后一个时间窗口。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000001457",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "桌面",
+    "storyId": "technical-metaphors-05",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "technical-metaphors-05-turn",
+      "name": "图形操作系统的 desktop 界面",
+      "shortName": "图形操作系统的 ",
+      "description": "追踪“桌面”如何在制度、知识或媒介中稳定为“图形操作系统的 desktop 界面”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(电脑桌面|桌面界面|操作系统桌面) time:1990s",
+    "totalResults": 4,
+    "candidates": [
+      {
+        "score": 0.1201,
+        "excerpt": "针对这些问题，比特公司自１９８８年以来就致力于研制开发电脑桌面排版系统，研制成功物美价廉的比特４０００普惠桌面排版软件。",
+        "year": 1993,
+        "path": "1990s/1993/报刊/人民日报/rmrb_1993_10.txt",
+        "recordId": "6093000001877",
+        "source": "rmrb · 1993 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1142,
+        "excerpt": "本报讯 “开放式电脑桌面排版”研讨会日前在京举行。",
+        "year": 1993,
+        "path": "1990s/1993/报刊/光明日报/1993_11.txt",
+        "recordId": "6838000003229",
+        "source": "1993 · 11",
+        "hintHits": 1
+      },
+      {
+        "score": 0.105,
+        "excerpt": "电脑桌面裂痕初现",
+        "year": 1999,
+        "path": "1990s/1999/报刊/光明日报/1999_08.txt",
+        "recordId": "12950000002280",
+        "source": "1999 · 08",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "桌面",
+    "storyId": "technical-metaphors-05",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "technical-metaphors-05-contemporary",
+      "name": "远程桌面、云桌面与个人数字工作台",
+      "shortName": "远程桌面、云桌面",
+      "description": "检查当代“远程桌面、云桌面与个人数字工作台”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "(远程桌面|云桌面|虚拟桌面) time:2010s",
+    "totalResults": 275,
+    "candidates": [
+      {
+        "score": 0.3782,
+        "excerpt": "[文章名]: 远程桌面连接",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/中文维基/Wiki_078.txt",
+        "recordId": "15549000018381",
+        "source": "Wiki · 078",
+        "hintHits": 1
+      },
+      {
+        "score": 0.3657,
+        "excerpt": "[文章名]: 远程桌面软件",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/中文维基/Wiki_042.txt",
+        "recordId": "15513000009551",
+        "source": "Wiki · 042",
+        "hintHits": 1
+      },
+      {
+        "score": 0.3089,
+        "excerpt": "[内容]: Apple远程桌面Apple远程桌面（；",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/中文维基/Wiki_088.txt",
+        "recordId": "15559000000071",
+        "source": "Wiki · 088",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "文件",
+    "storyId": "technical-metaphors-06",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "technical-metaphors-06-turn",
+      "name": "计算机中的数据文件",
+      "shortName": "计算机中的数据文",
+      "description": "追踪“文件”如何在制度、知识或媒介中稳定为“计算机中的数据文件”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(计算机文件|文件格式|文件系统) time:1990s",
+    "totalResults": 61,
+    "candidates": [
+      {
+        "score": 0.2916,
+        "excerpt": "★传送与接收计算机文件和数据；",
+        "year": 1996,
+        "path": "1990s/1996/报刊/光明日报/1996_04.txt",
+        "recordId": "10846000001293",
+        "source": "1996 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2346,
+        "excerpt": "成像机根据这些参数将各方位的图像合成为立体图像，并转换成计算机文件输入计算机中。",
+        "year": 1998,
+        "path": "1990s/1998/报刊/人民日报/rmrb_1998_01.txt",
+        "recordId": "12805000008851",
+        "source": "rmrb · 1998 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2118,
+        "excerpt": "该系统的研制成功，将使各种文稿、计算机文件、计算机软件和电子印刷品、数据库等可利用现有的电视信道，随着电视信号迅速传到各地，不需要额外增加频道和发射功率。",
+        "year": 1992,
+        "path": "1990s/1992/报刊/人民日报/rmrb_1992_07.txt",
+        "recordId": "5972000009144",
+        "source": "rmrb · 1992 · 07",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "文件",
+    "storyId": "technical-metaphors-06",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "technical-metaphors-06-contemporary",
+      "name": "云文件、共享权限与版本协作",
+      "shortName": "云文件、共享权限",
+      "description": "检查当代“云文件、共享权限与版本协作”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "(云文件|共享文件|文件版本) time:2010s",
+    "totalResults": 614,
+    "candidates": [
+      {
+        "score": 0.1551,
+        "excerpt": "该版本中，开始菜单上的一些项目被改名，“My”被去除，同时又新增了一些项目，比如共享文件、共享照片和视频。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/中文维基/Wiki_045.txt",
+        "recordId": "15516000012557",
+        "source": "Wiki · 045",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1506,
+        "excerpt": "共享文件和打印机需要客户端的操作系统支持访问服务器上的资源、服务器上的操作系统支持客户端访问其资源，以及一个应用层文件共享协议与传输层协议来支持共享访问。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/中文维基/Wiki_085.txt",
+        "recordId": "15556000000005",
+        "source": "Wiki · 085",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1455,
+        "excerpt": "线上档案分享（Present Online）功能也被加入Word 2013中，与PowerPoint 2010的播放幻灯片（Broadcast Slide Show）功能相当类似，并允许Word 15的使用者透过浏览器与其他人共享文件。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/中文维基/Wiki_052.txt",
+        "recordId": "15523000006378",
+        "source": "Wiki · 052",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "目录",
+    "storyId": "technical-metaphors-07",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "technical-metaphors-07-turn",
+      "name": "文件系统的 directory",
+      "shortName": "文件系统的 di",
+      "description": "追踪“目录”如何在制度、知识或媒介中稳定为“文件系统的 directory”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(文件目录|目录结构|根目录) time:1990s",
+    "totalResults": 24,
+    "candidates": [
+      {
+        "score": 0.2245,
+        "excerpt": "URL的结构与我们常用的文件目录结构有些相似。",
+        "year": 1999,
+        "path": "1990s/1999/报刊/光明日报/1999_02.txt",
+        "recordId": "12944000001764",
+        "source": "1999 · 02",
+        "hintHits": 2
+      },
+      {
+        "score": 0.2158,
+        "excerpt": "4、每个系统的目录资料。",
+        "year": 1996,
+        "path": "1990s/1996/报刊/光明日报/1996_06.txt",
+        "recordId": "10848000001309",
+        "source": "1996 · 06",
+        "hintHits": 0
+      },
+      {
+        "score": 0.207,
+        "excerpt": "如我们在用DIR／S命令查看了C盘根目录中以及所有它的子目录中的文件名和目录名后，可以用DIR／S＞PRN命令把查看的内容从打印机输出，还可以用DIR／S＞ML命令把查看的内容以文件名为ML的文件存在磁盘上，以作备份。",
+        "year": 1996,
+        "path": "1990s/1996/报刊/光明日报/1996_09.txt",
+        "recordId": "10851000000067",
+        "source": "1996 · 09",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "目录",
+    "storyId": "technical-metaphors-07",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "technical-metaphors-07-contemporary",
+      "name": "网站分类、服务目录与可发现性",
+      "shortName": "网站分类、服务目",
+      "description": "检查当代“网站分类、服务目录与可发现性”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "(网站目录|服务目录|资源目录) time:2010s",
+    "totalResults": 208,
+    "candidates": [
+      {
+        "score": 0.1984,
+        "excerpt": "”刘昆表示，购买服务目录应是指导性而非强制性的，应及时进行动态调整。",
+        "year": 2014,
+        "path": "2010s/2014/报刊/人民日报/rmrb_2014_01.txt",
+        "recordId": "15315000018890",
+        "source": "rmrb · 2014 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1956,
+        "excerpt": "有条件的地方也可以将社会组织评估纳入政府购买服务目录。",
+        "year": 2015,
+        "path": "2010s/2015/报刊/人民日报/rmrb_2015_05.txt",
+        "recordId": "15344000014967",
+        "source": "rmrb · 2015 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1876,
+        "excerpt": "建立健全政府购买公共服务制度，公开政府购买公共服务目录，加强政府购买公共服务质量监管。",
+        "year": 2015,
+        "path": "2010s/2015/报刊/人民日报/rmrb_2015_12.txt",
+        "recordId": "15351000004599",
+        "source": "rmrb · 2015 · 12",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "地址",
+    "storyId": "technical-metaphors-08",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "technical-metaphors-08-turn",
+      "name": "网络与存储系统的 address",
+      "shortName": "网络",
+      "description": "追踪“地址”如何在制度、知识或媒介中稳定为“网络与存储系统的 address”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(网络地址|存储地址|IP地址) time:1990s",
+    "totalResults": 51,
+    "candidates": [
+      {
+        "score": 0.3051,
+        "excerpt": "…文名内联网，内连网intranet外联网，外连网extranet网际协议internetprotocol，IP地址解析协议addressresolutionprotocol，ARP逆地址解析协议reverseaddressresolutionprotocal，RARP匿名FTP服务器…",
+        "year": 1998,
+        "path": "1990s/1998/报刊/光明日报/1998_07.txt",
+        "recordId": "12823000001819",
+        "source": "1998 · 07",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2043,
+        "excerpt": "在名片上印IP地址（信息高速公路网络地址）已成为很多北京、上海、深圳人的时尚，它标志个人学识、地位和经济条件。",
+        "year": 1996,
+        "path": "1990s/1996/报刊/光明日报/1996_08.txt",
+        "recordId": "10850000000171",
+        "source": "1996 · 08",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1661,
+        "excerpt": "网络中心的计算机是直接与国际互联网络相连的，它有一个或几个合法的网络地址。",
+        "year": 1996,
+        "path": "1990s/1996/报刊/光明日报/1996_04.txt",
+        "recordId": "10846000001293",
+        "source": "1996 · 04",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "地址",
+    "storyId": "technical-metaphors-08",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "technical-metaphors-08-contemporary",
+      "name": "网址、链接地址与数字身份定位",
+      "shortName": "网址、链接地址",
+      "description": "检查当代“网址、链接地址与数字身份定位”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "(网址地址|链接地址|电子地址) time:2010s",
+    "totalResults": 1342,
+    "candidates": [
+      {
+        "score": 0.5225,
+        "excerpt": "人民网链接地址：",
+        "year": 2014,
+        "path": "2010s/2014/报刊/人民日报/rmrb_2014_10.txt",
+        "recordId": "15324000002860",
+        "source": "rmrb · 2014 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.5225,
+        "excerpt": "人民网链接地址：",
+        "year": 2014,
+        "path": "2010s/2014/报刊/人民日报/rmrb_2014_10.txt",
+        "recordId": "15324000006299",
+        "source": "rmrb · 2014 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.5225,
+        "excerpt": "人民网链接地址：",
+        "year": 2014,
+        "path": "2010s/2014/报刊/人民日报/rmrb_2014_11.txt",
+        "recordId": "15325000015475",
+        "source": "rmrb · 2014 · 11",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "端口",
+    "storyId": "technical-metaphors-09",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "technical-metaphors-09-prehistory",
+      "name": "物体两端与出入之口",
+      "shortName": "物体两端",
+      "description": "核对“端口”作为“物体两端与出入之口”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "(港口端口|两端端口|出入端口) time:1950s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "端口",
+    "storyId": "technical-metaphors-09",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "technical-metaphors-09-turn",
+      "name": "通信系统的 port 编号与接续点",
+      "shortName": "通信系统的 po",
+      "description": "追踪“端口”如何在制度、知识或媒介中稳定为“通信系统的 port 编号与接续点”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(网络端口|通信端口|端口号) time:2000s",
+    "totalResults": 31,
+    "candidates": [
+      {
+        "score": 0.1411,
+        "excerpt": "此外，院士厅、报告厅、电子会议系统、卫星接收系统、网络端口遍布建筑的每一个功能空间。",
+        "year": 2002,
+        "path": "2000s/2002/报刊/光明日报/2002_06.txt",
+        "recordId": "13295000007478",
+        "source": "2002 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1297,
+        "excerpt": "需确认虚拟的COM 口号为COM3…COM9，并与升级执行程序端口号相对应。",
+        "year": 2000,
+        "path": "2000s/200x/应用文/说明书/200x Author 海信电视说明书.txt",
+        "recordId": "15002000000525",
+        "source": "200x Author 海信电视说明书",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1295,
+        "excerpt": "但是我们也要看到,在被曝光的垃圾短信发送者被关闭通信端口之后,用户的手机仍然能收到大量垃圾短信。",
+        "year": 2008,
+        "path": "2000s/2008/报刊/光明日报/2008_03.txt",
+        "recordId": "14464000015185",
+        "source": "2008 · 03",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "接口",
+    "storyId": "technical-metaphors-10",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "technical-metaphors-10-turn",
+      "name": "软硬件系统的 interface",
+      "shortName": "软硬件系统的 i",
+      "description": "追踪“接口”如何在制度、知识或媒介中稳定为“软硬件系统的 interface”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(软件接口|硬件接口|用户接口) time:2000s",
+    "totalResults": 24,
+    "candidates": [
+      {
+        "score": 0.1521,
+        "excerpt": "每个系统之间和各子系统之间既自成体系，又相互关联，既有硬件接口也有软件联系，彼此兼容，完整结合。",
+        "year": 2008,
+        "path": "2000s/2008/报刊/光明日报/2008_04.txt",
+        "recordId": "14465000013323",
+        "source": "2008 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1521,
+        "excerpt": "每个系统之间和各子系统之间既自成体系，又相互关联，既有硬件接口也有软件联系，彼此兼容，完整结合。",
+        "year": 2008,
+        "path": "2000s/2008/报刊/光明日报/2008_04.txt",
+        "recordId": "14465000013338",
+        "source": "2008 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1521,
+        "excerpt": "每个系统之间和各子系统之间既自成体系，又相互关联，既有硬件接口也有软件联系，彼此兼容，完整结合。",
+        "year": 2008,
+        "path": "2000s/2008/报刊/光明日报/2008_04.txt",
+        "recordId": "14465000013351",
+        "source": "2008 · 04",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "终端",
+    "storyId": "technical-metaphors-11",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "technical-metaphors-11-prehistory",
+      "name": "末端、终点与边端位置",
+      "shortName": "末端、终点",
+      "description": "核对“终端”作为“末端、终点与边端位置”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "(线路终端|末端终端|终端位置) time:1950s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "终端",
+    "storyId": "technical-metaphors-11",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "technical-metaphors-11-turn",
+      "name": "通信与计算系统的 terminal",
+      "shortName": "通信",
+      "description": "追踪“终端”如何在制度、知识或媒介中稳定为“通信与计算系统的 terminal”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(计算机终端|通信终端|终端设备) time:1990s",
+    "totalResults": 263,
+    "candidates": [
+      {
+        "score": 0.2177,
+        "excerpt": "电子邮政是一种以计算机网络和邮政电话线网为基础建立的国际标准化信息交换体系，通常以一个大型电子计算机为核心，主机设立电子邮局，所有配有计算机终端设备的单位或个人，均可通过电话线与之联网，并向电子邮局申请一个电子邮箱和邮箱编号。",
+        "year": 1992,
+        "path": "1990s/1992/报刊/人民日报/rmrb_1992_02.txt",
+        "recordId": "5967000005266",
+        "source": "rmrb · 1992 · 02",
+        "hintHits": 2
+      },
+      {
+        "score": 0.2169,
+        "excerpt": "各比赛场馆的用户线路以及各种通信终端设备的安装等。",
+        "year": 1990,
+        "path": "1990s/1990/报刊/人民日报/rmrb_1990_08.txt",
+        "recordId": "5662000020139",
+        "source": "rmrb · 1990 · 08",
+        "hintHits": 2
+      },
+      {
+        "score": 0.2142,
+        "excerpt": "为了统一技术标准、监督产品质量，邮电部对各种通信终端设备实行了全国统一的进网审批、颁发进网许可证和进网标志的制度。",
+        "year": 1992,
+        "path": "1990s/1992/报刊/人民日报/rmrb_1992_11.txt",
+        "recordId": "5976000021131",
+        "source": "rmrb · 1992 · 11",
+        "hintHits": 2
+      }
+    ]
+  },
+  {
+    "word": "云",
+    "storyId": "technical-metaphors-12",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "technical-metaphors-12-turn",
+      "name": "云计算与远程资源隐喻",
+      "shortName": "云计算",
+      "description": "追踪“云”如何在制度、知识或媒介中稳定为“云计算与远程资源隐喻”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(云计算|计算云|云技术) time:2000s",
+    "totalResults": 75,
+    "candidates": [
+      {
+        "score": 0.3102,
+        "excerpt": "“云计算”技术引起关注",
+        "year": 2009,
+        "path": "2000s/2009/报刊/人民日报/rmrb_2009_08.txt",
+        "recordId": "14711000017499",
+        "source": "rmrb · 2009 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2984,
+        "excerpt": "“云计算”成争夺新焦点",
+        "year": 2009,
+        "path": "2000s/2009/报刊/人民日报/rmrb_2009_07.txt",
+        "recordId": "14710000022025",
+        "source": "rmrb · 2009 · 07",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2865,
+        "excerpt": "杨诚认为云计算“因为不贵，所以珍贵；",
+        "year": 2009,
+        "path": "2000s/2009/报刊/光明日报/2009_05.txt",
+        "recordId": "14720000020622",
+        "source": "2009 · 05",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "云",
+    "storyId": "technical-metaphors-12",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "technical-metaphors-12-contemporary",
+      "name": "云服务、云端协作与平台基础设施",
+      "shortName": "云服务、云端协作",
+      "description": "检查当代“云服务、云端协作与平台基础设施”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "(云服务|云端协作|云平台) time:2010s",
+    "totalResults": 3916,
+    "candidates": [
+      {
+        "score": 0.3426,
+        "excerpt": "1.云基础设施：云服务器、瘦终端、云存储、集装箱式数据中心等",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_12.txt",
+        "recordId": "15080000011751",
+        "source": "rmrb · 2010 · 12",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2984,
+        "excerpt": "苹果推出音乐云服务",
+        "year": 2011,
+        "path": "2010s/2011/报刊/光明日报/2011_06.txt",
+        "recordId": "15244000003936",
+        "source": "2011 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.27,
+        "excerpt": "4.云服务：集成、维护、咨询、平台优化",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_12.txt",
+        "recordId": "15080000011754",
+        "source": "rmrb · 2010 · 12",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "计算",
+    "storyId": "technical-metaphors-13",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "technical-metaphors-13-turn",
+      "name": "机器计算与 computer science",
+      "shortName": "机器计算",
+      "description": "追踪“计算”如何在制度、知识或媒介中稳定为“机器计算与 computer science”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(计算机科学|机器计算|电子计算) time:1950s",
+    "totalResults": 309,
+    "candidates": [
+      {
+        "score": 0.1294,
+        "excerpt": "最近，德意志民主共和国又设计出了电子计算机和改良的会计计算机以及其他机器。",
+        "year": 1956,
+        "path": "1950s/1956/报刊/人民日报/rmrb_1956_04.txt",
+        "recordId": "3727000009694",
+        "source": "rmrb · 1956 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1292,
+        "excerpt": "3架电子计算机已经在华沙波兰科学院数学研究所数学机器部进行工作。",
+        "year": 1956,
+        "path": "1950s/1956/报刊/人民日报/rmrb_1956_03.txt",
+        "recordId": "3726000004553",
+        "source": "rmrb · 1956 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1269,
+        "excerpt": "一架电子计算机在复旦大学制成",
+        "year": 1956,
+        "path": "1950s/1956/报刊/人民日报/rmrb_1956_05.txt",
+        "recordId": "3728000010738",
+        "source": "rmrb · 1956 · 05",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "计算",
+    "storyId": "technical-metaphors-13",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "technical-metaphors-13-contemporary",
+      "name": "云计算、算力与可计算性",
+      "shortName": "云计算、算力",
+      "description": "检查当代“云计算、算力与可计算性”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "(云计算|算力计算|可计算性) time:2010s",
+    "totalResults": 9582,
+    "candidates": [
+      {
+        "score": 0.305,
+        "excerpt": "云计算也是如此。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_06.txt",
+        "recordId": "15074000005223",
+        "source": "rmrb · 2010 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2863,
+        "excerpt": "云计算是“逼”出来的",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_06.txt",
+        "recordId": "15074000005225",
+        "source": "rmrb · 2010 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2119,
+        "excerpt": "云计算也带给媒体很大的机遇。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_06.txt",
+        "recordId": "15074000005221",
+        "source": "rmrb · 2010 · 06",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "程序",
+    "storyId": "technical-metaphors-14",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "technical-metaphors-14-turn",
+      "name": "计算机可执行指令序列",
+      "shortName": "计算机可执行指令",
+      "description": "追踪“程序”如何在制度、知识或媒介中稳定为“计算机可执行指令序列”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(计算机程序|程序语言|程序指令) time:1950s",
+    "totalResults": 4,
+    "candidates": [
+      {
+        "score": 0.2517,
+        "excerpt": "电子计算机程序控制铣床制成",
+        "year": 1958,
+        "path": "1950s/1958/报刊/人民日报/rmrb_1958_10.txt",
+        "recordId": "3826000003146",
+        "source": "rmrb · 1958 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1947,
+        "excerpt": "电子计算机程序控制铣床，这是多么新奇的名字。",
+        "year": 1959,
+        "path": "1950s/1959/报刊/人民日报/rmrb_1959_01.txt",
+        "recordId": "3898000000927",
+        "source": "rmrb · 1959 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1509,
+        "excerpt": "在机械馆的一间小屋里，金日成首相和全体朝鲜贵宾参观了电子计算机程序控制车床的操作表演。",
+        "year": 1958,
+        "path": "1950s/1958/报刊/人民日报/rmrb_1958_11.txt",
+        "recordId": "3827000017640",
+        "source": "rmrb · 1958 · 11",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "程序",
+    "storyId": "technical-metaphors-14",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "technical-metaphors-14-contemporary",
+      "name": "小程序、程序化流程与自动化",
+      "shortName": "小程序、程序化流",
+      "description": "检查当代“小程序、程序化流程与自动化”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "(小程序|程序化|自动程序) time:2010s",
+    "totalResults": 2932,
+    "candidates": [
+      {
+        "score": 0.1505,
+        "excerpt": "健全权力运行监控机制，推进权力运行程序化和公开透明；",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_05.txt",
+        "recordId": "15073000028912",
+        "source": "rmrb · 2010 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1503,
+        "excerpt": "加强监督制度建设，推进权力运行程序化和公开透明必不可少。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000023804",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.15,
+        "excerpt": "这里，记者就推进行政问责的制度化、程序化和法治化，进行了一些探讨，供读者参考。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_09.txt",
+        "recordId": "15077000002864",
+        "source": "rmrb · 2010 · 09",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "代码",
+    "storyId": "technical-metaphors-15",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "technical-metaphors-15-contemporary",
+      "name": "低代码、文化代码与规则的可编程化",
+      "shortName": "低代码、文化代码",
+      "description": "检查当代“低代码、文化代码与规则的可编程化”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "(低代码|文化代码|代码规则) time:2010s",
+    "totalResults": 10,
+    "candidates": [
+      {
+        "score": 0.2325,
+        "excerpt": "通过文化代码，人们可以识别不同的文化形式，了解不同民族的文化。",
+        "year": 2015,
+        "path": "2010s/2015/报刊/人民日报/rmrb_2015_08.txt",
+        "recordId": "15347000024400",
+        "source": "rmrb · 2015 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2238,
+        "excerpt": "文化代码是指以某种形式“编码”的文化信息，由人们代代相传。",
+        "year": 2015,
+        "path": "2010s/2015/报刊/人民日报/rmrb_2015_08.txt",
+        "recordId": "15347000024400",
+        "source": "rmrb · 2015 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2135,
+        "excerpt": "具体来说，为了建立一个共享性的文化代码安全空间，我们首先要在国家内部对文化代码进行编译；",
+        "year": 2015,
+        "path": "2010s/2015/报刊/人民日报/rmrb_2015_08.txt",
+        "recordId": "15347000024404",
+        "source": "rmrb · 2015 · 08",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "机器",
+    "storyId": "technical-metaphors-16",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "technical-metaphors-16-turn",
+      "name": "工业与计算系统中的 machine",
+      "shortName": "工业",
+      "description": "追踪“机器”如何在制度、知识或媒介中稳定为“工业与计算系统中的 machine”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(计算机器|机器系统|电子机器) time:1950s",
+    "totalResults": 25,
+    "candidates": [
+      {
+        "score": 0.1565,
+        "excerpt": "钢铁工业部所属各工业企业已经建立了一百八十八个机器计算局和机器计算站，配备着有高度效率的电子计算机器。",
+        "year": 1957,
+        "path": "1950s/1957/报刊/人民日报/rmrb_1957_04.txt",
+        "recordId": "3765000006359",
+        "source": "rmrb · 1957 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1452,
+        "excerpt": "苏联已陆续制造出各种型式的电子计算机器，新设计的电子计算机“乌拉尔牌”将大量生产。",
+        "year": 1957,
+        "path": "1950s/1957/报刊/人民日报/rmrb_1957_04.txt",
+        "recordId": "3765000006360",
+        "source": "rmrb · 1957 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1393,
+        "excerpt": "别的不说，单是计算机器的转速，就使他苦恼得几夜不能入睡。",
+        "year": 1959,
+        "path": "1950s/1959/报刊/人民日报/rmrb_1959_10.txt",
+        "recordId": "3907000020697",
+        "source": "rmrb · 1959 · 10",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "机器",
+    "storyId": "technical-metaphors-16",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "technical-metaphors-16-contemporary",
+      "name": "机器学习、机器决策与人机关系",
+      "shortName": "机器学习、机器决",
+      "description": "检查当代“机器学习、机器决策与人机关系”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "(机器学习|机器决策|人机关系) time:2010s",
+    "totalResults": 1185,
+    "candidates": [
+      {
+        "score": 0.3225,
+        "excerpt": "机器学习与互联网搜索（新知）",
+        "year": 2011,
+        "path": "2010s/2011/报刊/人民日报/rmrb_2011_08.txt",
+        "recordId": "15234000037263",
+        "source": "rmrb · 2011 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2971,
+        "excerpt": "现在当人们提到机器学习时，通常是指统计机器学习或统计学习。",
+        "year": 2011,
+        "path": "2010s/2011/报刊/人民日报/rmrb_2011_08.txt",
+        "recordId": "15234000037267",
+        "source": "rmrb · 2011 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2863,
+        "excerpt": "李航说，机器学习是“乡下人”的办法。",
+        "year": 2011,
+        "path": "2010s/2011/报刊/人民日报/rmrb_2011_08.txt",
+        "recordId": "15234000037270",
+        "source": "rmrb · 2011 · 08",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "智能",
+    "storyId": "technical-metaphors-17",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "technical-metaphors-17-turn",
+      "name": "自动控制与 artificial intelligence",
+      "shortName": "自动控制",
+      "description": "追踪“智能”如何在制度、知识或媒介中稳定为“自动控制与 artificial intelligence”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(人工智能|智能控制|机器智能) time:1980s",
+    "totalResults": 341,
+    "candidates": [
+      {
+        "score": 0.3982,
+        "excerpt": "…n(变数方程)，近年中小学推行的new math(新数)，artificial intelligence(人工智能)，magnetocardiogram(磁性心动描记图)，IC(集成电路)，piscicide(鱼类灭绝)，hot mooner(热月学家)，Sealab(海底实验室)，…",
+        "year": 1980,
+        "path": "1980s/1980/报刊/读书/vol-015.txt",
+        "recordId": "4669000000229",
+        "source": "vol-015",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1591,
+        "excerpt": "智能控制论运用控制论的“黑箱”方法，实现了智能模拟。",
+        "year": 1984,
+        "path": "1980s/1984/报刊/人民日报/rmrb_1984_01.txt",
+        "recordId": "5021000019207",
+        "source": "rmrb · 1984 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1556,
+        "excerpt": "在这种情况下，很难用仿生学方法从结构上仿制如此众多神经元的“人工脑”，而用“黑箱”方法从功能上却能模拟脑功能，使自动控制进入智能控制，机器人发展为智能机器人。",
+        "year": 1984,
+        "path": "1980s/1984/报刊/人民日报/rmrb_1984_01.txt",
+        "recordId": "5021000019207",
+        "source": "rmrb · 1984 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "智能",
+    "storyId": "technical-metaphors-17",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "technical-metaphors-17-contemporary",
+      "name": "智能设备、智能服务与“看起来智能”",
+      "shortName": "智能设备、智能服",
+      "description": "检查当代“智能设备、智能服务与“看起来智能””的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "(智能设备|智能服务|智能产品) time:2010s",
+    "totalResults": 2104,
+    "candidates": [
+      {
+        "score": 0.4383,
+        "excerpt": "天坛有了“智能服务”",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_06.txt",
+        "recordId": "15074000038012",
+        "source": "rmrb · 2010 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.3769,
+        "excerpt": "“智能服务”成为新兴业态",
+        "year": 2012,
+        "path": "2010s/2012/报刊/人民日报/rmrb_2012_03.txt",
+        "recordId": "15262000001348",
+        "source": "rmrb · 2012 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.25,
+        "excerpt": "中国移动智能设备新增用户数量超美国",
+        "year": 2012,
+        "path": "2010s/2012/报刊/人民日报/rmrb_2012_03.txt",
+        "recordId": "15262000012489",
+        "source": "rmrb · 2012 · 03",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "算法",
+    "storyId": "technical-metaphors-18",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "technical-metaphors-18-turn",
+      "name": "计算机科学中的 algorithm",
+      "shortName": "计算机科学中的 ",
+      "description": "追踪“算法”如何在制度、知识或媒介中稳定为“计算机科学中的 algorithm”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(计算机算法|算法设计|算法复杂度) time:1990s",
+    "totalResults": 8,
+    "candidates": [
+      {
+        "score": 0.2343,
+        "excerpt": "算法设计是人类智慧的结晶，计算机科学中的知识创新，主要就是算法的创新，创建一种新算法其意义不亚于建造一种新机型。",
+        "year": 1999,
+        "path": "1990s/1999/报刊/光明日报/1999_05.txt",
+        "recordId": "12947000003386",
+        "source": "1999 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.179,
+        "excerpt": "计算机的硬件、软件和算法是计算机的三个组成部分。",
+        "year": 1999,
+        "path": "1990s/1999/报刊/光明日报/1999_03.txt",
+        "recordId": "12945000000352",
+        "source": "1999 · 03",
+        "hintHits": 0
+      },
+      {
+        "score": 0.1728,
+        "excerpt": "计算机算法理论的研究和基本算法的研究将贯穿整个项目的全过程。",
+        "year": 1999,
+        "path": "1990s/1999/报刊/光明日报/1999_03.txt",
+        "recordId": "12945000000352",
+        "source": "1999 · 03",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "算法",
+    "storyId": "technical-metaphors-18",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "technical-metaphors-18-contemporary",
+      "name": "推荐算法、算法治理与日常归因",
+      "shortName": "推荐算法、算法治",
+      "description": "检查当代“推荐算法、算法治理与日常归因”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "(推荐算法|算法治理|平台算法) time:2010s",
+    "totalResults": 79,
+    "candidates": [
+      {
+        "score": 0.2868,
+        "excerpt": "“推荐算法”分宿舍，效果值得期待",
+        "year": 2018,
+        "path": "2010s/2018/报刊/光明日报/2018_08.txt",
+        "recordId": "15434000017730",
+        "source": "2018 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2383,
+        "excerpt": "大数据社会需要考虑算法治理(环球走笔)",
+        "year": 2019,
+        "path": "2010s/2019/报刊/人民日报/rmrb_2019_01.txt",
+        "recordId": "15440000008109",
+        "source": "rmrb · 2019 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2338,
+        "excerpt": "3. AB测试，评估推荐算法效果优劣；",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/微信公众号/Wechat_018.txt",
+        "recordId": "15579000001100",
+        "source": "Wechat · 018",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "引擎",
+    "storyId": "technical-metaphors-20",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "technical-metaphors-20-turn",
+      "name": "软件系统的 engine 核心模块",
+      "shortName": "软件系统的 en",
+      "description": "追踪“引擎”如何在制度、知识或媒介中稳定为“软件系统的 engine 核心模块”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(软件引擎|游戏引擎|引擎模块) time:2000s",
+    "totalResults": 15,
+    "candidates": [
+      {
+        "score": 0.1722,
+        "excerpt": "来自智联招聘的分析显示，软件人才的就业机会上升与新技术的发展和跨平台、跨行业应用密不可分，如CTI软件开发工程师、WAP软件开发工程师、开发彩票系统的VoIP软件系统工程师、医疗软件开发工程师、三维游戏引擎C/C++程序员、赴日本嵌入式软件开发工程师等都颇为走俏。",
+        "year": 2000,
+        "path": "2000s/200x/网络语料/网页/200x Author C000022.txt",
+        "recordId": "15028000000426",
+        "source": "200x Author C000022",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1722,
+        "excerpt": "来自智联招聘的分析显示，软件人才的就业机会上升与新技术的发展和跨平台、跨行业应用密不可分，如CTI软件开发工程师、WAP软件开发工程师、开发彩票系统的VoIP软件系统工程师、医疗软件开发工程师、三维游戏引擎C/C++程序员、赴日本嵌入式软件开发工程师等都颇为走俏。",
+        "year": 2000,
+        "path": "2000s/200x/网络语料/网页/200x Author C000022.txt",
+        "recordId": "15028000028516",
+        "source": "200x Author C000022",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1539,
+        "excerpt": "崭新的SMS1800SL系统将预装XFE转发引擎模块，而原有的SMS1800／1000系统也可轻易加装XFE模块。",
+        "year": 2003,
+        "path": "2000s/2003/报刊/人民日报/rmrb_2003_10.txt",
+        "recordId": "13509000002421",
+        "source": "rmrb · 2003 · 10",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "引擎",
+    "storyId": "technical-metaphors-20",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "technical-metaphors-20-contemporary",
+      "name": "搜索引擎、增长引擎与发展动力隐喻",
+      "shortName": "搜索引擎、增长引",
+      "description": "检查当代“搜索引擎、增长引擎与发展动力隐喻”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "(搜索引擎|增长引擎|发展引擎) time:2010s",
+    "totalResults": 5960,
+    "candidates": [
+      {
+        "score": 0.5225,
+        "excerpt": "搜索引擎成“帮凶”",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000024731",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.453,
+        "excerpt": "增长引擎各有隐忧",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000033130",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.355,
+        "excerpt": "图为搜索引擎谷歌台历。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000020372",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      }
+    ]
+  }
+]

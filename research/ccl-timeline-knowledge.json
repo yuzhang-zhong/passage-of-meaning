@@ -1,0 +1,943 @@
+[
+  {
+    "word": "物理",
+    "storyId": "knowledge-life-02",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "knowledge-life-02-prehistory",
+      "name": "事物的道理与条理",
+      "shortName": "事物的道理",
+      "description": "核对“物理”作为“事物的道理与条理”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 0
+    },
+    "query": "物理 (物之理|事物之理|物理规律|道理) time:1920s",
+    "totalResults": 3,
+    "candidates": [
+      {
+        "score": 0.1484,
+        "excerpt": "…們遇見困難在我看起來實在沒有法子想但是他們把頭搖一搖鼔眼望一望主意就出來了且打出主意常常令人推測不來令人服每有物理學化學的道理可知他們的科學已成了習用的智識了又他們己打定主意如需用材料無論如何困難必設法辦到决不吝惜常常做好一事如發稍有疏忽處或有點不勻或有點欠手續處他馬上就要把他改正我…",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 少年世界_第1卷第11期.txt",
+        "recordId": "276000000194",
+        "source": "Author 少年世界 · 第1卷第11期",
+        "hintHits": 1
+      },
+      {
+        "score": 0.0417,
+        "excerpt": "…里昂不關燈中了煤氣毒死的這在法國幾小孩子就知道畏避的又工廠裏的電綫電機縱橫密布容易遭觸然沒有聞觸電死的以外什麽物理化學及算學畫生醫治等學那處不要用科學常識有這種原因所以他們受五六年敎育的程度比中國學生受十幾年敎育要強些但他們只知所用的科學對於精神方面的",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 少年世界_第1卷第11期.txt",
+        "recordId": "276000000212",
+        "source": "Author 少年世界 · 第1卷第11期",
+        "hintHits": 0
+      },
+      {
+        "score": 0.033,
+        "excerpt": "况且，教育假使有学，这和物理学化学之流总归有点两样的。",
+        "year": 1929,
+        "path": "1920s/1929/文学/1929 俞平伯 教育论_上.txt",
+        "recordId": "1300000000000",
+        "source": "俞平伯 教育论 · 上",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "化学",
+    "storyId": "knowledge-life-03",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "knowledge-life-03-prehistory",
+      "name": "化育之学与译名前史",
+      "shortName": "化育之学",
+      "description": "核对“化学”作为“化育之学与译名前史”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 0
+    },
+    "query": "化学 (化育|变化|化学之意|化成) time:1920s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "化学",
+    "storyId": "knowledge-life-03",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "knowledge-life-03-turn",
+      "name": "现代 chemistry 学科",
+      "shortName": "现代 chemi",
+      "description": "追踪“化学”如何在制度、知识或媒介中稳定为“现代 chemistry 学科”，并找出关键转折文本。",
+      "startIndex": 1
+    },
+    "query": "化学 (化学研究|化学实验|化学学科|化学反应) time:1920s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "生物",
+    "storyId": "knowledge-life-04",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "knowledge-life-04-prehistory",
+      "name": "有生之物与生命体",
+      "shortName": "有生之物",
+      "description": "核对“生物”作为“有生之物与生命体”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 0
+    },
+    "query": "生物 (万物|有生之物|生物界|生命) time:1920s",
+    "totalResults": 18,
+    "candidates": [
+      {
+        "score": 0.2291,
+        "excerpt": "便是依据生物界的现象，一，要保存生命；",
+        "year": 1926,
+        "path": "1920s/1926/文学/1926 鲁迅 坟.txt",
+        "recordId": "915000000037",
+        "source": "鲁迅 坟",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1446,
+        "excerpt": "生物为保存生命起见，具有种种本能，最显著的是食欲。",
+        "year": 1926,
+        "path": "1920s/1926/文学/1926 鲁迅 坟.txt",
+        "recordId": "915000000038",
+        "source": "鲁迅 坟",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1411,
+        "excerpt": "因为生物之所以为生物，全在有这生命，否则失了生物的意义。",
+        "year": 1926,
+        "path": "1920s/1926/文学/1926 鲁迅 坟.txt",
+        "recordId": "915000000038",
+        "source": "鲁迅 坟",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "地理",
+    "storyId": "knowledge-life-05",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "knowledge-life-05-prehistory",
+      "name": "土地形势与地方之理",
+      "shortName": "土地形势",
+      "description": "核对“地理”作为“土地形势与地方之理”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 0
+    },
+    "query": "地理 (山川|地势|地理形势|舆地) time:1920s",
+    "totalResults": 4,
+    "candidates": [
+      {
+        "score": 0.0379,
+        "excerpt": "这近边的地理，因为住的久，他是再熟悉也没有的了，所以在这一方面他觉得很可以自信。",
+        "year": 1927,
+        "path": "1920s/1927/文学/1927 郁达夫 十三夜.txt",
+        "recordId": "1008000000000",
+        "source": "郁达夫 十三夜",
+        "hintHits": 0
+      },
+      {
+        "score": 0.033,
+        "excerpt": "高麗國民處在這種地理環境之中，性情當然生來就是和平而温順的，所謂文雅的國民。",
+        "year": 1926,
+        "path": "1920s/1926/报刊/1926 Author 創造月刊_第1卷第2期.txt",
+        "recordId": "839000000853",
+        "source": "Author 創造月刊 · 第1卷第2期",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0326,
+        "excerpt": "『高麗是濱着海的島國，你們只要是讀過地理，大約都是曉得的。",
+        "year": 1926,
+        "path": "1920s/1926/报刊/1926 Author 創造月刊_第1卷第2期.txt",
+        "recordId": "839000000853",
+        "source": "Author 創造月刊 · 第1卷第2期",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "历史",
+    "storyId": "knowledge-life-06",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "knowledge-life-06-turn",
+      "name": "过去过程与现代历史学",
+      "shortName": "过去过程",
+      "description": "追踪“历史”如何在制度、知识或媒介中稳定为“过去过程与现代历史学”，并找出关键转折文本。",
+      "startIndex": 0
+    },
+    "query": "历史 (历史过程|历史发展|过去|历史变化) time:1920s",
+    "totalResults": 69,
+    "candidates": [
+      {
+        "score": 0.1793,
+        "excerpt": "若是一个历史学者，他便要探求那石与过去史实有无底关系。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 许地山 牛津的书虫.txt",
+        "recordId": "687000000008",
+        "source": "许地山 牛津的书虫",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1614,
+        "excerpt": "拿历史的眼光看过去，真不知所为何来。",
+        "year": 1921,
+        "path": "1920s/1921/文学/1921 梁启超 辛亥革命之意义与十年双十节之乐观.txt",
+        "recordId": "382000000000",
+        "source": "梁启超 辛亥革命之意义与十年双十节之乐观",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1506,
+        "excerpt": "历史家尝谓吾人由书籍而知过去，直忘却吾人能直接而见过去耳。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 朱自清 “海阔天空”与“古今中外”　.txt",
+        "recordId": "648000000001",
+        "source": "朱自清 “海阔天空”与“古今中外”　",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "数学",
+    "storyId": "knowledge-life-07",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "knowledge-life-07-prehistory",
+      "name": "算数之学与数术",
+      "shortName": "算数之学",
+      "description": "核对“数学”作为“算数之学与数术”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 0
+    },
+    "query": "数学 (算术|算学|数学计算|数术) time:1920s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "数学",
+    "storyId": "knowledge-life-07",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "knowledge-life-07-turn",
+      "name": "现代 mathematics 学科体系",
+      "shortName": "现代 mathe",
+      "description": "追踪“数学”如何在制度、知识或媒介中稳定为“现代 mathematics 学科体系”，并找出关键转折文本。",
+      "startIndex": 1
+    },
+    "query": "数学 (数学学科|高等数学|数学研究|数学系) time:1920s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "统计",
+    "storyId": "knowledge-life-08",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "knowledge-life-08-prehistory",
+      "name": "统合计算与汇总数目",
+      "shortName": "统合计算",
+      "description": "核对“统计”作为“统合计算与汇总数目”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 0
+    },
+    "query": "统计 (数目|汇总|统计表|统计数字) time:1920s",
+    "totalResults": 4,
+    "candidates": [
+      {
+        "score": 0.1995,
+        "excerpt": "此外象制丝咧，制面粉咧，制烟咧，制糖咧，制盐咧，农垦咧，渔牧咧，各种事业，我也不必列举统计表上许多比较的数目字，免得诸君听了麻烦，简单说一句，都是和纱厂，煤矿等业一样，有相当的比例进步。",
+        "year": 1921,
+        "path": "1920s/1921/文学/1921 梁启超 辛亥革命之意义与十年双十节之乐观.txt",
+        "recordId": "382000000000",
+        "source": "梁启超 辛亥革命之意义与十年双十节之乐观",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1313,
+        "excerpt": "虽然没有正确的统计，但见北京生活一天难似一天，贫民的数目一天多似一天。",
+        "year": 1924,
+        "path": "1920s/1924/文学/1924 穆辰公 北京.txt",
+        "recordId": "582000000367",
+        "source": "穆辰公 北京",
+        "hintHits": 1
+      },
+      {
+        "score": 0.0359,
+        "excerpt": "城中心，是说每早上照例可以听二十种喊法不同的小贩声音，到早饭后又可以听十五种，晚饭听八种，上灯听一百零八种，――这数字，是阿丽思在三天的比较下统计过来的，相差绝不会远。",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 沈从文 阿丽思中国游记.txt",
+        "recordId": "1169000000023",
+        "source": "沈从文 阿丽思中国游记",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "理论",
+    "storyId": "knowledge-life-10",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "knowledge-life-10-prehistory",
+      "name": "辨理、议论与道理说明",
+      "shortName": "辨理、议论",
+      "description": "核对“理论”作为“辨理、议论与道理说明”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 0
+    },
+    "query": "理论 (道理|议论|辨理|论说) time:1920s",
+    "totalResults": 18,
+    "candidates": [
+      {
+        "score": 0.133,
+        "excerpt": "因为文学的理论不像算学，二二一定得四，所以议论很纷歧。",
+        "year": 1927,
+        "path": "1920s/1927/文学/1927 鲁迅 读书杂谈.txt",
+        "recordId": "1053000000000",
+        "source": "鲁迅 读书杂谈",
+        "hintHits": 1
+      },
+      {
+        "score": 0.133,
+        "excerpt": "因为文学的理论不像算学，二二一定得四，所以议论很纷歧。",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 鲁迅 而已集.txt",
+        "recordId": "1217000000463",
+        "source": "鲁迅 而已集",
+        "hintHits": 1
+      },
+      {
+        "score": 0.0569,
+        "excerpt": "去年山顺夫人来华，传播节育的理论与方法，影响特别的大；",
+        "year": 1923,
+        "path": "1920s/1923/文学/1923 朱自清 父母的责任.txt",
+        "recordId": "520000000000",
+        "source": "朱自清 父母的责任",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "系统",
+    "storyId": "knowledge-life-11",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "knowledge-life-11-prehistory",
+      "name": "分类、统属与条理化",
+      "shortName": "分类、统属",
+      "description": "核对“系统”作为“分类、统属与条理化”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 0
+    },
+    "query": "系统 (分类|整理|条理|系统地) time:1920s",
+    "totalResults": 4,
+    "candidates": [
+      {
+        "score": 0.1944,
+        "excerpt": "一九二三年在北京大学《国学季刊》的《发刊宣言》中，他更系统地宣传“整理国故”的主张，企图诱使知识分子和青年学生脱离现实的革命斗争。",
+        "year": 1924,
+        "path": "1920s/1924/文学/1924 鲁迅 未有天才之前.txt",
+        "recordId": "611000000000",
+        "source": "鲁迅 未有天才之前",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1076,
+        "excerpt": "励行教育普及，以全力发展儿童本位之教育，整理学制系统，增高教育经费，并保障其独立。",
+        "year": 1920,
+        "path": "1920s/192x/文学/小说笔记/192x 蔡东藩_许廑父 民国演义.txt",
+        "recordId": "1341000004020",
+        "source": "192x 蔡东藩 · 许廑父 民国演义",
+        "hintHits": 1
+      },
+      {
+        "score": 0.033,
+        "excerpt": "假使朝鲜人能够革命，他又想跑去效法拜伦……一些无系统的思想，一直缠绕着他到天亮。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 郭沫若 漂流三部曲.txt",
+        "recordId": "702000000001",
+        "source": "郭沫若 漂流三部曲",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "系统",
+    "storyId": "knowledge-life-11",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "knowledge-life-11-turn",
+      "name": "科学与工程中的关联整体",
+      "shortName": "科学",
+      "description": "追踪“系统”如何在制度、知识或媒介中稳定为“科学与工程中的关联整体”，并找出关键转折文本。",
+      "startIndex": 1
+    },
+    "query": "系统 (系统工程|系统科学|系统整体|系统结构) time:1950s",
+    "totalResults": 49,
+    "candidates": [
+      {
+        "score": 0.2213,
+        "excerpt": "八号高炉工程是这个系统工程中的主要工程，它的规模宏大，技术复杂。",
+        "year": 1953,
+        "path": "1950s/1953/报刊/人民日报/rmrb_1953_01.txt",
+        "recordId": "3631000001653",
+        "source": "rmrb · 1953 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1899,
+        "excerpt": "今年七月一日开工的十五、十六号炼焦炉工程，是鞍山钢铁公司第七号高炉系统工程中的一项。",
+        "year": 1953,
+        "path": "1950s/1953/报刊/人民日报/rmrb_1953_09.txt",
+        "recordId": "3639000011263",
+        "source": "rmrb · 1953 · 09",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1635,
+        "excerpt": "疏浚中南北三海只是许多卫生工程项目中的一项，是整理整个河湖系统工程的一环。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_05.txt",
+        "recordId": "3544000009585",
+        "source": "rmrb · 1950 · 05",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "模型",
+    "storyId": "knowledge-life-12",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "knowledge-life-12-prehistory",
+      "name": "模子、样式与缩小实物",
+      "shortName": "模子、样式",
+      "description": "核对“模型”作为“模子、样式与缩小实物”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 0
+    },
+    "query": "模型 (模子|样式|制作|实物) time:1920s",
+    "totalResults": 1,
+    "candidates": [
+      {
+        "score": 0.0351,
+        "excerpt": "将善人善事的模型和恶人恶事的分门别类陈列着的，是道德的世界。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 朱自清 “海阔天空”与“古今中外”　.txt",
+        "recordId": "648000000001",
+        "source": "朱自清 “海阔天空”与“古今中外”　",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0351,
+        "excerpt": "但所谓“模型”，却和城隍庙所塑“二十四孝”的像与十王殿的像绝不相同。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 朱自清 “海阔天空”与“古今中外”　.txt",
+        "recordId": "648000000001",
+        "source": "朱自清 “海阔天空”与“古今中外”　",
+        "hintHits": 0
+      },
+      {
+        "score": 0.029,
+        "excerpt": "模型又称规范，如“正义”，“仁爱”，“奸邪”等是——只是善恶的度量衡也；",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 朱自清 “海阔天空”与“古今中外”　.txt",
+        "recordId": "648000000001",
+        "source": "朱自清 “海阔天空”与“古今中外”　",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "数据",
+    "storyId": "knowledge-life-13",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "knowledge-life-13-prehistory",
+      "name": "计数根据与词形建立",
+      "shortName": "计数根据",
+      "description": "核对“数据”作为“计数根据与词形建立”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "数据 (根据|统计数据|资料|数字) time:1950s",
+    "totalResults": 85,
+    "candidates": [
+      {
+        "score": 0.2022,
+        "excerpt": "可能由于当时所用的铜和锡都不够纯，所以“考工记”上的数字虽系根据当时的实录，而现在分析的数据却无法吻合了。",
+        "year": 1954,
+        "path": "1950s/1954/报刊/人民日报/rmrb_1954_10.txt",
+        "recordId": "3662000008043",
+        "source": "rmrb · 1954 · 10",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1502,
+        "excerpt": "为此，必须根据批准的计划任务书中规定的产品方案、生产联系及建设与生产的能力、时期等原则，事先确定建厂所需的各项科学的条件与数据（包括政治、经济、自然、技术、卫生等），再根据国家工业分布原则所决定的建厂地带中，选择合于这些条件的地点。",
+        "year": 1954,
+        "path": "1950s/1954/报刊/人民日报/rmrb_1954_02.txt",
+        "recordId": "3654000000126",
+        "source": "rmrb · 1954 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.141,
+        "excerpt": "有人根据原子铀“钟”的数据认为地球的年龄等于五十亿年。",
+        "year": 1958,
+        "path": "1950s/1958/报刊/人民日报/rmrb_1958_04.txt",
+        "recordId": "3820000013887",
+        "source": "rmrb · 1958 · 04",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "数据",
+    "storyId": "knowledge-life-13",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "knowledge-life-13-turn",
+      "name": "统计与计算中的可处理记录",
+      "shortName": "统计",
+      "description": "追踪“数据”如何在制度、知识或媒介中稳定为“统计与计算中的可处理记录”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "数据 (数据处理|统计|数据库|数据分析) time:1990s",
+    "totalResults": 4414,
+    "candidates": [
+      {
+        "score": 0.2159,
+        "excerpt": "只有加快统计数据（从最原始的开始）系统化、标准化，才能适应计算机等现代管理的需要，建立起有效的数据库、信息库。",
+        "year": 1990,
+        "path": "1990s/1990/报刊/人民日报/rmrb_1990_03.txt",
+        "recordId": "5657000012251",
+        "source": "rmrb · 1990 · 03",
+        "hintHits": 2
+      },
+      {
+        "score": 0.2142,
+        "excerpt": "总结分析阶段]数据处理:资料综合分析、数理统计验证/建立污染源档案/污染源和环境质量现状评价/经济损益分析/提出以综合整治对策为中心内容的调查分析报告",
+        "year": 1990,
+        "path": "1990s/1990/应用文/社会科学/1990 马忠普 企业环境管理.txt",
+        "recordId": "5654000000596",
+        "source": "马忠普 企业环境管理",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1781,
+        "excerpt": "二要把搞准统计数据列为基本功，加强统计人员岗位知识培训；",
+        "year": 1990,
+        "path": "1990s/1990/报刊/人民日报/rmrb_1990_04.txt",
+        "recordId": "5658000009069",
+        "source": "rmrb · 1990 · 04",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "信息",
+    "storyId": "knowledge-life-14",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "knowledge-life-14-prehistory",
+      "name": "音信、消息与可信的征候",
+      "shortName": "音信、消息",
+      "description": "核对“信息”作为“音信、消息与可信的征候”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "信息 (音信|消息|信息传来|来信) time:1920s",
+    "totalResults": 11,
+    "candidates": [
+      {
+        "score": 0.1277,
+        "excerpt": "（七）武昌無線電台 這個台在武昌北隅佈置同上海吳淞的差不多力是從煤油汽機上來的局裏有一只高週波的發電機天線有一百六十英呎高所用的感應圈凝電器及收發機大半都從德國來的信息可傳達三千餘英里日本菲律濱檀香山等處均可自由傳達消息這個台完全是軍用的目下西方已有用",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 少年世界_第1卷第6期.txt",
+        "recordId": "282000000156",
+        "source": "Author 少年世界 · 第1卷第6期",
+        "hintHits": 1
+      },
+      {
+        "score": 0.0347,
+        "excerpt": "二十一日早上，便得着他死的信息――这回他真死了！",
+        "year": 1926,
+        "path": "1920s/1926/文学/1926 朱自清 哀韦杰三君.txt",
+        "recordId": "884000000000",
+        "source": "朱自清 哀韦杰三君",
+        "hintHits": 0
+      },
+      {
+        "score": 0.034,
+        "excerpt": "到得孟俊攻破潭州，带了亲信兵士，来到杨家，将大门打开，一拥而进的时候，月娥早已得了信息，悄悄的开了后门，径自逃走出外。",
+        "year": 1929,
+        "path": "1920s/1929/文学/小说笔记/1929 许慕羲 宋代宫闱史.txt",
+        "recordId": "1335000000214",
+        "source": "许慕羲 宋代宫闱史",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "基因",
+    "storyId": "knowledge-life-15",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "knowledge-life-15-prehistory",
+      "name": "遗传因子与译名形成",
+      "shortName": "遗传因子",
+      "description": "核对“基因”作为“遗传因子与译名形成”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 0
+    },
+    "query": "基因 (遗传因子|基因遗传|遗传单位|染色体) time:1950s",
+    "totalResults": 34,
+    "candidates": [
+      {
+        "score": 0.2566,
+        "excerpt": "如果成对碱的位置和排列有着遗传性差异的意义，那末就不难设想，去氧核糖核酸分子种类的惊人数字足够解说染色体上遗传因子（或称基因）的多样性了。",
+        "year": 1959,
+        "path": "1950s/1959/报刊/人民日报/rmrb_1959_07.txt",
+        "recordId": "3904000017452",
+        "source": "rmrb · 1959 · 07",
+        "hintHits": 2
+      },
+      {
+        "score": 0.2559,
+        "excerpt": "1909—1913年，摩尔干及其学派研究了果蝇的连锁遗传现象后，认为作为遗传单位的基因呈直线排列在染色体上。",
+        "year": 1959,
+        "path": "1950s/1959/报刊/人民日报/rmrb_1959_07.txt",
+        "recordId": "3904000011645",
+        "source": "rmrb · 1959 · 07",
+        "hintHits": 2
+      },
+      {
+        "score": 0.23,
+        "excerpt": "过去，摩尔根学派认为生物体的特性和性状的遗传，受一种特殊的遗传物质——基因所支配，基因是成直线状排列在细胞核内染色体上的遗传单位。",
+        "year": 1956,
+        "path": "1950s/1956/报刊/人民日报/rmrb_1956_10.txt",
+        "recordId": "3733000005397",
+        "source": "rmrb · 1956 · 10",
+        "hintHits": 2
+      }
+    ]
+  },
+  {
+    "word": "基因",
+    "storyId": "knowledge-life-15",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "knowledge-life-15-turn",
+      "name": "现代 genetics 中的遗传单位",
+      "shortName": "现代 genet",
+      "description": "追踪“基因”如何在制度、知识或媒介中稳定为“现代 genetics 中的遗传单位”，并找出关键转折文本。",
+      "startIndex": 1
+    },
+    "query": "基因 (基因研究|基因序列|遗传基因|基因工程) time:1950s",
+    "totalResults": 2,
+    "candidates": [
+      {
+        "score": 0.1731,
+        "excerpt": "摩尔根辈认为神秘的“遗传基因”是永生不灭的，这完全是一种臆造。",
+        "year": 1952,
+        "path": "1950s/1952/报刊/人民日报/rmrb_1952_06.txt",
+        "recordId": "3619000011688",
+        "source": "rmrb · 1952 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.105,
+        "excerpt": "伊沙可夫等一批地理学家因合著《海洋地理图解》一书，生物学家贝尔格因研究《苏联及其邻国淡水鱼类》，生物学家鲍列茨基因研究《二氢氧基分析》，乌雪维奇教授因研究高级神经活动而荣获一等奖。",
+        "year": 1951,
+        "path": "1950s/1951/报刊/人民日报/rmrb_1951_03.txt",
+        "recordId": "3581000008950",
+        "source": "rmrb · 1951 · 03",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "能量",
+    "storyId": "knowledge-life-16",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "knowledge-life-16-prehistory",
+      "name": "能力大小与物理译名前史",
+      "shortName": "能力大小",
+      "description": "核对“能量”作为“能力大小与物理译名前史”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 0
+    },
+    "query": "能量 (能力|精力|能量大小|力量) time:1920s",
+    "totalResults": 1,
+    "candidates": [
+      {
+        "score": 0.03,
+        "excerpt": "—其實是國內生產發達超過自國消費的能量，所有資本不能盡量容納於生產機關之中，所以侵入殖民地，一則原料就近採取，二則工力價廉，企業容易發達，—是爲『移植資本』，（此等生產的移植資本，往往對於非殖民地的資本主義國家—而且勵行保護政策的，—亦可以實行；",
+        "year": 1923,
+        "path": "1920s/1923/报刊/1923 Author 前鋒_創刊號.txt",
+        "recordId": "449000000153",
+        "source": "Author 前鋒 · 創刊號",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "能量",
+    "storyId": "knowledge-life-16",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "knowledge-life-16-turn",
+      "name": "现代 physics 中的 energy",
+      "shortName": "现代 physi",
+      "description": "追踪“能量”如何在制度、知识或媒介中稳定为“现代 physics 中的 energy”，并找出关键转折文本。",
+      "startIndex": 1
+    },
+    "query": "能量 (物理|能量守恒|能量转换|热能) time:1950s",
+    "totalResults": 117,
+    "candidates": [
+      {
+        "score": 0.191,
+        "excerpt": "并且对于物理学上质量守恒、能量守恒、质能联系诸定律和哲学上物质不灭、运动不灭、物质和运动不可分割等原理之间的相互关系问题交换了意见。",
+        "year": 1955,
+        "path": "1950s/1955/报刊/人民日报/rmrb_1955_09.txt",
+        "recordId": "3702000001882",
+        "source": "rmrb · 1955 · 09",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1298,
+        "excerpt": "”稍有点物理知识的人都知道没有爱因斯坦关于物质与能量关系的发现，原子弹是不可能造出来的。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_11.txt",
+        "recordId": "3550000014570",
+        "source": "rmrb · 1950 · 11",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1269,
+        "excerpt": "季米里亚捷夫根据唯物主义的观点并以当时已有的自然科学知识为基础，特别是以能量守恒和转化定律为基础，提出了一个假设。",
+        "year": 1955,
+        "path": "1950s/1955/报刊/人民日报/rmrb_1955_02.txt",
+        "recordId": "3695000012141",
+        "source": "rmrb · 1955 · 02",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "生态",
+    "storyId": "knowledge-life-17",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "knowledge-life-17-prehistory",
+      "name": "生物生存状态与环境关系",
+      "shortName": "生物生存状态",
+      "description": "核对“生态”作为“生物生存状态与环境关系”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 0
+    },
+    "query": "生态 (生态状况|生存状态|生态环境|生物) time:1950s",
+    "totalResults": 22,
+    "candidates": [
+      {
+        "score": 0.1501,
+        "excerpt": "在植物研究所参观了专门研究植物与环境的关系的植物生态研究室等机构；",
+        "year": 1952,
+        "path": "1950s/1952/报刊/人民日报/rmrb_1952_05.txt",
+        "recordId": "3618000001989",
+        "source": "rmrb · 1952 · 05",
+        "hintHits": 0
+      },
+      {
+        "score": 0.1471,
+        "excerpt": "米丘林学说是符合客观生物发展规律的，它的出现不过是近百年来的事，而我国古代早已根据这个原理做了不少的事，只是没有像他那样归纳出一个原理来：如我国的金鱼现在已有几百个品种，我国的菊花，已有上万品种，这都是按照鲫鱼和野菊们的本性，改变其生存环境和生存条件从而改变其生态，使之符合于人们观赏的目的的。",
+        "year": 1957,
+        "path": "1950s/1957/报刊/人民日报/rmrb_1957_07.txt",
+        "recordId": "3768000012488",
+        "source": "rmrb · 1957 · 07",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1455,
+        "excerpt": "出席这个遗传学座谈会的四十多个科学家来自中国科学院的研究机构、农、林业方面的研究机构以及高等学校，他们中间有遗传学家，（包括米丘林遗传学和孟德尔、摩尔根遗传学），以及育种学、细胞学、微生物学、植物生理学、植物生态学、动物胚胎学、生物化学、实验生物学等各方面的专家。",
+        "year": 1956,
+        "path": "1950s/1956/报刊/人民日报/rmrb_1956_08.txt",
+        "recordId": "3731000009747",
+        "source": "rmrb · 1956 · 08",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "生态",
+    "storyId": "knowledge-life-17",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "knowledge-life-17-turn",
+      "name": "生态学与生态系统",
+      "shortName": "生态学",
+      "description": "追踪“生态”如何在制度、知识或媒介中稳定为“生态学与生态系统”，并找出关键转折文本。",
+      "startIndex": 1
+    },
+    "query": "生态 (生态学|生态系统|生态研究|生物群落) time:1950s",
+    "totalResults": 29,
+    "candidates": [
+      {
+        "score": 0.1752,
+        "excerpt": "植物生态学者指出如何利用祖国广大面积的酸土和盐碱土。",
+        "year": 1952,
+        "path": "1950s/1952/报刊/人民日报/rmrb_1952_09.txt",
+        "recordId": "3622000011750",
+        "source": "rmrb · 1952 · 09",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1705,
+        "excerpt": "无论如何，生态学方面的反常性比动物学和地理学方面的更属特异。",
+        "year": 1952,
+        "path": "1950s/1952/报刊/人民日报/rmrb_1952_09.txt",
+        "recordId": "3622000006573",
+        "source": "rmrb · 1952 · 09",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1652,
+        "excerpt": "例如植物学方面，研究植物生态学和地植物学的人极少；",
+        "year": 1954,
+        "path": "1950s/1954/报刊/人民日报/rmrb_1954_03.txt",
+        "recordId": "3655000010231",
+        "source": "rmrb · 1954 · 03",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "环境",
+    "storyId": "knowledge-life-18",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "knowledge-life-18-prehistory",
+      "name": "四周境地与外在条件",
+      "shortName": "四周境地",
+      "description": "核对“环境”作为“四周境地与外在条件”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 0
+    },
+    "query": "环境 (周围环境|生活环境|外部环境|境地) time:1920s",
+    "totalResults": 4,
+    "candidates": [
+      {
+        "score": 0.043,
+        "excerpt": "天气的热，老西门一带的污秽湫隘的街道，加以喧闹的车辆和行人，完全具备了可以使一个神经衰弱者发晕的条件，章秋柳虽然不是神经衰弱，但她此时心绪十分恶劣，看着灰色的环境，便也异常不耐。",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 茅盾 蚀_追求.txt",
+        "recordId": "1188000000010",
+        "source": "茅盾 蚀 · 追求",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0425,
+        "excerpt": "” “这是环境教坏的。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 鲁迅 孤独者.txt",
+        "recordId": "737000000000",
+        "source": "鲁迅 孤独者",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0396,
+        "excerpt": "后来的坏，如你平日所攻击的坏，那是环境教坏的。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 鲁迅 孤独者.txt",
+        "recordId": "737000000000",
+        "source": "鲁迅 孤独者",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "环境",
+    "storyId": "knowledge-life-18",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "knowledge-life-18-turn",
+      "name": "现代环境科学与公共问题",
+      "shortName": "现代环境科学",
+      "description": "追踪“环境”如何在制度、知识或媒介中稳定为“现代环境科学与公共问题”，并找出关键转折文本。",
+      "startIndex": 1
+    },
+    "query": "环境 (环境保护|环境科学|环境污染|生态环境) time:1970s",
+    "totalResults": 613,
+    "candidates": [
+      {
+        "score": 0.1818,
+        "excerpt": "“三、战争与环境保护问题。",
+        "year": 1972,
+        "path": "1970s/1972/报刊/人民日报/rmrb_1972_06.txt",
+        "recordId": "4416000005929",
+        "source": "rmrb · 1972 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1576,
+        "excerpt": "“四、环境污染的社会根源问题。",
+        "year": 1972,
+        "path": "1970s/1972/报刊/人民日报/rmrb_1972_06.txt",
+        "recordId": "4416000005932",
+        "source": "rmrb · 1972 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1408,
+        "excerpt": "朱葆琳担任研究所革委会副主任后，又积极带领科研人员到本溪、鞍山、辽阳等地三十多个厂矿企业，实地调查环境污染问题，获得大量感性知识，为开展综合利用等科学研究提供了第一手资料，受到领导和群众的好评。",
+        "year": 1973,
+        "path": "1970s/1973/报刊/人民日报/rmrb_1973_08.txt",
+        "recordId": "4438000003791",
+        "source": "rmrb · 1973 · 08",
+        "hintHits": 1
+      }
+    ]
+  }
+]

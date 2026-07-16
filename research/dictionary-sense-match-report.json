@@ -1,0 +1,5675 @@
+[
+  {
+    "word": "科学",
+    "candidateCount": 2,
+    "acceptedCount": 2,
+    "proposals": [
+      {
+        "sense": "判断标准",
+        "score": 0.071,
+        "margin": 0.0085,
+        "manual": true,
+        "gloss": "合乎科学精神和方法的"
+      },
+      {
+        "sense": "现代科学",
+        "score": 0.0171,
+        "margin": 0.0066,
+        "manual": true,
+        "gloss": "以一定对象為研究范围，依据实验与逻辑推理，求得统一、确实的客观规律和真理"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "translated-concepts-02-turn",
+        "sense": "现代科学",
+        "score": 0.0171,
+        "margin": 0.0066,
+        "manual": true,
+        "gloss": "以一定对象為研究范围，依据实验与逻辑推理，求得统一、确实的客观规律和真理"
+      },
+      {
+        "senseId": "translated-concepts-02-contemporary",
+        "sense": "判断标准",
+        "score": 0.071,
+        "margin": 0.0085,
+        "manual": true,
+        "gloss": "合乎科学精神和方法的"
+      }
+    ]
+  },
+  {
+    "word": "自由",
+    "candidateCount": 2,
+    "acceptedCount": 2,
+    "proposals": [
+      {
+        "sense": "自主行动",
+        "score": 0.0787,
+        "margin": 0.0721,
+        "manual": false,
+        "gloss": "依照自己的意志行事，不受外力拘束或限制"
+      },
+      {
+        "sense": "权利概念",
+        "score": 0.0617,
+        "margin": 0.0299,
+        "manual": true,
+        "gloss": "指在《宪法》上或法律保障不受国家或他人干涉的权利"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "translated-concepts-03-prehistory",
+        "sense": "自主行动",
+        "score": 0.0787,
+        "margin": 0.0721,
+        "manual": false,
+        "gloss": "依照自己的意志行事，不受外力拘束或限制"
+      },
+      {
+        "senseId": "translated-concepts-03-turn",
+        "sense": "权利概念",
+        "score": 0.0617,
+        "margin": 0.0299,
+        "manual": true,
+        "gloss": "指在《宪法》上或法律保障不受国家或他人干涉的权利"
+      }
+    ]
+  },
+  {
+    "word": "浪漫",
+    "candidateCount": 2,
+    "acceptedCount": 2,
+    "proposals": [
+      {
+        "sense": "不拘散漫",
+        "score": 0.0942,
+        "margin": 0.0303,
+        "manual": false,
+        "gloss": "放肆、怠慢、不积极"
+      },
+      {
+        "sense": "情感氛围",
+        "score": 0.0254,
+        "margin": 0.0254,
+        "manual": true,
+        "gloss": "富有诗意，充满感性气氛的"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "translated-concepts-04-prehistory",
+        "sense": "不拘散漫",
+        "score": 0.0942,
+        "margin": 0.0303,
+        "manual": false,
+        "gloss": "放肆、怠慢、不积极"
+      },
+      {
+        "senseId": "translated-concepts-04-contemporary",
+        "sense": "情感氛围",
+        "score": 0.0254,
+        "margin": 0.0254,
+        "manual": true,
+        "gloss": "富有诗意，充满感性气氛的"
+      }
+    ]
+  },
+  {
+    "word": "民主",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代政体",
+        "score": 0.0877,
+        "margin": 0.078,
+        "manual": false,
+        "gloss": "政治主权属于全体人民的政治体制，施政以民意為准则，人民得依法选举民意代表，以监督政策运作"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "translated-concepts-05-turn",
+        "sense": "现代政体",
+        "score": 0.0877,
+        "margin": 0.078,
+        "manual": false,
+        "gloss": "政治主权属于全体人民的政治体制，施政以民意為准则，人民得依法选举民意代表，以监督政策运作"
+      }
+    ]
+  },
+  {
+    "word": "哲学",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "学科概念",
+        "score": 0.0195,
+        "margin": 0.0036,
+        "manual": true,
+        "gloss": "哲学一词在西方原指爱智，是一种藉由人的理智去探讨宇宙间万事万物的最高原理之学问"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "translated-concepts-06-turn",
+        "sense": "学科概念",
+        "score": 0.0195,
+        "margin": 0.0036,
+        "manual": true,
+        "gloss": "哲学一词在西方原指爱智，是一种藉由人的理智去探讨宇宙间万事万物的最高原理之学问"
+      }
+    ]
+  },
+  {
+    "word": "艺术",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代艺术",
+        "score": 0.0344,
+        "margin": 0.0261,
+        "manual": true,
+        "gloss": "对自然物及科学，凡人所製作之一切具有审美价值的事物"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "translated-concepts-07-turn",
+        "sense": "现代艺术",
+        "score": 0.0344,
+        "margin": 0.0261,
+        "manual": true,
+        "gloss": "对自然物及科学，凡人所製作之一切具有审美价值的事物"
+      }
+    ]
+  },
+  {
+    "word": "美学",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "审美学科",
+        "score": 0.0697,
+        "margin": 0.0573,
+        "manual": false,
+        "gloss": "研究人对艺术品的欣赏与创作能力及艺术品本身组织法则与内容，更进一步探讨艺术品间关係的一种学问"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "translated-concepts-08-turn",
+        "sense": "审美学科",
+        "score": 0.0697,
+        "margin": 0.0573,
+        "manual": false,
+        "gloss": "研究人对艺术品的欣赏与创作能力及艺术品本身组织法则与内容，更进一步探讨艺术品间关係的一种学问"
+      }
+    ]
+  },
+  {
+    "word": "逻辑",
+    "candidateCount": 3,
+    "acceptedCount": 2,
+    "proposals": [
+      {
+        "sense": "日常连贯",
+        "score": 0.024,
+        "margin": 0.0106,
+        "manual": true,
+        "gloss": "合乎一般常情的规律"
+      },
+      {
+        "sense": "推理学科",
+        "score": 0.0183,
+        "margin": 0.0,
+        "manual": true,
+        "gloss": "研究思想本质和过程的科学"
+      },
+      {
+        "sense": "译名形成",
+        "score": 0.0161,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "代数上指利用真假关係所处理的方法"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "translated-concepts-09-turn",
+        "sense": "推理学科",
+        "score": 0.0183,
+        "margin": 0.0,
+        "manual": true,
+        "gloss": "研究思想本质和过程的科学"
+      },
+      {
+        "senseId": "translated-concepts-09-contemporary",
+        "sense": "日常连贯",
+        "score": 0.024,
+        "margin": 0.0106,
+        "manual": true,
+        "gloss": "合乎一般常情的规律"
+      }
+    ]
+  },
+  {
+    "word": "社会",
+    "candidateCount": 3,
+    "acceptedCount": 2,
+    "proposals": [
+      {
+        "sense": "现代社会",
+        "score": 0.0892,
+        "margin": 0.0729,
+        "manual": false,
+        "gloss": "由人及其互动所形成的集合体，通常具有特定的文化与制度"
+      },
+      {
+        "sense": "现代社会",
+        "score": 0.0267,
+        "margin": 0.0159,
+        "manual": false,
+        "gloss": "某一阶级或某些范围的人所形成的群体"
+      },
+      {
+        "sense": "社会前史",
+        "score": 0.0068,
+        "margin": 0.0005,
+        "manual": true,
+        "gloss": "旧时里社逢节日的酬神庆祝活动"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "translated-concepts-10-prehistory",
+        "sense": "社会前史",
+        "score": 0.0068,
+        "margin": 0.0005,
+        "manual": true,
+        "gloss": "旧时里社逢节日的酬神庆祝活动"
+      },
+      {
+        "senseId": "translated-concepts-10-turn",
+        "sense": "现代社会",
+        "score": 0.0892,
+        "margin": 0.0729,
+        "manual": false,
+        "gloss": "由人及其互动所形成的集合体，通常具有特定的文化与制度"
+      }
+    ]
+  },
+  {
+    "word": "文化",
+    "candidateCount": 2,
+    "acceptedCount": 2,
+    "proposals": [
+      {
+        "sense": "文治教化",
+        "score": 1.12,
+        "margin": 1.12,
+        "manual": false,
+        "gloss": "文治教化"
+      },
+      {
+        "sense": "现代文化",
+        "score": 0.0327,
+        "margin": 0.0174,
+        "manual": true,
+        "gloss": "人类在历史发展过程中创造的总成果"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "translated-concepts-11-prehistory",
+        "sense": "文治教化",
+        "score": 1.12,
+        "margin": 1.12,
+        "manual": false,
+        "gloss": "文治教化"
+      },
+      {
+        "senseId": "translated-concepts-11-turn",
+        "sense": "现代文化",
+        "score": 0.0327,
+        "margin": 0.0174,
+        "manual": true,
+        "gloss": "人类在历史发展过程中创造的总成果"
+      }
+    ]
+  },
+  {
+    "word": "宗教",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代宗教",
+        "score": 0.0381,
+        "margin": 0.0149,
+        "manual": true,
+        "gloss": "利用人类对于宇宙、人生的神秘所发生的惊奇和敬畏心理，构成一种劝善惩恶的教义，并用来教化世人，使人信仰的，称為「宗教」"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "translated-concepts-12-turn",
+        "sense": "现代宗教",
+        "score": 0.0381,
+        "margin": 0.0149,
+        "manual": true,
+        "gloss": "利用人类对于宇宙、人生的神秘所发生的惊奇和敬畏心理，构成一种劝善惩恶的教义，并用来教化世人，使人信仰的，称為「宗教」"
+      }
+    ]
+  },
+  {
+    "word": "革命",
+    "candidateCount": 3,
+    "acceptedCount": 3,
+    "proposals": [
+      {
+        "sense": "社会变革",
+        "score": 0.2435,
+        "margin": 0.2202,
+        "manual": false,
+        "gloss": "专指政治权力或体制结构的根本性改变，通常采用武力或𢧐争等方式推翻既有政权，建立新的政治秩序"
+      },
+      {
+        "sense": "天命更易",
+        "score": 0.0452,
+        "margin": 0.0416,
+        "manual": true,
+        "gloss": "古时因天子受命于天，故朝代更替，君主易姓，皆称為「革命」"
+      },
+      {
+        "sense": "颠覆变化",
+        "score": 0.0338,
+        "margin": 0.022,
+        "manual": true,
+        "gloss": "人类发展过程中所发生的剧烈变化，可形容于任何方面"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "translated-concepts-13-prehistory",
+        "sense": "天命更易",
+        "score": 0.0452,
+        "margin": 0.0416,
+        "manual": true,
+        "gloss": "古时因天子受命于天，故朝代更替，君主易姓，皆称為「革命」"
+      },
+      {
+        "senseId": "translated-concepts-13-turn",
+        "sense": "社会变革",
+        "score": 0.2435,
+        "margin": 0.2202,
+        "manual": false,
+        "gloss": "专指政治权力或体制结构的根本性改变，通常采用武力或𢧐争等方式推翻既有政权，建立新的政治秩序"
+      },
+      {
+        "senseId": "translated-concepts-13-contemporary",
+        "sense": "颠覆变化",
+        "score": 0.0338,
+        "margin": 0.022,
+        "manual": true,
+        "gloss": "人类发展过程中所发生的剧烈变化，可形容于任何方面"
+      }
+    ]
+  },
+  {
+    "word": "进化",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "生物进化",
+        "score": 0.0346,
+        "margin": 0.0128,
+        "manual": true,
+        "gloss": "生物受外界环境的影响或自己内部的发展，逐渐由简单趋于複杂，由低等趋于高等的进展变化"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "translated-concepts-14-prehistory",
+        "sense": "生物进化",
+        "score": 0.0346,
+        "margin": 0.0128,
+        "manual": true,
+        "gloss": "生物受外界环境的影响或自己内部的发展，逐渐由简单趋于複杂，由低等趋于高等的进展变化"
+      }
+    ]
+  },
+  {
+    "word": "经济",
+    "candidateCount": 3,
+    "acceptedCount": 3,
+    "proposals": [
+      {
+        "sense": "经世济民",
+        "score": 1.0,
+        "margin": 1.0,
+        "manual": false,
+        "gloss": "经世济民"
+      },
+      {
+        "sense": "经济实惠",
+        "score": 0.0094,
+        "margin": 0.0047,
+        "manual": true,
+        "gloss": "用较少的人力、物力或时间获得较大的成效"
+      },
+      {
+        "sense": "现代经济",
+        "score": 0.0066,
+        "margin": 0.0027,
+        "manual": true,
+        "gloss": "经济学上指人类利用种种财货，来满足慾望的一切行為及状态"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "translated-concepts-15-prehistory",
+        "sense": "经世济民",
+        "score": 1.0,
+        "margin": 1.0,
+        "manual": false,
+        "gloss": "经世济民"
+      },
+      {
+        "senseId": "translated-concepts-15-turn",
+        "sense": "现代经济",
+        "score": 0.0066,
+        "margin": 0.0027,
+        "manual": true,
+        "gloss": "经济学上指人类利用种种财货，来满足慾望的一切行為及状态"
+      },
+      {
+        "senseId": "translated-concepts-15-contemporary",
+        "sense": "经济实惠",
+        "score": 0.0094,
+        "margin": 0.0047,
+        "manual": true,
+        "gloss": "用较少的人力、物力或时间获得较大的成效"
+      }
+    ]
+  },
+  {
+    "word": "权利",
+    "candidateCount": 2,
+    "acceptedCount": 2,
+    "proposals": [
+      {
+        "sense": "词形前史",
+        "score": 0.1028,
+        "margin": 0.1028,
+        "manual": false,
+        "gloss": "权势和货财"
+      },
+      {
+        "sense": "法律权利",
+        "score": 0.0798,
+        "margin": 0.0538,
+        "manual": false,
+        "gloss": "指人民依法律规定得享有并受法律保护的地位或利益"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "translated-concepts-16-prehistory",
+        "sense": "词形前史",
+        "score": 0.1028,
+        "margin": 0.1028,
+        "manual": false,
+        "gloss": "权势和货财"
+      },
+      {
+        "senseId": "translated-concepts-16-turn",
+        "sense": "法律权利",
+        "score": 0.0798,
+        "margin": 0.0538,
+        "manual": false,
+        "gloss": "指人民依法律规定得享有并受法律保护的地位或利益"
+      }
+    ]
+  },
+  {
+    "word": "义务",
+    "candidateCount": 3,
+    "acceptedCount": 3,
+    "proposals": [
+      {
+        "sense": "法定义务",
+        "score": 0.1532,
+        "margin": 0.1214,
+        "manual": false,
+        "gloss": "依法律规定或契约约定，强制个人或单位应尽的责任"
+      },
+      {
+        "sense": "道义职分",
+        "score": 0.0469,
+        "margin": 0.0332,
+        "manual": true,
+        "gloss": "泛称人在社会中所应尽的职事"
+      },
+      {
+        "sense": "公益无偿",
+        "score": 0.0108,
+        "margin": 0.0,
+        "manual": true,
+        "gloss": "出劳力而不接受报酬"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "translated-concepts-17-prehistory",
+        "sense": "道义职分",
+        "score": 0.0469,
+        "margin": 0.0332,
+        "manual": true,
+        "gloss": "泛称人在社会中所应尽的职事"
+      },
+      {
+        "senseId": "translated-concepts-17-turn",
+        "sense": "法定义务",
+        "score": 0.1532,
+        "margin": 0.1214,
+        "manual": false,
+        "gloss": "依法律规定或契约约定，强制个人或单位应尽的责任"
+      },
+      {
+        "senseId": "translated-concepts-17-contemporary",
+        "sense": "公益无偿",
+        "score": 0.0108,
+        "margin": 0.0,
+        "manual": true,
+        "gloss": "出劳力而不接受报酬"
+      }
+    ]
+  },
+  {
+    "word": "个人",
+    "candidateCount": 3,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "个别之人",
+        "score": 0.0194,
+        "margin": 0.0194,
+        "manual": true,
+        "gloss": "一己、单独一人"
+      },
+      {
+        "sense": "个别之人",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "本人"
+      },
+      {
+        "sense": "个别之人",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "那人，多指情人"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "translated-concepts-18-prehistory",
+        "sense": "个别之人",
+        "score": 0.0194,
+        "margin": 0.0194,
+        "manual": true,
+        "gloss": "一己、单独一人"
+      }
+    ]
+  },
+  {
+    "word": "现代",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "当世时间",
+        "score": 0.0956,
+        "margin": 0.071,
+        "manual": false,
+        "gloss": "当代、当下所处的时代"
+      },
+      {
+        "sense": "当世时间",
+        "score": 0.0424,
+        "margin": 0.0357,
+        "manual": false,
+        "gloss": "我国历史上专指五四运动到现在的时期"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "translated-concepts-19-prehistory",
+        "sense": "当世时间",
+        "score": 0.0956,
+        "margin": 0.071,
+        "manual": false,
+        "gloss": "当代、当下所处的时代"
+      }
+    ]
+  },
+  {
+    "word": "世界",
+    "candidateCount": 4,
+    "acceptedCount": 3,
+    "proposals": [
+      {
+        "sense": "私人世界",
+        "score": 0.0376,
+        "margin": 0.0,
+        "manual": true,
+        "gloss": "自成体系的组织或现象"
+      },
+      {
+        "sense": "全球世界",
+        "score": 0.0334,
+        "margin": 0.0167,
+        "manual": true,
+        "gloss": "地球上的所有地方或国家"
+      },
+      {
+        "sense": "佛教时空",
+        "score": 0.033,
+        "margin": 0.0176,
+        "manual": true,
+        "gloss": "佛教用语：(1)古印度人的宇宙观，指以须弥山為中心，同一个日、月所照的四天下為一世界"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "translated-concepts-20-prehistory",
+        "sense": "佛教时空",
+        "score": 0.033,
+        "margin": 0.0176,
+        "manual": true,
+        "gloss": "佛教用语：(1)古印度人的宇宙观，指以须弥山為中心，同一个日、月所照的四天下為一世界"
+      },
+      {
+        "senseId": "translated-concepts-20-turn",
+        "sense": "全球世界",
+        "score": 0.0334,
+        "margin": 0.0167,
+        "manual": true,
+        "gloss": "地球上的所有地方或国家"
+      },
+      {
+        "senseId": "translated-concepts-20-contemporary",
+        "sense": "私人世界",
+        "score": 0.0376,
+        "margin": 0.0,
+        "manual": true,
+        "gloss": "自成体系的组织或现象"
+      }
+    ]
+  },
+  {
+    "word": "青年",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "年龄阶段",
+        "score": 0.1361,
+        "margin": 0.1361,
+        "manual": false,
+        "gloss": "年少、年轻"
+      },
+      {
+        "sense": "青年文化",
+        "score": 0.0365,
+        "margin": 0.028,
+        "manual": false,
+        "gloss": "年纪在中年以下，少年以上的人"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "social-identities-01-prehistory",
+        "sense": "年龄阶段",
+        "score": 0.1361,
+        "margin": 0.1361,
+        "manual": false,
+        "gloss": "年少、年轻"
+      }
+    ]
+  },
+  {
+    "word": "女性",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "性别称谓",
+        "score": 0.1368,
+        "margin": 0.1106,
+        "manual": false,
+        "gloss": "妇女的通称"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "social-identities-02-prehistory",
+        "sense": "性别称谓",
+        "score": 0.1368,
+        "margin": 0.1106,
+        "manual": false,
+        "gloss": "妇女的通称"
+      }
+    ]
+  },
+  {
+    "word": "人民",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "庶民百姓",
+        "score": 0.92,
+        "margin": 0.92,
+        "manual": false,
+        "gloss": "泛指百姓"
+      },
+      {
+        "sense": "政治主体",
+        "score": 0.0382,
+        "margin": 0.0096,
+        "manual": false,
+        "gloss": "居住在一国家内具有应享权利与应尽义务的人"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "social-identities-04-prehistory",
+        "sense": "庶民百姓",
+        "score": 0.92,
+        "margin": 0.92,
+        "manual": false,
+        "gloss": "泛指百姓"
+      }
+    ]
+  },
+  {
+    "word": "儿童",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "制度年龄",
+        "score": 0.0413,
+        "margin": 0.0033,
+        "manual": true,
+        "gloss": "未成年的男女"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "social-identities-05-turn",
+        "sense": "制度年龄",
+        "score": 0.0413,
+        "margin": 0.0033,
+        "manual": true,
+        "gloss": "未成年的男女"
+      }
+    ]
+  },
+  {
+    "word": "少年",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "年少之人",
+        "score": 0.2855,
+        "margin": 0.2855,
+        "manual": true,
+        "gloss": "年轻"
+      },
+      {
+        "sense": "年少之人",
+        "score": 0.0524,
+        "margin": 0.0205,
+        "manual": true,
+        "gloss": "年轻的男子"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "social-identities-06-prehistory",
+        "sense": "年少之人",
+        "score": 0.2855,
+        "margin": 0.2855,
+        "manual": true,
+        "gloss": "年轻"
+      }
+    ]
+  },
+  {
+    "word": "工人",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "做工之人",
+        "score": 0.0569,
+        "margin": 0.0383,
+        "manual": true,
+        "gloss": "凭劳力做工，以换取报酬的人"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "social-identities-07-prehistory",
+        "sense": "做工之人",
+        "score": 0.0569,
+        "margin": 0.0383,
+        "manual": true,
+        "gloss": "凭劳力做工，以换取报酬的人"
+      }
+    ]
+  },
+  {
+    "word": "农民",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "务农之人",
+        "score": 0.0594,
+        "margin": 0.0335,
+        "manual": true,
+        "gloss": "以务农為业的人民"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "social-identities-08-prehistory",
+        "sense": "务农之人",
+        "score": 0.0594,
+        "margin": 0.0335,
+        "manual": true,
+        "gloss": "以务农為业的人民"
+      }
+    ]
+  },
+  {
+    "word": "学生",
+    "candidateCount": 4,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "求学之人",
+        "score": 0.1013,
+        "margin": 0.0123,
+        "manual": false,
+        "gloss": "在学读书的人"
+      },
+      {
+        "sense": "求学之人",
+        "score": 0.101,
+        "margin": 0.0847,
+        "manual": false,
+        "gloss": "读书人或从官者自称的谦辞"
+      },
+      {
+        "sense": "求学之人",
+        "score": 0.0226,
+        "margin": 0.0097,
+        "manual": false,
+        "gloss": "师长对修业学艺者的称呼，或修业学艺者自称之辞"
+      },
+      {
+        "sense": "求学之人",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "晚辈"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "social-identities-09-prehistory",
+        "sense": "求学之人",
+        "score": 0.101,
+        "margin": 0.0847,
+        "manual": false,
+        "gloss": "读书人或从官者自称的谦辞"
+      }
+    ]
+  },
+  {
+    "word": "知识分子",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "公共角色",
+        "score": 0.022,
+        "margin": 0.0033,
+        "manual": true,
+        "gloss": "具有相当知识学问，并对政治、社会等具有影响力的人物"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "social-identities-10-turn",
+        "sense": "公共角色",
+        "score": 0.022,
+        "margin": 0.0033,
+        "manual": true,
+        "gloss": "具有相当知识学问，并对政治、社会等具有影响力的人物"
+      }
+    ]
+  },
+  {
+    "word": "公民",
+    "candidateCount": 3,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "法律公民",
+        "score": 0.0935,
+        "margin": 0.075,
+        "manual": false,
+        "gloss": "拥有一个国家的国籍，依其宪法或法律规定，享有国家赋予公法上之权利，以及负担公法上义务之国民"
+      },
+      {
+        "sense": "法律公民",
+        "score": 0.0277,
+        "margin": 0.0277,
+        "manual": false,
+        "gloss": "君王的百姓"
+      },
+      {
+        "sense": "法律公民",
+        "score": 0.0237,
+        "margin": 0.0237,
+        "manual": false,
+        "gloss": "為公眾利益著想的人"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "social-identities-11-turn",
+        "sense": "法律公民",
+        "score": 0.0935,
+        "margin": 0.075,
+        "manual": false,
+        "gloss": "拥有一个国家的国籍，依其宪法或法律规定，享有国家赋予公法上之权利，以及负担公法上义务之国民"
+      }
+    ]
+  },
+  {
+    "word": "国民",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "一国之民",
+        "score": 0.0661,
+        "margin": 0.0,
+        "manual": true,
+        "gloss": "泛指全国的人民"
+      },
+      {
+        "sense": "一国之民",
+        "score": 0.0253,
+        "margin": 0.0032,
+        "manual": false,
+        "gloss": "凡取得一国国籍的人民，就是该国的国民"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "social-identities-12-prehistory",
+        "sense": "一国之民",
+        "score": 0.0661,
+        "margin": 0.0,
+        "manual": true,
+        "gloss": "泛指全国的人民"
+      }
+    ]
+  },
+  {
+    "word": "消费者",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "购买使用者",
+        "score": 0.1436,
+        "margin": 0.1333,
+        "manual": false,
+        "gloss": "泛指使用、消耗商品的大眾"
+      },
+      {
+        "sense": "数据消费者",
+        "score": 0.0378,
+        "margin": 0.0141,
+        "manual": false,
+        "gloss": "生物圈中不能直接利用太阳能，而以植物或其他动物為摄食对象的生物，称為「消费者」"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "social-identities-13-prehistory",
+        "sense": "购买使用者",
+        "score": 0.1436,
+        "margin": 0.1333,
+        "manual": false,
+        "gloss": "泛指使用、消耗商品的大眾"
+      }
+    ]
+  },
+  {
+    "word": "用户",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "词形前史",
+        "score": 0.2139,
+        "margin": 0.174,
+        "manual": false,
+        "gloss": "经营公用事业的人称使用人"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "social-identities-14-prehistory",
+        "sense": "词形前史",
+        "score": 0.2139,
+        "margin": 0.174,
+        "manual": false,
+        "gloss": "经营公用事业的人称使用人"
+      }
+    ]
+  },
+  {
+    "word": "网民",
+    "candidateCount": 0,
+    "acceptedCount": 0,
+    "proposals": [],
+    "matches": []
+  },
+  {
+    "word": "同胞",
+    "candidateCount": 2,
+    "acceptedCount": 2,
+    "proposals": [
+      {
+        "sense": "血缘同胞",
+        "score": 0.7555,
+        "margin": 0.7439,
+        "manual": false,
+        "gloss": "同父母所生的兄弟姊妹"
+      },
+      {
+        "sense": "共同体称谓",
+        "score": 0.2076,
+        "margin": 0.1584,
+        "manual": false,
+        "gloss": "同国的人"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "social-identities-16-prehistory",
+        "sense": "血缘同胞",
+        "score": 0.7555,
+        "margin": 0.7439,
+        "manual": false,
+        "gloss": "同父母所生的兄弟姊妹"
+      },
+      {
+        "senseId": "social-identities-16-turn",
+        "sense": "共同体称谓",
+        "score": 0.2076,
+        "margin": 0.1584,
+        "manual": false,
+        "gloss": "同国的人"
+      }
+    ]
+  },
+  {
+    "word": "群众",
+    "candidateCount": 0,
+    "acceptedCount": 0,
+    "proposals": [],
+    "matches": []
+  },
+  {
+    "word": "主体",
+    "candidateCount": 3,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "主要部分",
+        "score": 0.4885,
+        "margin": 0.4281,
+        "manual": false,
+        "gloss": "事物中的主要部分"
+      },
+      {
+        "sense": "哲学主体",
+        "score": 0.0482,
+        "margin": 0.0331,
+        "manual": false,
+        "gloss": "哲学上指有认知能力和实践能力的个体"
+      },
+      {
+        "sense": "主要部分",
+        "score": 0.0421,
+        "margin": 0.0079,
+        "manual": false,
+        "gloss": "法律上使用行為主体或权利主体等用语，权利主体指可以享受权利、负担义务的个体"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "social-identities-18-prehistory",
+        "sense": "主要部分",
+        "score": 0.4885,
+        "margin": 0.4281,
+        "manual": false,
+        "gloss": "事物中的主要部分"
+      }
+    ]
+  },
+  {
+    "word": "国家",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代主权国家",
+        "score": 0.0385,
+        "margin": 0.0108,
+        "manual": true,
+        "gloss": "指具备领土、人民、主权和政府四个要素的政治团体，是共享语言、文化、社会与历史的共同体"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "public-life-01-turn",
+        "sense": "现代主权国家",
+        "score": 0.0385,
+        "margin": 0.0108,
+        "manual": true,
+        "gloss": "指具备领土、人民、主权和政府四个要素的政治团体，是共享语言、文化、社会与历史的共同体"
+      }
+    ]
+  },
+  {
+    "word": "政治",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "政事",
+        "score": 0.0364,
+        "margin": 0.0234,
+        "manual": true,
+        "gloss": "政就是眾人的事，治就是管理，管理眾人的事便称為「政治」"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "public-life-02-prehistory",
+        "sense": "政事",
+        "score": 0.0364,
+        "margin": 0.0234,
+        "manual": true,
+        "gloss": "政就是眾人的事，治就是管理，管理眾人的事便称為「政治」"
+      }
+    ]
+  },
+  {
+    "word": "政府",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "治理政务",
+        "score": 0.0975,
+        "margin": 0.0855,
+        "manual": false,
+        "gloss": "唐宋时称宰相处理政务的地方為「政府」"
+      },
+      {
+        "sense": "现代行政组织",
+        "score": 0.0364,
+        "margin": 0.0237,
+        "manual": false,
+        "gloss": "国家行政机关的总称，為近代国家构成要素之一"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "public-life-03-prehistory",
+        "sense": "治理政务",
+        "score": 0.0975,
+        "margin": 0.0855,
+        "manual": false,
+        "gloss": "唐宋时称宰相处理政务的地方為「政府」"
+      }
+    ]
+  },
+  {
+    "word": "党",
+    "candidateCount": 8,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "同类、伙伴",
+        "score": 0.0942,
+        "margin": 0.0942,
+        "manual": false,
+        "gloss": "朋友、同辈"
+      },
+      {
+        "sense": "现代政党组织",
+        "score": 0.0685,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "古代地方的组织名称"
+      },
+      {
+        "sense": "现代政党组织",
+        "score": 0.045,
+        "margin": 0.0036,
+        "manual": false,
+        "gloss": "志同道合的人所组成的有组织、有主义的团体"
+      },
+      {
+        "sense": "党派、成员",
+        "score": 0.015,
+        "margin": 0.0075,
+        "manual": false,
+        "gloss": "因利害关係而结成的小团体"
+      },
+      {
+        "sense": "同类、伙伴",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "亲族、姻戚"
+      },
+      {
+        "sense": "同类、伙伴",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "姓"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "public-life-04-prehistory",
+        "sense": "同类、伙伴",
+        "score": 0.0942,
+        "margin": 0.0942,
+        "manual": false,
+        "gloss": "朋友、同辈"
+      }
+    ]
+  },
+  {
+    "word": "组织",
+    "candidateCount": 5,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "纺织、组合",
+        "score": 1.12,
+        "margin": 1.12,
+        "manual": false,
+        "gloss": "纺织"
+      },
+      {
+        "sense": "纺织、组合",
+        "score": 0.2653,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "构成"
+      },
+      {
+        "sense": "纺织、组合",
+        "score": 0.0492,
+        "margin": 0.027,
+        "manual": false,
+        "gloss": "生物学上指多细胞生物体中，各细胞和细胞间质依一定秩序联合為一体，并产生一定功能的基本结构"
+      },
+      {
+        "sense": "机构团体",
+        "score": 0.0313,
+        "margin": 0.0237,
+        "manual": false,
+        "gloss": "一群人為达特定目标，经由一定的程序所组成的团体"
+      },
+      {
+        "sense": "纺织、组合",
+        "score": 0.0105,
+        "margin": 0.0019,
+        "manual": false,
+        "gloss": "地质学上指岩石的组成颗粒或结晶的几何型态和排列关係的总称"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "public-life-05-prehistory",
+        "sense": "纺织、组合",
+        "score": 1.12,
+        "margin": 1.12,
+        "manual": false,
+        "gloss": "纺织"
+      }
+    ]
+  },
+  {
+    "word": "单位",
+    "candidateCount": 3,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "计量标准",
+        "score": 0.0881,
+        "margin": 0.0666,
+        "manual": false,
+        "gloss": "计算物体数量的标准"
+      },
+      {
+        "sense": "工作机构",
+        "score": 0.0215,
+        "margin": 0.0108,
+        "manual": false,
+        "gloss": "机关团体组织的部门"
+      },
+      {
+        "sense": "计量标准",
+        "score": 0.0055,
+        "margin": 0.0027,
+        "manual": false,
+        "gloss": "僧房中僧人坐禅的坐位上，通常贴有各僧的名单，故称僧人的坐位為「单位」"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "public-life-06-prehistory",
+        "sense": "计量标准",
+        "score": 0.0881,
+        "margin": 0.0666,
+        "manual": false,
+        "gloss": "计算物体数量的标准"
+      }
+    ]
+  },
+  {
+    "word": "机关",
+    "candidateCount": 4,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "组织部门",
+        "score": 0.1207,
+        "margin": 0.1017,
+        "manual": false,
+        "gloss": "有组织的团体"
+      },
+      {
+        "sense": "机械枢纽",
+        "score": 0.0388,
+        "margin": 0.0152,
+        "manual": false,
+        "gloss": "控制器械的𫔭关"
+      },
+      {
+        "sense": "机械枢纽",
+        "score": 0.0235,
+        "margin": 0.0141,
+        "manual": false,
+        "gloss": "有机件可以操控活动的器械"
+      },
+      {
+        "sense": "机械枢纽",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "计谋、陷阱"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "public-life-07-contemporary",
+        "sense": "组织部门",
+        "score": 0.1207,
+        "margin": 0.1017,
+        "manual": false,
+        "gloss": "有组织的团体"
+      }
+    ]
+  },
+  {
+    "word": "干部",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "组织职务",
+        "score": 0.0119,
+        "margin": 0.0,
+        "manual": true,
+        "gloss": "政党或团体的中坚分子，统称為干部"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "public-life-08-turn",
+        "sense": "组织职务",
+        "score": 0.0119,
+        "margin": 0.0,
+        "manual": true,
+        "gloss": "政党或团体的中坚分子，统称為干部"
+      }
+    ]
+  },
+  {
+    "word": "领导",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "带领、引导的行为",
+        "score": 0.4857,
+        "margin": 0.4857,
+        "manual": false,
+        "gloss": "统领引导"
+      },
+      {
+        "sense": "带领、引导的行为",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "指领袖人物"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "public-life-09-prehistory",
+        "sense": "带领、引导的行为",
+        "score": 0.4857,
+        "margin": 0.4857,
+        "manual": false,
+        "gloss": "统领引导"
+      }
+    ]
+  },
+  {
+    "word": "代表",
+    "candidateCount": 3,
+    "acceptedCount": 3,
+    "proposals": [
+      {
+        "sense": "典型样本",
+        "score": 0.0619,
+        "margin": 0.0511,
+        "manual": true,
+        "gloss": "某一地、事、物的象征物"
+      },
+      {
+        "sense": "制度性代表身份",
+        "score": 0.0607,
+        "margin": 0.0532,
+        "manual": true,
+        "gloss": "由机关、团体选举出来或受委讬及指派以代替眾人、团体办事或表达意见的人"
+      },
+      {
+        "sense": "代替、表达",
+        "score": 0.0492,
+        "margin": 0.0492,
+        "manual": true,
+        "gloss": "替代人选"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "public-life-10-prehistory",
+        "sense": "代替、表达",
+        "score": 0.0492,
+        "margin": 0.0492,
+        "manual": true,
+        "gloss": "替代人选"
+      },
+      {
+        "senseId": "public-life-10-turn",
+        "sense": "制度性代表身份",
+        "score": 0.0607,
+        "margin": 0.0532,
+        "manual": true,
+        "gloss": "由机关、团体选举出来或受委讬及指派以代替眾人、团体办事或表达意见的人"
+      },
+      {
+        "senseId": "public-life-10-contemporary",
+        "sense": "典型样本",
+        "score": 0.0619,
+        "margin": 0.0511,
+        "manual": true,
+        "gloss": "某一地、事、物的象征物"
+      }
+    ]
+  },
+  {
+    "word": "法律",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代法律体系",
+        "score": 0.0251,
+        "margin": 0.0084,
+        "manual": true,
+        "gloss": "泛指适用于所有人的规范"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "public-life-11-turn",
+        "sense": "现代法律体系",
+        "score": 0.0251,
+        "margin": 0.0084,
+        "manual": true,
+        "gloss": "泛指适用于所有人的规范"
+      }
+    ]
+  },
+  {
+    "word": "宪法",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "法度总则",
+        "score": 1.12,
+        "margin": 0.8345,
+        "manual": false,
+        "gloss": "法度"
+      },
+      {
+        "sense": "国家根本法",
+        "score": 0.0545,
+        "margin": 0.025,
+        "manual": false,
+        "gloss": "在一国之内，规定国家体制、政府组织、人民权利义务之最高位阶法规范"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "public-life-12-prehistory",
+        "sense": "法度总则",
+        "score": 1.12,
+        "margin": 0.8345,
+        "manual": false,
+        "gloss": "法度"
+      }
+    ]
+  },
+  {
+    "word": "秩序",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "次序、条理",
+        "score": 0.1757,
+        "margin": 0.0761,
+        "manual": false,
+        "gloss": "次序、规则、条理"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "public-life-13-prehistory",
+        "sense": "次序、条理",
+        "score": 0.1757,
+        "margin": 0.0761,
+        "manual": false,
+        "gloss": "次序、规则、条理"
+      }
+    ]
+  },
+  {
+    "word": "公共",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "公家所有",
+        "score": 0.0492,
+        "margin": 0.0492,
+        "manual": true,
+        "gloss": "眾人共有"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "public-life-14-prehistory",
+        "sense": "公家所有",
+        "score": 0.0492,
+        "margin": 0.0492,
+        "manual": true,
+        "gloss": "眾人共有"
+      }
+    ]
+  },
+  {
+    "word": "社会主义",
+    "candidateCount": 2,
+    "acceptedCount": 2,
+    "proposals": [
+      {
+        "sense": "制度、经济",
+        "score": 0.0468,
+        "margin": 0.0031,
+        "manual": true,
+        "gloss": "一种社会体制，生产工具的拥有与财富分配均由国家安排，在某些社会主义社会，甚至一切财产皆為共享公有，而无私有财产权的存在"
+      },
+      {
+        "sense": "近代译介的社会思",
+        "score": 0.0367,
+        "margin": 0.0049,
+        "manual": true,
+        "gloss": "一种思想主张，认為生产工具与财富分配应由国家统筹安排，以实现社会平等"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "public-life-15-prehistory",
+        "sense": "近代译介的社会思",
+        "score": 0.0367,
+        "margin": 0.0049,
+        "manual": true,
+        "gloss": "一种思想主张，认為生产工具与财富分配应由国家统筹安排，以实现社会平等"
+      },
+      {
+        "senseId": "public-life-15-turn",
+        "sense": "制度、经济",
+        "score": 0.0468,
+        "margin": 0.0031,
+        "manual": true,
+        "gloss": "一种社会体制，生产工具的拥有与财富分配均由国家安排，在某些社会主义社会，甚至一切财产皆為共享公有，而无私有财产权的存在"
+      }
+    ]
+  },
+  {
+    "word": "民族",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "近代 natio",
+        "score": 0.0505,
+        "margin": 0.0269,
+        "manual": true,
+        "gloss": "咸信共享文化的群体，称為「民族」，即由有共同之血缘、生活、语言、宗教信仰或风俗习惯而结合的群体"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "public-life-16-turn",
+        "sense": "近代 natio",
+        "score": 0.0505,
+        "margin": 0.0269,
+        "manual": true,
+        "gloss": "咸信共享文化的群体，称為「民族」，即由有共同之血缘、生活、语言、宗教信仰或风俗习惯而结合的群体"
+      }
+    ]
+  },
+  {
+    "word": "中华",
+    "candidateCount": 2,
+    "acceptedCount": 2,
+    "proposals": [
+      {
+        "sense": "现代国家",
+        "score": 0.0396,
+        "margin": 0.0071,
+        "manual": true,
+        "gloss": "中华民国的简称"
+      },
+      {
+        "sense": "中原、华夏",
+        "score": 0.0287,
+        "margin": 0.0134,
+        "manual": true,
+        "gloss": "古代汉族最初多建都于河南省及其附近区域，以其位居四方之中，文化美盛，故称其地為「中华」"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "public-life-17-prehistory",
+        "sense": "中原、华夏",
+        "score": 0.0287,
+        "margin": 0.0134,
+        "manual": true,
+        "gloss": "古代汉族最初多建都于河南省及其附近区域，以其位居四方之中，文化美盛，故称其地為「中华」"
+      },
+      {
+        "senseId": "public-life-17-turn",
+        "sense": "现代国家",
+        "score": 0.0396,
+        "margin": 0.0071,
+        "manual": true,
+        "gloss": "中华民国的简称"
+      }
+    ]
+  },
+  {
+    "word": "独立",
+    "candidateCount": 4,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "独自站立",
+        "score": 1.12,
+        "margin": 1.12,
+        "manual": false,
+        "gloss": "独自站立"
+      },
+      {
+        "sense": "独自站立",
+        "score": 0.0265,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "不倚靠他人而能自立"
+      },
+      {
+        "sense": "独自站立",
+        "score": 0.0236,
+        "margin": 0.0236,
+        "manual": false,
+        "gloss": "孤立无所依靠"
+      },
+      {
+        "sense": "独自站立",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "特立、超群"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "public-life-18-prehistory",
+        "sense": "独自站立",
+        "score": 1.12,
+        "margin": 1.12,
+        "manual": false,
+        "gloss": "独自站立"
+      }
+    ]
+  },
+  {
+    "word": "解放",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "解开束缚",
+        "score": 1.12,
+        "margin": 1.12,
+        "manual": false,
+        "gloss": "释放"
+      },
+      {
+        "sense": "解开束缚",
+        "score": 0.2076,
+        "margin": 0.2076,
+        "manual": false,
+        "gloss": "解除束缚"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "public-life-19-prehistory",
+        "sense": "解开束缚",
+        "score": 1.12,
+        "margin": 1.12,
+        "manual": false,
+        "gloss": "释放"
+      }
+    ]
+  },
+  {
+    "word": "建设",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "建造工程",
+        "score": 0.0416,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "与建设有关的"
+      },
+      {
+        "sense": "建造工程",
+        "score": 0.011,
+        "margin": 0.011,
+        "manual": true,
+        "gloss": "创建事业或增添设施"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "public-life-20-prehistory",
+        "sense": "建造工程",
+        "score": 0.011,
+        "margin": 0.011,
+        "manual": true,
+        "gloss": "创建事业或增添设施"
+      }
+    ]
+  },
+  {
+    "word": "市场",
+    "candidateCount": 3,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "集市、交易场所",
+        "score": 0.1115,
+        "margin": 0.0921,
+        "manual": false,
+        "gloss": "𧹒卖货物的场所"
+      },
+      {
+        "sense": "价格",
+        "score": 0.0117,
+        "margin": 0.0059,
+        "manual": false,
+        "gloss": "在一定经济范围内商品行销的区域"
+      },
+      {
+        "sense": "集市、交易场所",
+        "score": 0.0082,
+        "margin": 0.0007,
+        "manual": false,
+        "gloss": "指所有对某商品或服务有购𧹒力又有购𧹒意𫖸之潜在顾客"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "market-life-01-prehistory",
+        "sense": "集市、交易场所",
+        "score": 0.1115,
+        "margin": 0.0921,
+        "manual": false,
+        "gloss": "𧹒卖货物的场所"
+      }
+    ]
+  },
+  {
+    "word": "商品",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "可买卖之物",
+        "score": 0.0388,
+        "margin": 0.0261,
+        "manual": true,
+        "gloss": "為𧹒卖而製造的物品"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "market-life-02-prehistory",
+        "sense": "可买卖之物",
+        "score": 0.0388,
+        "margin": 0.0261,
+        "manual": true,
+        "gloss": "為𧹒卖而製造的物品"
+      }
+    ]
+  },
+  {
+    "word": "资本",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "本钱、资财",
+        "score": 0.4337,
+        "margin": 0.4337,
+        "manual": false,
+        "gloss": "本钱、本金"
+      },
+      {
+        "sense": "本钱、资财",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "一种生产要素"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "market-life-03-prehistory",
+        "sense": "本钱、资财",
+        "score": 0.4337,
+        "margin": 0.4337,
+        "manual": false,
+        "gloss": "本钱、本金"
+      }
+    ]
+  },
+  {
+    "word": "劳动",
+    "candidateCount": 5,
+    "acceptedCount": 2,
+    "proposals": [
+      {
+        "sense": "生产关系中的劳动",
+        "score": 0.032,
+        "margin": 0.0227,
+        "manual": true,
+        "gloss": "精神或肉体利用自然资源生产维生物资，或為换取利益，提供服务、创造价值而活动"
+      },
+      {
+        "sense": "劳苦用力",
+        "score": 0.0137,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "感谢他人為自己做事的客套话"
+      },
+      {
+        "sense": "劳苦用力",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "活动身体"
+      },
+      {
+        "sense": "劳苦用力",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "扰乱"
+      },
+      {
+        "sense": "劳苦用力",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": true,
+        "gloss": "劳累、烦劳"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "market-life-04-prehistory",
+        "sense": "劳苦用力",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": true,
+        "gloss": "劳累、烦劳"
+      },
+      {
+        "senseId": "market-life-04-turn",
+        "sense": "生产关系中的劳动",
+        "score": 0.032,
+        "margin": 0.0227,
+        "manual": true,
+        "gloss": "精神或肉体利用自然资源生产维生物资，或為换取利益，提供服务、创造价值而活动"
+      }
+    ]
+  },
+  {
+    "word": "职业",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "职分、生业",
+        "score": 0.0697,
+        "margin": 0.0543,
+        "manual": false,
+        "gloss": "职分内应做的事"
+      },
+      {
+        "sense": "职分、生业",
+        "score": 0.0485,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "个人所担任的职务或工作"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "market-life-05-prehistory",
+        "sense": "职分、生业",
+        "score": 0.0697,
+        "margin": 0.0543,
+        "manual": false,
+        "gloss": "职分内应做的事"
+      }
+    ]
+  },
+  {
+    "word": "经理",
+    "candidateCount": 4,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "经营、处理事务的",
+        "score": 0.1657,
+        "margin": 0.1657,
+        "manual": false,
+        "gloss": "经营治理"
+      },
+      {
+        "sense": "经营、处理事务的",
+        "score": 0.0689,
+        "margin": 0.0338,
+        "manual": false,
+        "gloss": "公司、企业中主持策划整个部门事务的负责人"
+      },
+      {
+        "sense": "产品、项目",
+        "score": 0.0539,
+        "margin": 0.0211,
+        "manual": false,
+        "gloss": "经书的义理"
+      },
+      {
+        "sense": "经营、处理事务的",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "常理"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "market-life-06-prehistory",
+        "sense": "经营、处理事务的",
+        "score": 0.1657,
+        "margin": 0.1657,
+        "manual": false,
+        "gloss": "经营治理"
+      }
+    ]
+  },
+  {
+    "word": "公司",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代企业法人组织",
+        "score": 0.0817,
+        "margin": 0.0727,
+        "manual": false,
+        "gloss": "依《公司法》登记成立的社团法人营利企业组织"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "market-life-07-turn",
+        "sense": "现代企业法人组织",
+        "score": 0.0817,
+        "margin": 0.0727,
+        "manual": false,
+        "gloss": "依《公司法》登记成立的社团法人营利企业组织"
+      }
+    ]
+  },
+  {
+    "word": "企业",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代经济组织",
+        "score": 0.0799,
+        "margin": 0.0564,
+        "manual": true,
+        "gloss": "从事生产、运输、贸易等各种经济活动的营利事业，依出资来源不同，可分為公营企业及民营企业"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "market-life-08-turn",
+        "sense": "现代经济组织",
+        "score": 0.0799,
+        "margin": 0.0564,
+        "manual": true,
+        "gloss": "从事生产、运输、贸易等各种经济活动的营利事业，依出资来源不同，可分為公营企业及民营企业"
+      }
+    ]
+  },
+  {
+    "word": "工资",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代雇佣制度中的",
+        "score": 0.0561,
+        "margin": 0.0201,
+        "manual": true,
+        "gloss": "劳工从事工作而由雇主以现金或实物等方式给付的报酬"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "market-life-09-turn",
+        "sense": "现代雇佣制度中的",
+        "score": 0.0561,
+        "margin": 0.0201,
+        "manual": true,
+        "gloss": "劳工从事工作而由雇主以现金或实物等方式给付的报酬"
+      }
+    ]
+  },
+  {
+    "word": "收入",
+    "candidateCount": 3,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "收进钱物",
+        "score": 0.1115,
+        "margin": 0.0879,
+        "manual": false,
+        "gloss": "收进来的钱款"
+      },
+      {
+        "sense": "收进钱物",
+        "score": 0.0573,
+        "margin": 0.0573,
+        "manual": false,
+        "gloss": "收下、进入"
+      },
+      {
+        "sense": "收进钱物",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "映入"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "market-life-10-prehistory",
+        "sense": "收进钱物",
+        "score": 0.1115,
+        "margin": 0.0879,
+        "manual": false,
+        "gloss": "收进来的钱款"
+      }
+    ]
+  },
+  {
+    "word": "消费",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "消耗、使用",
+        "score": 0.1395,
+        "margin": 0.0745,
+        "manual": false,
+        "gloss": "使用或消耗财物"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "market-life-11-prehistory",
+        "sense": "消耗、使用",
+        "score": 0.1395,
+        "margin": 0.0745,
+        "manual": false,
+        "gloss": "使用或消耗财物"
+      }
+    ]
+  },
+  {
+    "word": "服务",
+    "candidateCount": 3,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "服役、任职",
+        "score": 1.12,
+        "margin": 1.12,
+        "manual": false,
+        "gloss": "任职"
+      },
+      {
+        "sense": "服役、任职",
+        "score": 0.2109,
+        "margin": 0.2109,
+        "manual": false,
+        "gloss": "替社会、别人做事"
+      },
+      {
+        "sense": "服役、任职",
+        "score": 0.0492,
+        "margin": 0.0492,
+        "manual": false,
+        "gloss": "履行职务"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "market-life-12-prehistory",
+        "sense": "服役、任职",
+        "score": 1.12,
+        "margin": 1.12,
+        "manual": false,
+        "gloss": "任职"
+      }
+    ]
+  },
+  {
+    "word": "品牌",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代营销中的品牌",
+        "score": 0.0228,
+        "margin": 0.0064,
+        "manual": true,
+        "gloss": "指用以代表某一销售者之产品或服务，以有别于竞争者之名称、术语、记号（sign）、符号（symbol）、设计或上述之组合"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "market-life-13-turn",
+        "sense": "现代营销中的品牌",
+        "score": 0.0228,
+        "margin": 0.0064,
+        "manual": true,
+        "gloss": "指用以代表某一销售者之产品或服务，以有别于竞争者之名称、术语、记号（sign）、符号（symbol）、设计或上述之组合"
+      }
+    ]
+  },
+  {
+    "word": "广告",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "付费商业传播",
+        "score": 0.0622,
+        "margin": 0.0544,
+        "manual": true,
+        "gloss": "经由平面、电子、数位、户外媒体等传播平台，将商品或服务讯息、政治理念、公益倡导，传播给消费者或阅听大眾"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "market-life-14-turn",
+        "sense": "付费商业传播",
+        "score": 0.0622,
+        "margin": 0.0544,
+        "manual": true,
+        "gloss": "经由平面、电子、数位、户外媒体等传播平台，将商品或服务讯息、政治理念、公益倡导，传播给消费者或阅听大眾"
+      }
+    ]
+  },
+  {
+    "word": "信用",
+    "candidateCount": 4,
+    "acceptedCount": 2,
+    "proposals": [
+      {
+        "sense": "金融借贷",
+        "score": 0.0295,
+        "margin": 0.0212,
+        "manual": true,
+        "gloss": "不需要提供物资保证，而以按期偿还的借贷活动"
+      },
+      {
+        "sense": "信任、任用",
+        "score": 0.0151,
+        "margin": 0.0,
+        "manual": true,
+        "gloss": "诚实不欺的美德"
+      },
+      {
+        "sense": "信任、任用",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "以诚信用人"
+      },
+      {
+        "sense": "信任、任用",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "听信而纳用"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "market-life-15-prehistory",
+        "sense": "信任、任用",
+        "score": 0.0151,
+        "margin": 0.0,
+        "manual": true,
+        "gloss": "诚实不欺的美德"
+      },
+      {
+        "senseId": "market-life-15-turn",
+        "sense": "金融借贷",
+        "score": 0.0295,
+        "margin": 0.0212,
+        "manual": true,
+        "gloss": "不需要提供物资保证，而以按期偿还的借贷活动"
+      }
+    ]
+  },
+  {
+    "word": "投资",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代金融投资",
+        "score": 0.0879,
+        "margin": 0.0572,
+        "manual": true,
+        "gloss": "以资本或劳务，直接或间接投入某种事业体的经营，或以资金投入金融市场，以企图获利的行為"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "market-life-16-turn",
+        "sense": "现代金融投资",
+        "score": 0.0879,
+        "margin": 0.0572,
+        "manual": true,
+        "gloss": "以资本或劳务，直接或间接投入某种事业体的经营，或以资金投入金融市场，以企图获利的行為"
+      }
+    ]
+  },
+  {
+    "word": "风险",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "风浪险阻",
+        "score": 0.0494,
+        "margin": 0.0385,
+        "manual": true,
+        "gloss": "可能发生的危险、危机"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "market-life-17-prehistory",
+        "sense": "风浪险阻",
+        "score": 0.0494,
+        "margin": 0.0385,
+        "manual": true,
+        "gloss": "可能发生的危险、危机"
+      }
+    ]
+  },
+  {
+    "word": "创业",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "创立事业",
+        "score": 0.3821,
+        "margin": 0.3821,
+        "manual": false,
+        "gloss": "𫔭创事业"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "market-life-18-prehistory",
+        "sense": "创立事业",
+        "score": 0.3821,
+        "margin": 0.3821,
+        "manual": false,
+        "gloss": "𫔭创事业"
+      }
+    ]
+  },
+  {
+    "word": "新闻",
+    "candidateCount": 3,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "新近听闻",
+        "score": 0.2584,
+        "margin": 0.2348,
+        "manual": false,
+        "gloss": "新近听说的事"
+      },
+      {
+        "sense": "现代新闻业",
+        "score": 0.0143,
+        "margin": 0.0029,
+        "manual": false,
+        "gloss": "报纸、广播、电视、网际网路、新媒体等对任何足以引起民眾兴趣或产生影响的事件，所作的最新而及时的报导"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "media-language-01-prehistory",
+        "sense": "新近听闻",
+        "score": 0.2584,
+        "margin": 0.2348,
+        "manual": false,
+        "gloss": "新近听说的事"
+      }
+    ]
+  },
+  {
+    "word": "报纸",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代印刷新闻媒介",
+        "score": 0.0133,
+        "margin": 0.0003,
+        "manual": true,
+        "gloss": "用一定名称，每日或每隔六日以下的期间，按期发行的出版品"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "media-language-02-turn",
+        "sense": "现代印刷新闻媒介",
+        "score": 0.0133,
+        "margin": 0.0003,
+        "manual": true,
+        "gloss": "用一定名称，每日或每隔六日以下的期间，按期发行的出版品"
+      }
+    ]
+  },
+  {
+    "word": "杂志",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代主题化定期出",
+        "score": 0.1648,
+        "margin": 0.0967,
+        "manual": false,
+        "gloss": "介于报纸与书籍之间，定期出版的刊物"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "media-language-03-turn",
+        "sense": "现代主题化定期出",
+        "score": 0.1648,
+        "margin": 0.0967,
+        "manual": false,
+        "gloss": "介于报纸与书籍之间，定期出版的刊物"
+      }
+    ]
+  },
+  {
+    "word": "出版",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代出版业",
+        "score": 0.0185,
+        "margin": 0.0134,
+        "manual": true,
+        "gloss": "印成图书报刊，以供出售或散布，称為「出版」"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "media-language-04-turn",
+        "sense": "现代出版业",
+        "score": 0.0185,
+        "margin": 0.0134,
+        "manual": true,
+        "gloss": "印成图书报刊，以供出售或散布，称為「出版」"
+      }
+    ]
+  },
+  {
+    "word": "读者",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "阅读文字之人",
+        "score": 0.0662,
+        "margin": 0.0373,
+        "manual": false,
+        "gloss": "阅读书报杂誌文章的人"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "media-language-05-prehistory",
+        "sense": "阅读文字之人",
+        "score": 0.0662,
+        "margin": 0.0373,
+        "manual": false,
+        "gloss": "阅读书报杂誌文章的人"
+      }
+    ]
+  },
+  {
+    "word": "作者",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "创作文本之人",
+        "score": 0.0481,
+        "margin": 0.0196,
+        "manual": true,
+        "gloss": "创作诗歌、文章或其他艺术品的人"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "media-language-06-prehistory",
+        "sense": "创作文本之人",
+        "score": 0.0481,
+        "margin": 0.0196,
+        "manual": true,
+        "gloss": "创作诗歌、文章或其他艺术品的人"
+      }
+    ]
+  },
+  {
+    "word": "记者",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代新闻职业",
+        "score": 0.0581,
+        "margin": 0.0386,
+        "manual": true,
+        "gloss": "新闻事业中负责采访新闻与撰写的人员"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "media-language-07-turn",
+        "sense": "现代新闻职业",
+        "score": 0.0581,
+        "margin": 0.0386,
+        "manual": true,
+        "gloss": "新闻事业中负责采访新闻与撰写的人员"
+      }
+    ]
+  },
+  {
+    "word": "编辑",
+    "candidateCount": 2,
+    "acceptedCount": 2,
+    "proposals": [
+      {
+        "sense": "编次、辑录",
+        "score": 0.0323,
+        "margin": 0.0323,
+        "manual": true,
+        "gloss": "蒐集资料，加以鉴别、选择、分类、整理、排列和组织"
+      },
+      {
+        "sense": "现代出版职业",
+        "score": 0.0197,
+        "margin": 0.0,
+        "manual": true,
+        "gloss": "製作、编辑书报杂誌的人"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "media-language-08-prehistory",
+        "sense": "编次、辑录",
+        "score": 0.0323,
+        "margin": 0.0323,
+        "manual": true,
+        "gloss": "蒐集资料，加以鉴别、选择、分类、整理、排列和组织"
+      },
+      {
+        "senseId": "media-language-08-turn",
+        "sense": "现代出版职业",
+        "score": 0.0197,
+        "margin": 0.0,
+        "manual": true,
+        "gloss": "製作、编辑书报杂誌的人"
+      }
+    ]
+  },
+  {
+    "word": "传播",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "传递、播散",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": true,
+        "gloss": "广泛流传"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "media-language-09-prehistory",
+        "sense": "传递、播散",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": true,
+        "gloss": "广泛流传"
+      }
+    ]
+  },
+  {
+    "word": "宣传",
+    "candidateCount": 3,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "宣告、传布",
+        "score": 0.0976,
+        "margin": 0.0976,
+        "manual": false,
+        "gloss": "讲解说明，阐扬"
+      },
+      {
+        "sense": "宣告、传布",
+        "score": 0.0514,
+        "margin": 0.0514,
+        "manual": false,
+        "gloss": "宣布传达"
+      },
+      {
+        "sense": "宣告、传布",
+        "score": 0.0492,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "宣扬、广告"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "media-language-10-prehistory",
+        "sense": "宣告、传布",
+        "score": 0.0976,
+        "margin": 0.0976,
+        "manual": false,
+        "gloss": "讲解说明，阐扬"
+      }
+    ]
+  },
+  {
+    "word": "舆论",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代大众媒介中的",
+        "score": 0.0958,
+        "margin": 0.074,
+        "manual": false,
+        "gloss": "代表公眾意见的言论"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "media-language-11-turn",
+        "sense": "现代大众媒介中的",
+        "score": 0.0958,
+        "margin": 0.074,
+        "manual": false,
+        "gloss": "代表公眾意见的言论"
+      }
+    ]
+  },
+  {
+    "word": "话语",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "说话",
+        "score": 0.2653,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "言辞"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "media-language-12-prehistory",
+        "sense": "说话",
+        "score": 0.2653,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "言辞"
+      }
+    ]
+  },
+  {
+    "word": "文本",
+    "candidateCount": 0,
+    "acceptedCount": 0,
+    "proposals": [],
+    "matches": []
+  },
+  {
+    "word": "直播",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现场直接播送",
+        "score": 0.0713,
+        "margin": 0.0542,
+        "manual": false,
+        "gloss": "不经过剪辑或配音的过程，把现场画面直接传送至萤光幕上"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "media-language-14-prehistory",
+        "sense": "现场直接播送",
+        "score": 0.0713,
+        "margin": 0.0542,
+        "manual": false,
+        "gloss": "不经过剪辑或配音的过程，把现场画面直接传送至萤光幕上"
+      }
+    ]
+  },
+  {
+    "word": "节目",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "条目、事项",
+        "score": 0.0218,
+        "margin": 0.0085,
+        "manual": true,
+        "gloss": "泛指各种活动的项目"
+      },
+      {
+        "sense": "网络栏目、单期内",
+        "score": 0.0125,
+        "margin": 0.0049,
+        "manual": false,
+        "gloss": "树木枝干交接而纹理缠结的地方"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "media-language-15-prehistory",
+        "sense": "条目、事项",
+        "score": 0.0218,
+        "margin": 0.0085,
+        "manual": true,
+        "gloss": "泛指各种活动的项目"
+      }
+    ]
+  },
+  {
+    "word": "频道",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "广播通信的频率",
+        "score": 0.0904,
+        "margin": 0.0665,
+        "manual": false,
+        "gloss": "通信电路中的特定频率范围"
+      },
+      {
+        "sense": "广播通信的频率",
+        "score": 0.0575,
+        "margin": 0.0345,
+        "manual": false,
+        "gloss": "通信网或通信系统中通信设施的一部分"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "media-language-16-turn",
+        "sense": "广播通信的频率",
+        "score": 0.0904,
+        "margin": 0.0665,
+        "manual": false,
+        "gloss": "通信电路中的特定频率范围"
+      }
+    ]
+  },
+  {
+    "word": "主播",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "广播电视的镜头前",
+        "score": 0.0811,
+        "margin": 0.0556,
+        "manual": false,
+        "gloss": "电视新闻的播报员"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "media-language-17-turn",
+        "sense": "广播电视的镜头前",
+        "score": 0.0811,
+        "margin": 0.0556,
+        "manual": false,
+        "gloss": "电视新闻的播报员"
+      }
+    ]
+  },
+  {
+    "word": "影像",
+    "candidateCount": 4,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "影子、形象",
+        "score": 1.12,
+        "margin": 1.12,
+        "manual": false,
+        "gloss": "形象"
+      },
+      {
+        "sense": "影子、形象",
+        "score": 0.2653,
+        "margin": 0.2653,
+        "manual": false,
+        "gloss": "印象"
+      },
+      {
+        "sense": "影子、形象",
+        "score": 0.1657,
+        "margin": 0.1657,
+        "manual": false,
+        "gloss": "影子、身影"
+      },
+      {
+        "sense": "影子、形象",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "画像"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "media-language-18-prehistory",
+        "sense": "影子、形象",
+        "score": 1.12,
+        "margin": 1.12,
+        "manual": false,
+        "gloss": "形象"
+      }
+    ]
+  },
+  {
+    "word": "自然",
+    "candidateCount": 7,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "自己如此",
+        "score": 0.2855,
+        "margin": 0.2855,
+        "manual": true,
+        "gloss": "当然"
+      },
+      {
+        "sense": "环保、健康",
+        "score": 0.0274,
+        "margin": 0.0169,
+        "manual": false,
+        "gloss": "天然生成的东西，如空气、日光、山河等皆是"
+      },
+      {
+        "sense": "环保、健康",
+        "score": 0.0206,
+        "margin": 0.0069,
+        "manual": false,
+        "gloss": "非由人工製造而是浑然天成的"
+      },
+      {
+        "sense": "自己如此",
+        "score": 0.0167,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "表示揣度而敢于断定之词"
+      },
+      {
+        "sense": "自己如此",
+        "score": 0.0055,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "现今国民小学课程中，自然科学的简称"
+      },
+      {
+        "sense": "自己如此",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "固然"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "knowledge-life-01-prehistory",
+        "sense": "自己如此",
+        "score": 0.2855,
+        "margin": 0.2855,
+        "manual": true,
+        "gloss": "当然"
+      }
+    ]
+  },
+  {
+    "word": "物理",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "事物的道理",
+        "score": 1.12,
+        "margin": 1.093,
+        "manual": false,
+        "gloss": "事物的道理"
+      },
+      {
+        "sense": "现代 physi",
+        "score": 0.0258,
+        "margin": 0.0104,
+        "manual": false,
+        "gloss": "研究物体的性质、状态、运动等变化的学科"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "knowledge-life-02-prehistory",
+        "sense": "事物的道理",
+        "score": 1.12,
+        "margin": 1.093,
+        "manual": false,
+        "gloss": "事物的道理"
+      }
+    ]
+  },
+  {
+    "word": "化学",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代 chemi",
+        "score": 0.0089,
+        "margin": 0.0,
+        "manual": true,
+        "gloss": "研究物质的组成、结构、性质及变化的自然科学"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "knowledge-life-03-turn",
+        "sense": "现代 chemi",
+        "score": 0.0089,
+        "margin": 0.0,
+        "manual": true,
+        "gloss": "研究物质的组成、结构、性质及变化的自然科学"
+      }
+    ]
+  },
+  {
+    "word": "生物",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "有生之物",
+        "score": 0.0929,
+        "margin": 0.0833,
+        "manual": false,
+        "gloss": "泛指一切有生命的物体"
+      },
+      {
+        "sense": "生物技术、生物识",
+        "score": 0.0422,
+        "margin": 0.0422,
+        "manual": false,
+        "gloss": "生成万物"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "knowledge-life-04-prehistory",
+        "sense": "有生之物",
+        "score": 0.0929,
+        "margin": 0.0833,
+        "manual": false,
+        "gloss": "泛指一切有生命的物体"
+      }
+    ]
+  },
+  {
+    "word": "地理",
+    "candidateCount": 3,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "土地形势",
+        "score": 0.1054,
+        "margin": 0.0945,
+        "manual": false,
+        "gloss": "山川土地的环境形势"
+      },
+      {
+        "sense": "现代 geogr",
+        "score": 0.0172,
+        "margin": 0.0125,
+        "manual": false,
+        "gloss": "研究地球表面现象，行政区划等情况的科学"
+      },
+      {
+        "sense": "土地形势",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "地址"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "knowledge-life-05-prehistory",
+        "sense": "土地形势",
+        "score": 0.1054,
+        "margin": 0.0945,
+        "manual": false,
+        "gloss": "山川土地的环境形势"
+      }
+    ]
+  },
+  {
+    "word": "历史",
+    "candidateCount": 3,
+    "acceptedCount": 2,
+    "proposals": [
+      {
+        "sense": "史官记录",
+        "score": 0.0371,
+        "margin": 0.017,
+        "manual": true,
+        "gloss": "记载或讨论过去重要事件、发展的文献"
+      },
+      {
+        "sense": "过去过程",
+        "score": 0.03,
+        "margin": 0.0183,
+        "manual": false,
+        "gloss": "过去事件的总称，特别指重大的事或具有影响力的发展"
+      },
+      {
+        "sense": "过去过程",
+        "score": 0.0174,
+        "margin": 0.0068,
+        "manual": true,
+        "gloss": "以历史為研究对象的学科"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "knowledge-life-06-prehistory",
+        "sense": "史官记录",
+        "score": 0.0371,
+        "margin": 0.017,
+        "manual": true,
+        "gloss": "记载或讨论过去重要事件、发展的文献"
+      },
+      {
+        "senseId": "knowledge-life-06-turn",
+        "sense": "过去过程",
+        "score": 0.0174,
+        "margin": 0.0068,
+        "manual": true,
+        "gloss": "以历史為研究对象的学科"
+      }
+    ]
+  },
+  {
+    "word": "数学",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代 mathe",
+        "score": 0.0253,
+        "margin": 0.0152,
+        "manual": true,
+        "gloss": "讨论数量、形状及它们之间的关係的科学"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "knowledge-life-07-turn",
+        "sense": "现代 mathe",
+        "score": 0.0253,
+        "margin": 0.0152,
+        "manual": true,
+        "gloss": "讨论数量、形状及它们之间的关係的科学"
+      }
+    ]
+  },
+  {
+    "word": "统计",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "统合计算",
+        "score": 0.2076,
+        "margin": 0.2076,
+        "manual": false,
+        "gloss": "总括计算"
+      },
+      {
+        "sense": "统合计算",
+        "score": 0.0323,
+        "margin": 0.0175,
+        "manual": false,
+        "gloss": "蒐集同一范围内的事物，加以整理、计算，运用数字表示眾多事实的特性，并观察其全体相关和演变情形，所作的比较、研究"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "knowledge-life-08-prehistory",
+        "sense": "统合计算",
+        "score": 0.2076,
+        "margin": 0.2076,
+        "manual": false,
+        "gloss": "总括计算"
+      }
+    ]
+  },
+  {
+    "word": "实验",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "实际验证",
+        "score": 0.1222,
+        "margin": 0.0683,
+        "manual": false,
+        "gloss": "实地的试验"
+      },
+      {
+        "sense": "实际验证",
+        "score": 0.0613,
+        "margin": 0.0309,
+        "manual": false,
+        "gloss": "科学上為了要阐明某种现象或验证某种理论，用种种人為的方法，加以反覆试验，并观察其变化，称為「实验」"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "knowledge-life-09-prehistory",
+        "sense": "实际验证",
+        "score": 0.1222,
+        "margin": 0.0683,
+        "manual": false,
+        "gloss": "实地的试验"
+      }
+    ]
+  },
+  {
+    "word": "理论",
+    "candidateCount": 5,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "辨理、议论",
+        "score": 0.1657,
+        "margin": 0.1657,
+        "manual": false,
+        "gloss": "道理、理由"
+      },
+      {
+        "sense": "“理论上”",
+        "score": 0.0441,
+        "margin": 0.0371,
+        "manual": false,
+        "gloss": "论事物之理，对实际或实践而言"
+      },
+      {
+        "sense": "现代学科中的概念",
+        "score": 0.0438,
+        "margin": 0.0105,
+        "manual": false,
+        "gloss": "由实践中归纳或由观念推演而得到的有系统、有组织的说理或论点"
+      },
+      {
+        "sense": "辨理、议论",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "据理争论，讲理"
+      },
+      {
+        "sense": "辨理、议论",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "理会、注意"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "knowledge-life-10-prehistory",
+        "sense": "辨理、议论",
+        "score": 0.1657,
+        "margin": 0.1657,
+        "manual": false,
+        "gloss": "道理、理由"
+      }
+    ]
+  },
+  {
+    "word": "系统",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "科学",
+        "score": 0.0701,
+        "margin": 0.0647,
+        "manual": false,
+        "gloss": "两个或两个以上相互有关联的单元，為达成共同任务时所构成的完整体"
+      },
+      {
+        "sense": "科学",
+        "score": 0.0324,
+        "margin": 0.0158,
+        "manual": false,
+        "gloss": "同类事物，按一定秩序相连属，而自成一整体"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "knowledge-life-11-turn",
+        "sense": "科学",
+        "score": 0.0701,
+        "margin": 0.0647,
+        "manual": false,
+        "gloss": "两个或两个以上相互有关联的单元，為达成共同任务时所构成的完整体"
+      }
+    ]
+  },
+  {
+    "word": "模型",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "模子、样式",
+        "score": 0.0873,
+        "margin": 0.079,
+        "manual": false,
+        "gloss": "模仿实物的原形，按一定的比例缩小製成的样品"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "knowledge-life-12-prehistory",
+        "sense": "模子、样式",
+        "score": 0.0873,
+        "margin": 0.079,
+        "manual": false,
+        "gloss": "模仿实物的原形，按一定的比例缩小製成的样品"
+      }
+    ]
+  },
+  {
+    "word": "数据",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "统计",
+        "score": 0.0355,
+        "margin": 0.0148,
+        "manual": true,
+        "gloss": "经由调查或实验得到，而尚未经过有效处理的数值"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "knowledge-life-13-turn",
+        "sense": "统计",
+        "score": 0.0355,
+        "margin": 0.0148,
+        "manual": true,
+        "gloss": "经由调查或实验得到，而尚未经过有效处理的数值"
+      }
+    ]
+  },
+  {
+    "word": "信息",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "音信、消息",
+        "score": 0.2076,
+        "margin": 0.2076,
+        "manual": false,
+        "gloss": "消息、音讯"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "knowledge-life-14-prehistory",
+        "sense": "音信、消息",
+        "score": 0.2076,
+        "margin": 0.2076,
+        "manual": false,
+        "gloss": "消息、音讯"
+      }
+    ]
+  },
+  {
+    "word": "基因",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代 genet",
+        "score": 0.1055,
+        "margin": 0.0408,
+        "manual": false,
+        "gloss": "控制生物或病毒性状的基本遗传单位，携带遗传讯息的核酸序列"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "knowledge-life-15-turn",
+        "sense": "现代 genet",
+        "score": 0.1055,
+        "margin": 0.0408,
+        "manual": false,
+        "gloss": "控制生物或病毒性状的基本遗传单位，携带遗传讯息的核酸序列"
+      }
+    ]
+  },
+  {
+    "word": "能量",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代 physi",
+        "score": 0.0336,
+        "margin": 0.0151,
+        "manual": true,
+        "gloss": "物体或力场所具有的作功能力，即称為该物体或力场具有的能量"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "knowledge-life-16-turn",
+        "sense": "现代 physi",
+        "score": 0.0336,
+        "margin": 0.0151,
+        "manual": true,
+        "gloss": "物体或力场所具有的作功能力，即称為该物体或力场具有的能量"
+      }
+    ]
+  },
+  {
+    "word": "生态",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "生态学",
+        "score": 0.0599,
+        "margin": 0.0531,
+        "manual": true,
+        "gloss": "生物圈内的生物，不论是同种或异种，彼此间都会相互影响；生物和他所生活的环境间，也会发生相互作用，这些现象称為「生态」"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "knowledge-life-17-turn",
+        "sense": "生态学",
+        "score": 0.0599,
+        "margin": 0.0531,
+        "manual": true,
+        "gloss": "生物圈内的生物，不论是同种或异种，彼此间都会相互影响；生物和他所生活的环境间，也会发生相互作用，这些现象称為「生态」"
+      }
+    ]
+  },
+  {
+    "word": "环境",
+    "candidateCount": 2,
+    "acceptedCount": 2,
+    "proposals": [
+      {
+        "sense": "四周境地",
+        "score": 0.0461,
+        "margin": 0.0309,
+        "manual": true,
+        "gloss": "周围地方的状况"
+      },
+      {
+        "sense": "现代环境科学",
+        "score": 0.0083,
+        "margin": 0.006,
+        "manual": true,
+        "gloss": "泛指地表上影响人类及其他生物赖以生活、生存的空间、资源以及其他有关事物的综合"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "knowledge-life-18-prehistory",
+        "sense": "四周境地",
+        "score": 0.0461,
+        "margin": 0.0309,
+        "manual": true,
+        "gloss": "周围地方的状况"
+      },
+      {
+        "senseId": "knowledge-life-18-turn",
+        "sense": "现代环境科学",
+        "score": 0.0083,
+        "margin": 0.006,
+        "manual": true,
+        "gloss": "泛指地表上影响人类及其他生物赖以生活、生存的空间、资源以及其他有关事物的综合"
+      }
+    ]
+  },
+  {
+    "word": "身体",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "身躯、体魄",
+        "score": 0.2322,
+        "margin": 0.1918,
+        "manual": false,
+        "gloss": "人的躯体"
+      },
+      {
+        "sense": "身躯、体魄",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "亲自"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "self-and-feeling-01-prehistory",
+        "sense": "身躯、体魄",
+        "score": 0.2322,
+        "margin": 0.1918,
+        "manual": false,
+        "gloss": "人的躯体"
+      }
+    ]
+  },
+  {
+    "word": "健康",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代医学",
+        "score": 0.0302,
+        "margin": 0.0024,
+        "manual": true,
+        "gloss": "生理及心理机能正常，强壮安适，没有缺陷和疾病"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "self-and-feeling-02-turn",
+        "sense": "现代医学",
+        "score": 0.0302,
+        "margin": 0.0024,
+        "manual": true,
+        "gloss": "生理及心理机能正常，强壮安适，没有缺陷和疾病"
+      }
+    ]
+  },
+  {
+    "word": "卫生",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代 hygie",
+        "score": 1.12,
+        "margin": 1.12,
+        "manual": true,
+        "gloss": "清洁"
+      },
+      {
+        "sense": "个人卫生、环境卫",
+        "score": 0.0247,
+        "margin": 0.0205,
+        "manual": false,
+        "gloss": "泛指个人养生之道，及社会大眾追求健康的行為"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "self-and-feeling-03-turn",
+        "sense": "现代 hygie",
+        "score": 1.12,
+        "margin": 1.12,
+        "manual": true,
+        "gloss": "清洁"
+      }
+    ]
+  },
+  {
+    "word": "精神",
+    "candidateCount": 5,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "精气、神彩",
+        "score": 0.1657,
+        "margin": 0.1657,
+        "manual": false,
+        "gloss": "心神、神志"
+      },
+      {
+        "sense": "精气、神彩",
+        "score": 0.0492,
+        "margin": 0.0492,
+        "manual": false,
+        "gloss": "气力、精力"
+      },
+      {
+        "sense": "精气、神彩",
+        "score": 0.0303,
+        "margin": 0.0151,
+        "manual": false,
+        "gloss": "天地万物的灵气"
+      },
+      {
+        "sense": "团队精神、精神状",
+        "score": 0.0291,
+        "margin": 0.0139,
+        "manual": false,
+        "gloss": "心理学上指意识、思维或一般的心理状态"
+      },
+      {
+        "sense": "哲学、医学",
+        "score": 0.0255,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "思想或主义"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "self-and-feeling-04-prehistory",
+        "sense": "精气、神彩",
+        "score": 0.1657,
+        "margin": 0.1657,
+        "manual": false,
+        "gloss": "心神、神志"
+      }
+    ]
+  },
+  {
+    "word": "心理",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代 psych",
+        "score": 0.1247,
+        "margin": 0.1138,
+        "manual": true,
+        "gloss": "个体心智活动的总称"
+      },
+      {
+        "sense": "心思、情理",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "心和理"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "self-and-feeling-05-turn",
+        "sense": "现代 psych",
+        "score": 0.1247,
+        "margin": 0.1138,
+        "manual": true,
+        "gloss": "个体心智活动的总称"
+      }
+    ]
+  },
+  {
+    "word": "情感",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代心理",
+        "score": 0.0413,
+        "margin": 0.0369,
+        "manual": true,
+        "gloss": "内心有所触发，而产生喜、怒、哀、乐等的心理反应"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "self-and-feeling-06-turn",
+        "sense": "现代心理",
+        "score": 0.0413,
+        "margin": 0.0369,
+        "manual": true,
+        "gloss": "内心有所触发，而产生喜、怒、哀、乐等的心理反应"
+      }
+    ]
+  },
+  {
+    "word": "爱情",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "爱慕之情",
+        "score": 0.0317,
+        "margin": 0.0233,
+        "manual": true,
+        "gloss": "相爱的感情，多指男女相恋而言"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "self-and-feeling-07-prehistory",
+        "sense": "爱慕之情",
+        "score": 0.0317,
+        "margin": 0.0233,
+        "manual": true,
+        "gloss": "相爱的感情，多指男女相恋而言"
+      }
+    ]
+  },
+  {
+    "word": "隐私",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "私密之事",
+        "score": 0.0489,
+        "margin": 0.0149,
+        "manual": true,
+        "gloss": "隐秘而不使人知道的私事"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "self-and-feeling-08-prehistory",
+        "sense": "私密之事",
+        "score": 0.0489,
+        "margin": 0.0149,
+        "manual": true,
+        "gloss": "隐秘而不使人知道的私事"
+      }
+    ]
+  },
+  {
+    "word": "婚姻",
+    "candidateCount": 2,
+    "acceptedCount": 2,
+    "proposals": [
+      {
+        "sense": "现代法律",
+        "score": 0.0393,
+        "margin": 0.0096,
+        "manual": true,
+        "gloss": "因结婚而产生互為配偶的关係；常以举行婚礼或法律见证的方式宣告婚姻关係成立"
+      },
+      {
+        "sense": "婚娶关系",
+        "score": 0.0264,
+        "margin": 0.0091,
+        "manual": true,
+        "gloss": "因婚姻而产生的亲戚关係"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "self-and-feeling-09-prehistory",
+        "sense": "婚娶关系",
+        "score": 0.0264,
+        "margin": 0.0091,
+        "manual": true,
+        "gloss": "因婚姻而产生的亲戚关係"
+      },
+      {
+        "senseId": "self-and-feeling-09-turn",
+        "sense": "现代法律",
+        "score": 0.0393,
+        "margin": 0.0096,
+        "manual": true,
+        "gloss": "因结婚而产生互為配偶的关係；常以举行婚礼或法律见证的方式宣告婚姻关係成立"
+      }
+    ]
+  },
+  {
+    "word": "家庭",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代小家庭、法律",
+        "score": 0.0295,
+        "margin": 0.0064,
+        "manual": true,
+        "gloss": "一种以婚姻、血缘、收养或同居等关係為基础而形成的共同生活单位"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "self-and-feeling-10-turn",
+        "sense": "现代小家庭、法律",
+        "score": 0.0295,
+        "margin": 0.0064,
+        "manual": true,
+        "gloss": "一种以婚姻、血缘、收养或同居等关係為基础而形成的共同生活单位"
+      }
+    ]
+  },
+  {
+    "word": "亲密",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "亲近紧密",
+        "score": 0.1657,
+        "margin": 0.1657,
+        "manual": false,
+        "gloss": "亲近密切"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "self-and-feeling-11-prehistory",
+        "sense": "亲近紧密",
+        "score": 0.1657,
+        "margin": 0.1657,
+        "manual": false,
+        "gloss": "亲近密切"
+      }
+    ]
+  },
+  {
+    "word": "性",
+    "candidateCount": 7,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "性情、本性",
+        "score": 0.1584,
+        "margin": 0.1584,
+        "manual": false,
+        "gloss": "脾气、性情"
+      },
+      {
+        "sense": "性情、本性",
+        "score": 0.0633,
+        "margin": 0.0549,
+        "manual": false,
+        "gloss": "生物的种别或事物的类别"
+      },
+      {
+        "sense": "性情、本性",
+        "score": 0.062,
+        "margin": 0.0366,
+        "manual": false,
+        "gloss": "生殖或情慾"
+      },
+      {
+        "sense": "性情、本性",
+        "score": 0.0274,
+        "margin": 0.0124,
+        "manual": false,
+        "gloss": "人或物自然具有的本质、本能"
+      },
+      {
+        "sense": "性情、本性",
+        "score": 0.0252,
+        "margin": 0.0126,
+        "manual": false,
+        "gloss": "事物的特质或功能"
+      },
+      {
+        "sense": "性情、本性",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "范围、方式"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "self-and-feeling-12-prehistory",
+        "sense": "性情、本性",
+        "score": 0.1584,
+        "margin": 0.1584,
+        "manual": false,
+        "gloss": "脾气、性情"
+      }
+    ]
+  },
+  {
+    "word": "性别",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代 sex/g",
+        "score": 0.211,
+        "margin": 0.1808,
+        "manual": false,
+        "gloss": "指由社会文化形塑的男性及女性的行為特质与角色期望，较接近英文的gender"
+      },
+      {
+        "sense": "男女分类",
+        "score": 0.0159,
+        "margin": 0.0077,
+        "manual": false,
+        "gloss": "生理学上指男性、女性、雌性、雄性或其他可能的性别"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "self-and-feeling-13-turn",
+        "sense": "现代 sex/g",
+        "score": 0.211,
+        "margin": 0.1808,
+        "manual": false,
+        "gloss": "指由社会文化形塑的男性及女性的行為特质与角色期望，较接近英文的gender"
+      }
+    ]
+  },
+  {
+    "word": "美",
+    "candidateCount": 10,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "美好、称许",
+        "score": 0.2653,
+        "margin": 0.2653,
+        "manual": false,
+        "gloss": "好、善"
+      },
+      {
+        "sense": "美好、称许",
+        "score": 0.0524,
+        "margin": 0.0205,
+        "manual": false,
+        "gloss": "美育的简称"
+      },
+      {
+        "sense": "美好、称许",
+        "score": 0.0524,
+        "margin": 0.0205,
+        "manual": false,
+        "gloss": "美国的简称"
+      },
+      {
+        "sense": "美好、称许",
+        "score": 0.0524,
+        "margin": 0.0205,
+        "manual": false,
+        "gloss": "美洲的简称"
+      },
+      {
+        "sense": "美好、称许",
+        "score": 0.051,
+        "margin": 0.0255,
+        "manual": false,
+        "gloss": "使变善变好"
+      },
+      {
+        "sense": "美好、称许",
+        "score": 0.0471,
+        "margin": 0.0471,
+        "manual": false,
+        "gloss": "漂亮、好看"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "self-and-feeling-14-prehistory",
+        "sense": "美好、称许",
+        "score": 0.2653,
+        "margin": 0.2653,
+        "manual": false,
+        "gloss": "好、善"
+      }
+    ]
+  },
+  {
+    "word": "时尚",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "时世推崇",
+        "score": 0.0167,
+        "margin": 0.0084,
+        "manual": true,
+        "gloss": "正在流行，被人喜爱的事物"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "self-and-feeling-15-prehistory",
+        "sense": "时世推崇",
+        "score": 0.0167,
+        "margin": 0.0084,
+        "manual": true,
+        "gloss": "正在流行，被人喜爱的事物"
+      }
+    ]
+  },
+  {
+    "word": "青春",
+    "candidateCount": 3,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "青年岁月",
+        "score": 0.2653,
+        "margin": 0.2653,
+        "manual": false,
+        "gloss": "年龄"
+      },
+      {
+        "sense": "青年岁月",
+        "score": 0.0471,
+        "margin": 0.0471,
+        "manual": false,
+        "gloss": "比喻年轻"
+      },
+      {
+        "sense": "青年岁月",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "春天"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "self-and-feeling-16-prehistory",
+        "sense": "青年岁月",
+        "score": 0.2653,
+        "margin": 0.2653,
+        "manual": false,
+        "gloss": "年龄"
+      }
+    ]
+  },
+  {
+    "word": "焦虑",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代心理医学中的",
+        "score": 0.1895,
+        "margin": 0.161,
+        "manual": true,
+        "gloss": "一种紧张不安的情绪状态，包含心理感受与生理反应，通常缺乏明确的成因"
+      },
+      {
+        "sense": "焦急忧虑",
+        "score": 0.0471,
+        "margin": 0.0471,
+        "manual": false,
+        "gloss": "忧愁苦思"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "self-and-feeling-17-turn",
+        "sense": "现代心理医学中的",
+        "score": 0.1895,
+        "margin": 0.161,
+        "manual": true,
+        "gloss": "一种紧张不安的情绪状态，包含心理感受与生理反应，通常缺乏明确的成因"
+      }
+    ]
+  },
+  {
+    "word": "压力",
+    "candidateCount": 4,
+    "acceptedCount": 2,
+    "proposals": [
+      {
+        "sense": "生理心理",
+        "score": 0.0457,
+        "margin": 0.0343,
+        "manual": true,
+        "gloss": "个体生理或心理上感受到威胁时所引起的一种紧张不安的状态，此种紧张状态，使人在情绪上产生不愉快或痛苦的感受"
+      },
+      {
+        "sense": "压迫之力",
+        "score": 0.0272,
+        "margin": 0.0212,
+        "manual": true,
+        "gloss": "单位面积上所受之力称為「压力强度」"
+      },
+      {
+        "sense": "压迫之力",
+        "score": 0.0255,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "逼人的威势"
+      },
+      {
+        "sense": "压迫之力",
+        "score": 0.0195,
+        "margin": 0.0065,
+        "manual": false,
+        "gloss": "两力的作用，彼此相向时，称為「压力」"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "self-and-feeling-18-prehistory",
+        "sense": "压迫之力",
+        "score": 0.0272,
+        "margin": 0.0212,
+        "manual": true,
+        "gloss": "单位面积上所受之力称為「压力强度」"
+      },
+      {
+        "senseId": "self-and-feeling-18-turn",
+        "sense": "生理心理",
+        "score": 0.0457,
+        "margin": 0.0343,
+        "manual": true,
+        "gloss": "个体生理或心理上感受到威胁时所引起的一种紧张不安的状态，此种紧张状态，使人在情绪上产生不愉快或痛苦的感受"
+      }
+    ]
+  },
+  {
+    "word": "幸福",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "福祚、幸运",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": true,
+        "gloss": "平安吉祥，顺遂圆满"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "self-and-feeling-19-prehistory",
+        "sense": "福祚、幸运",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": true,
+        "gloss": "平安吉祥，顺遂圆满"
+      }
+    ]
+  },
+  {
+    "word": "生活",
+    "candidateCount": 5,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "生存、活命",
+        "score": 1.12,
+        "margin": 1.12,
+        "manual": false,
+        "gloss": "生存"
+      },
+      {
+        "sense": "生存、活命",
+        "score": 1.12,
+        "margin": 1.12,
+        "manual": false,
+        "gloss": "生计"
+      },
+      {
+        "sense": "生存、活命",
+        "score": 0.2179,
+        "margin": 0.2179,
+        "manual": false,
+        "gloss": "工作"
+      },
+      {
+        "sense": "生存、活命",
+        "score": 0.0107,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "泛指一切饮食起居等方面的情况、境遇"
+      },
+      {
+        "sense": "生存、活命",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "物品"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "self-and-feeling-20-prehistory",
+        "sense": "生存、活命",
+        "score": 1.12,
+        "margin": 1.12,
+        "manual": false,
+        "gloss": "生存"
+      }
+    ]
+  },
+  {
+    "word": "城市",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代 urban",
+        "score": 0.0083,
+        "margin": 0.0028,
+        "manual": true,
+        "gloss": "有宽广繁盛的街道，人口集中，為政治、经济、文化的中心，相对于乡村而言"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "space-and-mobility-01-turn",
+        "sense": "现代 urban",
+        "score": 0.0083,
+        "margin": 0.0028,
+        "manual": true,
+        "gloss": "有宽广繁盛的街道，人口集中，為政治、经济、文化的中心，相对于乡村而言"
+      }
+    ]
+  },
+  {
+    "word": "乡村",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "乡里、村落",
+        "score": 0.1222,
+        "margin": 0.0952,
+        "manual": false,
+        "gloss": "乡下的村落"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "space-and-mobility-02-prehistory",
+        "sense": "乡里、村落",
+        "score": 0.1222,
+        "margin": 0.0952,
+        "manual": false,
+        "gloss": "乡下的村落"
+      }
+    ]
+  },
+  {
+    "word": "社区",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "基层居住",
+        "score": 0.0292,
+        "margin": 0.0202,
+        "manual": true,
+        "gloss": "一些人以自由结合的方式所居住的特定区域"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "space-and-mobility-03-turn",
+        "sense": "基层居住",
+        "score": 0.0292,
+        "margin": 0.0202,
+        "manual": true,
+        "gloss": "一些人以自由结合的方式所居住的特定区域"
+      }
+    ]
+  },
+  {
+    "word": "街道",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "城镇道路",
+        "score": 0.0578,
+        "margin": 0.0323,
+        "manual": true,
+        "gloss": "供人车通行的道路"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "space-and-mobility-04-prehistory",
+        "sense": "城镇道路",
+        "score": 0.0578,
+        "margin": 0.0323,
+        "manual": true,
+        "gloss": "供人车通行的道路"
+      }
+    ]
+  },
+  {
+    "word": "广场",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "宽广场地",
+        "score": 0.1222,
+        "margin": 0.0952,
+        "manual": false,
+        "gloss": "广大的场地"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "space-and-mobility-05-prehistory",
+        "sense": "宽广场地",
+        "score": 0.1222,
+        "margin": 0.0952,
+        "manual": false,
+        "gloss": "广大的场地"
+      }
+    ]
+  },
+  {
+    "word": "公园",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代城市绿地",
+        "score": 0.0323,
+        "margin": 0.0267,
+        "manual": true,
+        "gloss": "经过造园处理或保留其自然状态，以作為公眾户外游憩及享受大自然的特定场所"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "space-and-mobility-06-turn",
+        "sense": "现代城市绿地",
+        "score": 0.0323,
+        "margin": 0.0267,
+        "manual": true,
+        "gloss": "经过造园处理或保留其自然状态，以作為公眾户外游憩及享受大自然的特定场所"
+      }
+    ]
+  },
+  {
+    "word": "空间",
+    "candidateCount": 3,
+    "acceptedCount": 2,
+    "proposals": [
+      {
+        "sense": "空处、间隔",
+        "score": 0.0236,
+        "margin": 0.0236,
+        "manual": true,
+        "gloss": "泛称天地之间"
+      },
+      {
+        "sense": "现代几何、物理",
+        "score": 0.0189,
+        "margin": 0.0076,
+        "manual": true,
+        "gloss": "物质存在的一种客观形式，由长度、宽度、高度表现出来"
+      },
+      {
+        "sense": "空处、间隔",
+        "score": 0.0174,
+        "margin": 0.0101,
+        "manual": false,
+        "gloss": "数学上指凡质点可存在的处所或讨论的范畴，称為「空间」"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "space-and-mobility-07-prehistory",
+        "sense": "空处、间隔",
+        "score": 0.0236,
+        "margin": 0.0236,
+        "manual": true,
+        "gloss": "泛称天地之间"
+      },
+      {
+        "senseId": "space-and-mobility-07-turn",
+        "sense": "现代几何、物理",
+        "score": 0.0189,
+        "margin": 0.0076,
+        "manual": true,
+        "gloss": "物质存在的一种客观形式，由长度、宽度、高度表现出来"
+      }
+    ]
+  },
+  {
+    "word": "地方",
+    "candidateCount": 6,
+    "acceptedCount": 3,
+    "proposals": [
+      {
+        "sense": "所在之地",
+        "score": 0.2653,
+        "margin": 0.2653,
+        "manual": false,
+        "gloss": "处所"
+      },
+      {
+        "sense": "现代行政、区域",
+        "score": 0.2322,
+        "margin": 0.183,
+        "manual": false,
+        "gloss": "区域、地区"
+      },
+      {
+        "sense": "地方感、本地服务",
+        "score": 0.1914,
+        "margin": 0.1492,
+        "manual": false,
+        "gloss": "本地、当地"
+      },
+      {
+        "sense": "现代行政、区域",
+        "score": 0.0282,
+        "margin": 0.0188,
+        "manual": false,
+        "gloss": "对国家或中央政府而言"
+      },
+      {
+        "sense": "所在之地",
+        "score": 0.0262,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "地保的俗称"
+      },
+      {
+        "sense": "所在之地",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "某部分"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "space-and-mobility-08-prehistory",
+        "sense": "所在之地",
+        "score": 0.2653,
+        "margin": 0.2653,
+        "manual": false,
+        "gloss": "处所"
+      },
+      {
+        "senseId": "space-and-mobility-08-turn",
+        "sense": "现代行政、区域",
+        "score": 0.2322,
+        "margin": 0.183,
+        "manual": false,
+        "gloss": "区域、地区"
+      },
+      {
+        "senseId": "space-and-mobility-08-contemporary",
+        "sense": "地方感、本地服务",
+        "score": 0.1914,
+        "margin": 0.1492,
+        "manual": false,
+        "gloss": "本地、当地"
+      }
+    ]
+  },
+  {
+    "word": "地图",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "现代测绘",
+        "score": 0.0126,
+        "margin": 0.0034,
+        "manual": true,
+        "gloss": "说明地表自然景观和人文现象分布情况的图形"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "space-and-mobility-09-turn",
+        "sense": "现代测绘",
+        "score": 0.0126,
+        "margin": 0.0034,
+        "manual": true,
+        "gloss": "说明地表自然景观和人文现象分布情况的图形"
+      }
+    ]
+  },
+  {
+    "word": "边界",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "疆界、界线",
+        "score": 0.1296,
+        "margin": 0.1183,
+        "manual": false,
+        "gloss": "球赛范围的边缐界限"
+      },
+      {
+        "sense": "疆界、界线",
+        "score": 0.0407,
+        "margin": 0.0052,
+        "manual": false,
+        "gloss": "国家领土的疆界，国与国间相邻区别的界缐"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "space-and-mobility-10-prehistory",
+        "sense": "疆界、界线",
+        "score": 0.1296,
+        "margin": 0.1183,
+        "manual": false,
+        "gloss": "球赛范围的边缐界限"
+      }
+    ]
+  },
+  {
+    "word": "中心",
+    "candidateCount": 4,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "当中之心",
+        "score": 0.1115,
+        "margin": 0.0921,
+        "manual": false,
+        "gloss": "正中央的位置"
+      },
+      {
+        "sense": "当中之心",
+        "score": 0.0697,
+        "margin": 0.0543,
+        "manual": false,
+        "gloss": "核心，事物的主体"
+      },
+      {
+        "sense": "当中之心",
+        "score": 0.0109,
+        "margin": 0.0055,
+        "manual": false,
+        "gloss": "泛指某一特定性质，具枢纽地位的地点"
+      },
+      {
+        "sense": "当中之心",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "心中、内心"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "space-and-mobility-11-prehistory",
+        "sense": "当中之心",
+        "score": 0.1115,
+        "margin": 0.0921,
+        "manual": false,
+        "gloss": "正中央的位置"
+      }
+    ]
+  },
+  {
+    "word": "舞台",
+    "candidateCount": 2,
+    "acceptedCount": 2,
+    "proposals": [
+      {
+        "sense": "表演所用高台",
+        "score": 0.0393,
+        "margin": 0.0178,
+        "manual": true,
+        "gloss": "剧场内供演戏的地方"
+      },
+      {
+        "sense": "展示机会、公共场",
+        "score": 0.0161,
+        "margin": 0.0027,
+        "manual": true,
+        "gloss": "比喻供某种事件、人物发展表现，含有多变特质的特定场合"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "space-and-mobility-12-prehistory",
+        "sense": "表演所用高台",
+        "score": 0.0393,
+        "margin": 0.0178,
+        "manual": true,
+        "gloss": "剧场内供演戏的地方"
+      },
+      {
+        "senseId": "space-and-mobility-12-contemporary",
+        "sense": "展示机会、公共场",
+        "score": 0.0161,
+        "margin": 0.0027,
+        "manual": true,
+        "gloss": "比喻供某种事件、人物发展表现，含有多变特质的特定场合"
+      }
+    ]
+  },
+  {
+    "word": "交通",
+    "candidateCount": 6,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "交错相通",
+        "score": 0.4585,
+        "margin": 0.4585,
+        "manual": false,
+        "gloss": "往来、交往"
+      },
+      {
+        "sense": "信息交通、智慧交",
+        "score": 0.0492,
+        "margin": 0.0492,
+        "manual": false,
+        "gloss": "通达无阻"
+      },
+      {
+        "sense": "交错相通",
+        "score": 0.0398,
+        "margin": 0.0117,
+        "manual": false,
+        "gloss": "汽车、船舶、飞机等各种运输工具在陆地、水上或空中的往来"
+      },
+      {
+        "sense": "交错相通",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "交感、感应"
+      },
+      {
+        "sense": "交错相通",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "沟通"
+      },
+      {
+        "sense": "交错相通",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "勾结串通"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "space-and-mobility-13-prehistory",
+        "sense": "交错相通",
+        "score": 0.4585,
+        "margin": 0.4585,
+        "manual": false,
+        "gloss": "往来、交往"
+      }
+    ]
+  },
+  {
+    "word": "旅行",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "离家行旅",
+        "score": 0.0194,
+        "margin": 0.0,
+        "manual": true,
+        "gloss": "泛称作客出行"
+      },
+      {
+        "sense": "离家行旅",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "结伴而行"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "space-and-mobility-14-prehistory",
+        "sense": "离家行旅",
+        "score": 0.0194,
+        "margin": 0.0,
+        "manual": true,
+        "gloss": "泛称作客出行"
+      }
+    ]
+  },
+  {
+    "word": "移民",
+    "candidateCount": 2,
+    "acceptedCount": 2,
+    "proposals": [
+      {
+        "sense": "现代国家法律",
+        "score": 0.0465,
+        "margin": 0.0352,
+        "manual": true,
+        "gloss": "人口在地理上或空间上的流动，包括移出、移入及内徙"
+      },
+      {
+        "sense": "迁徙人口",
+        "score": 0.0465,
+        "margin": 0.0324,
+        "manual": true,
+        "gloss": "从甲地迁移到较远的乙地或外国定居的人"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "space-and-mobility-15-prehistory",
+        "sense": "迁徙人口",
+        "score": 0.0465,
+        "margin": 0.0324,
+        "manual": true,
+        "gloss": "从甲地迁移到较远的乙地或外国定居的人"
+      },
+      {
+        "senseId": "space-and-mobility-15-turn",
+        "sense": "现代国家法律",
+        "score": 0.0465,
+        "margin": 0.0352,
+        "manual": true,
+        "gloss": "人口在地理上或空间上的流动，包括移出、移入及内徙"
+      }
+    ]
+  },
+  {
+    "word": "流动",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "水流、移动",
+        "score": 0.2646,
+        "margin": 0.2456,
+        "manual": false,
+        "gloss": "不静止、不固定"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "space-and-mobility-16-prehistory",
+        "sense": "水流、移动",
+        "score": 0.2646,
+        "margin": 0.2456,
+        "manual": false,
+        "gloss": "不静止、不固定"
+      }
+    ]
+  },
+  {
+    "word": "风景",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "风光景物",
+        "score": 1.12,
+        "margin": 1.12,
+        "manual": false,
+        "gloss": "风光景物"
+      },
+      {
+        "sense": "风光景物",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "风采"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "space-and-mobility-17-prehistory",
+        "sense": "风光景物",
+        "score": 1.12,
+        "margin": 1.12,
+        "manual": false,
+        "gloss": "风光景物"
+      }
+    ]
+  },
+  {
+    "word": "家园",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "家宅园地",
+        "score": 0.2076,
+        "margin": 0.2076,
+        "manual": false,
+        "gloss": "家乡、故乡"
+      },
+      {
+        "sense": "家宅园地",
+        "score": 0.027,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "家中的庭园"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "space-and-mobility-18-prehistory",
+        "sense": "家宅园地",
+        "score": 0.2076,
+        "margin": 0.2076,
+        "manual": false,
+        "gloss": "家乡、故乡"
+      }
+    ]
+  },
+  {
+    "word": "网络",
+    "candidateCount": 4,
+    "acceptedCount": 3,
+    "proposals": [
+      {
+        "sense": "社会网络、平台权",
+        "score": 0.0271,
+        "margin": 0.0223,
+        "manual": true,
+        "gloss": "各相关部门互相联繫，密切配合的组织系统"
+      },
+      {
+        "sense": "通信",
+        "score": 0.0125,
+        "margin": 0.0063,
+        "manual": true,
+        "gloss": "由若干电子元件组成的複杂电路"
+      },
+      {
+        "sense": "网状结构",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": true,
+        "gloss": "网罗、搜求"
+      },
+      {
+        "sense": "网状结构",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "大陆地区指网路"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "technical-metaphors-01-prehistory",
+        "sense": "网状结构",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": true,
+        "gloss": "网罗、搜求"
+      },
+      {
+        "senseId": "technical-metaphors-01-turn",
+        "sense": "通信",
+        "score": 0.0125,
+        "margin": 0.0063,
+        "manual": true,
+        "gloss": "由若干电子元件组成的複杂电路"
+      },
+      {
+        "senseId": "technical-metaphors-01-contemporary",
+        "sense": "社会网络、平台权",
+        "score": 0.0271,
+        "margin": 0.0223,
+        "manual": true,
+        "gloss": "各相关部门互相联繫，密切配合的组织系统"
+      }
+    ]
+  },
+  {
+    "word": "流量",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "流体通过的数量",
+        "score": 0.0939,
+        "margin": 0.0749,
+        "manual": false,
+        "gloss": "单位时间内物体通过某一截面的物理量，如液体流量等"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "technical-metaphors-03-prehistory",
+        "sense": "流体通过的数量",
+        "score": 0.0939,
+        "margin": 0.0749,
+        "manual": false,
+        "gloss": "单位时间内物体通过某一截面的物理量，如液体流量等"
+      }
+    ]
+  },
+  {
+    "word": "窗口",
+    "candidateCount": 3,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "建筑采光通风之口",
+        "score": 0.0167,
+        "margin": 0.0084,
+        "manual": true,
+        "gloss": "车站或电影院等的售票处"
+      },
+      {
+        "sense": "图形界面中的 w",
+        "score": 0.0076,
+        "margin": 0.0014,
+        "manual": false,
+        "gloss": "大陆地区特指大陆沿海𫔭放的城市"
+      },
+      {
+        "sense": "建筑采光通风之口",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "窗前"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "technical-metaphors-04-prehistory",
+        "sense": "建筑采光通风之口",
+        "score": 0.0167,
+        "margin": 0.0084,
+        "manual": true,
+        "gloss": "车站或电影院等的售票处"
+      }
+    ]
+  },
+  {
+    "word": "桌面",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "桌子的平面",
+        "score": 0.0701,
+        "margin": 0.0567,
+        "manual": false,
+        "gloss": "桌子上部平板的表面"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "technical-metaphors-05-prehistory",
+        "sense": "桌子的平面",
+        "score": 0.0701,
+        "margin": 0.0567,
+        "manual": false,
+        "gloss": "桌子上部平板的表面"
+      }
+    ]
+  },
+  {
+    "word": "文件",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "公文、书面材料",
+        "score": 0.0626,
+        "margin": 0.0494,
+        "manual": true,
+        "gloss": "书札、公文之类的统称"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "technical-metaphors-06-prehistory",
+        "sense": "公文、书面材料",
+        "score": 0.0626,
+        "margin": 0.0494,
+        "manual": true,
+        "gloss": "书札、公文之类的统称"
+      }
+    ]
+  },
+  {
+    "word": "目录",
+    "candidateCount": 3,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "书目",
+        "score": 0.0782,
+        "margin": 0.0412,
+        "manual": false,
+        "gloss": "书籍的书目总录或分类书目著录"
+      },
+      {
+        "sense": "书目",
+        "score": 0.0512,
+        "margin": 0.0345,
+        "manual": false,
+        "gloss": "列在书刊正文前的篇章条目，以备检阅查询之用"
+      },
+      {
+        "sense": "文件系统的 di",
+        "score": 0.034,
+        "margin": 0.0233,
+        "manual": false,
+        "gloss": "编列物品及资料类别、名称、数量的文件"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "technical-metaphors-07-prehistory",
+        "sense": "书目",
+        "score": 0.0782,
+        "margin": 0.0412,
+        "manual": false,
+        "gloss": "书籍的书目总录或分类书目著录"
+      }
+    ]
+  },
+  {
+    "word": "地址",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "居所位置",
+        "score": 0.0733,
+        "margin": 0.0478,
+        "manual": false,
+        "gloss": "居住或通信的地点"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "technical-metaphors-08-prehistory",
+        "sense": "居所位置",
+        "score": 0.0733,
+        "margin": 0.0478,
+        "manual": false,
+        "gloss": "居住或通信的地点"
+      }
+    ]
+  },
+  {
+    "word": "端口",
+    "candidateCount": 0,
+    "acceptedCount": 0,
+    "proposals": [],
+    "matches": []
+  },
+  {
+    "word": "接口",
+    "candidateCount": 2,
+    "acceptedCount": 2,
+    "proposals": [
+      {
+        "sense": "器物衔接",
+        "score": 0.0319,
+        "margin": 0.0057,
+        "manual": true,
+        "gloss": "接合的地方"
+      },
+      {
+        "sense": "应用编程接口、服",
+        "score": 0.0133,
+        "margin": 0.0024,
+        "manual": true,
+        "gloss": "接著别人的话题说话"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "technical-metaphors-10-prehistory",
+        "sense": "器物衔接",
+        "score": 0.0319,
+        "margin": 0.0057,
+        "manual": true,
+        "gloss": "接合的地方"
+      },
+      {
+        "senseId": "technical-metaphors-10-contemporary",
+        "sense": "应用编程接口、服",
+        "score": 0.0133,
+        "margin": 0.0024,
+        "manual": true,
+        "gloss": "接著别人的话题说话"
+      }
+    ]
+  },
+  {
+    "word": "终端",
+    "candidateCount": 0,
+    "acceptedCount": 0,
+    "proposals": [],
+    "matches": []
+  },
+  {
+    "word": "云",
+    "candidateCount": 4,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "天空水汽",
+        "score": 0.0223,
+        "margin": 0.0139,
+        "manual": true,
+        "gloss": "水蒸气遇冷，凝成细水滴，悬浮在空中的团状物体"
+      },
+      {
+        "sense": "天空水汽",
+        "score": 0.0194,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "云南省的简称"
+      },
+      {
+        "sense": "天空水汽",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "姓"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "technical-metaphors-12-prehistory",
+        "sense": "天空水汽",
+        "score": 0.0223,
+        "margin": 0.0139,
+        "manual": true,
+        "gloss": "水蒸气遇冷，凝成细水滴，悬浮在空中的团状物体"
+      }
+    ]
+  },
+  {
+    "word": "计算",
+    "candidateCount": 3,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "计数、算法",
+        "score": 0.0808,
+        "margin": 0.0808,
+        "manual": false,
+        "gloss": "核算数目"
+      },
+      {
+        "sense": "计数、算法",
+        "score": 0.0126,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "暗中谋划，对付他人"
+      },
+      {
+        "sense": "计数、算法",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "计划打算"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "technical-metaphors-13-prehistory",
+        "sense": "计数、算法",
+        "score": 0.0808,
+        "margin": 0.0808,
+        "manual": false,
+        "gloss": "核算数目"
+      }
+    ]
+  },
+  {
+    "word": "程序",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "事务次序",
+        "score": 0.0759,
+        "margin": 0.065,
+        "manual": false,
+        "gloss": "办事的一定规则次序"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "technical-metaphors-14-prehistory",
+        "sense": "事务次序",
+        "score": 0.0759,
+        "margin": 0.065,
+        "manual": false,
+        "gloss": "办事的一定规则次序"
+      }
+    ]
+  },
+  {
+    "word": "代码",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "软件开发的 so",
+        "score": 0.0325,
+        "margin": 0.0189,
+        "manual": true,
+        "gloss": "电脑中，送入的讯息无论是文字、数字、图像、语音或符号等都要化成电脑能够识别的二进制数码"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "technical-metaphors-15-turn",
+        "sense": "软件开发的 so",
+        "score": 0.0325,
+        "margin": 0.0189,
+        "manual": true,
+        "gloss": "电脑中，送入的讯息无论是文字、数字、图像、语音或符号等都要化成电脑能够识别的二进制数码"
+      }
+    ]
+  },
+  {
+    "word": "机器",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "机械装置",
+        "score": 0.2171,
+        "margin": 0.2171,
+        "manual": false,
+        "gloss": "机械器具"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "technical-metaphors-16-prehistory",
+        "sense": "机械装置",
+        "score": 0.2171,
+        "margin": 0.2171,
+        "manual": false,
+        "gloss": "机械器具"
+      }
+    ]
+  },
+  {
+    "word": "智能",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "智慧",
+        "score": 0.0539,
+        "margin": 0.0211,
+        "manual": true,
+        "gloss": "智识与才能"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "technical-metaphors-17-prehistory",
+        "sense": "智慧",
+        "score": 0.0539,
+        "margin": 0.0211,
+        "manual": true,
+        "gloss": "智识与才能"
+      }
+    ]
+  },
+  {
+    "word": "算法",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "算术的步骤",
+        "score": 0.2444,
+        "margin": 0.1058,
+        "manual": false,
+        "gloss": "计算的方法"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "technical-metaphors-18-prehistory",
+        "sense": "算术的步骤",
+        "score": 0.2444,
+        "margin": 0.1058,
+        "manual": false,
+        "gloss": "计算的方法"
+      }
+    ]
+  },
+  {
+    "word": "病毒",
+    "candidateCount": 2,
+    "acceptedCount": 2,
+    "proposals": [
+      {
+        "sense": "医学中的病毒性病",
+        "score": 0.0158,
+        "margin": 0.0028,
+        "manual": true,
+        "gloss": "一种极小的微生物"
+      },
+      {
+        "sense": "计算机病毒、病毒",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": true,
+        "gloss": "电脑病毒"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "technical-metaphors-19-turn",
+        "sense": "医学中的病毒性病",
+        "score": 0.0158,
+        "margin": 0.0028,
+        "manual": true,
+        "gloss": "一种极小的微生物"
+      },
+      {
+        "senseId": "technical-metaphors-19-contemporary",
+        "sense": "计算机病毒、病毒",
+        "score": 0.0,
+        "margin": 0.0,
+        "manual": true,
+        "gloss": "电脑病毒"
+      }
+    ]
+  },
+  {
+    "word": "引擎",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "发动机",
+        "score": 1.12,
+        "margin": 0.9243,
+        "manual": false,
+        "gloss": "发动机"
+      },
+      {
+        "sense": "发动机",
+        "score": 0.0118,
+        "margin": 0.0,
+        "manual": false,
+        "gloss": "引申為网际网路上的一种应用程式"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "technical-metaphors-20-prehistory",
+        "sense": "发动机",
+        "score": 1.12,
+        "margin": 0.9243,
+        "manual": false,
+        "gloss": "发动机"
+      }
+    ]
+  },
+  {
+    "word": "关注",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "关心注意",
+        "score": 1.12,
+        "margin": 0.9543,
+        "manual": false,
+        "gloss": "关心注意"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "platform-culture-02-prehistory",
+        "sense": "关心注意",
+        "score": 1.12,
+        "margin": 0.9543,
+        "manual": false,
+        "gloss": "关心注意"
+      }
+    ]
+  },
+  {
+    "word": "点赞",
+    "candidateCount": 0,
+    "acceptedCount": 0,
+    "proposals": [],
+    "matches": []
+  },
+  {
+    "word": "转发",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "转交、转送",
+        "score": 0.3314,
+        "margin": 0.2892,
+        "manual": false,
+        "gloss": "转送发出"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "platform-culture-04-prehistory",
+        "sense": "转交、转送",
+        "score": 0.3314,
+        "margin": 0.2892,
+        "manual": false,
+        "gloss": "转送发出"
+      }
+    ]
+  },
+  {
+    "word": "分享",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "分享所得",
+        "score": 0.5136,
+        "margin": 0.5136,
+        "manual": false,
+        "gloss": "共同享受"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "platform-culture-05-prehistory",
+        "sense": "分享所得",
+        "score": 0.5136,
+        "margin": 0.5136,
+        "manual": false,
+        "gloss": "共同享受"
+      }
+    ]
+  },
+  {
+    "word": "订阅",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "预约阅读",
+        "score": 0.2171,
+        "margin": 0.2171,
+        "manual": false,
+        "gloss": "订购阅读"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "platform-culture-06-prehistory",
+        "sense": "预约阅读",
+        "score": 0.2171,
+        "margin": 0.2171,
+        "manual": false,
+        "gloss": "订购阅读"
+      }
+    ]
+  },
+  {
+    "word": "热搜",
+    "candidateCount": 0,
+    "acceptedCount": 0,
+    "proposals": [],
+    "matches": []
+  },
+  {
+    "word": "话题",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "谈话题目",
+        "score": 0.1187,
+        "margin": 0.0868,
+        "manual": false,
+        "gloss": "谈话的重心"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "platform-culture-08-prehistory",
+        "sense": "谈话题目",
+        "score": 0.1187,
+        "margin": 0.0868,
+        "manual": false,
+        "gloss": "谈话的重心"
+      }
+    ]
+  },
+  {
+    "word": "标签",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "物品标记",
+        "score": 0.0548,
+        "margin": 0.0363,
+        "manual": true,
+        "gloss": "贴在物品上的小纸片，通常印有製造者名称、商品的型态、种类、成分、价格、使用方法、有效期间及注意事项等"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "platform-culture-09-prehistory",
+        "sense": "物品标记",
+        "score": 0.0548,
+        "margin": 0.0363,
+        "manual": true,
+        "gloss": "贴在物品上的小纸片，通常印有製造者名称、商品的型态、种类、成分、价格、使用方法、有效期间及注意事项等"
+      }
+    ]
+  },
+  {
+    "word": "围观",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "从四周观看",
+        "score": 0.1072,
+        "margin": 0.1072,
+        "manual": false,
+        "gloss": "围著看"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "platform-culture-10-prehistory",
+        "sense": "从四周观看",
+        "score": 0.1072,
+        "margin": 0.1072,
+        "manual": false,
+        "gloss": "围著看"
+      }
+    ]
+  },
+  {
+    "word": "社群",
+    "candidateCount": 0,
+    "acceptedCount": 0,
+    "proposals": [],
+    "matches": []
+  },
+  {
+    "word": "博主",
+    "candidateCount": 0,
+    "acceptedCount": 0,
+    "proposals": [],
+    "matches": []
+  },
+  {
+    "word": "账号",
+    "candidateCount": 0,
+    "acceptedCount": 0,
+    "proposals": [],
+    "matches": []
+  },
+  {
+    "word": "内容",
+    "candidateCount": 2,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "容器内部之物",
+        "score": 0.0761,
+        "margin": 0.0622,
+        "manual": false,
+        "gloss": "事物内部所包含的实质或意义"
+      },
+      {
+        "sense": "媒介",
+        "score": 0.0271,
+        "margin": 0.0109,
+        "manual": false,
+        "gloss": "文学或艺术作品中所含的意义或精神"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "platform-culture-14-prehistory",
+        "sense": "容器内部之物",
+        "score": 0.0761,
+        "margin": 0.0622,
+        "manual": false,
+        "gloss": "事物内部所包含的实质或意义"
+      }
+    ]
+  },
+  {
+    "word": "弹幕",
+    "candidateCount": 0,
+    "acceptedCount": 0,
+    "proposals": [],
+    "matches": []
+  },
+  {
+    "word": "表情",
+    "candidateCount": 1,
+    "acceptedCount": 1,
+    "proposals": [
+      {
+        "sense": "面部神情",
+        "score": 0.0225,
+        "margin": 0.004,
+        "manual": true,
+        "gloss": "由脸部的表现和身体的动作，所表达的喜怒、哀乐、好恶等情感"
+      }
+    ],
+    "matches": [
+      {
+        "senseId": "platform-culture-16-prehistory",
+        "sense": "面部神情",
+        "score": 0.0225,
+        "margin": 0.004,
+        "manual": true,
+        "gloss": "由脸部的表现和身体的动作，所表达的喜怒、哀乐、好恶等情感"
+      }
+    ]
+  },
+  {
+    "word": "头像",
+    "candidateCount": 0,
+    "acceptedCount": 0,
+    "proposals": [],
+    "matches": []
+  },
+  {
+    "word": "朋友圈",
+    "candidateCount": 0,
+    "acceptedCount": 0,
+    "proposals": [],
+    "matches": []
+  }
+]

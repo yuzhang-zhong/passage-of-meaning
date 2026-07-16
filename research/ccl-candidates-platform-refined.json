@@ -1,0 +1,317 @@
+[
+  {
+    "word": "关注",
+    "storyId": "platform-culture-02",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "platform-culture-02-contemporary",
+      "name": "平台关注按钮、关系链与指标",
+      "shortName": "平台关注按钮、关",
+      "description": "检查当代“平台关注按钮、关系链与指标”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "点击关注 time:2010s",
+    "totalResults": 5649,
+    "candidates": [
+      {
+        "score": 0.0588,
+        "excerpt": "精彩瞬间获取更多资讯，请关注“DH飞行部”微信公众平台平台关注方法：1.点击本文顶部“DH飞行部”→点击关注。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/微信公众号/Wechat_002.txt",
+        "recordId": "15563000000135",
+        "source": "Wechat · 002",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0532,
+        "excerpt": "2.党建网微平台开设投稿链接：在公共账号搜索“党建网微平台”六个字并加关注，或搜索“zxbdjw”，点击关注。",
+        "year": 2014,
+        "path": "2010s/2014/报刊/光明日报/2014_05.txt",
+        "recordId": "15331000024498",
+        "source": "2014 · 05",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0471,
+        "excerpt": "传统戏曲多是才子佳人，需要有新时代弘扬社会主义核心价值观，讴歌党、讴歌祖国、讴歌人民、讴歌英雄的精品力作，在国家艺术基金的资助和重庆市委宣传部、文化委等部门的大力支持下，我们在今年成功打造了川剧《江姐》，社会各界反响强烈，彩排时网易直播平台在线直播2小时，点击关注量达70余万人次。",
+        "year": 2018,
+        "path": "2010s/2018/报刊/光明日报/2018_10.txt",
+        "recordId": "15436000015899",
+        "source": "2018 · 10",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "分享",
+    "storyId": "platform-culture-05",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "platform-culture-05-contemporary",
+      "name": "分享经济、生活展示与数据权限",
+      "shortName": "分享经济、生活展",
+      "description": "检查当代“分享经济、生活展示与数据权限”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "分享经济模式 time:2010s",
+    "totalResults": 50,
+    "candidates": [
+      {
+        "score": 0.3333,
+        "excerpt": "分享经济遍地开花。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/微信公众号/Wechat_187.txt",
+        "recordId": "15748000011305",
+        "source": "Wechat · 187",
+        "hintHits": 0
+      },
+      {
+        "score": 0.218,
+        "excerpt": "在分享经济模式下，使用权优于所有权。",
+        "year": 2017,
+        "path": "2010s/2017/报刊/光明日报/2017_02.txt",
+        "recordId": "15402000003697",
+        "source": "2017 · 02",
+        "hintHits": 0
+      },
+      {
+        "score": 0.2148,
+        "excerpt": "1、分享经济模式迎来发展浪潮",
+        "year": 2017,
+        "path": "2010s/2017/报刊/光明日报/2017_07.txt",
+        "recordId": "15407000002628",
+        "source": "2017 · 07",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "话题",
+    "storyId": "platform-culture-08",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "platform-culture-08-contemporary",
+      "name": "平台 hashtag 聚合、热度与参与入口",
+      "shortName": "平台 hasht",
+      "description": "检查当代“平台 hashtag 聚合、热度与参与入口”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "话题标签 time:2010s",
+    "totalResults": 373,
+    "candidates": [
+      {
+        "score": 0.0277,
+        "excerpt": "打开某短视频APP，在一个名为“恶搞”的话题标签下，从在同伴食物中添加异物到趁人熟睡搞恶作剧，从恐吓路人到蓄意破坏他人财物，相关视频中不乏恶搞模仿内容。",
+        "year": 2018,
+        "path": "2010s/2018/报刊/人民日报/rmrb_2018_03.txt",
+        "recordId": "15417000039796",
+        "source": "rmrb · 2018 · 03",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0239,
+        "excerpt": "同时，加上话题标签#按自己的意愿过一天#，并@阿克苏趁早读书会，@趁早-ShapeYourLife、@王潇_潇洒姐。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/微信公众号/Wechat_080.txt",
+        "recordId": "15641000007175",
+        "source": "Wechat · 080",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0228,
+        "excerpt": "话题标签的发起人和运动的召集人，艾丽西亚·加尔萨（Alicia Garza）、帕特希·库拉斯（Patrisse Cullors）和欧帕尔·托米提（Opal Tomet）在2014年至2016年将他们的项目拓展到了全国30多个地方分部。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/中文维基/Wiki_087.txt",
+        "recordId": "15558000010013",
+        "source": "Wiki · 087",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "社群",
+    "storyId": "platform-culture-11",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "platform-culture-11-prehistory",
+      "name": "社团与群体组合",
+      "shortName": "社团",
+      "description": "核对“社群”作为“社团与群体组合”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "社群 time:1990s",
+    "totalResults": 102,
+    "candidates": [
+      {
+        "score": 0.0456,
+        "excerpt": "当今的社会，无论国际关系、人际关系、任何个体与团体的关系、个人利益与社群利益的关系等等，其中存在着的相互抵触矛盾、利害冲突的解决，显然，已由讲求武力的动用，转为强调和平协商途径的运作，从而排难解纷，求得彼此的交相利惠、共存共荣、两全其美。",
+        "year": 1994,
+        "path": "1990s/1994/报刊/光明日报/1994_11.txt",
+        "recordId": "8138000002016",
+        "source": "1994 · 11",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0456,
+        "excerpt": "当今的社会，无论国际关系、人际关系、任何个体与团体的关系、个人利益与社群利益的关系等等，其中存在着的相互抵触矛盾、利害冲突的解决，显然，已由讲求武力的动用，转为强调和平协商途径的运作，从而排难解纷，求得彼此的交相利惠，共存共荣、两全其美。",
+        "year": 1994,
+        "path": "1990s/1994/报刊/报刊精选/1994年《报刊精选》11.txt",
+        "recordId": "8157000041032",
+        "source": "1994年《报刊精选》11",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0435,
+        "excerpt": "费孝通先生曾在其著名的《乡土中国》一书中，对西洋家庭和中国家庭在结构上的差异作过有趣的比较：在西洋，家庭是团体性的社群，它所能经营的事务很小，主要是生儿育女，至于别的需要较多人合作的事务就得由其他社群来经营；",
+        "year": 1994,
+        "path": "1990s/1994/报刊/报刊精选/1994年《报刊精选》05.txt",
+        "recordId": "8151000014133",
+        "source": "1994年《报刊精选》05",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "社群",
+    "storyId": "platform-culture-11",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "platform-culture-11-turn",
+      "name": "共同兴趣、地域与身份群体",
+      "shortName": "共同兴趣、地域",
+      "description": "追踪“社群”如何在制度、知识或媒介中稳定为“共同兴趣、地域与身份群体”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(兴趣社群|网络社群) time:2010s",
+    "totalResults": 104,
+    "candidates": [
+      {
+        "score": 0.1549,
+        "excerpt": "与垂直媒体相似，这些知识类网络社群并不追求大而全，而是瞄准了特定群体。",
+        "year": 2015,
+        "path": "2010s/2015/报刊/人民日报/rmrb_2015_11.txt",
+        "recordId": "15350000000867",
+        "source": "rmrb · 2015 · 11",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1522,
+        "excerpt": "人们在网络上往往基于共同的兴趣、爱好或价值观念形成网络社群。",
+        "year": 2013,
+        "path": "2010s/2013/报刊/人民日报/rmrb_2013_07.txt",
+        "recordId": "15296000023341",
+        "source": "rmrb · 2013 · 07",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1366,
+        "excerpt": "在自媒体尚未兴起之前，高校BBS是本校学生在虚拟网络中的主要聚集地，学校通过监测校内BBS 就能对学生舆情有较为全面的掌握，然而在自媒体兴起之后，学生的网络聚集地开始趋于分散化，突破了校园网的范围，以兴趣缘、同学缘为纽带形成了一个个小规模网络社群，以社群内交流为主，舆情监测难度大大增加。",
+        "year": 2015,
+        "path": "2010s/2015/报刊/光明日报/2015_10.txt",
+        "recordId": "15361000013992",
+        "source": "2015 · 10",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "头像",
+    "storyId": "platform-culture-17",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "platform-culture-17-prehistory",
+      "name": "人的头部画像或照片",
+      "shortName": "人的头部画像或照",
+      "description": "核对“头像”作为“人的头部画像或照片”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "头像 time:1990s",
+    "totalResults": 955,
+    "candidates": [
+      {
+        "score": 0.1654,
+        "excerpt": "赵章光拿出３个人的头像照片给我们看。",
+        "year": 1990,
+        "path": "1990s/1990/报刊/人民日报/rmrb_1990_06.txt",
+        "recordId": "5660000016747",
+        "source": "rmrb · 1990 · 06",
+        "hintHits": 0
+      },
+      {
+        "score": 0.1024,
+        "excerpt": "《沉思》是他的早期作品，雕刻了一个秀美而淳朴的女性头像。",
+        "year": 1991,
+        "path": "1990s/1991/应用文/自然科学/1991 林崇德_王德胜 中国儿童百科全书.txt",
+        "recordId": "5765000020680",
+        "source": "林崇德 · 王德胜 中国儿童百科全书",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0658,
+        "excerpt": "”他的喊声刚落，几名不法分子合围过来，拳头像雨点一样打在这位中年人的头上、背上，这位中年人的脸上被打得渗出了鲜血，但他仍抱住其中一名不法分子。",
+        "year": 1990,
+        "path": "1990s/1990/报刊/人民日报/rmrb_1990_11.txt",
+        "recordId": "5665000017894",
+        "source": "rmrb · 1990 · 11",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "头像",
+    "storyId": "platform-culture-17",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "platform-culture-17-turn",
+      "name": "数字账号的 profile image",
+      "shortName": "数字账号的 pr",
+      "description": "追踪“头像”如何在制度、知识或媒介中稳定为“数字账号的 profile image”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "用户头像 time:2010s",
+    "totalResults": 21,
+    "candidates": [
+      {
+        "score": 0.0475,
+        "excerpt": "然而，记者仔细查看支付页面，在用户头像下方，却有一排“向个人用户转账”的提示，表明这是个人账号。",
+        "year": 2017,
+        "path": "2010s/2017/报刊/人民日报/rmrb_2017_11.txt",
+        "recordId": "15399000036790",
+        "source": "rmrb · 2017 · 11",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0439,
+        "excerpt": "去年，微软的 Windows Phone商店开张的时候，那个开发者又上线了 WP 版本的 I’m Rich，售价499美元（也已被下架）百度魔图13年7月，百度魔图的应用忽然流行起来，流行的原因是其中的“PK大咖”功能，结合百度人脸识别技术来扫描用户头像，找出与之最相似的明星照片并分享到社交网络中。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/微信公众号/Wechat_132.txt",
+        "recordId": "15693000006459",
+        "source": "Wechat · 132",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0425,
+        "excerpt": "精简说明：以下是去除的XP自带组件微软精灵用户头像WINDOWS漫游XP声音主题文件辅助工具(ALL)默认文件夹-我的图片桌面墙纸OUTLOOK ExpressNETMEETINGwindows Messenger地址薄…",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/社区问答/baike_026.txt",
+        "recordId": "15890000018123",
+        "source": "baike · 026",
+        "hintHits": 0
+      }
+    ]
+  }
+]

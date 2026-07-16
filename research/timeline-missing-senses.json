@@ -1,0 +1,1696 @@
+[
+  {
+    "word": "自由",
+    "storyId": "translated-concepts-03",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "translated-concepts-03-turn",
+      "name": "政治、法律与伦理中的自由",
+      "shortName": "权利概念",
+      "description": "近代公共论述将自由组织为与个人、权利、责任和国家有关的概念。",
+      "startIndex": 1
+    }
+  },
+  {
+    "word": "民主",
+    "storyId": "translated-concepts-05",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "translated-concepts-05-prehistory",
+      "name": "“民之主”的古典词形",
+      "shortName": "民之主",
+      "description": "古典文本中“民主”可指民众的主宰或君主，与现代 democracy 不可直接合并。",
+      "startIndex": 0
+    }
+  },
+  {
+    "word": "民主",
+    "storyId": "translated-concepts-05",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "translated-concepts-05-turn",
+      "name": "主权在民与政治制度",
+      "shortName": "现代政体",
+      "description": "近代译介中，词义转向民众参与、主权归属与政治制度的讨论。",
+      "startIndex": 1
+    }
+  },
+  {
+    "word": "哲学",
+    "storyId": "translated-concepts-06",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "translated-concepts-06-prehistory",
+      "name": "“哲”的智慧资源与新词前史",
+      "shortName": "词形资源",
+      "description": "先区分古典“哲”“哲人”等智慧语汇与近代“哲学”学科名称。",
+      "startIndex": 0
+    }
+  },
+  {
+    "word": "美学",
+    "storyId": "translated-concepts-08",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "translated-concepts-08-prehistory",
+      "name": "审美语汇与学科译名前史",
+      "shortName": "译名前史",
+      "description": "区分中国古代论美传统与“美学”作为现代学科名称的形成。",
+      "startIndex": 0
+    }
+  },
+  {
+    "word": "社会",
+    "storyId": "translated-concepts-10",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "translated-concepts-10-prehistory",
+      "name": "社祭、结社与聚会词形",
+      "shortName": "社会前史",
+      "description": "早期“社”与“会”可连系祭社、结社与人群聚会，需与现代 society 概念区分。",
+      "startIndex": 0
+    }
+  },
+  {
+    "word": "社会",
+    "storyId": "translated-concepts-10",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "translated-concepts-10-turn",
+      "name": "现代人群关系与制度总体",
+      "shortName": "现代社会",
+      "description": "近代以后，“社会”成为描述人群关系、组织和制度总体的基础概念。",
+      "startIndex": 1
+    }
+  },
+  {
+    "word": "文化",
+    "storyId": "translated-concepts-11",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "translated-concepts-11-prehistory",
+      "name": "文治教化与人的修养",
+      "shortName": "文治教化",
+      "description": "古典语境将“文化”与文治、教化和移风易俗联系，并非现代学科概念的原样。",
+      "startIndex": 0
+    }
+  },
+  {
+    "word": "宗教",
+    "storyId": "translated-concepts-12",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "translated-concepts-12-prehistory",
+      "name": "宗旨、教法与门派语境",
+      "shortName": "教法前史",
+      "description": "早期词形与佛教等教法、宗旨和门派语境有关，需避免与现代 religion 类目直接合并。",
+      "startIndex": 0
+    }
+  },
+  {
+    "word": "宗教",
+    "storyId": "translated-concepts-12",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "translated-concepts-12-turn",
+      "name": "信仰、组织与仪式的现代类目",
+      "shortName": "现代宗教",
+      "description": "近代知识与法律分类将多种信仰传统纳入“宗教”这一总括性类目。",
+      "startIndex": 1
+    }
+  },
+  {
+    "word": "革命",
+    "storyId": "translated-concepts-13",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "translated-concepts-13-prehistory",
+      "name": "天命更易与改朝换代",
+      "shortName": "天命更易",
+      "description": "古典“革命”与变革天命、王朝更替相关，其政当性框架与现代用法不同。",
+      "startIndex": 0
+    }
+  },
+  {
+    "word": "革命",
+    "storyId": "translated-concepts-13",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "translated-concepts-13-turn",
+      "name": "政治与社会结构的根本变革",
+      "shortName": "社会变革",
+      "description": "近代 revolution 相关概念使“革命”指向对政治制度与社会秩序的根本改造。",
+      "startIndex": 1
+    }
+  },
+  {
+    "word": "经济",
+    "storyId": "translated-concepts-15",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "translated-concepts-15-prehistory",
+      "name": "经世济民与治国才能",
+      "shortName": "经世济民",
+      "description": "古典“经济”可与经营天下、治国济民的才能与事业相关。",
+      "startIndex": 0
+    }
+  },
+  {
+    "word": "权利",
+    "storyId": "translated-concepts-16",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "translated-concepts-16-prehistory",
+      "name": "权势、利益与词形前史",
+      "shortName": "词形前史",
+      "description": "核对早期“权”“利”及“权利”组合，不把权势与利益直接等同现代 rights。",
+      "startIndex": 0
+    }
+  },
+  {
+    "word": "权利",
+    "storyId": "translated-concepts-16",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "translated-concepts-16-turn",
+      "name": "法律确认的资格与请求",
+      "shortName": "法律权利",
+      "description": "近代法律语汇中，“权利”指向个人或主体可主张、行使与受保护的资格。",
+      "startIndex": 1
+    }
+  },
+  {
+    "word": "义务",
+    "storyId": "translated-concepts-17",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "translated-concepts-17-turn",
+      "name": "法律与制度规定的责任",
+      "shortName": "法定义务",
+      "description": "现代制度中，“义务”与权利对举，指必须履行的行为或责任。",
+      "startIndex": 1
+    }
+  },
+  {
+    "word": "现代",
+    "storyId": "translated-concepts-19",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "translated-concepts-19-prehistory",
+      "name": "现今、当世与时间分期前史",
+      "shortName": "当世时间",
+      "description": "检查表示“现在”“当下”的时间语汇如何与“现代”这一分期名称接合。",
+      "startIndex": 0
+    }
+  },
+  {
+    "word": "世界",
+    "storyId": "translated-concepts-20",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "translated-concepts-20-turn",
+      "name": "全球、人类社会与国际尺度",
+      "shortName": "全球世界",
+      "description": "近现代“世界”常指全球范围、国际秩序或人类共同生活的总体。",
+      "startIndex": 1
+    }
+  },
+  {
+    "word": "女性",
+    "storyId": "social-identities-02",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "social-identities-02-prehistory",
+      "name": "女子、性别与词形建立",
+      "shortName": "性别称谓",
+      "description": "追踪“女性”如何从指称女子的性别词汇中稳定，并与“妇女”等称谓分工。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "人民",
+    "storyId": "social-identities-04",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "social-identities-04-prehistory",
+      "name": "庶民、百姓与被治理者",
+      "shortName": "庶民百姓",
+      "description": "早期“人民”可泛指百姓与居民，往往处在与君主、官府相对的位置。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "农民",
+    "storyId": "social-identities-08",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "social-identities-08-prehistory",
+      "name": "务农之人与乡里居民",
+      "shortName": "务农之人",
+      "description": "“农民”首先以农业生产与乡村居住为识别核心，两者并不总是完全重合。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "知识分子",
+    "storyId": "social-identities-10",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "social-identities-10-prehistory",
+      "name": "近代译名与新式读书人",
+      "shortName": "译名形成",
+      "description": "“知识分子”是近现代形成的集体称谓，需与士人、文人和专业人士对照。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "知识分子",
+    "storyId": "social-identities-10",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "social-identities-10-turn",
+      "name": "以知识参与公共生活的群体",
+      "shortName": "公共角色",
+      "description": "该身份常与教育、专业劳动、公共表达和社会责任相联系。",
+      "startIndex": 3
+    }
+  },
+  {
+    "word": "公民",
+    "storyId": "social-identities-11",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "social-identities-11-prehistory",
+      "name": "公家之民与近代词形重组",
+      "shortName": "词形前史",
+      "description": "核对早期“公”“民”组合与近代 citizen 译介，避免把居民、臣民与公民混为一类。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "公民",
+    "storyId": "social-identities-11",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "social-identities-11-turn",
+      "name": "具有权利与义务的法律身份",
+      "shortName": "法律公民",
+      "description": "现代国家中，“公民”以国籍、权利、义务和政治成员资格为核心。",
+      "startIndex": 3
+    }
+  },
+  {
+    "word": "国民",
+    "storyId": "social-identities-12",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "social-identities-12-prehistory",
+      "name": "一国之民与近代国家想象",
+      "shortName": "一国之民",
+      "description": "“国民”在近代国家建构中强调人与国家的所属关系，并与臣民、人民、公民竞合。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "同胞",
+    "storyId": "social-identities-16",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "social-identities-16-turn",
+      "name": "共同国家或族群成员的亲族隐喻",
+      "shortName": "共同体称谓",
+      "description": "公共论述将血缘称谓扩展为对共同国家、地域或族群成员的亲近呼唤。",
+      "startIndex": 0
+    }
+  },
+  {
+    "word": "主体",
+    "storyId": "social-identities-18",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "social-identities-18-prehistory",
+      "name": "主要部分、核心结构与主客位置",
+      "shortName": "主要部分",
+      "description": "早期和一般用法可以“主体”指事物的主要部分，或与附属部分相对。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "国家",
+    "storyId": "public-life-01",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "public-life-01-prehistory",
+      "name": "邦国、疆域与政权",
+      "shortName": "邦国、疆域",
+      "description": "核对“国家”作为“邦国、疆域与政权”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "国家",
+    "storyId": "public-life-01",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "public-life-01-turn",
+      "name": "现代主权国家",
+      "shortName": "现代主权国家",
+      "description": "追踪“国家”如何在制度、知识或媒介中稳定为“现代主权国家”，并找出关键转折文本。",
+      "startIndex": 3
+    }
+  },
+  {
+    "word": "政治",
+    "storyId": "public-life-02",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "public-life-02-prehistory",
+      "name": "政事与治理活动",
+      "shortName": "政事",
+      "description": "核对“政治”作为“政事与治理活动”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "政府",
+    "storyId": "public-life-03",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "public-life-03-prehistory",
+      "name": "治理政务与官府",
+      "shortName": "治理政务",
+      "description": "核对“政府”作为“治理政务与官府”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "党",
+    "storyId": "public-life-04",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "public-life-04-prehistory",
+      "name": "同类、伙伴与朋党",
+      "shortName": "同类、伙伴",
+      "description": "核对“党”作为“同类、伙伴与朋党”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "党",
+    "storyId": "public-life-04",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "public-life-04-turn",
+      "name": "现代政党组织",
+      "shortName": "现代政党组织",
+      "description": "追踪“党”如何在制度、知识或媒介中稳定为“现代政党组织”，并找出关键转折文本。",
+      "startIndex": 3
+    }
+  },
+  {
+    "word": "组织",
+    "storyId": "public-life-05",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "public-life-05-prehistory",
+      "name": "纺织、组合与结构",
+      "shortName": "纺织、组合",
+      "description": "核对“组织”作为“纺织、组合与结构”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "单位",
+    "storyId": "public-life-06",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "public-life-06-prehistory",
+      "name": "计量标准与基本单元",
+      "shortName": "计量标准",
+      "description": "核对“单位”作为“计量标准与基本单元”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "机关",
+    "storyId": "public-life-07",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "public-life-07-prehistory",
+      "name": "机械枢纽与关键部件",
+      "shortName": "机械枢纽",
+      "description": "核对“机关”作为“机械枢纽与关键部件”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "机关",
+    "storyId": "public-life-07",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "public-life-07-contemporary",
+      "name": "组织部门与技术装置的分化",
+      "shortName": "组织部门",
+      "description": "检查当代“组织部门与技术装置的分化”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    }
+  },
+  {
+    "word": "干部",
+    "storyId": "public-life-08",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "public-life-08-prehistory",
+      "name": "事务骨干与负责人",
+      "shortName": "事务骨干",
+      "description": "核对“干部”作为“事务骨干与负责人”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "干部",
+    "storyId": "public-life-08",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "public-life-08-turn",
+      "name": "组织职务与人事身份",
+      "shortName": "组织职务",
+      "description": "追踪“干部”如何在制度、知识或媒介中稳定为“组织职务与人事身份”，并找出关键转折文本。",
+      "startIndex": 3
+    }
+  },
+  {
+    "word": "领导",
+    "storyId": "public-life-09",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "public-life-09-prehistory",
+      "name": "带领、引导的行为",
+      "shortName": "带领、引导的行为",
+      "description": "核对“领导”作为“带领、引导的行为”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "代表",
+    "storyId": "public-life-10",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "public-life-10-turn",
+      "name": "制度性代表身份",
+      "shortName": "制度性代表身份",
+      "description": "追踪“代表”如何在制度、知识或媒介中稳定为“制度性代表身份”，并找出关键转折文本。",
+      "startIndex": 3
+    }
+  },
+  {
+    "word": "代表",
+    "storyId": "public-life-10",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "public-life-10-contemporary",
+      "name": "典型样本与品牌代表",
+      "shortName": "典型样本",
+      "description": "检查当代“典型样本与品牌代表”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    }
+  },
+  {
+    "word": "法律",
+    "storyId": "public-life-11",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "public-life-11-prehistory",
+      "name": "法度、律令与准则",
+      "shortName": "法度、律令",
+      "description": "核对“法律”作为“法度、律令与准则”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "法律",
+    "storyId": "public-life-11",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "public-life-11-turn",
+      "name": "现代法律体系与专业",
+      "shortName": "现代法律体系",
+      "description": "追踪“法律”如何在制度、知识或媒介中稳定为“现代法律体系与专业”，并找出关键转折文本。",
+      "startIndex": 3
+    }
+  },
+  {
+    "word": "宪法",
+    "storyId": "public-life-12",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "public-life-12-prehistory",
+      "name": "法度总则与古典词形",
+      "shortName": "法度总则",
+      "description": "核对“宪法”作为“法度总则与古典词形”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "宪法",
+    "storyId": "public-life-12",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "public-life-12-turn",
+      "name": "国家根本法",
+      "shortName": "国家根本法",
+      "description": "追踪“宪法”如何在制度、知识或媒介中稳定为“国家根本法”，并找出关键转折文本。",
+      "startIndex": 3
+    }
+  },
+  {
+    "word": "秩序",
+    "storyId": "public-life-13",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "public-life-13-prehistory",
+      "name": "次序、条理与等级",
+      "shortName": "次序、条理",
+      "description": "核对“秩序”作为“次序、条理与等级”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "公共",
+    "storyId": "public-life-14",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "public-life-14-prehistory",
+      "name": "公家所有与共同事务",
+      "shortName": "公家所有",
+      "description": "核对“公共”作为“公家所有与共同事务”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "社会主义",
+    "storyId": "public-life-15",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "public-life-15-prehistory",
+      "name": "近代译介的社会思想",
+      "shortName": "近代译介的社会思",
+      "description": "核对“社会主义”作为“近代译介的社会思想”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "社会主义",
+    "storyId": "public-life-15",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "public-life-15-turn",
+      "name": "制度、经济与社会理想",
+      "shortName": "制度、经济",
+      "description": "追踪“社会主义”如何在制度、知识或媒介中稳定为“制度、经济与社会理想”，并找出关键转折文本。",
+      "startIndex": 3
+    }
+  },
+  {
+    "word": "民族",
+    "storyId": "public-life-16",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "public-life-16-prehistory",
+      "name": "人群、族类与共同体前史",
+      "shortName": "人群、族类",
+      "description": "核对“民族”作为“人群、族类与共同体前史”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "民族",
+    "storyId": "public-life-16",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "public-life-16-turn",
+      "name": "近代 nation 与 ethnicity 的译介竞合",
+      "shortName": "近代 natio",
+      "description": "追踪“民族”如何在制度、知识或媒介中稳定为“近代 nation 与 ethnicity 的译介竞合”，并找出关键转折文本。",
+      "startIndex": 3
+    }
+  },
+  {
+    "word": "中华",
+    "storyId": "public-life-17",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "public-life-17-prehistory",
+      "name": "中原、华夏与文明称谓",
+      "shortName": "中原、华夏",
+      "description": "核对“中华”作为“中原、华夏与文明称谓”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 0
+    }
+  },
+  {
+    "word": "中华",
+    "storyId": "public-life-17",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "public-life-17-turn",
+      "name": "现代国家与共同体名称",
+      "shortName": "现代国家",
+      "description": "追踪“中华”如何在制度、知识或媒介中稳定为“现代国家与共同体名称”，并找出关键转折文本。",
+      "startIndex": 0
+    }
+  },
+  {
+    "word": "解放",
+    "storyId": "public-life-19",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "public-life-19-prehistory",
+      "name": "解开束缚与释放",
+      "shortName": "解开束缚",
+      "description": "核对“解放”作为“解开束缚与释放”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "建设",
+    "storyId": "public-life-20",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "public-life-20-prehistory",
+      "name": "建造工程与营建",
+      "shortName": "建造工程",
+      "description": "核对“建设”作为“建造工程与营建”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "劳动",
+    "storyId": "market-life-04",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "market-life-04-prehistory",
+      "name": "劳苦用力与做工",
+      "shortName": "劳苦用力",
+      "description": "核对“劳动”作为“劳苦用力与做工”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "公司",
+    "storyId": "market-life-07",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "market-life-07-prehistory",
+      "name": "公众共同处理事务的词形前史",
+      "shortName": "公众共同处理事务",
+      "description": "核对“公司”作为“公众共同处理事务的词形前史”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "企业",
+    "storyId": "market-life-08",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "market-life-08-prehistory",
+      "name": "企图事业与经营活动",
+      "shortName": "企图事业",
+      "description": "核对“企业”作为“企图事业与经营活动”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "工资",
+    "storyId": "market-life-09",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "market-life-09-turn",
+      "name": "现代雇佣制度中的货币报酬",
+      "shortName": "现代雇佣制度中的",
+      "description": "追踪“工资”如何在制度、知识或媒介中稳定为“现代雇佣制度中的货币报酬”，并找出关键转折文本。",
+      "startIndex": 3
+    }
+  },
+  {
+    "word": "收入",
+    "storyId": "market-life-10",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "market-life-10-prehistory",
+      "name": "收进钱物与所得",
+      "shortName": "收进钱物",
+      "description": "核对“收入”作为“收进钱物与所得”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "消费",
+    "storyId": "market-life-11",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "market-life-11-prehistory",
+      "name": "消耗、使用与开支",
+      "shortName": "消耗、使用",
+      "description": "核对“消费”作为“消耗、使用与开支”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "服务",
+    "storyId": "market-life-12",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "market-life-12-prehistory",
+      "name": "服役、任职与为人做事",
+      "shortName": "服役、任职",
+      "description": "核对“服务”作为“服役、任职与为人做事”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "品牌",
+    "storyId": "market-life-13",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "market-life-13-prehistory",
+      "name": "牌号、商标与商品识别",
+      "shortName": "牌号、商标",
+      "description": "核对“品牌”作为“牌号、商标与商品识别”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "投资",
+    "storyId": "market-life-16",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "market-life-16-prehistory",
+      "name": "投入财货与经营本钱",
+      "shortName": "投入财货",
+      "description": "核对“投资”作为“投入财货与经营本钱”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "风险",
+    "storyId": "market-life-17",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "market-life-17-prehistory",
+      "name": "风浪险阻与危险",
+      "shortName": "风浪险阻",
+      "description": "核对“风险”作为“风浪险阻与危险”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "创业",
+    "storyId": "market-life-18",
+    "topic": "市场进入日常",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "market-life-18-prehistory",
+      "name": "创立事业与开创基业",
+      "shortName": "创立事业",
+      "description": "核对“创业”作为“创立事业与开创基业”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "新闻",
+    "storyId": "media-language-01",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-01-prehistory",
+      "name": "新近听闻与消息",
+      "shortName": "新近听闻",
+      "description": "核对“新闻”作为“新近听闻与消息”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "报纸",
+    "storyId": "media-language-02",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-02-prehistory",
+      "name": "呈报文书与纸张",
+      "shortName": "呈报文书",
+      "description": "核对“报纸”作为“呈报文书与纸张”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "杂志",
+    "storyId": "media-language-03",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-03-prehistory",
+      "name": "杂记、编录与定期刊物前史",
+      "shortName": "杂记、编录",
+      "description": "核对“杂志”作为“杂记、编录与定期刊物前史”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "出版",
+    "storyId": "media-language-04",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-04-prehistory",
+      "name": "刊印、版本与发行",
+      "shortName": "刊印、版本",
+      "description": "核对“出版”作为“刊印、版本与发行”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "作者",
+    "storyId": "media-language-06",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-06-prehistory",
+      "name": "创作文本之人",
+      "shortName": "创作文本之人",
+      "description": "核对“作者”作为“创作文本之人”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "舆论",
+    "storyId": "media-language-11",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-11-prehistory",
+      "name": "众人议论与公议",
+      "shortName": "众人议论",
+      "description": "核对“舆论”作为“众人议论与公议”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "直播",
+    "storyId": "media-language-14",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-14-prehistory",
+      "name": "现场直接播送",
+      "shortName": "现场直接播送",
+      "description": "核对“直播”作为“现场直接播送”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    }
+  },
+  {
+    "word": "节目",
+    "storyId": "media-language-15",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-15-prehistory",
+      "name": "条目、事项与仪式次序",
+      "shortName": "条目、事项",
+      "description": "核对“节目”作为“条目、事项与仪式次序”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "频道",
+    "storyId": "media-language-16",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-16-prehistory",
+      "name": "水道、通道与通路隐喻",
+      "shortName": "水道、通道",
+      "description": "核对“频道”作为“水道、通道与通路隐喻”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "频道",
+    "storyId": "media-language-16",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "media-language-16-turn",
+      "name": "广播通信的频率与节目通道",
+      "shortName": "广播通信的频率",
+      "description": "追踪“频道”如何在制度、知识或媒介中稳定为“广播通信的频率与节目通道”，并找出关键转折文本。",
+      "startIndex": 3
+    }
+  },
+  {
+    "word": "主播",
+    "storyId": "media-language-17",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-17-prehistory",
+      "name": "播音与节目主持职业",
+      "shortName": "播音",
+      "description": "核对“主播”作为“播音与节目主持职业”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "影像",
+    "storyId": "media-language-18",
+    "topic": "媒介塑造表达",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "media-language-18-prehistory",
+      "name": "影子、形象与视觉记录",
+      "shortName": "影子、形象",
+      "description": "核对“影像”作为“影子、形象与视觉记录”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "物理",
+    "storyId": "knowledge-life-02",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "knowledge-life-02-prehistory",
+      "name": "事物的道理与条理",
+      "shortName": "事物的道理",
+      "description": "核对“物理”作为“事物的道理与条理”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 0
+    }
+  },
+  {
+    "word": "化学",
+    "storyId": "knowledge-life-03",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "knowledge-life-03-prehistory",
+      "name": "化育之学与译名前史",
+      "shortName": "化育之学",
+      "description": "核对“化学”作为“化育之学与译名前史”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 0
+    }
+  },
+  {
+    "word": "化学",
+    "storyId": "knowledge-life-03",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "knowledge-life-03-turn",
+      "name": "现代 chemistry 学科",
+      "shortName": "现代 chemi",
+      "description": "追踪“化学”如何在制度、知识或媒介中稳定为“现代 chemistry 学科”，并找出关键转折文本。",
+      "startIndex": 1
+    }
+  },
+  {
+    "word": "数学",
+    "storyId": "knowledge-life-07",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "knowledge-life-07-prehistory",
+      "name": "算数之学与数术",
+      "shortName": "算数之学",
+      "description": "核对“数学”作为“算数之学与数术”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 0
+    }
+  },
+  {
+    "word": "数学",
+    "storyId": "knowledge-life-07",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "knowledge-life-07-turn",
+      "name": "现代 mathematics 学科体系",
+      "shortName": "现代 mathe",
+      "description": "追踪“数学”如何在制度、知识或媒介中稳定为“现代 mathematics 学科体系”，并找出关键转折文本。",
+      "startIndex": 1
+    }
+  },
+  {
+    "word": "系统",
+    "storyId": "knowledge-life-11",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "knowledge-life-11-prehistory",
+      "name": "分类、统属与条理化",
+      "shortName": "分类、统属",
+      "description": "核对“系统”作为“分类、统属与条理化”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 0
+    }
+  },
+  {
+    "word": "信息",
+    "storyId": "knowledge-life-14",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "knowledge-life-14-prehistory",
+      "name": "音信、消息与可信的征候",
+      "shortName": "音信、消息",
+      "description": "核对“信息”作为“音信、消息与可信的征候”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    }
+  },
+  {
+    "word": "基因",
+    "storyId": "knowledge-life-15",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "knowledge-life-15-turn",
+      "name": "现代 genetics 中的遗传单位",
+      "shortName": "现代 genet",
+      "description": "追踪“基因”如何在制度、知识或媒介中稳定为“现代 genetics 中的遗传单位”，并找出关键转折文本。",
+      "startIndex": 1
+    }
+  },
+  {
+    "word": "能量",
+    "storyId": "knowledge-life-16",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "knowledge-life-16-prehistory",
+      "name": "能力大小与物理译名前史",
+      "shortName": "能力大小",
+      "description": "核对“能量”作为“能力大小与物理译名前史”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 0
+    }
+  },
+  {
+    "word": "生态",
+    "storyId": "knowledge-life-17",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "knowledge-life-17-prehistory",
+      "name": "生物生存状态与环境关系",
+      "shortName": "生物生存状态",
+      "description": "核对“生态”作为“生物生存状态与环境关系”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 0
+    }
+  },
+  {
+    "word": "环境",
+    "storyId": "knowledge-life-18",
+    "topic": "知识进入常识",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "knowledge-life-18-turn",
+      "name": "现代环境科学与公共问题",
+      "shortName": "现代环境科学",
+      "description": "追踪“环境”如何在制度、知识或媒介中稳定为“现代环境科学与公共问题”，并找出关键转折文本。",
+      "startIndex": 1
+    }
+  },
+  {
+    "word": "情感",
+    "storyId": "self-and-feeling-06",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-06-turn",
+      "name": "现代心理与文学中的情感",
+      "shortName": "现代心理",
+      "description": "追踪“情感”如何在制度、知识或媒介中稳定为“现代心理与文学中的情感”，并找出关键转折文本。",
+      "startIndex": 3
+    }
+  },
+  {
+    "word": "隐私",
+    "storyId": "self-and-feeling-08",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "self-and-feeling-08-prehistory",
+      "name": "私密之事与不愿公开",
+      "shortName": "私密之事",
+      "description": "核对“隐私”作为“私密之事与不愿公开”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "婚姻",
+    "storyId": "self-and-feeling-09",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-09-turn",
+      "name": "现代法律与个人选择中的婚姻",
+      "shortName": "现代法律",
+      "description": "追踪“婚姻”如何在制度、知识或媒介中稳定为“现代法律与个人选择中的婚姻”，并找出关键转折文本。",
+      "startIndex": 3
+    }
+  },
+  {
+    "word": "家庭",
+    "storyId": "self-and-feeling-10",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-10-turn",
+      "name": "现代小家庭、法律与情感单位",
+      "shortName": "现代小家庭、法律",
+      "description": "追踪“家庭”如何在制度、知识或媒介中稳定为“现代小家庭、法律与情感单位”，并找出关键转折文本。",
+      "startIndex": 0
+    }
+  },
+  {
+    "word": "性",
+    "storyId": "self-and-feeling-12",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "self-and-feeling-12-prehistory",
+      "name": "性情、本性与生物性别前史",
+      "shortName": "性情、本性",
+      "description": "核对“性”作为“性情、本性与生物性别前史”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "焦虑",
+    "storyId": "self-and-feeling-17",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "self-and-feeling-17-prehistory",
+      "name": "焦急忧虑与情绪状态",
+      "shortName": "焦急忧虑",
+      "description": "核对“焦虑”作为“焦急忧虑与情绪状态”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "焦虑",
+    "storyId": "self-and-feeling-17",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-17-turn",
+      "name": "现代心理医学中的 anxiety",
+      "shortName": "现代心理医学中的",
+      "description": "追踪“焦虑”如何在制度、知识或媒介中稳定为“现代心理医学中的 anxiety”，并找出关键转折文本。",
+      "startIndex": 3
+    }
+  },
+  {
+    "word": "压力",
+    "storyId": "self-and-feeling-18",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "self-and-feeling-18-prehistory",
+      "name": "压迫之力与物理量",
+      "shortName": "压迫之力",
+      "description": "核对“压力”作为“压迫之力与物理量”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "压力",
+    "storyId": "self-and-feeling-18",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-18-turn",
+      "name": "生理心理与社会 stress 概念",
+      "shortName": "生理心理",
+      "description": "追踪“压力”如何在制度、知识或媒介中稳定为“生理心理与社会 stress 概念”，并找出关键转折文本。",
+      "startIndex": 3
+    }
+  },
+  {
+    "word": "城市",
+    "storyId": "space-and-mobility-01",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "space-and-mobility-01-prehistory",
+      "name": "城郭与交易聚落",
+      "shortName": "城郭",
+      "description": "核对“城市”作为“城郭与交易聚落”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "社区",
+    "storyId": "space-and-mobility-03",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "space-and-mobility-03-prehistory",
+      "name": "社团、地区与 community 译名前史",
+      "shortName": "社团、地区",
+      "description": "核对“社区”作为“社团、地区与 community 译名前史”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "社区",
+    "storyId": "space-and-mobility-03",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "space-and-mobility-03-turn",
+      "name": "基层居住与公共治理单元",
+      "shortName": "基层居住",
+      "description": "追踪“社区”如何在制度、知识或媒介中稳定为“基层居住与公共治理单元”，并找出关键转折文本。",
+      "startIndex": 3
+    }
+  },
+  {
+    "word": "公园",
+    "storyId": "space-and-mobility-06",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "space-and-mobility-06-turn",
+      "name": "现代城市绿地与市民设施",
+      "shortName": "现代城市绿地",
+      "description": "追踪“公园”如何在制度、知识或媒介中稳定为“现代城市绿地与市民设施”，并找出关键转折文本。",
+      "startIndex": 3
+    }
+  },
+  {
+    "word": "地方",
+    "storyId": "space-and-mobility-08",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "space-and-mobility-08-turn",
+      "name": "现代行政、区域与地方性",
+      "shortName": "现代行政、区域",
+      "description": "追踪“地方”如何在制度、知识或媒介中稳定为“现代行政、区域与地方性”，并找出关键转折文本。",
+      "startIndex": 0
+    }
+  },
+  {
+    "word": "地方",
+    "storyId": "space-and-mobility-08",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "space-and-mobility-08-contemporary",
+      "name": "地方感、本地服务与位置数据",
+      "shortName": "地方感、本地服务",
+      "description": "检查当代“地方感、本地服务与位置数据”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 4
+    }
+  },
+  {
+    "word": "移民",
+    "storyId": "space-and-mobility-15",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "space-and-mobility-15-prehistory",
+      "name": "迁徙人口与移居他地",
+      "shortName": "迁徙人口",
+      "description": "核对“移民”作为“迁徙人口与移居他地”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    }
+  },
+  {
+    "word": "移民",
+    "storyId": "space-and-mobility-15",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "space-and-mobility-15-turn",
+      "name": "现代国家法律与跨境移民身份",
+      "shortName": "现代国家法律",
+      "description": "追踪“移民”如何在制度、知识或媒介中稳定为“现代国家法律与跨境移民身份”，并找出关键转折文本。",
+      "startIndex": 3
+    }
+  },
+  {
+    "word": "家园",
+    "storyId": "space-and-mobility-18",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "space-and-mobility-18-prehistory",
+      "name": "家宅园地与故乡",
+      "shortName": "家宅园地",
+      "description": "核对“家园”作为“家宅园地与故乡”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 0
+    }
+  },
+  {
+    "word": "网络",
+    "storyId": "technical-metaphors-01",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "technical-metaphors-01-prehistory",
+      "name": "网状结构与交织关系",
+      "shortName": "网状结构",
+      "description": "核对“网络”作为“网状结构与交织关系”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    }
+  },
+  {
+    "word": "网络",
+    "storyId": "technical-metaphors-01",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "technical-metaphors-01-turn",
+      "name": "通信与计算机网络",
+      "shortName": "通信",
+      "description": "追踪“网络”如何在制度、知识或媒介中稳定为“通信与计算机网络”，并找出关键转折文本。",
+      "startIndex": 5
+    }
+  },
+  {
+    "word": "流量",
+    "storyId": "technical-metaphors-03",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "technical-metaphors-03-prehistory",
+      "name": "流体通过的数量",
+      "shortName": "流体通过的数量",
+      "description": "核对“流量”作为“流体通过的数量”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    }
+  },
+  {
+    "word": "接口",
+    "storyId": "technical-metaphors-10",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "technical-metaphors-10-prehistory",
+      "name": "器物衔接与连接部位",
+      "shortName": "器物衔接",
+      "description": "核对“接口”作为“器物衔接与连接部位”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    }
+  },
+  {
+    "word": "代码",
+    "storyId": "technical-metaphors-15",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "technical-metaphors-15-prehistory",
+      "name": "代号、密码与编码符号",
+      "shortName": "代号、密码",
+      "description": "核对“代码”作为“代号、密码与编码符号”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    }
+  },
+  {
+    "word": "代码",
+    "storyId": "technical-metaphors-15",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "technical-metaphors-15-turn",
+      "name": "软件开发的 source code",
+      "shortName": "软件开发的 so",
+      "description": "追踪“代码”如何在制度、知识或媒介中稳定为“软件开发的 source code”，并找出关键转折文本。",
+      "startIndex": 5
+    }
+  },
+  {
+    "word": "机器",
+    "storyId": "technical-metaphors-16",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "technical-metaphors-16-prehistory",
+      "name": "机械装置与代替人力的工具",
+      "shortName": "机械装置",
+      "description": "核对“机器”作为“机械装置与代替人力的工具”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    }
+  },
+  {
+    "word": "病毒",
+    "storyId": "technical-metaphors-19",
+    "topic": "旧词进入技术生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "technical-metaphors-19-turn",
+      "name": "医学中的病毒性病原体",
+      "shortName": "医学中的病毒性病",
+      "description": "追踪“病毒”如何在制度、知识或媒介中稳定为“医学中的病毒性病原体”，并找出关键转折文本。",
+      "startIndex": 5
+    }
+  },
+  {
+    "word": "关注",
+    "storyId": "platform-culture-02",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "platform-culture-02-prehistory",
+      "name": "关心注意与视线集中",
+      "shortName": "关心注意",
+      "description": "核对“关注”作为“关心注意与视线集中”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    }
+  },
+  {
+    "word": "转发",
+    "storyId": "platform-culture-04",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "platform-culture-04-prehistory",
+      "name": "转交、转送与再次发出",
+      "shortName": "转交、转送",
+      "description": "核对“转发”作为“转交、转送与再次发出”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    }
+  },
+  {
+    "word": "话题",
+    "storyId": "platform-culture-08",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "platform-culture-08-prehistory",
+      "name": "谈话题目与讨论对象",
+      "shortName": "谈话题目",
+      "description": "核对“话题”作为“谈话题目与讨论对象”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    }
+  },
+  {
+    "word": "标签",
+    "storyId": "platform-culture-09",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "platform-culture-09-prehistory",
+      "name": "物品标记与分类签条",
+      "shortName": "物品标记",
+      "description": "核对“标签”作为“物品标记与分类签条”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    }
+  }
+]

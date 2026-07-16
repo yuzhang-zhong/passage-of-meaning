@@ -1,0 +1,1287 @@
+[
+  {
+    "word": "青年",
+    "storyId": "social-identities-01",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "social-identities-01-turn",
+      "name": "可动员的世代与公共身份",
+      "shortName": "世代身份",
+      "description": "近现代教育、组织和报刊将青年建构为具有共同责任与时代想象的群体。",
+      "startIndex": 3
+    },
+    "query": "青年 (责任|时代|组织|教育) time:1930s",
+    "totalResults": 289,
+    "candidates": [
+      {
+        "score": 0.2156,
+        "excerpt": "朋友，你是青年，你手足健全，你受过中等教育，你生在这转变时代，你有很好的机会在这正在展开的历史的悲壮剧中做一个角色，你是很幸运的。",
+        "year": 1930,
+        "path": "1930s/1930/文学/1930 茅盾 青年苦闷的分析.txt",
+        "recordId": "1426000000015",
+        "source": "茅盾 青年苦闷的分析",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1489,
+        "excerpt": "一个在黄金时代的青年，为什么这样消极呢？",
+        "year": 1930,
+        "path": "1930s/1930/文学/1930 张恨水 啼笑因缘.txt",
+        "recordId": "1401000000044",
+        "source": "张恨水 啼笑因缘",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1426,
+        "excerpt": "中国的教育思想是要训练青年成为人上人，温良恭俭让。",
+        "year": 1932,
+        "path": "1930s/1932/文学/1932 老舍 唐代的爱情小说.txt",
+        "recordId": "1628000000000",
+        "source": "老舍 唐代的爱情小说",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "青年",
+    "storyId": "social-identities-01",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "social-identities-01-contemporary",
+      "name": "生活方式、文化取向与心态",
+      "shortName": "青年文化",
+      "description": "当代“青年”也是媒介、消费和文化生产中的人群标签，有时超出严格年龄。",
+      "startIndex": 5
+    },
+    "query": "青年文化 (消费|生活|媒介|群体) time:2010s",
+    "totalResults": 335,
+    "candidates": [
+      {
+        "score": 0.4274,
+        "excerpt": "与此同时，年轻人生活方式缤纷，信息时代的快速到来，使“时尚消费”“网言网语”“微观点”等青年文化现象层出不穷，青年人凭借信息技术，把他们的价值选择和自我文化在新媒介世界表达得淋漓尽致。",
+        "year": 2014,
+        "path": "2010s/2014/报刊/人民日报/rmrb_2014_05.txt",
+        "recordId": "15319000030681",
+        "source": "rmrb · 2014 · 05",
+        "hintHits": 3
+      },
+      {
+        "score": 0.3232,
+        "excerpt": "4.优化青年文化环境。",
+        "year": 2017,
+        "path": "2010s/2017/报刊/人民日报/rmrb_2017_04.txt",
+        "recordId": "15392000019536",
+        "source": "rmrb · 2017 · 04",
+        "hintHits": 0
+      },
+      {
+        "score": 0.3232,
+        "excerpt": "4.优化青年文化环境。",
+        "year": 2017,
+        "path": "2010s/2017/报刊/光明日报/2017_04.txt",
+        "recordId": "15404000010096",
+        "source": "2017 · 04",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "女性",
+    "storyId": "social-identities-02",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "social-identities-02-turn",
+      "name": "社会性别与公共身份",
+      "shortName": "女性身份",
+      "description": "在教育、劳动、法律和文学中，“女性”成为讨论权利、经验与性别角色的主体。",
+      "startIndex": 3
+    },
+    "query": "(女性权利|女性教育|女性劳动|女性主体) time:1930s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "女性",
+    "storyId": "social-identities-02",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "social-identities-02-contemporary",
+      "name": "人群细分、风格与平台标签",
+      "shortName": "平台标签",
+      "description": "当代媒介与商业语境常以“女性”进行受众细分，也可引发对刻板化的质疑。",
+      "startIndex": 5
+    },
+    "query": "(女性用户|女性消费者|女性市场|女性标签) time:2010s",
+    "totalResults": 369,
+    "candidates": [
+      {
+        "score": 0.1458,
+        "excerpt": "小熊电器产品研发总监曾平介绍，研发团队不但对数百名有食用燕窝习惯的女性用户进行了调查，还采购电商平台上主流的燕窝产品进行测试，以确保燕窝炖盅的容量和加热档位设定最大限度贴近目标用户需求。",
+        "year": 2018,
+        "path": "2010s/2018/报刊/人民日报/rmrb_2018_06.txt",
+        "recordId": "15420000038941",
+        "source": "rmrb · 2018 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1323,
+        "excerpt": "记者在采访中发现，男性与女性用户在二手交易平台的选择上有明显差异。",
+        "year": 2018,
+        "path": "2010s/2018/报刊/人民日报/rmrb_2018_07.txt",
+        "recordId": "15421000037027",
+        "source": "rmrb · 2018 · 07",
+        "hintHits": 1
+      },
+      {
+        "score": 0.128,
+        "excerpt": "我疏远一切可以贴上女性标签的东西，不事化妆、厌恶琐碎生活，致力于将自己塑造成一个纯粹意义上的人。",
+        "year": 2018,
+        "path": "2010s/2018/报刊/光明日报/2018_09.txt",
+        "recordId": "15435000003455",
+        "source": "2018 · 09",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "人民",
+    "storyId": "social-identities-04",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "social-identities-04-turn",
+      "name": "现代国家中的集体政治主体",
+      "shortName": "政治主体",
+      "description": "近现代公共论述将“人民”组织为具有集体性、正当性与主权含义的基本主体。",
+      "startIndex": 3
+    },
+    "query": "(人民是国家的主人|权力属于人民|人民主权) time:1950s",
+    "totalResults": 108,
+    "candidates": [
+      {
+        "score": 0.2253,
+        "excerpt": "例如，把阶级统治的机关的“国家”解释为“具有土地人民主权三元素的组织”；",
+        "year": 1952,
+        "path": "1950s/1952/报刊/人民日报/rmrb_1952_03.txt",
+        "recordId": "3616000012063",
+        "source": "rmrb · 1952 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2174,
+        "excerpt": "宪法草案规定了一切权力属于人民，这就是说人民是国家的主人。",
+        "year": 1954,
+        "path": "1950s/1954/报刊/人民日报/rmrb_1954_08.txt",
+        "recordId": "3660000002423",
+        "source": "rmrb · 1954 · 08",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1896,
+        "excerpt": "例如，关于我们国家的政治制度，就应当结合当地的工作成就和群众已有的政治经验，通俗而具体地说明它怎样体现一切权力属于人民的基本原则；",
+        "year": 1954,
+        "path": "1950s/1954/报刊/人民日报/rmrb_1954_08.txt",
+        "recordId": "3660000007266",
+        "source": "rmrb · 1954 · 08",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "人民",
+    "storyId": "social-identities-04",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "social-identities-04-contemporary",
+      "name": "公共服务与制度名称中的人群",
+      "shortName": "制度称谓",
+      "description": "“人民法院”“人民医院”等名称使该词稳定存在于公共机构与服务语境。",
+      "startIndex": 5
+    },
+    "query": "(人民法院|人民医院|人民出版社) time:2010s",
+    "totalResults": 54880,
+    "candidates": [
+      {
+        "score": 0.2391,
+        "excerpt": "最高法出台《人民法院工作人员处分条例》",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000003350",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2362,
+        "excerpt": "最高法院出台《人民法院工作人员处分条例》",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000006001",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2355,
+        "excerpt": "人民法院一直高度重视法官队伍廉政建设。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000005988",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "儿童",
+    "storyId": "social-identities-05",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "social-identities-05-contemporary",
+      "name": "内容分级、产品与儿童视角",
+      "shortName": "儿童场景",
+      "description": "当代“儿童模式”“儿童文学”等搭配，又把身份转化为内容、产品与视角标准。",
+      "startIndex": 5
+    },
+    "query": "(儿童文学|儿童模式|儿童产品|儿童视角) time:2010s",
+    "totalResults": 5090,
+    "candidates": [
+      {
+        "score": 0.305,
+        "excerpt": "儿童文学具有相对的独立性。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_06.txt",
+        "recordId": "15074000040999",
+        "source": "rmrb · 2010 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.305,
+        "excerpt": "儿童文学守望乡村（文艺点评）",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_06.txt",
+        "recordId": "15074000041007",
+        "source": "rmrb · 2010 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2868,
+        "excerpt": "二是多成人心态而少儿童视角。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_06.txt",
+        "recordId": "15074000040997",
+        "source": "rmrb · 2010 · 06",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "少年",
+    "storyId": "social-identities-06",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "social-identities-06-turn",
+      "name": "学校、组织与法律中的年龄群体",
+      "shortName": "制度少年",
+      "description": "现代教育和未成年人制度为“少年”提供了更明确的年龄与组织边界。",
+      "startIndex": 3
+    },
+    "query": "(少年儿童|少年学校|未成年少年|少年教育) time:1950s",
+    "totalResults": 2400,
+    "candidates": [
+      {
+        "score": 0.1562,
+        "excerpt": "少年儿童队的组织迅速发展起来。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000017244",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1549,
+        "excerpt": "少年儿童队就是为了满足这种需要而给儿童们以科学和革命的教育的组织，是培养建设新社会后备力量的组织。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_04.txt",
+        "recordId": "3543000013698",
+        "source": "rmrb · 1950 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1507,
+        "excerpt": "青年团北京市工委会还组织小学教员的青年团员，学习青年团的组织原则，小学教师中的青年团工作和中、小学生中的少年儿童工作等。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_02.txt",
+        "recordId": "3541000005418",
+        "source": "rmrb · 1950 · 02",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "少年",
+    "storyId": "social-identities-06",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "social-identities-06-contemporary",
+      "name": "可被回望的心态与文化想象",
+      "shortName": "少年感",
+      "description": "“少年感”等当代表达把年龄称谓扩展为好奇、轻盈与未定型的心态。",
+      "startIndex": 5
+    },
+    "query": "少年感 (气质|形象|演员|角色) time:2010s",
+    "totalResults": 28,
+    "candidates": [
+      {
+        "score": 0.1366,
+        "excerpt": "“我是面塑达人”为持续传承中华优秀传统文化、弘扬社会主义核心价值观，让青少年感受中国非物质文化遗产的价值与魅力，萌发其对民间艺术的热爱，4月10日上午，合川区青少年活动中心开展了“我是面塑达人”民间小艺人角色体验活动，请到重庆市非物质文化遗产面塑…",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/微信公众号/Wechat_021.txt",
+        "recordId": "15582000003983",
+        "source": "Wechat · 021",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1311,
+        "excerpt": "对青少年感兴趣的社会学家可能侧重于他们的社会角色，以及社会文化对其角色的影响。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/中文维基/Wiki_029.txt",
+        "recordId": "15500000012862",
+        "source": "Wiki · 029",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1299,
+        "excerpt": "建成后将成为我国港口界的标志性文化设施,承载宁波\"港通天下\"的文化内涵,为参观者了解港口历程、掌握港口知识提供学习环境,同时也为培育青少年感知港口发展提供直观形象和互动氛围。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/微博/weibo_034.txt",
+        "recordId": "15823000066325",
+        "source": "weibo · 034",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "工人",
+    "storyId": "social-identities-07",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "social-identities-07-turn",
+      "name": "工业生产与劳动关系中的阶层",
+      "shortName": "产业工人",
+      "description": "现代工厂、工会与劳动制度将“工人”建构为稳定的职业与社会身份。",
+      "startIndex": 3
+    },
+    "query": "(产业工人|工厂工人|工人组织) time:1950s",
+    "totalResults": 1796,
+    "candidates": [
+      {
+        "score": 0.2948,
+        "excerpt": "各产业工人正按系统组织起来",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_02.txt",
+        "recordId": "3541000003344",
+        "source": "rmrb · 1950 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2944,
+        "excerpt": "私营工厂工人，也应努力生产。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_02.txt",
+        "recordId": "3541000002166",
+        "source": "rmrb · 1950 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2378,
+        "excerpt": "天津已有十七万九千多工人组织起来，占全市职工总数的百分之五十九，而产业工人则组织起了百分之八十七强。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_02.txt",
+        "recordId": "3541000003345",
+        "source": "rmrb · 1950 · 02",
+        "hintHits": 2
+      }
+    ]
+  },
+  {
+    "word": "工人",
+    "storyId": "social-identities-07",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "social-identities-07-contemporary",
+      "name": "服务、平台与新型劳动者",
+      "shortName": "新型劳动",
+      "description": "当代用法需面对工厂之外的服务工人、平台劳动者与技术工人。",
+      "startIndex": 5
+    },
+    "query": "(技术工人|服务工人|平台工人|快递工人) time:2010s",
+    "totalResults": 2314,
+    "candidates": [
+      {
+        "score": 0.3138,
+        "excerpt": "免费培训创业者及技术工人；",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_07.txt",
+        "recordId": "15075000030995",
+        "source": "rmrb · 2010 · 07",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2723,
+        "excerpt": "“做知识型高素质技术工人”（时代先锋）",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_04.txt",
+        "recordId": "15072000011091",
+        "source": "rmrb · 2010 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2314,
+        "excerpt": "实施技工培训工程，培育一批熟练技术工人。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_06.txt",
+        "recordId": "15074000028853",
+        "source": "rmrb · 2010 · 06",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "农民",
+    "storyId": "social-identities-08",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "social-identities-08-turn",
+      "name": "土地、户籍与社会结构中的身份",
+      "shortName": "制度农民",
+      "description": "现代土地、户籍与组织制度让“农民”不只是职业，也成为社会分类。",
+      "startIndex": 3
+    },
+    "query": "(农民身份|农民户籍|农民组织) time:1950s",
+    "totalResults": 528,
+    "candidates": [
+      {
+        "score": 0.1927,
+        "excerpt": "工人农民组织起来",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_06.txt",
+        "recordId": "3545000001672",
+        "source": "rmrb · 1950 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1927,
+        "excerpt": "千万农民组织起来",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_07.txt",
+        "recordId": "3546000004364",
+        "source": "rmrb · 1950 · 07",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1761,
+        "excerpt": "人数约有八十万的全印度职工大会、已近八十万人的全印度农民组织以及全印度学联和其他前进的联盟与组织均处于共产党的影响下。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_03.txt",
+        "recordId": "3542000016353",
+        "source": "rmrb · 1950 · 03",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "农民",
+    "storyId": "social-identities-08",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "social-identities-08-contemporary",
+      "name": "新型职业农民与流动劳动身份",
+      "shortName": "身份分化",
+      "description": "“职业农民”与“农民工”等复合称谓显示生产、户籍与工作地的分离。",
+      "startIndex": 5
+    },
+    "query": "(职业农民|农民工|新型农民) time:2010s",
+    "totalResults": 30636,
+    "candidates": [
+      {
+        "score": 0.214,
+        "excerpt": "国办要求进一步做好农民工培训工作",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000007212",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2138,
+        "excerpt": "工会介入，农民工走出看守所",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000004167",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1959,
+        "excerpt": "第三，对维权农民工要“授之以渔”。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000004192",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "学生",
+    "storyId": "social-identities-09",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "social-identities-09-turn",
+      "name": "现代学校制度中的在学身份",
+      "shortName": "在学身份",
+      "description": "学籍、年级、课程和考试制度将学生建构为可登记、可分类的教育身份。",
+      "startIndex": 3
+    },
+    "query": "(学生学籍|在校学生|学生课程|学生考试) time:1950s",
+    "totalResults": 297,
+    "candidates": [
+      {
+        "score": 0.1859,
+        "excerpt": "这些机关团体，包括党、政、军的机关团体在内，不顾国家的教育系统以及学校的教育制度，强调一个机关或一个单位的干部缺乏及工作的某些困难，任意在学校中抽调学生，动员教师，使在校学生数量大量减少，学校课业无法进行，学生及教师动荡不安，造成一种极端混乱的现象。",
+        "year": 1951,
+        "path": "1950s/1951/报刊/人民日报/rmrb_1951_08.txt",
+        "recordId": "3586000001299",
+        "source": "rmrb · 1951 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1818,
+        "excerpt": "在细菌系参加学生考试；",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_07.txt",
+        "recordId": "3546000016569",
+        "source": "rmrb · 1950 · 07",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1516,
+        "excerpt": "在校学生更常常向学校反映意见，提出某门课程的内容需要改革，某位先生的教学有些问题。",
+        "year": 1951,
+        "path": "1950s/1951/报刊/人民日报/rmrb_1951_10.txt",
+        "recordId": "3588000010154",
+        "source": "rmrb · 1951 · 10",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "学生",
+    "storyId": "social-identities-09",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "social-identities-09-contemporary",
+      "name": "终身学习者与特定服务人群",
+      "shortName": "学习者",
+      "description": "在线教育与成人学习将“学生”扩展到校园之外，同时保留学生价、学生群体等制度搭配。",
+      "startIndex": 5
+    },
+    "query": "(成人学生|在线教育学生|远程教育学生|学生票) time:2010s",
+    "totalResults": 1279,
+    "candidates": [
+      {
+        "score": 0.166,
+        "excerpt": "特别是对于在职成人学生来说,案例教学可以直接指导他们的实践工作。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_08.txt",
+        "recordId": "15088000012757",
+        "source": "2010 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1407,
+        "excerpt": "为确保票额管理和发售公开透明，各客运站售票室实行票额预售期、售票时间、窗口发售票额数量、限购张数等“四公布”，增加并全部开放售票窗口，24小时不间断售票，同时积极开展学生票和外来务工人员团体票送票上门服务，最大限度方便旅客购票。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000001229",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1369,
+        "excerpt": "文化部市场司的有关负责人说，对于进入市场的商演，尤其对那些特殊群体消费的高价票，文化主管部门不能干预其价格，只能靠市场本身加以调节，我们只能保证那些大众必须享受的文化服务，所以要运用各种方式鼓励并支持低价票、学生票和公益性质的演出。",
+        "year": 2011,
+        "path": "2010s/2011/报刊/人民日报/rmrb_2011_05.txt",
+        "recordId": "15231000009444",
+        "source": "rmrb · 2011 · 05",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "知识分子",
+    "storyId": "social-identities-10",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "social-identities-10-contemporary",
+      "name": "专业人士、专家与内容生产者的分化",
+      "shortName": "角色分化",
+      "description": "当代专业分工与平台表达让“知识分子”与专家、学者、知识创作者等称谓重叠又分离。",
+      "startIndex": 5
+    },
+    "query": "(公共知识分子|知识创作者|专业知识分子|知识分子角色) time:2010s",
+    "totalResults": 222,
+    "candidates": [
+      {
+        "score": 0.3832,
+        "excerpt": "[文章名]: 公共知识分子",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/中文维基/Wiki_016.txt",
+        "recordId": "15487000001199",
+        "source": "Wiki · 016",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2956,
+        "excerpt": "再如专家大量出现，公共知识分子匮乏。",
+        "year": 2011,
+        "path": "2010s/2011/报刊/光明日报/2011_02.txt",
+        "recordId": "15240000017003",
+        "source": "2011 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2335,
+        "excerpt": "一群专业知识分子即使在艰难时局中，对自己的专业工作仍矢志不渝。",
+        "year": 2016,
+        "path": "2010s/2016/报刊/人民日报/rmrb_2016_12.txt",
+        "recordId": "15376000012935",
+        "source": "rmrb · 2016 · 12",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "公民",
+    "storyId": "social-identities-11",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "social-identities-11-contemporary",
+      "name": "公共参与、数字行为与“公民性”",
+      "shortName": "公民实践",
+      "description": "“公民意识”“数字公民”等用法将法律身份扩展为参与能力和行为规范。",
+      "startIndex": 5
+    },
+    "query": "(公民意识|公民教育|数字公民|公民参与) time:2010s",
+    "totalResults": 2152,
+    "candidates": [
+      {
+        "score": 0.3061,
+        "excerpt": "不断提高师生法律素质和公民意识。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000044053",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2717,
+        "excerpt": "同时，加强国家意识、公民意识教育。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000036596",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2684,
+        "excerpt": "可见，青年人的公民意识和参与精神都较强”。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000026562",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "国民",
+    "storyId": "social-identities-12",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "social-identities-12-turn",
+      "name": "教育、动员与国家成员身份",
+      "shortName": "国家成员",
+      "description": "现代教育与公共论述将国民建构为具有共同素质、责任与国家归属的集体。",
+      "startIndex": 3
+    },
+    "query": "(国民教育|国民责任|国民素质) time:1930s",
+    "totalResults": 2,
+    "candidates": [
+      {
+        "score": 0.1528,
+        "excerpt": "（八）实行国民教育，促进专门学术。",
+        "year": 1935,
+        "path": "1930s/1935/文学/小说笔记/1935 荫余轩放 民国野史.txt",
+        "recordId": "2435000000220",
+        "source": "荫余轩放 民国野史",
+        "hintHits": 1
+      },
+      {
+        "score": 0.127,
+        "excerpt": "文天祥一流人，从容就死，是平日厉行军国民教育，人民与中央政府，业已行动一致了。",
+        "year": 1936,
+        "path": "1930s/1936/应用文/议论文/1936 李宗吾 厚黑学.txt",
+        "recordId": "2438000000912",
+        "source": "李宗吾 厚黑学",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "国民",
+    "storyId": "social-identities-12",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "social-identities-12-contemporary",
+      "name": "健康、经济与统计中的总体人群",
+      "shortName": "统计总体",
+      "description": "“国民经济”“国民健康”等搭配使其成为宏观政策与统计中的人口总体。",
+      "startIndex": 5
+    },
+    "query": "(国民经济|国民健康|国民收入) time:2010s",
+    "totalResults": 19250,
+    "candidates": [
+      {
+        "score": 0.2804,
+        "excerpt": "妥善解决这个问题，应做好以下工作：第一，国家在编制“十二五”国民经济与社会发展规划中，一定要处理好内需与外需、消费与积累等重大比例关系，研究提出调整国民收入分配的整体方案和政策措施，扩大城乡居民就业，较大幅度提高劳动者收入在国民收入分…",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000006325",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 2
+      },
+      {
+        "score": 0.2045,
+        "excerpt": "这样一张图表示中国经济迅速扭转了经济增速的下滑，率先实现了国民经济的总体回升向好，这个图是一个标准的V型图。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000013858",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2018,
+        "excerpt": "进一步推动国有经济向关系国民经济命脉的重要行业和关键领域集中。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000009672",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "消费者",
+    "storyId": "social-identities-13",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "social-identities-13-turn",
+      "name": "享有知情、选择与求偿权的主体",
+      "shortName": "权利主体",
+      "description": "消费者保护制度将市场角色改造为可主张权利、接受保护的法律主体。",
+      "startIndex": 3
+    },
+    "query": "消费者权益保护 time:1990s",
+    "totalResults": 898,
+    "candidates": [
+      {
+        "score": 0.1659,
+        "excerpt": "记者：１０月３１日八届全国人大常委会第四次会议通过的《中华人民共和国消费者权益保护法》，作为我国历史上第一部全面系统地规范消费者权益保护的法律，规定了哪些消费者应该享有的权利？",
+        "year": 1993,
+        "path": "1990s/1993/报刊/人民日报/rmrb_1993_11.txt",
+        "recordId": "6094000015581",
+        "source": "rmrb · 1993 · 11",
+        "hintHits": 0
+      },
+      {
+        "score": 0.1561,
+        "excerpt": "三部门座谈消费者权益保护法",
+        "year": 1993,
+        "path": "1990s/1993/报刊/人民日报/rmrb_1993_12.txt",
+        "recordId": "6095000013088",
+        "source": "rmrb · 1993 · 12",
+        "hintHits": 0
+      },
+      {
+        "score": 0.153,
+        "excerpt": "广大消费者要拿起法律武器保护自己。",
+        "year": 1993,
+        "path": "1990s/1993/报刊/人民日报/rmrb_1993_11.txt",
+        "recordId": "6094000000361",
+        "source": "rmrb · 1993 · 11",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "消费者",
+    "storyId": "social-identities-13",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "social-identities-13-contemporary",
+      "name": "被画像、推荐与计量的平台人群",
+      "shortName": "数据消费者",
+      "description": "数字市场中，消费者同时是账号、数据画像和算法推荐的对象。",
+      "startIndex": 5
+    },
+    "query": "(消费者画像|消费者数据|消费者账号|消费者推荐) time:2010s",
+    "totalResults": 155,
+    "candidates": [
+      {
+        "score": 0.2358,
+        "excerpt": "事实上，消费者数据受损的事件，也时常见诸报端。",
+        "year": 2012,
+        "path": "2010s/2012/报刊/光明日报/2012_12.txt",
+        "recordId": "15283000022605",
+        "source": "2012 · 12",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2091,
+        "excerpt": "大数据描绘消费者画像，线上线下价格自动同步",
+        "year": 2017,
+        "path": "2010s/2017/报刊/人民日报/rmrb_2017_07.txt",
+        "recordId": "15395000042092",
+        "source": "rmrb · 2017 · 07",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2075,
+        "excerpt": "精准营销方面，公司将打造四亿消费者数据平台，深度挖掘消费者需求，进行个性化营销；",
+        "year": 2018,
+        "path": "2010s/2018/报刊/人民日报/rmrb_2018_03.txt",
+        "recordId": "15417000038236",
+        "source": "rmrb · 2018 · 03",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "用户",
+    "storyId": "social-identities-14",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "social-identities-14-turn",
+      "name": "产品、系统与服务的使用主体",
+      "shortName": "产品用户",
+      "description": "计算机和服务设计将“用户”建构为需求分析、权限管理与界面设计的中心。",
+      "startIndex": 5
+    },
+    "query": "(用户需求|用户界面|用户体验|用户权限) time:2000s",
+    "totalResults": 603,
+    "candidates": [
+      {
+        "score": 0.1847,
+        "excerpt": "特别是年初电脑事业部的成立，整合了原清华同方计算机公司和销售中心两大子公司的优势资源，在此基础上使同方电脑产品更加贴近市场、贴近用户需求。",
+        "year": 2000,
+        "path": "2000s/2000/报刊/光明日报/2000_07.txt",
+        "recordId": "13138000001802",
+        "source": "2000 · 07",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1766,
+        "excerpt": "S、PORTEGE、TECRA等三大系列新品笔记本电脑配合联想一整套“移动应用解决方案”浮出水面，演绎了联想东芝在技术、渠道和服务上“以用户需求为中心”的全新理念。",
+        "year": 2000,
+        "path": "2000s/2000/报刊/人民日报/rmrb_2000_05.txt",
+        "recordId": "13124000003016",
+        "source": "rmrb · 2000 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1705,
+        "excerpt": "联想电脑公司副总裁、信息服务事业部总经理刘晓林说，之所以选择教育作为信息服务的垂直方向，是因为教育是用户需求量最大的一类信息服务，同时在教育领域发展信息服务的营运模式也日趋成熟。",
+        "year": 2000,
+        "path": "2000s/2000/报刊/光明日报/2000_12.txt",
+        "recordId": "13143000000690",
+        "source": "2000 · 12",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "用户",
+    "storyId": "social-identities-14",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "social-identities-14-contemporary",
+      "name": "增长、留存与数据指标",
+      "shortName": "指标化用户",
+      "description": "平台中的“日活用户”“新用户”将具体的人转化为可计量、可运营的数据对象。",
+      "startIndex": 7
+    },
+    "query": "(日活用户|活跃用户|新增用户|用户留存) time:2010s",
+    "totalResults": 1261,
+    "candidates": [
+      {
+        "score": 0.168,
+        "excerpt": "目前，据微软公司的数据显示，MSN活跃用户只剩下1亿多，等于回到了2003年的水平，而投入Skype怀抱的用户每月增长26%，用户总数已达2.5亿左右。",
+        "year": 2012,
+        "path": "2010s/2012/报刊/人民日报/rmrb_2012_11.txt",
+        "recordId": "15270000032229",
+        "source": "rmrb · 2012 · 11",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1637,
+        "excerpt": "来自天际网的数据显示，目前的注册用户已达到650万，每月新增用户25万。",
+        "year": 2011,
+        "path": "2010s/2011/报刊/人民日报/rmrb_2011_10.txt",
+        "recordId": "15236000023899",
+        "source": "rmrb · 2011 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1573,
+        "excerpt": "网络监测机构RJMetrics发布的报告显示，Twitter的全球用户数量已经飙升至7500万，但发展趋势令人堪忧，新用户的增长速度不但正在放缓，而且活跃用户仅1500万。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000021644",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "网民",
+    "storyId": "social-identities-15",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "social-identities-15-prehistory",
+      "name": "互联网使用者的新称谓",
+      "shortName": "网络用户",
+      "description": "“网民”随互联网普及而形成，把上网行为组织为一种新的人群身份。",
+      "startIndex": 4
+    },
+    "query": "(互联网网民|上网网民|网民数量) time:2000s",
+    "totalResults": 259,
+    "candidates": [
+      {
+        "score": 0.229,
+        "excerpt": "其中的网民情况调查统计则显示,中国互联网网民分布进一步走向均衡:女性网民数量继续增长,已占据全部网民的40%;",
+        "year": 2002,
+        "path": "2000s/2002/报刊/新华社/新华社2002年1月份新闻报道.txt",
+        "recordId": "13305000017260",
+        "source": "新华社2002年1月份新闻报道",
+        "hintHits": 2
+      },
+      {
+        "score": 0.2074,
+        "excerpt": "互联网网民新增1100万，增长率49％。",
+        "year": 2002,
+        "path": "2000s/2002/报刊/光明日报/2002_02.txt",
+        "recordId": "13291000006759",
+        "source": "2002 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1863,
+        "excerpt": "之所以有今天，重要的在于我们国家互联网网民的数字在不断地增加，在CNNIC最新公布的互联网统计报告中，我们看到，中国的网民已经达到了大约4800万；",
+        "year": 2002,
+        "path": "2000s/2002/报刊/光明日报/2002_07.txt",
+        "recordId": "13296000011784",
+        "source": "2002 · 07",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "网民",
+    "storyId": "social-identities-15",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "social-identities-15-turn",
+      "name": "参与公共表达的网络群体",
+      "shortName": "网络公众",
+      "description": "在新闻与公共论述中，“网民”常作为发表意见、形成舆论的集体主语。",
+      "startIndex": 5
+    },
+    "query": "(网民意见|网民舆论|网民评论|网民表示) time:2010s",
+    "totalResults": 358,
+    "candidates": [
+      {
+        "score": 0.1927,
+        "excerpt": "“零距离”听网民意见",
+        "year": 2011,
+        "path": "2010s/2011/报刊/人民日报/rmrb_2011_02.txt",
+        "recordId": "15228000028541",
+        "source": "rmrb · 2011 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1896,
+        "excerpt": "鼓励网络论坛进一步发挥政治影响力，不断深化“官民互动、问政于民”的理念与实践，进一步提高网民意见表达的层次，拓展网民政治参与的深度与广度；",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_05.txt",
+        "recordId": "15085000015543",
+        "source": "2010 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1752,
+        "excerpt": "集中回复8项网民意见建议",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_05.txt",
+        "recordId": "15073000019991",
+        "source": "rmrb · 2010 · 05",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "同胞",
+    "storyId": "social-identities-16",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "social-identities-16-contemporary",
+      "name": "灾难、公益与跨地域情感动员",
+      "shortName": "情感动员",
+      "description": "当代新闻和公益语境常用“同胞”强化彼此责任、关切与共同体情感。",
+      "startIndex": 4
+    },
+    "query": "(灾区同胞|海外同胞|同胞关切|同胞援助) time:2010s",
+    "totalResults": 317,
+    "candidates": [
+      {
+        "score": 0.1313,
+        "excerpt": "并向社会发起募捐号召,动员社会各界伸出援助之手,帮助灾区同胞渡过难关。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_04.txt",
+        "recordId": "15084000012400",
+        "source": "2010 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1286,
+        "excerpt": "…的紧急驰援,展现灾区各级党委政府和干部群众的顽强自救,展现广大志愿者的爱心行动和港澳台地区及海外华人华侨对灾区同胞的关切和善举。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_04.txt",
+        "recordId": "15084000012145",
+        "source": "2010 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1286,
+        "excerpt": "胡锦涛主席对海外同胞十分体谅,指示对出访迎送安排进行简化改革,充分体现了党和国家领导人对海外同胞的关心和爱护,使大家深感温暖、深受感动。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_04.txt",
+        "recordId": "15084000008658",
+        "source": "2010 · 04",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "群众",
+    "storyId": "social-identities-17",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "social-identities-17-prehistory",
+      "name": "成群之人与普通人群",
+      "shortName": "人群集合",
+      "description": "“群众”可指聚集的人群或多数普通人，边界取决于谁在命名谁。",
+      "startIndex": 2
+    },
+    "query": "(围观群众|现场群众|普通群众) time:2000s",
+    "totalResults": 1087,
+    "candidates": [
+      {
+        "score": 0.1522,
+        "excerpt": "有普通群众，也有少数党员和村干部；",
+        "year": 2000,
+        "path": "2000s/2000/报刊/人民日报/rmrb_2000_03.txt",
+        "recordId": "13122000020235",
+        "source": "rmrb · 2000 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1489,
+        "excerpt": "既有普通群众，也有少数党员和村干部；",
+        "year": 2000,
+        "path": "2000s/2000/报刊/光明日报/2000_03.txt",
+        "recordId": "13134000002025",
+        "source": "2000 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1393,
+        "excerpt": "许多记者自发站在普通群众中，参加了接受救灾物资的仪式。",
+        "year": 2000,
+        "path": "2000s/2000/报刊/人民日报/rmrb_2000_09.txt",
+        "recordId": "13128000020740",
+        "source": "rmrb · 2000 · 09",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "群众",
+    "storyId": "social-identities-17",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "social-identities-17-turn",
+      "name": "组织与公共工作中的对象与主体",
+      "shortName": "公共人群",
+      "description": "现代组织语言使“群众”成为公共服务、动员与意见表达中的基本人群。",
+      "startIndex": 3
+    },
+    "query": "(服务群众|群众意见|群众需求|群众工作) time:2010s",
+    "totalResults": 21283,
+    "candidates": [
+      {
+        "score": 0.219,
+        "excerpt": "学习他一心为民、服务群众的宗旨意识，学习他解放思想、锐意改革的创新精神，学习他艰苦奋斗、扎根基层的实干作风，学习他任劳任怨、无私奉献的高尚品格，学习他团结农民、带领百姓的群众工作能力，做忠实实践…",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000025952",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1781,
+        "excerpt": "党员在工作中及时了解群众意愿、反映群众意见，示范带动作用得到进一步发挥。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000026252",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.165,
+        "excerpt": "面对新形势、新变化，党建工作如何更好地服务群众？",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000005947",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "主体",
+    "storyId": "social-identities-18",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "social-identities-18-turn",
+      "name": "哲学中认识与行动的主体",
+      "shortName": "哲学主体",
+      "description": "近代哲学译介中，“主体”与客体对举，指能够认识、判断与行动的存在者。",
+      "startIndex": 3
+    },
+    "query": "(主体和客体|认识的主体|主体性) time:1920s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "主体",
+    "storyId": "social-identities-18",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "social-identities-18-contemporary",
+      "name": "法律、市场与平台中的责任承担者",
+      "shortName": "制度主体",
+      "description": "“市场主体”“责任主体”等搭配将抽象概念转为可登记、可归责的制度角色。",
+      "startIndex": 5
+    },
+    "query": "(市场主体|责任主体|法律主体) time:2010s",
+    "totalResults": 14467,
+    "candidates": [
+      {
+        "score": 0.3272,
+        "excerpt": "增活力：市场主体发展壮大",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000005611",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.279,
+        "excerpt": "第四章 关于责任主体的特殊规定",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000025554",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.279,
+        "excerpt": "第四章 关于责任主体的特殊规定",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000025612",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 1
+      }
+    ]
+  }
+]

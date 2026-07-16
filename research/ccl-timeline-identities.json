@@ -1,0 +1,794 @@
+[
+  {
+    "word": "青年",
+    "storyId": "social-identities-01",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "social-identities-01-prehistory",
+      "name": "年岁阶段与青壮年之人",
+      "shortName": "年龄阶段",
+      "description": "早期“青年”首先可指青春年岁或年轻人，具体年龄边界并不固定。",
+      "startIndex": 2
+    },
+    "query": "青年 (青年人|青年时期|年轻人|年青) time:1920s",
+    "totalResults": 51,
+    "candidates": [
+      {
+        "score": 0.1236,
+        "excerpt": "这位并不高大的青年人望着地下的快信，有些惊讶，苍白的脸颊上也隐隐泛出红色来。",
+        "year": 1929,
+        "path": "1920s/1929/文学/1929 茅盾 虹_长篇.txt",
+        "recordId": "1324000001336",
+        "source": "茅盾 虹 · 长篇",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1209,
+        "excerpt": "教会同人正在青年时期，对此腐恶封建势力绝不低首降伏。",
+        "year": 1929,
+        "path": "1920s/1929/文学/1929 鲁迅 关于《子见南子》.txt",
+        "recordId": "1330000000000",
+        "source": "鲁迅 关于《子见南子》",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1201,
+        "excerpt": "然而可以激起青年人的决心，唤起青年人的觉悟。",
+        "year": 1921,
+        "path": "1920s/1921/文学/1921 冰心 问答词.txt",
+        "recordId": "373000000000",
+        "source": "冰心 问答词",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "女性",
+    "storyId": "social-identities-02",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "social-identities-02-prehistory",
+      "name": "女子、性别与词形建立",
+      "shortName": "性别称谓",
+      "description": "追踪“女性”如何从指称女子的性别词汇中稳定，并与“妇女”等称谓分工。",
+      "startIndex": 2
+    },
+    "query": "女性 (男性和女性|女子|性别|妇女) time:1920s",
+    "totalResults": 87,
+    "candidates": [
+      {
+        "score": 0.1927,
+        "excerpt": "妇女性情往往如此。",
+        "year": 1926,
+        "path": "1920s/1926/文学/小说笔记/1926 蔡东藩 秦汉演义.txt",
+        "recordId": "937000001926",
+        "source": "蔡东藩 秦汉演义",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1698,
+        "excerpt": "）就是女子的新生活要如何建爲女子的新宗敎新道德新倫理新敎育新法律應該是些其麽要積極的硏時代了又女子「做人的權利」和「做女性的權利」的兩種要求要如何和也是問題之一以反抗破壞爲事的時代我們祇要有情𤍠有勇氣有幟牲的精神就",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 少年世界_第1卷第8期.txt",
+        "recordId": "283000001406",
+        "source": "Author 少年世界 · 第1卷第8期",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1629,
+        "excerpt": "…他們的牲還有許多人信他們的政府和軍問深信日本非和人家打一個大敗仗本的軍閥官僚資木家等是不容易倒的那麽還講甚麽『女性文』的建設呢束洋兩大中中國以『人道』著名本以『武士道』著名前者是女子的好友後是女子的強敵在這點我可以斷定女性明和平主義的文明之建設我中要比日本快些確實些哩",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 少年世界_第1卷第8期.txt",
+        "recordId": "283000001393",
+        "source": "Author 少年世界 · 第1卷第8期",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "人民",
+    "storyId": "social-identities-04",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "social-identities-04-prehistory",
+      "name": "庶民、百姓与被治理者",
+      "shortName": "庶民百姓",
+      "description": "早期“人民”可泛指百姓与居民，往往处在与君主、官府相对的位置。",
+      "startIndex": 2
+    },
+    "query": "人民 (百姓|庶民|普通人|民众) time:1920s",
+    "totalResults": 166,
+    "candidates": [
+      {
+        "score": 0.1289,
+        "excerpt": "第二期爲文裝革命，使人民組織團體，然後帶領老百姓來打小軍閥，但此時有互相含接之作用，現在尙屬武裝革命之時期，離第二期之文裝革命尙遠，君品行高潔任事努力，烱所素佩，敢請即來惠城，共商革命大計，勿却爲荷。",
+        "year": 1926,
+        "path": "1920s/1926/报刊/1926 Author 中國農民_第1卷第5期.txt",
+        "recordId": "810000000311",
+        "source": "Author 中國農民 · 第1卷第5期",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1289,
+        "excerpt": "荣答说道：“中国丧乱，胡夷内侮，司马氏恐难复振，百姓不得安全，江南半壁，虽被石冰扰乱，人物尚称无恙，荣正虑无孙刘诸王，保抚人民，今得将军神武盖世，带甲数万，连下各州，先声已振，诚使委任君子，推诚相与，不记小忿，不听谗言。",
+        "year": 1924,
+        "path": "1920s/1924/文学/小说笔记/1924 蔡东藩 两晋演义.txt",
+        "recordId": "621000000311",
+        "source": "蔡东藩 两晋演义",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1289,
+        "excerpt": "…列入四民階級政治法律上皆受特別待遇一方面又受社會壓廹賤視精神上的痛苦可想而知明治維新欽定憲法四民平等—明治以前人民階級多而且嚴如皇族華族士族平民平民中雖含農工商三種而又以商人爲最下級社會賤視卑稱之曰『町人』我所說的貧民窟百姓不又在町人之下且尙未算在人",
+        "year": 1925,
+        "path": "1920s/1925/报刊/1925 Author 少年世界_增刊_日本號.txt",
+        "recordId": "626000001306",
+        "source": "Author 少年世界 · 增刊 · 日本號",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "儿童",
+    "storyId": "social-identities-05",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "social-identities-05-prehistory",
+      "name": "年幼之人与日常年龄称谓",
+      "shortName": "幼小年龄",
+      "description": "“儿童”长期指向年幼者，但日常所指年龄与后来的制度界定并不总是一致。",
+      "startIndex": 2
+    },
+    "query": "儿童 (幼小|孩子|年龄|童年) time:1920s",
+    "totalResults": 26,
+    "candidates": [
+      {
+        "score": 0.1213,
+        "excerpt": "我以前看了你的宝姊姊瞻哥哥的天真烂漫的儿童生活，惋惜他们的黄金时代的将逝，常常作这样的异想：“小孩子长到十岁左右无病地自己死去，岂不完成了极有意义与价值的一生呢？",
+        "year": 1927,
+        "path": "1920s/1927/文学/1927 丰子恺 阿难.txt",
+        "recordId": "976000000000",
+        "source": "丰子恺 阿难",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1134,
+        "excerpt": "无论忤逆，无论孝顺，小孩子多不愿意“诈”作，听故事也不喜欢是谣言，这是凡有稍稍留心儿童心理的都知道的。",
+        "year": 1926,
+        "path": "1920s/1926/文学/1926 鲁迅 《二十四孝图》.txt",
+        "recordId": "905000000000",
+        "source": "鲁迅 《二十四孝图》",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1134,
+        "excerpt": "无论忤逆，无论孝顺，小孩子多不愿意“诈”作，听故事也不喜欢是谣言，这是凡有稍稍留心儿童心理的都知道的。",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 鲁迅 朝花夕拾.txt",
+        "recordId": "1214000000103",
+        "source": "鲁迅 朝花夕拾",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "儿童",
+    "storyId": "social-identities-05",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "social-identities-05-turn",
+      "name": "教育、医疗与法律中的保护对象",
+      "shortName": "制度年龄",
+      "description": "现代学校、儿科、福利和法律制度将儿童定义为需要专门教育与保护的人群。",
+      "startIndex": 3
+    },
+    "query": "儿童 (儿童教育|儿童保护|儿童福利|儿童年龄) time:1950s",
+    "totalResults": 575,
+    "candidates": [
+      {
+        "score": 0.2073,
+        "excerpt": "《我的儿童教育工作》",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_05.txt",
+        "recordId": "3544000007258",
+        "source": "rmrb · 1950 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1999,
+        "excerpt": "到处都在建筑医院、商店、儿童福利和文化机关。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_03.txt",
+        "recordId": "3542000014350",
+        "source": "rmrb · 1950 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1983,
+        "excerpt": "围绕着这个方针，开展妇女儿童福利和妇女文化教育工作。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000017251",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "工人",
+    "storyId": "social-identities-07",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "social-identities-07-prehistory",
+      "name": "做工之人、工匠与雇工",
+      "shortName": "做工之人",
+      "description": "早期“工人”可宽泛指从事做工、工艺或雇佣劳动的人。",
+      "startIndex": 2
+    },
+    "query": "工人 (做工|工厂|工钱|雇工) time:1920s",
+    "totalResults": 224,
+    "candidates": [
+      {
+        "score": 0.2103,
+        "excerpt": "可憐我們做工人！",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 勞動界_第14册.txt",
+        "recordId": "242000000022",
+        "source": "Author 勞動界 · 第14册",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1598,
+        "excerpt": "我們做工人甚甚樣不好；",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 勞動界_第12册.txt",
+        "recordId": "241000000035",
+        "source": "Author 勞動界 · 第12册",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1561,
+        "excerpt": "工人方面罷工之後，四路調査，遇着違背公約去做工的人，就要他停止。",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 勞動界_第3册.txt",
+        "recordId": "251000000060",
+        "source": "Author 勞動界 · 第3册",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "农民",
+    "storyId": "social-identities-08",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "social-identities-08-prehistory",
+      "name": "务农之人与乡里居民",
+      "shortName": "务农之人",
+      "description": "“农民”首先以农业生产与乡村居住为识别核心，两者并不总是完全重合。",
+      "startIndex": 2
+    },
+    "query": "农民 (务农|田地|耕种|农村) time:1920s",
+    "totalResults": 11,
+    "candidates": [
+      {
+        "score": 0.1249,
+        "excerpt": "最近开始暴动的口号之中，本党不提出沒收小田主土地的口号，是为着要使城乡間广大的小私有財产者之份子中立，但是，幷不是說是农民运动不免要起而反对出租田地的小田主的时候，共产党可以认为这种事情是过火的是反革命的。",
+        "year": 1927,
+        "path": "1920s/1927/报刊/1927 Author 中央政治通訊_第2期.txt",
+        "recordId": "946000000020",
+        "source": "Author 中央政治通訊 · 第2期",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1246,
+        "excerpt": "二、实业之发展，使农村经济得以改良，而劳动农民之生计有改善之可能。",
+        "year": 1920,
+        "path": "1920s/192x/文学/小说笔记/192x 蔡东藩_许廑父 民国演义.txt",
+        "recordId": "1341000004225",
+        "source": "192x 蔡东藩 · 许廑父 民国演义",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1227,
+        "excerpt": "农民运动不得无产阶級政党有統系*的革命指导，很容易无組織的，凌乱的，自然的爆发，反动軍閥可以不費力量把他鎭压下去，因之共产党現时最主要的任务是有系統的有計划的尽可能的在广大区域中准备农民的总暴动，利用今年秋收时期农村中阶級斗爭剧烈的关鍵。",
+        "year": 1927,
+        "path": "1920s/1927/报刊/1927 Author 中央政治通訊_第2期.txt",
+        "recordId": "946000000005",
+        "source": "Author 中央政治通訊 · 第2期",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "学生",
+    "storyId": "social-identities-09",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "social-identities-09-prehistory",
+      "name": "从师受业与求学之人",
+      "shortName": "求学之人",
+      "description": "早期“学生”可指求学者、门生或读书人，尚不必然依赖统一学制。",
+      "startIndex": 2
+    },
+    "query": "学生 (学校|读书|求学|上课) time:1920s",
+    "totalResults": 272,
+    "candidates": [
+      {
+        "score": 0.2406,
+        "excerpt": "，吾人虽代国立学校教职员、学生鸣其不平，幸而尚有私立各学校,可为吾人子弟求学之所。",
+        "year": 1921,
+        "path": "1920s/1921/文学/1921 蔡友梅 益世余墨.txt",
+        "recordId": "384000000486",
+        "source": "蔡友梅 益世余墨",
+        "hintHits": 2
+      },
+      {
+        "score": 0.2097,
+        "excerpt": "在这很大的都会，还不覚得怎么，在我們一个县城一个府城的地方里，以社会的人覌之，在学校求学的女学生，簡直沒有一个是好人。",
+        "year": 1921,
+        "path": "1920s/1921/报刊/1921 Author 劳动与妇女_第8期.txt",
+        "recordId": "347000000048",
+        "source": "Author 劳动与妇女 · 第8期",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1371,
+        "excerpt": "从前的普通观念，是想做官才去读书，现在的学生，他毕业后怎么的变迁，虽然说不定，若当他在校期间，说是打算将来拿学问去官场里混饭吃，我敢保一千人里头找不着一个。",
+        "year": 1921,
+        "path": "1920s/1921/文学/1921 梁启超 辛亥革命之意义与十年双十节之乐观.txt",
+        "recordId": "382000000000",
+        "source": "梁启超 辛亥革命之意义与十年双十节之乐观",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "知识分子",
+    "storyId": "social-identities-10",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "social-identities-10-prehistory",
+      "name": "近代译名与新式读书人",
+      "shortName": "译名形成",
+      "description": "“知识分子”是近现代形成的集体称谓，需与士人、文人和专业人士对照。",
+      "startIndex": 2
+    },
+    "query": "知识分子 (智识阶级|知识阶级|intellectual|译名) time:1920s",
+    "totalResults": 1,
+    "candidates": [
+      {
+        "score": 0.0976,
+        "excerpt": "“五四”以后，特别是在五卅运动高潮中，这个口号在我国知识分子中间也相当流行。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 鲁迅 忽然想到（十至十一）.txt",
+        "recordId": "749000000000",
+        "source": "鲁迅 忽然想到（十至十一）",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "知识分子",
+    "storyId": "social-identities-10",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "social-identities-10-turn",
+      "name": "以知识参与公共生活的群体",
+      "shortName": "公共角色",
+      "description": "该身份常与教育、专业劳动、公共表达和社会责任相联系。",
+      "startIndex": 3
+    },
+    "query": "知识分子 (公共|社会责任|文化角色|发言) time:1950s",
+    "totalResults": 363,
+    "candidates": [
+      {
+        "score": 0.1426,
+        "excerpt": "因此，团结在争取和平的斗争中的我国人民，学生、知识分子与工人，都在公共集会上反对这个双边公约。",
+        "year": 1952,
+        "path": "1950s/1952/报刊/人民日报/rmrb_1952_10.txt",
+        "recordId": "3623000003617",
+        "source": "rmrb · 1952 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1391,
+        "excerpt": "在会上继起发言的有工人、农民、知识分子、军人和学生的代表。",
+        "year": 1952,
+        "path": "1950s/1952/报刊/人民日报/rmrb_1952_04.txt",
+        "recordId": "3617000008617",
+        "source": "rmrb · 1952 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1379,
+        "excerpt": "阿维森纳是回教徒，他生在公元十世纪至十一世纪阿拉伯文化最灿烂的一个时代，他的著作是用当时的回教的知识分子的公共语文——阿拉伯文所写作的。",
+        "year": 1952,
+        "path": "1950s/1952/报刊/人民日报/rmrb_1952_05.txt",
+        "recordId": "3618000001935",
+        "source": "rmrb · 1952 · 05",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "公民",
+    "storyId": "social-identities-11",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "social-identities-11-prehistory",
+      "name": "公家之民与近代词形重组",
+      "shortName": "词形前史",
+      "description": "核对早期“公”“民”组合与近代 citizen 译介，避免把居民、臣民与公民混为一类。",
+      "startIndex": 2
+    },
+    "query": "公民 (人民|国民|市民|身份) time:1920s",
+    "totalResults": 23,
+    "candidates": [
+      {
+        "score": 0.1888,
+        "excerpt": "政府于人民之所恶，则必百计保全，于人民之所欲，则且一网打尽，更屡颁文告，严惩学生，并集会演说刊布文字，公民所有之自由，亦加剥削，是政府不欲国民有一分觉悟，国势有一分进步也。",
+        "year": 1920,
+        "path": "1920s/192x/文学/小说笔记/192x 蔡东藩_许廑父 民国演义.txt",
+        "recordId": "1341000003058",
+        "source": "192x 蔡东藩 · 许廑父 民国演义",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1145,
+        "excerpt": "江苏公民致大总统国务院文云：直、皖战起，李督借词筹饷，百计敛财，其始违法越权，委议会查办劣迹昭著之俞纪琦为财政厅长，人民惊骇，一致反对；",
+        "year": 1920,
+        "path": "1920s/192x/文学/小说笔记/192x 蔡东藩_许廑父 民国演义.txt",
+        "recordId": "1341000003365",
+        "source": "192x 蔡东藩 · 许廑父 民国演义",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1145,
+        "excerpt": "参政院代行立法院，咨称：本院前据各直省各特别行政区域，内外蒙古、青海、回部、前后藏、满洲八旗公民、王公，暨京外商会、学会、华侨联合会等，一再请愿改革国体，当经本会开会议决，将请愿书八十三件，咨送政府，并建议根本解决之法，或提前召集国民会议，或另筹征求民意妥善办法。",
+        "year": 1920,
+        "path": "1920s/192x/文学/小说笔记/192x 蔡东藩_许廑父 民国演义.txt",
+        "recordId": "1341000001426",
+        "source": "192x 蔡东藩 · 许廑父 民国演义",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "公民",
+    "storyId": "social-identities-11",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "social-identities-11-turn",
+      "name": "具有权利与义务的法律身份",
+      "shortName": "法律公民",
+      "description": "现代国家中，“公民”以国籍、权利、义务和政治成员资格为核心。",
+      "startIndex": 3
+    },
+    "query": "公民 (法律|权利义务|公民身份|国籍) time:1950s",
+    "totalResults": 481,
+    "candidates": [
+      {
+        "score": 0.1902,
+        "excerpt": "此外，苏联最高苏维埃是一个最高的立法机关，有权颁行全联盟的法律并监督其正确和统一的运用，这个法律在整个苏维埃联盟是统一的，是所有各民族人民意志的表现，在所有加盟共和国的领土上，都发生效力，所有的政权机关、团体、公务员及公民均须遵行。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000013210",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1846,
+        "excerpt": "至于公民参加政治活动的权利，那么宗教徒与非宗教徒是完全平等的，在法律上有严格保障宗教徒政治权利的规定，不许有任何歧视，国家是保护一切人民，包括宗教徒的正当公民利益的。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_10.txt",
+        "recordId": "3549000011722",
+        "source": "rmrb · 1950 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1715,
+        "excerpt": "按条约规定，芬兰政府有义务采取一切的必要措施，保证引渡在芬兰境内的全体苏联公民，以便把他们因在战争期间叛国或通敌而违背苏联法律的行为交付审判。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000001954",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "国民",
+    "storyId": "social-identities-12",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "social-identities-12-prehistory",
+      "name": "一国之民与近代国家想象",
+      "shortName": "一国之民",
+      "description": "“国民”在近代国家建构中强调人与国家的所属关系，并与臣民、人民、公民竞合。",
+      "startIndex": 2
+    },
+    "query": "国民 (一国之民|国人|人民|国民身份) time:1920s",
+    "totalResults": 181,
+    "candidates": [
+      {
+        "score": 0.1839,
+        "excerpt": "一九二四年七月五日，他在南京东南大学召开的“中华教育改进社”第三次年会上，作《劝治史学及论史学利病》的讲演，其中说：“生为一国之民，不治本国史学，直谓之无国家无国民性之人可也，聚几万万无国民性之人以立国，则国魂已失。",
+        "year": 1924,
+        "path": "1920s/1924/文学/1924 鲁迅 又是“古已有之”.txt",
+        "recordId": "599000000000",
+        "source": "鲁迅 又是“古已有之”",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1811,
+        "excerpt": "国民身体强弱，有关国家强弱，因为国家是积人民而成的。",
+        "year": 1920,
+        "path": "1920s/1920/文学/1920 蔡友梅 益世余谭_1920.txt",
+        "recordId": "325000000339",
+        "source": "蔡友梅 益世余谭 · 1920",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1457,
+        "excerpt": "…《我国人一致愤慨的情形之下，愿英日两国政府勿自蹈瓜分中国之嫌》一文中说：英、日帝国主义“用种种宣传政策，谓中国国民已与俄国同其赤化，英日若不合力以压迫中国，行见中国赤化而后，美国亦大受其影响……然中国之并未赤化，所谓赤化说乃纯属英日两国之虚伪政策……今次上海之惨剧，乃世界伪文明之宣告…",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 鲁迅 忽然想到（十至十一）.txt",
+        "recordId": "749000000000",
+        "source": "鲁迅 忽然想到（十至十一）",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "消费者",
+    "storyId": "social-identities-13",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "social-identities-13-prehistory",
+      "name": "购买与使用商品的人",
+      "shortName": "购买使用者",
+      "description": "随商品经济与消费概念形成，“消费者”指向购买、使用商品或接受服务的人。",
+      "startIndex": 2
+    },
+    "query": "消费者 (购买|消费|商品|顾客) time:1950s",
+    "totalResults": 1847,
+    "candidates": [
+      {
+        "score": 0.3264,
+        "excerpt": "这主要是由于通货稳定以后，虚假购买力消失，而原来被囤积的商品涌进市场，以及一般消费者因有一部分物资的积蓄，暂时减少购买量，所造成的结果。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_06.txt",
+        "recordId": "3545000003807",
+        "source": "rmrb · 1950 · 06",
+        "hintHits": 3
+      },
+      {
+        "score": 0.2974,
+        "excerpt": "而且保证了商品直接卖给消费者。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_03.txt",
+        "recordId": "3542000004324",
+        "source": "rmrb · 1950 · 03",
+        "hintHits": 2
+      },
+      {
+        "score": 0.2562,
+        "excerpt": "改善对苏联消费者的服务！",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_04.txt",
+        "recordId": "3543000015956",
+        "source": "rmrb · 1950 · 04",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "用户",
+    "storyId": "social-identities-14",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "social-identities-14-prehistory",
+      "name": "户、使用者与制度登记词形",
+      "shortName": "词形前史",
+      "description": "核对“户”的登记含义与早期“用户”在公用事业、设备或服务中的使用者指称。",
+      "startIndex": 4
+    },
+    "query": "用户 (使用者|使用单位|使用人|设备) time:1950s",
+    "totalResults": 113,
+    "candidates": [
+      {
+        "score": 0.1593,
+        "excerpt": "并可提高电业及用户设备的利用率。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_10.txt",
+        "recordId": "3549000017120",
+        "source": "rmrb · 1950 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1532,
+        "excerpt": "青岛的大电力用户及西安、兰州等地的电力用户，电度费的计算则采用块量递减制，其目的在刺激工业生产与增加电业设备的利用率。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_10.txt",
+        "recordId": "3549000017098",
+        "source": "rmrb · 1950 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1491,
+        "excerpt": "根据目前的情况，如果把全国电业设备的利用率提高到百分之五十，线路损失和自用电降低到百分之十八，用户用电节约百分之十五，就可以使全国电力供应能力比一九五○年提高一倍。",
+        "year": 1951,
+        "path": "1950s/1951/报刊/人民日报/rmrb_1951_08.txt",
+        "recordId": "3586000001944",
+        "source": "rmrb · 1951 · 08",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "同胞",
+    "storyId": "social-identities-16",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "social-identities-16-prehistory",
+      "name": "同母所生的兄弟姊妹",
+      "shortName": "血缘同胞",
+      "description": "“同胞”的字面核心是同一胞胎所生，指向亲近的兄弟姊妹关系。",
+      "startIndex": 0
+    },
+    "query": "同胞 (兄弟姐妹|一母同胞|骨肉同胞|手足) time:1920s",
+    "totalResults": 4,
+    "candidates": [
+      {
+        "score": 0.1369,
+        "excerpt": "你又偏信悍妇，生生的将她酖死，全不念同胞骨肉，亲如手足？",
+        "year": 1923,
+        "path": "1920s/1923/文学/小说笔记/1923 蔡东藩 元史演义.txt",
+        "recordId": "541000001156",
+        "source": "蔡东藩 元史演义",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1287,
+        "excerpt": "诸位，小醇王载沣，同光绪帝是同胞弟兄，此时手足天伦，如何不痛不苦？",
+        "year": 1921,
+        "path": "1920s/1921/文学/小说笔记/1921 李伯通 西太后艳史演义.txt",
+        "recordId": "396000000633",
+        "source": "李伯通 西太后艳史演义",
+        "hintHits": 1
+      },
+      {
+        "score": 0.0275,
+        "excerpt": "我最親愛的勞働同胞，我看見外國人，每逢星期日，能夠休息，享自由幸福，我們羨慕不羨慕呢？",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 上海夥友_第1册.txt",
+        "recordId": "229000000058",
+        "source": "Author 上海夥友 · 第1册",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "同胞",
+    "storyId": "social-identities-16",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "social-identities-16-turn",
+      "name": "共同国家或族群成员的亲族隐喻",
+      "shortName": "共同体称谓",
+      "description": "公共论述将血缘称谓扩展为对共同国家、地域或族群成员的亲近呼唤。",
+      "startIndex": 0
+    },
+    "query": "同胞 (全国同胞|海外同胞|各地同胞|共同) time:1950s",
+    "totalResults": 424,
+    "candidates": [
+      {
+        "score": 0.1343,
+        "excerpt": "为了巩固这一社会改革的伟大胜利，全国的男女同胞共同起来努力啊！",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_05.txt",
+        "recordId": "3544000000073",
+        "source": "rmrb · 1950 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1333,
+        "excerpt": "军民共同表演游艺节目，各族同胞快乐地演出自己的民族舞蹈，盛况空前。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_04.txt",
+        "recordId": "3543000009895",
+        "source": "rmrb · 1950 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1296,
+        "excerpt": "第二点，我们同胞人民还应注意到而且要了解到世界只有自己站起来，才有资格接受人家的帮助，只有自己瞄准了从人类崇高的理想指示我们的一条光明大道上边所正确建立着的目标，不顾一切艰难困苦奔上去，自会有许多人来迎接你共同建立起新的力量来，我新中华取得苏联的亲切而伟大的助力就是很好的例子。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_02.txt",
+        "recordId": "3541000008058",
+        "source": "rmrb · 1950 · 02",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "主体",
+    "storyId": "social-identities-18",
+    "topic": "人如何成为身份",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "social-identities-18-prehistory",
+      "name": "主要部分、核心结构与主客位置",
+      "shortName": "主要部分",
+      "description": "早期和一般用法可以“主体”指事物的主要部分，或与附属部分相对。",
+      "startIndex": 2
+    },
+    "query": "主体 (主要部分|主体部分|建筑主体|文章主体) time:1950s",
+    "totalResults": 9,
+    "candidates": [
+      {
+        "score": 0.2065,
+        "excerpt": "陈云同志在“八大”的发言中指出：“在生产的计划性方面，全国工农业产品的主要部分是按照计划生产的，但是同时有一部分产品是按照市场变化而在国家计划许可范围内自由生产的，计划生产是工农业生产的主体，按照市场变化而在国家计划许可范围内的自由生产是计划生产的补充。",
+        "year": 1957,
+        "path": "1950s/1957/报刊/人民日报/rmrb_1957_03.txt",
+        "recordId": "3764000005726",
+        "source": "rmrb · 1957 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2044,
+        "excerpt": "在生产的计划性方面，全国工农业产品的主要部分是按照计划生产的，但是同时有一部分产品是按照市场变化而在国家计划许可范围内自由生产的，计划生产是工农业生产的主体，按照市场变化而在国家计划许可范围内的自由生产是计划生产的补充。",
+        "year": 1956,
+        "path": "1950s/1956/报刊/人民日报/rmrb_1956_09.txt",
+        "recordId": "3732000015245",
+        "source": "rmrb · 1956 · 09",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2044,
+        "excerpt": "在生产的计划性方面，全国工农业产品的主要部分是按照计划生产的，但是同时有一部分产品是按照市场变化而在国家计划许可范围内自由生产的，计划生产是工农业生产的主体，按照市场变化而在国家计划许可范围内的自由生产是计划生产的补充。",
+        "year": 1956,
+        "path": "1950s/1956/报刊/人民日报/rmrb_1956_10.txt",
+        "recordId": "3733000022573",
+        "source": "rmrb · 1956 · 10",
+        "hintHits": 1
+      }
+    ]
+  }
+]

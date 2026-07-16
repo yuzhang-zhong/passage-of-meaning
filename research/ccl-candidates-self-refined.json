@@ -1,0 +1,134 @@
+[
+  {
+    "word": "身体",
+    "storyId": "self-and-feeling-01",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-01-turn",
+      "name": "医学、教育与现代身体观",
+      "shortName": "医学、教育",
+      "description": "追踪“身体”如何在制度、知识或媒介中稳定为“医学、教育与现代身体观”，并找出关键转折文本。",
+      "startIndex": 0
+    },
+    "query": "(身体观|身体教育) time:1990s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "爱情",
+    "storyId": "self-and-feeling-07",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-07-turn",
+      "name": "自由恋爱、婚姻选择与现代爱情",
+      "shortName": "自由恋爱、婚姻选",
+      "description": "追踪“爱情”如何在制度、知识或媒介中稳定为“自由恋爱、婚姻选择与现代爱情”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "恋爱自由 time:1930s",
+    "totalResults": 4,
+    "candidates": []
+  },
+  {
+    "word": "亲密",
+    "storyId": "self-and-feeling-11",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "self-and-feeling-11-contemporary",
+      "name": "数字亲密、边界协商与亲密劳动",
+      "shortName": "数字亲密、边界协",
+      "description": "检查当代“数字亲密、边界协商与亲密劳动”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(网络亲密关系|线上亲密关系) time:2010s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "性",
+    "storyId": "self-and-feeling-12",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-12-turn",
+      "name": "现代医学、法律与性概念",
+      "shortName": "现代医学、法律",
+      "description": "追踪“性”如何在制度、知识或媒介中稳定为“现代医学、法律与性概念”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "性健康教育 time:2010s",
+    "totalResults": 116,
+    "candidates": [
+      {
+        "score": 0.0582,
+        "excerpt": "今年8月，国家卫计委与教育部联合发布了《关于建立疫情通报制度进一步加强学校艾滋病防控工作的通知》，要求卫生计生部门至少每半年向当地教育部门通报辖区学校学生艾滋病疫情情况，并在46所高校启动了艾滋病防控综合试点工作，将预防艾滋病教育与性健康教育有机结合。",
+        "year": 2015,
+        "path": "2010s/2015/报刊/人民日报/rmrb_2015_12.txt",
+        "recordId": "15351000042306",
+        "source": "rmrb · 2015 · 12",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0528,
+        "excerpt": "同时，仅19.48%的学生从学校获得性知识，凸显学校性健康教育的薄弱。",
+        "year": 2011,
+        "path": "2010s/2011/报刊/人民日报/rmrb_2011_08.txt",
+        "recordId": "15234000011558",
+        "source": "rmrb · 2011 · 08",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0494,
+        "excerpt": "华中科技大学公共卫生学院教授余毅震认为，这套教材大胆地对人体知识进行介绍，普及性健康教育知识，跨出了性教育的狭隘误区，更新了性教育理念，体现了社会进步。",
+        "year": 2014,
+        "path": "2010s/2014/报刊/光明日报/2014_12.txt",
+        "recordId": "15338000002842",
+        "source": "2014 · 12",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "青春",
+    "storyId": "self-and-feeling-16",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-16-turn",
+      "name": "现代教育、文学与世代叙事",
+      "shortName": "现代教育、文学",
+      "description": "追踪“青春”如何在制度、知识或媒介中稳定为“现代教育、文学与世代叙事”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "青春文学 time:1990s",
+    "totalResults": 2,
+    "candidates": [
+      {
+        "score": 0.0657,
+        "excerpt": "还曾荣获首届赵树理文学奖、山西文艺基金会特别奖和南京青春文学奖。",
+        "year": 1994,
+        "path": "1990s/1994/报刊/报刊精选/1994年《报刊精选》01.txt",
+        "recordId": "8147000017582",
+        "source": "1994年《报刊精选》01",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0382,
+        "excerpt": "同时还出版了域外诗窗丛书８种，古典小说３种，小说家擂台赛丛书４种，其它各类小说２０种，连同前几年的保留产品“青春文学丛书”、“２０世纪社会新闻小说”、“红帆船译丛”等，形成了万紫千红进军来的出版气候，向读者展示着出版界兴旺的一方乐土。",
+        "year": 1995,
+        "path": "1990s/1995/报刊/人民日报/rmrb_1995_10.txt",
+        "recordId": "8295000012142",
+        "source": "rmrb · 1995 · 10",
+        "hintHits": 0
+      }
+    ]
+  }
+]

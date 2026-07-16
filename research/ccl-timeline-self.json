@@ -1,0 +1,1018 @@
+[
+  {
+    "word": "身体",
+    "storyId": "self-and-feeling-01",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "self-and-feeling-01-prehistory",
+      "name": "身躯、体魄与人之形体",
+      "shortName": "身躯、体魄",
+      "description": "核对“身体”作为“身躯、体魄与人之形体”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 0
+    },
+    "query": "身体 (身躯|体魄|强壮|肉体) time:1920s",
+    "totalResults": 52,
+    "candidates": [
+      {
+        "score": 0.1286,
+        "excerpt": "在地毯上侧着列了个九十度的黑漆皮鞋白丝袜的脚支着一个裹在黑色闪亮的短旗袍里的左右摇摆着的而窈窕身躯，白色丝围巾缠着的颈上是张白脸和一蓬缠着无数闪烁着的钻石的黑发，眼球随着身体的摆动而向上下左右投出了晶亮的视线――总之，周身是光亮的，像文学家们在小说里所描写着的发光的女主人翁。",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 噩君 备考：东京通信.txt",
+        "recordId": "1154000000000",
+        "source": "噩君 备考：东京通信",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1232,
+        "excerpt": "李老人便是这么一个在患难中浮泛的人，他久病的身体好似被忧患捆住，胶住，他甘心一死，而那条酷虐的铁链越箍越紧，他只能用他的骨瘦如柴的身躯负着那一片海水似的愁闷。",
+        "year": 1926,
+        "path": "1920s/1926/文学/1926 老舍 老张的哲学.txt",
+        "recordId": "894000001560",
+        "source": "老舍 老张的哲学",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1175,
+        "excerpt": "像这样的懒游了一个多月，我的身体渐渐就强壮起来了。",
+        "year": 1927,
+        "path": "1920s/1927/文学/1927 郁达夫 迷羊.txt",
+        "recordId": "1014000000000",
+        "source": "郁达夫 迷羊",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "健康",
+    "storyId": "self-and-feeling-02",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "self-and-feeling-02-prehistory",
+      "name": "强健、安好与无病",
+      "shortName": "强健、安好",
+      "description": "核对“健康”作为“强健、安好与无病”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "健康 (强健|安好|无病|身体健康) time:1920s",
+    "totalResults": 1,
+    "candidates": [
+      {
+        "score": 0.036,
+        "excerpt": "我实在艳羡他们的健康。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 鲁迅 从胡须说到牙齿.txt",
+        "recordId": "720000000000",
+        "source": "鲁迅 从胡须说到牙齿",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "健康",
+    "storyId": "self-and-feeling-02",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-02-turn",
+      "name": "现代医学与公共健康概念",
+      "shortName": "现代医学",
+      "description": "追踪“健康”如何在制度、知识或媒介中稳定为“现代医学与公共健康概念”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "健康 (医学|公共健康|健康检查|健康状况) time:1950s",
+    "totalResults": 728,
+    "candidates": [
+      {
+        "score": 0.2541,
+        "excerpt": "人民共和国特别注意公共健康和教育。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000007632",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1508,
+        "excerpt": "为了普及与提高现代科学医学知识，全年已出版了一十一万多册有关医药卫生的书籍，发行健康报达二十八万余份。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000007497",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1459,
+        "excerpt": "此外并可进行严格的晨间健康检查制度。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_02.txt",
+        "recordId": "3541000005742",
+        "source": "rmrb · 1950 · 02",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "卫生",
+    "storyId": "self-and-feeling-03",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "self-and-feeling-03-prehistory",
+      "name": "护卫生命与清洁前史",
+      "shortName": "护卫生命",
+      "description": "核对“卫生”作为“护卫生命与清洁前史”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "卫生 (护卫生命|养生|卫生之道|保健) time:1920s",
+    "totalResults": 4,
+    "candidates": [
+      {
+        "score": 0.1185,
+        "excerpt": "如此看起来，卫生之道，为人不可不讲。",
+        "year": 1921,
+        "path": "1920s/1921/文学/1921 蔡友梅 益世余墨.txt",
+        "recordId": "384000000211",
+        "source": "蔡友梅 益世余墨",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1096,
+        "excerpt": "”记者原不知医，不过于卫生之道，略议皮毛，谨贡所知。",
+        "year": 1921,
+        "path": "1920s/1921/文学/1921 蔡友梅 益世余墨.txt",
+        "recordId": "384000000442",
+        "source": "蔡友梅 益世余墨",
+        "hintHits": 1
+      },
+      {
+        "score": 0.105,
+        "excerpt": "孔子云：“色恶不食”，亦讲求卫生之道也。",
+        "year": 1920,
+        "path": "1920s/1920/文学/1920 蔡友梅 益世余谭_1920.txt",
+        "recordId": "325000000128",
+        "source": "蔡友梅 益世余谭 · 1920",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "卫生",
+    "storyId": "self-and-feeling-03",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-03-turn",
+      "name": "现代 hygiene 与公共卫生制度",
+      "shortName": "现代 hygie",
+      "description": "追踪“卫生”如何在制度、知识或媒介中稳定为“现代 hygiene 与公共卫生制度”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "卫生 (公共卫生|卫生制度|卫生事业|卫生习惯) time:1950s",
+    "totalResults": 1721,
+    "candidates": [
+      {
+        "score": 0.5336,
+        "excerpt": "预防与公共卫生教育",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_02.txt",
+        "recordId": "3541000010321",
+        "source": "rmrb · 1950 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.355,
+        "excerpt": "紧密结合公共卫生需要",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_02.txt",
+        "recordId": "3541000004181",
+        "source": "rmrb · 1950 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.3254,
+        "excerpt": "原卫生局改组为公共卫生局",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000007522",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "精神",
+    "storyId": "self-and-feeling-04",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "self-and-feeling-04-prehistory",
+      "name": "精气、神彩与心神",
+      "shortName": "精气、神彩",
+      "description": "核对“精神”作为“精气、神彩与心神”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 0
+    },
+    "query": "精神 (精神焕发|精神状态|精气|神彩) time:1920s",
+    "totalResults": 6,
+    "candidates": [
+      {
+        "score": 0.1081,
+        "excerpt": "大营里挂灯结彩，叶营各兵弁，一个精神焕发，高兴异常，热闹繁华，笔难尽述。",
+        "year": 1921,
+        "path": "1920s/1921/文学/小说笔记/1921 陆士谔 清朝秘史.txt",
+        "recordId": "397000008161",
+        "source": "陆士谔 清朝秘史",
+        "hintHits": 1
+      },
+      {
+        "score": 0.105,
+        "excerpt": "同治帝，父子两个，倒是冠冕堂皇，精神焕发。",
+        "year": 1921,
+        "path": "1920s/1921/文学/小说笔记/1921 李伯通 西太后艳史演义.txt",
+        "recordId": "396000000626",
+        "source": "李伯通 西太后艳史演义",
+        "hintHits": 1
+      },
+      {
+        "score": 0.105,
+        "excerpt": "这一槊是被田徽从旁刺入，一剑是由刘琨顺手劈下，两人结果祐命，越觉精神焕发，同往杀乔。",
+        "year": 1924,
+        "path": "1920s/1924/文学/小说笔记/1924 蔡东藩 两晋演义.txt",
+        "recordId": "621000000297",
+        "source": "蔡东藩 两晋演义",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "心理",
+    "storyId": "self-and-feeling-05",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "self-and-feeling-05-prehistory",
+      "name": "心思、情理与内心活动",
+      "shortName": "心思、情理",
+      "description": "核对“心理”作为“心思、情理与内心活动”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "心理 (心思|想法|心理情形|情理) time:1920s",
+    "totalResults": 15,
+    "candidates": [
+      {
+        "score": 0.0403,
+        "excerpt": "作者自己的相貌一點沒有，只看見對象的人生和對象的心理。",
+        "year": 1923,
+        "path": "1920s/1923/报刊/1923 Author 創造周報_第11號.txt",
+        "recordId": "452000000101",
+        "source": "Author 創造周報 · 第11號",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0389,
+        "excerpt": "因为他的几个中国同学，怎么也不能理解他的心理。",
+        "year": 1921,
+        "path": "1920s/1921/文学/1921 郁达夫 沉沦.txt",
+        "recordId": "386000000001",
+        "source": "郁达夫 沉沦",
+        "hintHits": 0
+      },
+      {
+        "score": 0.036,
+        "excerpt": "〔１４〕ＬｅＢｏｎ勒朋（１８４１―１９３１），法国社会心理学家。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 鲁迅 这个与那个.txt",
+        "recordId": "784000000000",
+        "source": "鲁迅 这个与那个",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "心理",
+    "storyId": "self-and-feeling-05",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-05-turn",
+      "name": "现代 psychology 学科与临床概念",
+      "shortName": "现代 psych",
+      "description": "追踪“心理”如何在制度、知识或媒介中稳定为“现代 psychology 学科与临床概念”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "心理 (心理学|心理研究|心理治疗|心理测验) time:1950s",
+    "totalResults": 545,
+    "candidates": [
+      {
+        "score": 0.1463,
+        "excerpt": "现代心理学的皮毛她很知道一些，就是不用功。",
+        "year": 1950,
+        "path": "1950s/1950/文学/1950 张爱玲 相见欢.txt",
+        "recordId": "3555000000000",
+        "source": "张爱玲 相见欢",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1353,
+        "excerpt": "教育心理学所研究的是：教师在他的教育工作中，要如何应用关于儿童心理特征的知识，要如何实现有效地培养学生心理机能与特征的任务。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_04.txt",
+        "recordId": "3543000001527",
+        "source": "rmrb · 1950 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1301,
+        "excerpt": "中国科学院心理学研究所所长 曹日昌",
+        "year": 1952,
+        "path": "1950s/1952/报刊/人民日报/rmrb_1952_01.txt",
+        "recordId": "3614000007184",
+        "source": "rmrb · 1952 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "情感",
+    "storyId": "self-and-feeling-06",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "self-and-feeling-06-prehistory",
+      "name": "情志、感受与人情",
+      "shortName": "情志、感受",
+      "description": "核对“情感”作为“情志、感受与人情”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "情感 (情志|感受|情感流露|感情) time:1920s",
+    "totalResults": 22,
+    "candidates": [
+      {
+        "score": 0.0542,
+        "excerpt": "不觉得对于秀卿的优待，起了一种情感上的作用。",
+        "year": 1924,
+        "path": "1920s/1924/文学/1924 穆辰公 北京.txt",
+        "recordId": "582000000175",
+        "source": "穆辰公 北京",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0389,
+        "excerpt": "我们的忧患已经使我们的结合和情感加倍发展了。",
+        "year": 1928,
+        "path": "1920s/1928/翻译作品/文学/1928 魏兰 欧洲200年名人情书.txt",
+        "recordId": "1223000000485",
+        "source": "魏兰 欧洲200年名人情书",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0389,
+        "excerpt": "所以譯詩的時候，譯者須沒入詩人的對象中，使詩人成爲自己，自己成爲詩人，然後把在自己胸中沸騰着的情感，用全部的熱力與純眞吐出。",
+        "year": 1923,
+        "path": "1920s/1923/报刊/1923 Author 創造周報_第18號.txt",
+        "recordId": "459000000029",
+        "source": "Author 創造周報 · 第18號",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "情感",
+    "storyId": "self-and-feeling-06",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-06-turn",
+      "name": "现代心理与文学中的情感",
+      "shortName": "现代心理",
+      "description": "追踪“情感”如何在制度、知识或媒介中稳定为“现代心理与文学中的情感”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "情感 (心理|情感研究|情感反应|情感生活) time:1950s",
+    "totalResults": 54,
+    "candidates": [
+      {
+        "score": 0.1443,
+        "excerpt": "各民族间互不信任的心理已消失，而互相友爱的情感已经发展，并因此造成了各族人民在一个统一联盟国家体系中真正兄弟合作的关系。",
+        "year": 1953,
+        "path": "1950s/1953/报刊/人民日报/rmrb_1953_06.txt",
+        "recordId": "3636000000568",
+        "source": "rmrb · 1953 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1443,
+        "excerpt": "真正和劳动人民的结合，只有下定决心，经过长期的，甚至是痛苦的磨炼，这是从一个阶级到另一个阶级的深刻变化，这种结合不能是浮浅的，暂时的，而应当是深入的，长期的，但正是这样，结果就能够从劳动与斗争的实践过程中，使自己的思想感情发生变化，热爱劳动，热爱劳动者，才能深刻地体会劳动者的情感、道德和心理状态。",
+        "year": 1958,
+        "path": "1950s/1958/报刊/人民日报/rmrb_1958_10.txt",
+        "recordId": "3826000020502",
+        "source": "rmrb · 1958 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1426,
+        "excerpt": "虽然这个蒙受着苦痛的传诵者，由于受到敌伪的欺骗宣传，对铁道游击队还没有正确的认识，并怀着惧怕的心理，但是从他的语气里却隐隐的听出，他对这神奇的故事的创造者是怀着敬仰的情感的。",
+        "year": 1954,
+        "path": "1950s/1954/文学/1954 知侠 铁道游击队.txt",
+        "recordId": "3676000000038",
+        "source": "知侠 铁道游击队",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "隐私",
+    "storyId": "self-and-feeling-08",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "self-and-feeling-08-prehistory",
+      "name": "私密之事与不愿公开",
+      "shortName": "私密之事",
+      "description": "核对“隐私”作为“私密之事与不愿公开”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "隐私 (私事|私密|秘密|个人隐私) time:1950s",
+    "totalResults": 2,
+    "candidates": [
+      {
+        "score": 0.1301,
+        "excerpt": "他说，除了有关国家机密、个人隐私和少年犯罪的案件以外，其他的案件都作到了公开审判。",
+        "year": 1956,
+        "path": "1950s/1956/报刊/人民日报/rmrb_1956_12.txt",
+        "recordId": "3735000004664",
+        "source": "rmrb · 1956 · 12",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1279,
+        "excerpt": "为什么这些“同人”不公开倡导，在万紫千红的艺苑里斗艳竞芳，却要瞒着组织，秘密进行，仿佛有什么不可告人的隐私呢？",
+        "year": 1957,
+        "path": "1950s/1957/报刊/人民日报/rmrb_1957_11.txt",
+        "recordId": "3772000016248",
+        "source": "rmrb · 1957 · 11",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "婚姻",
+    "storyId": "self-and-feeling-09",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "self-and-feeling-09-prehistory",
+      "name": "婚娶关系与家族联结",
+      "shortName": "婚娶关系",
+      "description": "核对“婚姻”作为“婚娶关系与家族联结”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "婚姻 (婚娶|结婚|婚姻关系|夫妻) time:1920s",
+    "totalResults": 26,
+    "candidates": [
+      {
+        "score": 0.1509,
+        "excerpt": "吕太后尚恐刘吕不睦，互相鱼肉，复想出一条亲上加亲的计策，使他联结婚姻，方可永久为欢，不致龃龉。",
+        "year": 1926,
+        "path": "1920s/1926/文学/小说笔记/1926 蔡东藩 秦汉演义.txt",
+        "recordId": "937000000921",
+        "source": "蔡东藩 秦汉演义",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1356,
+        "excerpt": "我以为结婚是必要的，因为男女的关系——”李子荣抓了抓头发，想不起相当的字眼儿来，看了棚顶一眼，说：“可是，现在婚姻的问题非常的难解决：我知道由相爱而结婚是正当的办法，但是，你睁开眼看看中国的妇女，看看她们，看完了，你的心就凉了！",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 老舍 二马.txt",
+        "recordId": "1175000000018",
+        "source": "老舍 二马",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1356,
+        "excerpt": "我以为结婚是必要的，因为男女的关系——”李子荣抓了抓头发，想不起相当的字眼儿来，看了棚顶一眼，说：“可是，现在婚姻的问题非常的难解决：我知道由相爱而结婚是正当的办法，但是，你睁开眼看看中国的妇女，看看她们，看完了，你的心就凉了！",
+        "year": 1929,
+        "path": "1920s/1929/文学/1929 老舍 二马.txt",
+        "recordId": "1319000001509",
+        "source": "老舍 二马",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "婚姻",
+    "storyId": "self-and-feeling-09",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-09-turn",
+      "name": "现代法律与个人选择中的婚姻",
+      "shortName": "现代法律",
+      "description": "追踪“婚姻”如何在制度、知识或媒介中稳定为“现代法律与个人选择中的婚姻”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "婚姻 (婚姻法|婚姻制度|婚姻自由|婚姻登记) time:1950s",
+    "totalResults": 2603,
+    "candidates": [
+      {
+        "score": 0.35,
+        "excerpt": "新民主主义的婚姻法是坚决废除封建主义的婚姻制度，实行婚姻自由、一夫一妻、男女平等的法律。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_04.txt",
+        "recordId": "3543000008735",
+        "source": "rmrb · 1950 · 04",
+        "hintHits": 3
+      },
+      {
+        "score": 0.3395,
+        "excerpt": "正确解决婚姻制度问题的关键有两个，一个是中央人民政府制定并颁布保障婚姻自由的婚姻法。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_03.txt",
+        "recordId": "3542000003707",
+        "source": "rmrb · 1950 · 03",
+        "hintHits": 3
+      },
+      {
+        "score": 0.3079,
+        "excerpt": "要想把婚姻制度问题得到正确解决，则必须按照人民日报《正确解决婚姻制度问题》的社论中所指出的两条原则：一是中央人民政府制定并颁布保障婚姻自由的婚姻法。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_04.txt",
+        "recordId": "3543000005055",
+        "source": "rmrb · 1950 · 04",
+        "hintHits": 3
+      }
+    ]
+  },
+  {
+    "word": "家庭",
+    "storyId": "self-and-feeling-10",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-10-turn",
+      "name": "现代小家庭、法律与情感单位",
+      "shortName": "现代小家庭、法律",
+      "description": "追踪“家庭”如何在制度、知识或媒介中稳定为“现代小家庭、法律与情感单位”，并找出关键转折文本。",
+      "startIndex": 0
+    },
+    "query": "家庭 (小家庭|家庭关系|家庭成员|家庭生活) time:1950s",
+    "totalResults": 1124,
+    "candidates": [
+      {
+        "score": 0.1383,
+        "excerpt": "其中夫权是封建宗法的思想制度在男女关系和家庭关系方面的集中表现。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_04.txt",
+        "recordId": "3543000008733",
+        "source": "rmrb · 1950 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1337,
+        "excerpt": "他现在有一个三口人的小家庭，每月可得工资三百三十斤米，过着吃三分之二细粮、三分之一粗粮的生活。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_05.txt",
+        "recordId": "3544000000731",
+        "source": "rmrb · 1950 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1313,
+        "excerpt": "过去男女在婚姻关系及一般家庭关系中，就在法律上也没有得到平等的权利；",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_04.txt",
+        "recordId": "3543000009509",
+        "source": "rmrb · 1950 · 04",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "亲密",
+    "storyId": "self-and-feeling-11",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "self-and-feeling-11-prehistory",
+      "name": "亲近紧密与关系程度",
+      "shortName": "亲近紧密",
+      "description": "核对“亲密”作为“亲近紧密与关系程度”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "亲密 (亲近|亲密无间|关系亲密|亲密朋友) time:1920s",
+    "totalResults": 3,
+    "candidates": [
+      {
+        "score": 0.0445,
+        "excerpt": "人民之于鬼物，惟独与他最为稔熟，也最为亲密，平时也常常可以遇见他。",
+        "year": 1926,
+        "path": "1920s/1926/文学/1926 鲁迅 无常.txt",
+        "recordId": "920000000000",
+        "source": "鲁迅 无常",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0375,
+        "excerpt": "他们各以其族类接近疏远，互相作着亲密或敷衍的招呼。",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 沈从文 阿丽思中国游记.txt",
+        "recordId": "1169000000008",
+        "source": "沈从文 阿丽思中国游记",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0306,
+        "excerpt": "见别人因应付环境，对意见不相同的对手，特别装一副脸嘴谈笑，对方也装着注意，了解，同情，亲密，热心……以图达到诓骗目的。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 沈从文 一天.txt",
+        "recordId": "654000000000",
+        "source": "沈从文 一天",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "性",
+    "storyId": "self-and-feeling-12",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "self-and-feeling-12-prehistory",
+      "name": "性情、本性与生物性别前史",
+      "shortName": "性情、本性",
+      "description": "核对“性”作为“性情、本性与生物性别前史”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "性 (性情|本性|天性|性格) time:1920s",
+    "totalResults": 903,
+    "candidates": [
+      {
+        "score": 0.1986,
+        "excerpt": "…除家庭自給的經濟生活之外便休想向勞動市場插足一步且如野雁久居半亦漸失其長征天末的雄心女子久處男子中心的家庭習與性成也漸斬養成因循怯懦盲從卑屈陰險諂媚等第二天性思想沉滯不思振作男子不知道此等性格都是他們長期奴隸的境遇所養成的而認爲女子的先天性本來如此不獨不設法子要他們覺悟進而排除這種…",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 少年世界_第1卷第8期.txt",
+        "recordId": "283000000278",
+        "source": "Author 少年世界 · 第1卷第8期",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1624,
+        "excerpt": "因爲人的本性是向上的，好比水的本性向下一樣。",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 北京大學學生周刊_第15號.txt",
+        "recordId": "263000000031",
+        "source": "Author 北京大學學生周刊 · 第15號",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1608,
+        "excerpt": "並且他的論調都是依據生物的本性實地考察得來的。",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 北京大學學生周刊_第17號.txt",
+        "recordId": "265000000049",
+        "source": "Author 北京大學學生周刊 · 第17號",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "性别",
+    "storyId": "self-and-feeling-13",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "self-and-feeling-13-prehistory",
+      "name": "男女分类与词形建立",
+      "shortName": "男女分类",
+      "description": "核对“性别”作为“男女分类与词形建立”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "性别 (男女|区别|分类|男女有别) time:1920s",
+    "totalResults": 1,
+    "candidates": [
+      {
+        "score": 0.1272,
+        "excerpt": "我们对于一个作家或小说戏剧上的人名，总常想知道他或她的性别（想知道性别，并非主张男女不平等）。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 潜源_孙伏园 《咬文嚼字》是“滥调”.txt",
+        "recordId": "666000000000",
+        "source": "潜源 · 孙伏园 《咬文嚼字》是“滥调”",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "性别",
+    "storyId": "self-and-feeling-13",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-13-turn",
+      "name": "现代 sex/gender 概念的分化",
+      "shortName": "现代 sex/g",
+      "description": "追踪“性别”如何在制度、知识或媒介中稳定为“现代 sex/gender 概念的分化”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "性别 (社会性别|性别角色|性别平等|男女平等) time:1990s",
+    "totalResults": 111,
+    "candidates": [
+      {
+        "score": 0.1458,
+        "excerpt": "另一种是意识上的模仿，它使儿童的性别角色过早分化，很小就意识到男女的差别，按媒介中的某种角色来塑造自己，影响儿童个性的正常发展。",
+        "year": 1994,
+        "path": "1990s/1994/报刊/光明日报/1994_06.txt",
+        "recordId": "8133000004044",
+        "source": "1994 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1342,
+        "excerpt": "如毛里求斯正在制订一个新的性别管理体制，以进一步体现男女平等；",
+        "year": 1995,
+        "path": "1990s/1995/报刊/人民日报/rmrb_1995_09.txt",
+        "recordId": "8294000011872",
+        "source": "rmrb · 1995 · 09",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1259,
+        "excerpt": "这种性别角色的转换是一种社会进步还是文化的畸变？",
+        "year": 1995,
+        "path": "1990s/1995/报刊/人民日报/rmrb_1995_04.txt",
+        "recordId": "8289000015369",
+        "source": "rmrb · 1995 · 04",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "时尚",
+    "storyId": "self-and-feeling-15",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "self-and-feeling-15-prehistory",
+      "name": "时世推崇与风尚",
+      "shortName": "时世推崇",
+      "description": "核对“时尚”作为“时世推崇与风尚”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "时尚 (风尚|时髦|流行|时世) time:1920s",
+    "totalResults": 1,
+    "candidates": [
+      {
+        "score": 0.0332,
+        "excerpt": "新文学的作品，又有几篇是真建设，真向上，真有自己的哲学，不追逐时尚，拾人牙慧的？",
+        "year": 1923,
+        "path": "1920s/1923/文学/1923 冰心 论文学复古.txt",
+        "recordId": "507000000000",
+        "source": "冰心 论文学复古",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "青春",
+    "storyId": "self-and-feeling-16",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "self-and-feeling-16-prehistory",
+      "name": "青年岁月与生命盛期",
+      "shortName": "青年岁月",
+      "description": "核对“青春”作为“青年岁月与生命盛期”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "青春 (青春年华|青春时期|青年岁月|年少) time:1920s",
+    "totalResults": 5,
+    "candidates": [
+      {
+        "score": 0.1167,
+        "excerpt": "”田畹道：“我老了，没中用了，辜负你青春年少。",
+        "year": 1921,
+        "path": "1920s/1921/文学/小说笔记/1921 陆士谔 清朝秘史.txt",
+        "recordId": "397000000641",
+        "source": "陆士谔 清朝秘史",
+        "hintHits": 1
+      },
+      {
+        "score": 0.114,
+        "excerpt": "我劝你早一点回去罢，看你年少的容貌或逃镜影中，在你背后的黑影快要闯入你底身里，把你青春一切活泼的风度赶走，把你光艳的躯壳夺去了。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 许地山 无法投递之邮件.txt",
+        "recordId": "680000000013",
+        "source": "许地山 无法投递之邮件",
+        "hintHits": 1
+      },
+      {
+        "score": 0.114,
+        "excerpt": "至于冯君说“复旦已经一落千丈”，“量不到它这样容易衰老颓败”，我根本就看不出过去甚么是复旦的黄金时代，甚么是复旦的青春时期，冯君在复旦的真正历史外，臆造出一个理想时代，未免有点带主观，质之冯君以为何如？",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 潘楚基 备考：我也来谈谈复旦大学.txt",
+        "recordId": "1170000000000",
+        "source": "潘楚基 备考：我也来谈谈复旦大学",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "焦虑",
+    "storyId": "self-and-feeling-17",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "self-and-feeling-17-prehistory",
+      "name": "焦急忧虑与情绪状态",
+      "shortName": "焦急忧虑",
+      "description": "核对“焦虑”作为“焦急忧虑与情绪状态”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "焦虑 (焦急|忧虑|焦虑不安|发愁) time:1920s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "焦虑",
+    "storyId": "self-and-feeling-17",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-17-turn",
+      "name": "现代心理医学中的 anxiety",
+      "shortName": "现代心理医学中的",
+      "description": "追踪“焦虑”如何在制度、知识或媒介中稳定为“现代心理医学中的 anxiety”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "焦虑 (焦虑症|心理焦虑|焦虑障碍|临床) time:1990s",
+    "totalResults": 76,
+    "candidates": [
+      {
+        "score": 0.1934,
+        "excerpt": "经北京人民医院、中国中医研究院针灸研究所等单位的一千多例患者临床应用，治疗神经衰弱、抑郁症、焦虑症，情感型精神病、各类疼痛症、运动功能障碍、中风偏瘫等疾病均有显著疗效。",
+        "year": 1994,
+        "path": "1990s/1994/报刊/光明日报/1994_07.txt",
+        "recordId": "8134000004507",
+        "source": "1994 · 07",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1492,
+        "excerpt": "心理医生说，这是焦虑过度急性发作。",
+        "year": 1996,
+        "path": "1990s/1996/报刊/光明日报/1996_06.txt",
+        "recordId": "10848000002112",
+        "source": "1996 · 06",
+        "hintHits": 0
+      },
+      {
+        "score": 0.1419,
+        "excerpt": "两难的冲突，造成难以摆脱的心理焦虑和岁月蹉跎。",
+        "year": 1990,
+        "path": "1990s/1990/报刊/读书/vol-137.txt",
+        "recordId": "5679000000068",
+        "source": "vol-137",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "压力",
+    "storyId": "self-and-feeling-18",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "self-and-feeling-18-prehistory",
+      "name": "压迫之力与物理量",
+      "shortName": "压迫之力",
+      "description": "核对“压力”作为“压迫之力与物理量”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "压力 (压迫之力|物理压力|压力大小|受压) time:1920s",
+    "totalResults": 1,
+    "candidates": [
+      {
+        "score": 0.105,
+        "excerpt": "从前欧洲人民，积受压力，又有爱国思想，所以出于暴动以求权利。",
+        "year": 1921,
+        "path": "1920s/1921/文学/小说笔记/1921 陆士谔 清朝秘史.txt",
+        "recordId": "397000009811",
+        "source": "陆士谔 清朝秘史",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "压力",
+    "storyId": "self-and-feeling-18",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-18-turn",
+      "name": "生理心理与社会 stress 概念",
+      "shortName": "生理心理",
+      "description": "追踪“压力”如何在制度、知识或媒介中稳定为“生理心理与社会 stress 概念”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "压力 (心理压力|精神压力|工作压力|压力反应) time:1990s",
+    "totalResults": 948,
+    "candidates": [
+      {
+        "score": 0.1528,
+        "excerpt": "社会环境对群众造成一种心理压力，不敢管，也怕打击报复。",
+        "year": 1991,
+        "path": "1990s/1991/报刊/人民日报/rmrb_1991_02.txt",
+        "recordId": "5768000018317",
+        "source": "rmrb · 1991 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1466,
+        "excerpt": "在这些动机中，能够着眼于国家事业为当好接班人而学习的动机是高级的，它的作用也是持久的、稳定的，能够激励学生取得好的学习效果社会期待在我国目前情况下也是许多学生学习的动机，合理的能为学生所接受的期待可以促进学习，但如果这种期待是学生无法实现的，往往会造成心理压力，以致影响儿童的学习和身心健康。",
+        "year": 1990,
+        "path": "1990s/1990/翻译作品/应用文/1990 方富熹_方格 儿童心理.txt",
+        "recordId": "5757000001293",
+        "source": "方富熹 · 方格 儿童心理",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1455,
+        "excerpt": "浙江省肿瘤医院减轻患者心理压力",
+        "year": 1991,
+        "path": "1990s/1991/报刊/人民日报/rmrb_1991_10.txt",
+        "recordId": "5776000014158",
+        "source": "rmrb · 1991 · 10",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "幸福",
+    "storyId": "self-and-feeling-19",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "self-and-feeling-19-prehistory",
+      "name": "福祚、幸运与美好境遇",
+      "shortName": "福祚、幸运",
+      "description": "核对“幸福”作为“福祚、幸运与美好境遇”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 2
+    },
+    "query": "幸福 (福气|幸运|安乐|美满) time:1920s",
+    "totalResults": 20,
+    "candidates": [
+      {
+        "score": 0.114,
+        "excerpt": "至于年少人幻想中的美满幸福，我敢说等得当真有了红袖添香，你的书也就读不出所以然来，且不说什么在学问上或艺术上更认真的工作。",
+        "year": 1926,
+        "path": "1920s/1926/文学/1926 徐志摩 自剖.txt",
+        "recordId": "882000000014",
+        "source": "徐志摩 自剖",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1108,
+        "excerpt": "除了狂歌痛哭之余，做一点梦，说几句呓语来安置自己空虚渺茫的心外，实在也找不出人类夸大幸福美满的梦来了！",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 沈从文 致唯刚先生.txt",
+        "recordId": "664000000000",
+        "source": "沈从文 致唯刚先生",
+        "hintHits": 1
+      },
+      {
+        "score": 0.0432,
+        "excerpt": "……我们的幸福是何等难以言语形容的幸福。",
+        "year": 1928,
+        "path": "1920s/1928/翻译作品/文学/1928 魏兰 欧洲200年名人情书.txt",
+        "recordId": "1223000000244",
+        "source": "魏兰 欧洲200年名人情书",
+        "hintHits": 0
+      }
+    ]
+  }
+]

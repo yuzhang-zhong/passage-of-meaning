@@ -1,0 +1,1365 @@
+[
+  {
+    "word": "关注",
+    "storyId": "platform-culture-02",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "platform-culture-02-turn",
+      "name": "媒介受众对议题的注意",
+      "shortName": "媒介受众对议题的",
+      "description": "追踪“关注”如何在制度、知识或媒介中稳定为“媒介受众对议题的注意”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(媒体关注|社会关注|公众关注) time:1990s",
+    "totalResults": 801,
+    "candidates": [
+      {
+        "score": 0.1387,
+        "excerpt": "战乱威胁着欧洲乃至世界的和平与稳定，成为国际社会关注的中心。",
+        "year": 1992,
+        "path": "1990s/1992/报刊/人民日报/rmrb_1992_08.txt",
+        "recordId": "5973000022680",
+        "source": "rmrb · 1992 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1375,
+        "excerpt": "今后俄乌关系如何发展，将继续受到国际社会关注。",
+        "year": 1992,
+        "path": "1990s/1992/报刊/人民日报/rmrb_1992_06.txt",
+        "recordId": "5971000020825",
+        "source": "rmrb · 1992 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1358,
+        "excerpt": "越来越多的国家正在意识到这个问题的战略意义，这次会议受到国际社会关注就是一个证明。",
+        "year": 1990,
+        "path": "1990s/1990/报刊/人民日报/rmrb_1990_09.txt",
+        "recordId": "5663000014461",
+        "source": "rmrb · 1990 · 09",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "关注",
+    "storyId": "platform-culture-02",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "platform-culture-02-contemporary",
+      "name": "平台关注按钮、关系链与指标",
+      "shortName": "平台关注按钮、关",
+      "description": "检查当代“平台关注按钮、关系链与指标”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "(关注按钮|关注数|关注用户) time:2010s",
+    "totalResults": 926,
+    "candidates": [
+      {
+        "score": 0.1517,
+        "excerpt": "其次是MM商场非常关注用户的使用安全，建立了严密的应用测试审核流程，确保MM平台上的应用安全无毒；",
+        "year": 2012,
+        "path": "2010s/2012/报刊/光明日报/2012_08.txt",
+        "recordId": "15279000020165",
+        "source": "2012 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1186,
+        "excerpt": "进入4G时代，不同媒体需要突破各自发展的限制，需要强化互联网思维（强调平等、开放、协作、分享、共赢，高度关注用户体验，致力打造精致产品与服务），发挥新兴媒体的聚合力，融合新兴媒体技术优势和传播特点，满足用户多样化、个性化需求，在舆论新格局中抢占信息传播制高点。",
+        "year": 2014,
+        "path": "2010s/2014/报刊/光明日报/2014_08.txt",
+        "recordId": "15334000019671",
+        "source": "2014 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1169,
+        "excerpt": "究其原因，除了体制机制问题，一个最基本的问题是，绝大多数高职院校仍然关注数量极其有限的地级区域，很少直接关注数量更多的县级区域。",
+        "year": 2012,
+        "path": "2010s/2012/报刊/光明日报/2012_07.txt",
+        "recordId": "15278000023358",
+        "source": "2012 · 07",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "点赞",
+    "storyId": "platform-culture-03",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "platform-culture-03-prehistory",
+      "name": "点按与称赞的组合词形",
+      "shortName": "点按",
+      "description": "核对“点赞”作为“点按与称赞的组合词形”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "点赞 time:2000s",
+    "totalResults": 19,
+    "candidates": [
+      {
+        "score": 0.0376,
+        "excerpt": "如果真是这样,笔者倒有点赞同北大的做法,因为连长城故宫这样的旅游景点,为了保证正常的游览秩序,在旅游旺季还要限制每天的游客人数。",
+        "year": 2006,
+        "path": "2000s/2006/报刊/光明日报/2006_07.txt",
+        "recordId": "14219000017426",
+        "source": "2006 · 07",
+        "hintHits": 0
+      },
+      {
+        "score": 0.034,
+        "excerpt": "精武会的经费来源于3000多个会员的会费、十多个教练开馆设班的提成及一点赞助,这些经费勉强可以维持精武会的运作。",
+        "year": 2004,
+        "path": "2000s/2004/报刊/新华社/新华社2004年11月份新闻报道.txt",
+        "recordId": "13773000020103",
+        "source": "新华社2004年11月份新闻报道",
+        "hintHits": 0
+      },
+      {
+        "score": 0.034,
+        "excerpt": "他们到某一个地方、单位特别是比较“肥”的企业先“踩点”，想办法抓点“把柄”，再去“采访”：问题我都掌握了，要么捅出去曝光，公开报道或发“内参”，要么给意思意思，或做点广告，或给点赞助，或者把钱直接给本记者，我去为你们花钱消灾。",
+        "year": 2005,
+        "path": "2000s/2005/报刊/人民日报/rmrb_2005_03.txt",
+        "recordId": "14011000017237",
+        "source": "rmrb · 2005 · 03",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "点赞",
+    "storyId": "platform-culture-03",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "platform-culture-03-turn",
+      "name": "社交平台的赞同按钮动作",
+      "shortName": "社交平台的赞同按",
+      "description": "追踪“点赞”如何在制度、知识或媒介中稳定为“社交平台的赞同按钮动作”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(网络点赞|点赞按钮|点击点赞) time:2010s",
+    "totalResults": 37,
+    "candidates": [
+      {
+        "score": 0.1908,
+        "excerpt": "传递多彩贵州声音”活动官网，点击点赞按钮进行投票。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/微信公众号/Wechat_073.txt",
+        "recordId": "15634000010352",
+        "source": "Wechat · 073",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1234,
+        "excerpt": "新浪微博设置微话题和点赞按钮，网络名人、明星、专家学者积极转发五大发展理念的解读文章，网民积极参与。",
+        "year": 2016,
+        "path": "2010s/2016/报刊/光明日报/2016_03.txt",
+        "recordId": "15379000009515",
+        "source": "2016 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1178,
+        "excerpt": "“焦裕禄式好民警”、海南省东方市公安局天安乡派出所原所长吴春忠的妻子陈玉新，“京城最帅交警”、北京市公安局交通管理局民警孟昆玉的妻子刘小雨，“联合国和平勋章”获得者、广东省广州市公安局民警潘海察的妻子吴汉杰等120位警嫂的先进事迹，感动了广大网友，网络点赞、祝福达2亿余次。",
+        "year": 2015,
+        "path": "2010s/2015/报刊/人民日报/rmrb_2015_10.txt",
+        "recordId": "15349000029457",
+        "source": "rmrb · 2015 · 10",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "转发",
+    "storyId": "platform-culture-04",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "platform-culture-04-turn",
+      "name": "数字媒介的内容再分发动作",
+      "shortName": "数字媒介的内容再",
+      "description": "追踪“转发”如何在制度、知识或媒介中稳定为“数字媒介的内容再分发动作”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(网络转发|微博转发|转发内容) time:2000s",
+    "totalResults": 2,
+    "candidates": [
+      {
+        "score": 0.1282,
+        "excerpt": "为了以先进的思想文化占领这一新兴传播载体，推动大众创作和转发内容健康的优秀短信，2006年12月11日，中国移动通信集团公司面向全体用户，征集以讲文明、树新风、促和谐为主题的手机短信。",
+        "year": 2007,
+        "path": "2000s/2007/报刊/人民日报/rmrb_2007_05.txt",
+        "recordId": "14277000009837",
+        "source": "rmrb · 2007 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1266,
+        "excerpt": "为了以先进的思想文化占领新兴传播载体，推动大众创作和转发内容健康的优秀短信，2006年12月至2007年3月，中央文明办与信息产业部指导中国移动通信集团公司开展了“倡导文明、传递爱心”公益短信大赛。",
+        "year": 2007,
+        "path": "2000s/2007/报刊/光明日报/2007_05.txt",
+        "recordId": "14289000015177",
+        "source": "2007 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.0322,
+        "excerpt": "活动开展五个月来，得到了大众的积极响应，代表着参与者爱心的种子短信平台转发次数超过3600万次，影响人群超过",
+        "year": 2007,
+        "path": "2000s/2007/报刊/光明日报/2007_05.txt",
+        "recordId": "14289000015177",
+        "source": "2007 · 05",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "转发",
+    "storyId": "platform-culture-04",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "platform-culture-04-contemporary",
+      "name": "扩散链路、态度表达与责任边界",
+      "shortName": "扩散链路、态度表",
+      "description": "检查当代“扩散链路、态度表达与责任边界”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "(转发责任|转发链|转发态度) time:2010s",
+    "totalResults": 179,
+    "candidates": [
+      {
+        "score": 0.1129,
+        "excerpt": "转发链接参与进店就送！",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/微信公众号/Wechat_030.txt",
+        "recordId": "15591000001167",
+        "source": "Wechat · 030",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1107,
+        "excerpt": "“你只能看到你朋友的信息，而看不到之前‘朋友圈’转发链条每一个环节上的评论。",
+        "year": 2014,
+        "path": "2010s/2014/报刊/人民日报/rmrb_2014_11.txt",
+        "recordId": "15325000003021",
+        "source": "rmrb · 2014 · 11",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1021,
+        "excerpt": "@江宁公安在线 发微博提醒各位网友谨慎转发链家：帮助孩子与警方联系重庆网警的质疑文章发布后，立即在网上引发热议，大家有的表示营销应当有底线，有的也表示企业担当了一些社会责任，失联儿童守护站可以进行尝试。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/微信公众号/Wechat_010.txt",
+        "recordId": "15571000003007",
+        "source": "Wechat · 010",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "分享",
+    "storyId": "platform-culture-05",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "platform-culture-05-turn",
+      "name": "网络内容与资源的发送动作",
+      "shortName": "网络内容",
+      "description": "追踪“分享”如何在制度、知识或媒介中稳定为“网络内容与资源的发送动作”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(网络分享|分享链接|分享内容) time:2000s",
+    "totalResults": 4,
+    "candidates": [
+      {
+        "score": 0.1364,
+        "excerpt": "对此，业内人士认为，传统视频网站要降低成本，转型P2P和高清是必然，但因为历史包袱沉重，视频网站应该短期内不会完全放弃视频分享模式，而可能会采取某种混合的模式，高清影视内容用于做营收，视频分享内容用于做流量。",
+        "year": 2008,
+        "path": "2000s/2008/报刊/光明日报/2008_10.txt",
+        "recordId": "14471000015318",
+        "source": "2008 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1342,
+        "excerpt": "类似优酷这样的网站是依靠视频分享内容起家的，因此极易引起纠纷；",
+        "year": 2008,
+        "path": "2000s/2008/报刊/光明日报/2008_10.txt",
+        "recordId": "14471000015315",
+        "source": "2008 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1282,
+        "excerpt": "据亚太经社会提供的有关资料,印尼的“网上小学和中学职业教育”信息系统,通过网络分享培训教材并为农村教师和学生进行信息技术培训,吸引了印尼各岛屿的300家机构参加;",
+        "year": 2001,
+        "path": "2000s/2001/报刊/新华社/新华社2001年12月份新闻报道.txt",
+        "recordId": "13244000013674",
+        "source": "新华社2001年12月份新闻报道",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "分享",
+    "storyId": "platform-culture-05",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "platform-culture-05-contemporary",
+      "name": "分享经济、生活展示与数据权限",
+      "shortName": "分享经济、生活展",
+      "description": "检查当代“分享经济、生活展示与数据权限”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "(分享经济|生活分享|分享权限) time:2010s",
+    "totalResults": 1943,
+    "candidates": [
+      {
+        "score": 0.505,
+        "excerpt": "《利益分享经济学》",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_08.txt",
+        "recordId": "15076000018203",
+        "source": "rmrb · 2010 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2287,
+        "excerpt": "要切实维护劳动者就业权，分享经济社会发展成果；",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000000800",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2287,
+        "excerpt": "二、切实维护劳动者就业权，分享经济社会发展成果。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000014839",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "订阅",
+    "storyId": "platform-culture-06",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "platform-culture-06-turn",
+      "name": "报刊与媒介的持续接收关系",
+      "shortName": "报刊",
+      "description": "追踪“订阅”如何在制度、知识或媒介中稳定为“报刊与媒介的持续接收关系”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(报刊订阅|杂志订阅|订阅读者) time:1950s",
+    "totalResults": 8,
+    "candidates": [
+      {
+        "score": 0.1518,
+        "excerpt": "（四）报刊订阅单：是由订户填写订阅报刊时用的，我局每月需四五○张。",
+        "year": 1952,
+        "path": "1950s/1952/报刊/人民日报/rmrb_1952_04.txt",
+        "recordId": "3617000001478",
+        "source": "rmrb · 1952 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1459,
+        "excerpt": "中央人民政府邮电部改进报刊订阅办法",
+        "year": 1954,
+        "path": "1950s/1954/报刊/人民日报/rmrb_1954_06.txt",
+        "recordId": "3658000012120",
+        "source": "rmrb · 1954 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.138,
+        "excerpt": "比如畅邮同志所指出的订户分卡、投递卡、报刊订阅单就是如此。",
+        "year": 1952,
+        "path": "1950s/1952/报刊/人民日报/rmrb_1952_04.txt",
+        "recordId": "3617000001482",
+        "source": "rmrb · 1952 · 04",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "订阅",
+    "storyId": "platform-culture-06",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "platform-culture-06-contemporary",
+      "name": "平台订阅按钮、付费会员与订阅经济",
+      "shortName": "平台订阅按钮、付",
+      "description": "检查当代“平台订阅按钮、付费会员与订阅经济”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "(付费订阅|订阅按钮|订阅经济) time:2010s",
+    "totalResults": 79,
+    "candidates": [
+      {
+        "score": 0.1818,
+        "excerpt": "被“叫停”的付费订阅服务",
+        "year": 2016,
+        "path": "2010s/2016/报刊/光明日报/2016_11.txt",
+        "recordId": "15387000017040",
+        "source": "2016 · 11",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1677,
+        "excerpt": "这些需要付费订阅。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/中文维基/Wiki_069.txt",
+        "recordId": "15540000018148",
+        "source": "Wiki · 069",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1608,
+        "excerpt": "目前，用户一般以付费订阅或单题付费的方式为知识买单。",
+        "year": 2018,
+        "path": "2010s/2018/报刊/人民日报/rmrb_2018_01.txt",
+        "recordId": "15415000041671",
+        "source": "rmrb · 2018 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "热搜",
+    "storyId": "platform-culture-07",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "platform-culture-07-prehistory",
+      "name": "热门搜索与查询排名的组合",
+      "shortName": "热门搜索",
+      "description": "核对“热搜”作为“热门搜索与查询排名的组合”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "热搜 time:2000s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "热搜",
+    "storyId": "platform-culture-07",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "platform-culture-07-turn",
+      "name": "平台实时搜索榜单",
+      "shortName": "平台实时搜索榜单",
+      "description": "追踪“热搜”如何在制度、知识或媒介中稳定为“平台实时搜索榜单”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(热搜榜|微博热搜|热搜排名) time:2010s",
+    "totalResults": 475,
+    "candidates": [
+      {
+        "score": 0.253,
+        "excerpt": "24日上午，微博热搜榜上出现两个短视频相关的词汇，“中国农民老洋气了”一词每小时搜索量达11万次，“未来在家就能看医生”一词每小时搜索量达6万多次。",
+        "year": 2017,
+        "path": "2010s/2017/报刊/光明日报/2017_09.txt",
+        "recordId": "15409000019314",
+        "source": "2017 · 09",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1979,
+        "excerpt": "有网友在微博上为诗句征集下文，引发网民创作热潮，相关话题更是登上了微博热搜榜。",
+        "year": 2016,
+        "path": "2010s/2016/报刊/光明日报/2016_03.txt",
+        "recordId": "15379000006427",
+        "source": "2016 · 03",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1976,
+        "excerpt": "在2月18日第一期节目播出后，该节目在豆瓣上的评分就已经高达9.0分，在新浪微博热门话题榜上连续两小时排名第一，张梓琳、许渊冲等嘉宾的名字纷纷登上微博热搜，许渊冲先生多部作品也登上当当图书板块热搜榜……《朗读者》收获了观众“零差评”的好口碑，被追捧为“综艺节目的一股清流”。",
+        "year": 2017,
+        "path": "2010s/2017/报刊/光明日报/2017_03.txt",
+        "recordId": "15403000017449",
+        "source": "2017 · 03",
+        "hintHits": 2
+      }
+    ]
+  },
+  {
+    "word": "话题",
+    "storyId": "platform-culture-08",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "platform-culture-08-turn",
+      "name": "大众媒介组织的公共议题",
+      "shortName": "大众媒介组织的公",
+      "description": "追踪“话题”如何在制度、知识或媒介中稳定为“大众媒介组织的公共议题”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(新闻话题|公共话题|媒体话题) time:1990s",
+    "totalResults": 6,
+    "candidates": [
+      {
+        "score": 0.1554,
+        "excerpt": "至此，北京对居民养犬的法规就算正式出台了，一个群众关心的公共话题也因而打上了完美的句号。",
+        "year": 1994,
+        "path": "1990s/1994/报刊/报刊精选/1994年《报刊精选》12.txt",
+        "recordId": "8158000093535",
+        "source": "1994年《报刊精选》12",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1214,
+        "excerpt": "从电脑在中文传媒中的应用与发展，到中文信息高速公路的未来，一直是大家在积极、热烈、融洽的气氛中讨论的新闻话题。",
+        "year": 1999,
+        "path": "1990s/1999/报刊/人民日报/rmrb_1999_09.txt",
+        "recordId": "12939000002259",
+        "source": "rmrb · 1999 · 09",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1208,
+        "excerpt": "李向阳：关于几家成为新闻话题的银行，从根本上来说，涉及的是金融投机和金融体制的脆弱性问题。",
+        "year": 1996,
+        "path": "1990s/1996/报刊/光明日报/1996_01.txt",
+        "recordId": "10843000001418",
+        "source": "1996 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "话题",
+    "storyId": "platform-culture-08",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "platform-culture-08-contemporary",
+      "name": "平台 hashtag 聚合、热度与参与入口",
+      "shortName": "平台 hasht",
+      "description": "检查当代“平台 hashtag 聚合、热度与参与入口”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "(话题标签|热门话题|话题热度) time:2010s",
+    "totalResults": 3102,
+    "candidates": [
+      {
+        "score": 0.1269,
+        "excerpt": "青年的责任担当，也成为现场一个热门话题。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_08.txt",
+        "recordId": "15076000007914",
+        "source": "rmrb · 2010 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1252,
+        "excerpt": "中国，成为本届年会的热门话题之一。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000034796",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1225,
+        "excerpt": "选举法修正案草案的讨论成为各代表团的热门话题。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000026347",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "标签",
+    "storyId": "platform-culture-09",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "platform-culture-09-turn",
+      "name": "信息系统的 metadata 与检索分类",
+      "shortName": "信息系统的 me",
+      "description": "追踪“标签”如何在制度、知识或媒介中稳定为“信息系统的 metadata 与检索分类”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(信息标签|网页标签|数据标签) time:2000s",
+    "totalResults": 9,
+    "candidates": [
+      {
+        "score": 0.1321,
+        "excerpt": "国家发改委有关负责人27日介绍说,能源效率标识是附在产品或产品最小包装上的一种信息标签,用于表示用能产品的能源效率等级等性能指标,为用户和消费者的购买决策提供必要的信息,以引导用户和消费者选择高效节能产品。",
+        "year": 2004,
+        "path": "2000s/2004/报刊/新华社/新华社2004年8月份新闻报道.txt",
+        "recordId": "13782000054294",
+        "source": "新华社2004年8月份新闻报道",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1295,
+        "excerpt": "能源效率标识是附在产品或产品最小包装上的一种信息标签，用于表示用能产品的能源效率等级等性能指标，为用户和消费者的购买决策提供必要的信息，以引导用户和消费者选",
+        "year": 2004,
+        "path": "2000s/2004/报刊/光明日报/2004_09.txt",
+        "recordId": "13767000001354",
+        "source": "2004 · 09",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1295,
+        "excerpt": "能源效率标识是附在产品或产品最小包装上的一种信息标签，用于表示用能产品的能源效率等级等性能指标，为用户和消费者的购买决策提供必要的信息，以引导用户和消费者选择高效节能产品。",
+        "year": 2004,
+        "path": "2000s/2004/报刊/人民日报/rmrb_2004_08.txt",
+        "recordId": "13754000030162",
+        "source": "rmrb · 2004 · 08",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "标签",
+    "storyId": "platform-culture-09",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "platform-culture-09-contemporary",
+      "name": "人群标签、算法画像与刻板化",
+      "shortName": "人群标签、算法画",
+      "description": "检查当代“人群标签、算法画像与刻板化”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "(用户标签|人群标签|算法标签) time:2010s",
+    "totalResults": 29,
+    "candidates": [
+      {
+        "score": 0.1603,
+        "excerpt": "无论是商品还是场所都会迎合这种需求，给予人群标签的心理暗示。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/微信公众号/Wechat_098.txt",
+        "recordId": "15659000010198",
+        "source": "Wechat · 098",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1603,
+        "excerpt": "无论是商品还是场所都会迎合这种需求，给予人群标签的心理暗示。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/微信公众号/Wechat_152.txt",
+        "recordId": "15713000003375",
+        "source": "Wechat · 152",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1573,
+        "excerpt": "其次，算法决定让什么样的人群看到什么样的内容——算法推荐分发系统，会按照用户标签、兴趣点、位置、相似用户喜爱偏好、在线时间、使用机型等行为细节来设置算法匹配，实现“不是用户决定自己想看什么，而是平台决定用户能看到什么”。",
+        "year": 2018,
+        "path": "2010s/2018/报刊/人民日报/rmrb_2018_07.txt",
+        "recordId": "15421000005099",
+        "source": "rmrb · 2018 · 07",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "围观",
+    "storyId": "platform-culture-10",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "platform-culture-10-turn",
+      "name": "媒介事件中的群体旁观",
+      "shortName": "媒介事件中的群体",
+      "description": "追踪“围观”如何在制度、知识或媒介中稳定为“媒介事件中的群体旁观”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(群众围观|现场围观|围观事件) time:1990s",
+    "totalResults": 22,
+    "candidates": [
+      {
+        "score": 0.1196,
+        "excerpt": "宋代银盒在出土后，被现场围观群众触摸而破损。",
+        "year": 1990,
+        "path": "1990s/199x/应用文/法律文献/199x Author 司法案例.txt",
+        "recordId": "13060000000700",
+        "source": "199x Author 司法案例",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1176,
+        "excerpt": "这从众多的拍摄现场围观的众多的“第一观众”反馈的信息和评价中，我得到了肯定的印证。",
+        "year": 1997,
+        "path": "1990s/1997/报刊/光明日报/1997_03.txt",
+        "recordId": "12730000002101",
+        "source": "1997 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1157,
+        "excerpt": "两伙赌徒在混战中用木凳、砖块乱砸乱砍，部分赌徒被打得手骨骨折、眼球脱出，满脸是血，引来５００余群众围观。",
+        "year": 1994,
+        "path": "1990s/1994/报刊/报刊精选/1994年《报刊精选》10.txt",
+        "recordId": "8156000141871",
+        "source": "1994年《报刊精选》10",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "围观",
+    "storyId": "platform-culture-10",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "platform-culture-10-contemporary",
+      "name": "网络围观、吃瓜参与与道德距离",
+      "shortName": "网络围观、吃瓜参",
+      "description": "检查当代“网络围观、吃瓜参与与道德距离”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "(网络围观|网友围观|围观吃瓜) time:2010s",
+    "totalResults": 233,
+    "candidates": [
+      {
+        "score": 0.366,
+        "excerpt": "网络围观下的舆论生态",
+        "year": 2011,
+        "path": "2010s/2011/报刊/光明日报/2011_08.txt",
+        "recordId": "15246000022267",
+        "source": "2011 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.241,
+        "excerpt": "网络围观，信息疯转，易造成他人权益的损害。",
+        "year": 2012,
+        "path": "2010s/2012/报刊/光明日报/2012_10.txt",
+        "recordId": "15281000006400",
+        "source": "2012 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2355,
+        "excerpt": "网络围观已然是利弊共生的典型社会现象。",
+        "year": 2011,
+        "path": "2010s/2011/报刊/光明日报/2011_08.txt",
+        "recordId": "15246000022268",
+        "source": "2011 · 08",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "社群",
+    "storyId": "platform-culture-11",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "platform-culture-11-prehistory",
+      "name": "社团与群体组合",
+      "shortName": "社团",
+      "description": "核对“社群”作为“社团与群体组合”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "(社会社群|社群组织|社群团体) time:1950s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "社群",
+    "storyId": "platform-culture-11",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "platform-culture-11-turn",
+      "name": "共同兴趣、地域与身份群体",
+      "shortName": "共同兴趣、地域",
+      "description": "追踪“社群”如何在制度、知识或媒介中稳定为“共同兴趣、地域与身份群体”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(兴趣社群|地域社群|身份社群) time:2000s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "博主",
+    "storyId": "platform-culture-12",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "platform-culture-12-prehistory",
+      "name": "博客主人与个人网页作者",
+      "shortName": "博客主人",
+      "description": "核对“博主”作为“博客主人与个人网页作者”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "(博客博主|个人博主|博客主人) time:2000s",
+    "totalResults": 12,
+    "candidates": [
+      {
+        "score": 0.0379,
+        "excerpt": "随着互联网的普及，近年来，上网已成为老年人消磨时间的一种新方式，“全球最老博主”的位置也几度易主。",
+        "year": 2009,
+        "path": "2000s/2009/报刊/光明日报/2009_05.txt",
+        "recordId": "14720000009018",
+        "source": "2009 · 05",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "博主",
+    "storyId": "platform-culture-12",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "platform-culture-12-turn",
+      "name": "社交媒体的账号创作者",
+      "shortName": "社交媒体的账号创",
+      "description": "追踪“博主”如何在制度、知识或媒介中稳定为“社交媒体的账号创作者”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(微博博主|社交媒体博主|视频博主) time:2010s",
+    "totalResults": 128,
+    "candidates": [
+      {
+        "score": 0.1492,
+        "excerpt": "荷广传媒重视为年轻人建立数字平台，与很多国家传统媒体的年轻博主、视频博主、当地记者团队建立了合作。",
+        "year": 2018,
+        "path": "2010s/2018/报刊/人民日报/rmrb_2018_10.txt",
+        "recordId": "15424000035302",
+        "source": "rmrb · 2018 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1315,
+        "excerpt": "很多知名视频博主为创作付出了高昂的成本，有人花重金学英式用餐礼仪，有人辞职去印度体验异域风情，很难说清到底是Vlog在记录原本的生活，还是Vlog改变了原本的生活。",
+        "year": 2019,
+        "path": "2010s/2019/报刊/人民日报/rmrb_2019_06.txt",
+        "recordId": "15445000016778",
+        "source": "rmrb · 2019 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1265,
+        "excerpt": "随着越来越多的新闻事件在热炒之后遭遇舆情反转，人们在大呼上当之余，自然而然地就把那些转发或转载新闻时，故意拟制耸动标题以吸引眼球的媒体记者、网站编辑、微博博主等，归入“标题党”之列。",
+        "year": 2014,
+        "path": "2010s/2014/报刊/人民日报/rmrb_2014_09.txt",
+        "recordId": "15323000024665",
+        "source": "rmrb · 2014 · 09",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "账号",
+    "storyId": "platform-culture-13",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "platform-culture-13-prehistory",
+      "name": "账目编号与登记标识",
+      "shortName": "账目编号",
+      "description": "核对“账号”作为“账目编号与登记标识”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "(银行账号|账目账号|登记账号) time:1990s",
+    "totalResults": 24,
+    "candidates": [
+      {
+        "score": 0.1261,
+        "excerpt": "民办非企业单位应当将印章式样、银行账号报登记管理机关备案。",
+        "year": 1998,
+        "path": "1990s/1998/报刊/人民日报/rmrb_1998_11.txt",
+        "recordId": "12815000006777",
+        "source": "rmrb · 1998 · 11",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1254,
+        "excerpt": "通过银行账号、邮局汇款、现场捐赠三种形式接收的款物，民政部都严格坚持每笔登记、每天汇总，认真检查核实。",
+        "year": 1998,
+        "path": "1990s/1998/报刊/人民日报/rmrb_1998_08.txt",
+        "recordId": "12812000014158",
+        "source": "rmrb · 1998 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1249,
+        "excerpt": "民政部在光大银行和中国银行建立了专门接收国内外捐款的账号，对直接汇入银行账号的捐款，在银行确认后，立即向捐赠者发出感谢信和收据；",
+        "year": 1998,
+        "path": "1990s/1998/报刊/人民日报/rmrb_1998_08.txt",
+        "recordId": "12812000021119",
+        "source": "rmrb · 1998 · 08",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "账号",
+    "storyId": "platform-culture-13",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "platform-culture-13-turn",
+      "name": "计算系统的用户身份与权限",
+      "shortName": "计算系统的用户身",
+      "description": "追踪“账号”如何在制度、知识或媒介中稳定为“计算系统的用户身份与权限”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(用户账号|登录账号|账号权限) time:2000s",
+    "totalResults": 26,
+    "candidates": [
+      {
+        "score": 0.1738,
+        "excerpt": "与互联网联通的用户账号和密码，已经预置在IP智能电话机中了。",
+        "year": 2000,
+        "path": "2000s/2000/报刊/人民日报/rmrb_2000_02.txt",
+        "recordId": "13121000012144",
+        "source": "rmrb · 2000 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1496,
+        "excerpt": "中国网通各省分公司根据集团公司的部署,对本地用户接入模式进行摸底调查,全面落实宽带用户上网60日留存制度,记录宽带用户的上网时间、用户账号、互联网地址等信息并保存60日以上,积极配合公安等部门调查取证。",
+        "year": 2007,
+        "path": "2000s/2007/报刊/光明日报/2007_06.txt",
+        "recordId": "14290000013728",
+        "source": "2007 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1379,
+        "excerpt": "网易网成立了由公司副总裁牵头的领导小组,开展了对“违禁品、六合彩、传播诈骗、淫秽色情、赌博、虚假不实”等有害信息的自查自纠工作,封杀了一批发黄色小广告的用户账号,同时对平时容易出问题的重点互动板块,加派人手,加强审核监控,杜绝各种不良信息在网站上的传播。",
+        "year": 2007,
+        "path": "2000s/2007/报刊/光明日报/2007_04.txt",
+        "recordId": "14288000015220",
+        "source": "2007 · 04",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "内容",
+    "storyId": "platform-culture-14",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "platform-culture-14-turn",
+      "name": "媒介与信息产品的 content",
+      "shortName": "媒介",
+      "description": "追踪“内容”如何在制度、知识或媒介中稳定为“媒介与信息产品的 content”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(媒体内容|信息内容|内容产品) time:1990s",
+    "totalResults": 88,
+    "candidates": [
+      {
+        "score": 0.1927,
+        "excerpt": "·被处理的信息流· 信息内容· 信息结构",
+        "year": 1991,
+        "path": "1990s/1991/应用文/自然科学/1991 郑人杰 实用软件.txt",
+        "recordId": "5766000000231",
+        "source": "郑人杰 实用软件",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1839,
+        "excerpt": "一年来，中经网上的信息产品内容也日益丰富。",
+        "year": 1997,
+        "path": "1990s/1997/报刊/光明日报/1997_12.txt",
+        "recordId": "12739000000578",
+        "source": "1997 · 12",
+        "hintHits": 0
+      },
+      {
+        "score": 0.165,
+        "excerpt": "一些信息专家特别要求加强信息内容的审查管理。",
+        "year": 1996,
+        "path": "1990s/1996/报刊/光明日报/1996_12.txt",
+        "recordId": "10854000004085",
+        "source": "1996 · 12",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "内容",
+    "storyId": "platform-culture-14",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "platform-culture-14-contemporary",
+      "name": "平台内容产业、内容治理与内容化",
+      "shortName": "平台内容产业、内",
+      "description": "检查当代“平台内容产业、内容治理与内容化”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "(内容产业|内容治理|平台内容) time:2010s",
+    "totalResults": 900,
+    "candidates": [
+      {
+        "score": 0.337,
+        "excerpt": "“出版业说到底是内容产业。",
+        "year": 2011,
+        "path": "2010s/2011/报刊/人民日报/rmrb_2011_04.txt",
+        "recordId": "15230000012420",
+        "source": "rmrb · 2011 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.3272,
+        "excerpt": "一是要大力发展内容产业。",
+        "year": 2011,
+        "path": "2010s/2011/报刊/人民日报/rmrb_2011_05.txt",
+        "recordId": "15231000026038",
+        "source": "rmrb · 2011 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2664,
+        "excerpt": "文化产业毕竟是内容产业，首先有文化，然后才有产业。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_09.txt",
+        "recordId": "15077000025991",
+        "source": "rmrb · 2010 · 09",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "弹幕",
+    "storyId": "platform-culture-15",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "platform-culture-15-prehistory",
+      "name": "弹药幕与密集遮蔽的词形前史",
+      "shortName": "弹药幕",
+      "description": "核对“弹幕”作为“弹药幕与密集遮蔽的词形前史”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "弹幕 time:1950s",
+    "totalResults": 2,
+    "candidates": [
+      {
+        "score": 0.0336,
+        "excerpt": "敌人到这时才发觉了我军这支从天而降的神兵，山上山下的敌人发射的枪炮弹织成了一片火红的弹幕。",
+        "year": 1951,
+        "path": "1950s/1951/报刊/人民日报/rmrb_1951_06.txt",
+        "recordId": "3584000002126",
+        "source": "rmrb · 1951 · 06",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0274,
+        "excerpt": "苑南洞和苑西洞的妇女义勇队队员，在炮烟弹幕里做野战饭食并冒着极大危险送到战壕里。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_10.txt",
+        "recordId": "3549000007102",
+        "source": "rmrb · 1950 · 10",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "弹幕",
+    "storyId": "platform-culture-15",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "platform-culture-15-turn",
+      "name": "视频画面上同步滚动评论",
+      "shortName": "视频画面上同步滚",
+      "description": "追踪“弹幕”如何在制度、知识或媒介中稳定为“视频画面上同步滚动评论”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(视频弹幕|弹幕评论|弹幕网站) time:2010s",
+    "totalResults": 84,
+    "candidates": [
+      {
+        "score": 0.2206,
+        "excerpt": "最近，浙江省博物馆在短视频社交软件上新开设了官方账号，还入驻一家知名的视频弹幕网站。",
+        "year": 2018,
+        "path": "2010s/2018/报刊/人民日报/rmrb_2018_05.txt",
+        "recordId": "15419000033897",
+        "source": "rmrb · 2018 · 05",
+        "hintHits": 2
+      },
+      {
+        "score": 0.2156,
+        "excerpt": "而在互联网上，国风音乐视频播放量节节攀升，仅视频弹幕网站哔哩哔哩一个平台，就可实现每年1亿次以上；",
+        "year": 2019,
+        "path": "2010s/2019/报刊/人民日报/rmrb_2019_12.txt",
+        "recordId": "15451000021950",
+        "source": "rmrb · 2019 · 12",
+        "hintHits": 2
+      },
+      {
+        "score": 0.2105,
+        "excerpt": "当90后、00后们在视频弹幕网站上成为国产动漫的“自来水”，当《见字如面》《中国诗词大会》等被誉为电视综艺“清流”，当“国学热”“汉服热”让传统文化既时尚又充满温度，人们看到，绵延千年的中华文化在当代收获了越来越多的年轻受众和传承者。",
+        "year": 2018,
+        "path": "2010s/2018/报刊/人民日报/rmrb_2018_05.txt",
+        "recordId": "15419000010043",
+        "source": "rmrb · 2018 · 05",
+        "hintHits": 2
+      }
+    ]
+  },
+  {
+    "word": "表情",
+    "storyId": "platform-culture-16",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "platform-culture-16-turn",
+      "name": "文字通信中的表情符号",
+      "shortName": "文字通信中的表情",
+      "description": "追踪“表情”如何在制度、知识或媒介中稳定为“文字通信中的表情符号”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(表情符号|聊天表情|文字表情) time:2000s",
+    "totalResults": 12,
+    "candidates": [
+      {
+        "score": 0.2629,
+        "excerpt": "”得到回答后，“宝山”立即传来了一个微笑的表情符号。",
+        "year": 2005,
+        "path": "2000s/2005/报刊/人民日报/rmrb_2005_05.txt",
+        "recordId": "14013000006105",
+        "source": "rmrb · 2005 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2479,
+        "excerpt": "他回了个邮件，内容只有一个表情符号：“）”。",
+        "year": 2007,
+        "path": "2000s/2007/文学/大陆作家/2007 李可 杜拉拉升职记1.txt",
+        "recordId": "14303000000857",
+        "source": "李可 杜拉拉升职记1",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2247,
+        "excerpt": "有的借助一些表情符号来表达内心的喜怒哀乐，如“",
+        "year": 2005,
+        "path": "2000s/2005/报刊/光明日报/2005_06.txt",
+        "recordId": "14026000010905",
+        "source": "2005 · 06",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "表情",
+    "storyId": "platform-culture-16",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "platform-culture-16-contemporary",
+      "name": "表情包、反应按钮与跨文化语气",
+      "shortName": "表情包、反应按钮",
+      "description": "检查当代“表情包、反应按钮与跨文化语气”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 7
+    },
+    "query": "(表情包|表情按钮|表情反应) time:2010s",
+    "totalResults": 1375,
+    "candidates": [
+      {
+        "score": 0.2096,
+        "excerpt": "在使用语境中表情包的使用，其实是既清晰又含混，既通行又个性。",
+        "year": 2016,
+        "path": "2010s/2016/报刊/光明日报/2016_08.txt",
+        "recordId": "15384000013205",
+        "source": "2016 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1947,
+        "excerpt": "还记得微信好友们喜欢使用的兔斯基表情包吗？",
+        "year": 2015,
+        "path": "2010s/2015/报刊/光明日报/2015_04.txt",
+        "recordId": "15355000016250",
+        "source": "2015 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1896,
+        "excerpt": "表情包大战表达“小粉红”爱国情怀",
+        "year": 2016,
+        "path": "2010s/2016/报刊/人民日报/rmrb_2016_08.txt",
+        "recordId": "15372000031813",
+        "source": "rmrb · 2016 · 08",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "头像",
+    "storyId": "platform-culture-17",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "platform-culture-17-prehistory",
+      "name": "人的头部画像或照片",
+      "shortName": "人的头部画像或照",
+      "description": "核对“头像”作为“人的头部画像或照片”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "(人物头像|个人头像|头像照片) time:1950s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "头像",
+    "storyId": "platform-culture-17",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "platform-culture-17-turn",
+      "name": "数字账号的 profile image",
+      "shortName": "数字账号的 pr",
+      "description": "追踪“头像”如何在制度、知识或媒介中稳定为“数字账号的 profile image”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(用户头像|账号头像|网络头像) time:2000s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "朋友圈",
+    "storyId": "platform-culture-18",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "platform-culture-18-prehistory",
+      "name": "朋友交往的社会圈层",
+      "shortName": "朋友交往的社会圈",
+      "description": "核对“朋友圈”作为“朋友交往的社会圈层”的早期词形、搭配与使用者，先确认它与后起用法的边界。",
+      "startIndex": 4
+    },
+    "query": "(朋友交往圈|朋友的圈子|朋友圈子) time:1990s",
+    "totalResults": 18,
+    "candidates": [
+      {
+        "score": 0.1531,
+        "excerpt": "这样我开始把他带进我的朋友圈子，他和我的一些同事都成了朋友。",
+        "year": 1998,
+        "path": "1990s/1998/文学/大陆作家/1998 安顿 绝对隐私.txt",
+        "recordId": "12890000004050",
+        "source": "安顿 绝对隐私",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1516,
+        "excerpt": "在我的朋友圈子里，没有一个年轻人有晨起锻炼的习惯。",
+        "year": 1993,
+        "path": "1990s/1993/报刊/光明日报/1993_06.txt",
+        "recordId": "6833000005046",
+        "source": "1993 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1511,
+        "excerpt": "其实我更喜欢武非的这个朋友圈子，因为这之中的朋友人都比较淳朴真诚。",
+        "year": 1997,
+        "path": "1990s/1997/文学/1997 京不特 常常低着头.txt",
+        "recordId": "12752000000004",
+        "source": "京不特 常常低着头",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "朋友圈",
+    "storyId": "platform-culture-18",
+    "topic": "平台社会的新语义",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "platform-culture-18-turn",
+      "name": "移动社交平台的特定功能名称",
+      "shortName": "移动社交平台的特",
+      "description": "追踪“朋友圈”如何在制度、知识或媒介中稳定为“移动社交平台的特定功能名称”，并找出关键转折文本。",
+      "startIndex": 5
+    },
+    "query": "(微信朋友圈|朋友圈功能|朋友圈发布) time:2010s",
+    "totalResults": 6176,
+    "candidates": [
+      {
+        "score": 0.2056,
+        "excerpt": "韩健的儿子韩雪峰通过微信朋友圈发布了一条帮石芳丽找工作的信息，在韩家的热心帮助下，石芳丽已获得了一份到高尔夫球场做球童的新工作，月薪4000元左右，3月份就能正式入职。",
+        "year": 2014,
+        "path": "2010s/2014/报刊/人民日报/rmrb_2014_02.txt",
+        "recordId": "15316000003552",
+        "source": "rmrb · 2014 · 02",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1856,
+        "excerpt": "警惕微信朋友圈“宰熟”（阅报）",
+        "year": 2013,
+        "path": "2010s/2013/报刊/人民日报/rmrb_2013_11.txt",
+        "recordId": "15300000004424",
+        "source": "rmrb · 2013 · 11",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1788,
+        "excerpt": "最近，“断舍离”在微信朋友圈很火。",
+        "year": 2014,
+        "path": "2010s/2014/报刊/人民日报/rmrb_2014_05.txt",
+        "recordId": "15319000023728",
+        "source": "rmrb · 2014 · 05",
+        "hintHits": 1
+      }
+    ]
+  }
+]

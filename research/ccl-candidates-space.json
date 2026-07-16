@@ -1,0 +1,1172 @@
+[
+  {
+    "word": "城市",
+    "storyId": "space-and-mobility-01",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "space-and-mobility-01-contemporary",
+      "name": "城市品牌、城市数据与智慧城市",
+      "shortName": "城市品牌、城市数",
+      "description": "检查当代“城市品牌、城市数据与智慧城市”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(智慧城市|城市数据|城市品牌) time:2010s",
+    "totalResults": 5676,
+    "candidates": [
+      {
+        "score": 0.505,
+        "excerpt": "什么是智慧城市？",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_08.txt",
+        "recordId": "15076000041397",
+        "source": "rmrb · 2010 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.4383,
+        "excerpt": "促进“智慧城市”建设。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_05.txt",
+        "recordId": "15073000037155",
+        "source": "rmrb · 2010 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.279,
+        "excerpt": "智慧城市智能产业高端会议召开",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_05.txt",
+        "recordId": "15073000017697",
+        "source": "rmrb · 2010 · 05",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "乡村",
+    "storyId": "space-and-mobility-02",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "space-and-mobility-02-turn",
+      "name": "现代城乡分类与乡村社会",
+      "shortName": "现代城乡分类",
+      "description": "追踪“乡村”如何在制度、知识或媒介中稳定为“现代城乡分类与乡村社会”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(城乡分类|乡村社会|乡村人口) time:1950s",
+    "totalResults": 31,
+    "candidates": [
+      {
+        "score": 0.3138,
+        "excerpt": "在乡村社会之内就发生斗争。",
+        "year": 1955,
+        "path": "1950s/1955/报刊/人民日报/rmrb_1955_10.txt",
+        "recordId": "3703000006830",
+        "source": "rmrb · 1955 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1999,
+        "excerpt": "整个封建乡村社会完全倒转来了，真是‘翻天覆地’，‘倒转乾坤’！",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_06.txt",
+        "recordId": "3545000009802",
+        "source": "rmrb · 1950 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1943,
+        "excerpt": "例如他在“乡农学校的办法及其意义”一文中说：“他们的农民运动（指共产党领导的农民运动——作者）是在乡村社会里首先作一种分化的工夫，使乡村社会成为分离对抗的形势。",
+        "year": 1955,
+        "path": "1950s/1955/报刊/人民日报/rmrb_1955_10.txt",
+        "recordId": "3703000006830",
+        "source": "rmrb · 1955 · 10",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "乡村",
+    "storyId": "space-and-mobility-02",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "space-and-mobility-02-contemporary",
+      "name": "乡村旅游、新乡村与数字乡村",
+      "shortName": "乡村旅游、新乡村",
+      "description": "检查当代“乡村旅游、新乡村与数字乡村”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(乡村旅游|数字乡村|新乡村) time:2010s",
+    "totalResults": 8542,
+    "candidates": [
+      {
+        "score": 0.2917,
+        "excerpt": "发展乡村旅游，又变成农业旅游示范点。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_09.txt",
+        "recordId": "15077000024178",
+        "source": "rmrb · 2010 · 09",
+        "hintHits": 1
+      },
+      {
+        "score": 0.25,
+        "excerpt": "乡村旅游逐渐成为农民增收的又一渠道。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_09.txt",
+        "recordId": "15077000007471",
+        "source": "rmrb · 2010 · 09",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2479,
+        "excerpt": "发展乡村旅游，生态文化产业方兴未艾",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_05.txt",
+        "recordId": "15073000013271",
+        "source": "rmrb · 2010 · 05",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "社区",
+    "storyId": "space-and-mobility-03",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "space-and-mobility-03-contemporary",
+      "name": "兴趣社区、线上社区与用户运营",
+      "shortName": "兴趣社区、线上社",
+      "description": "检查当代“兴趣社区、线上社区与用户运营”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(线上社区|兴趣社区|社区运营) time:2010s",
+    "totalResults": 508,
+    "candidates": [
+      {
+        "score": 0.2282,
+        "excerpt": "三是探索“线下社团化+线上社群化”，线上聚合渠道资源和社团资源，逐渐形成线上社区，与中青报全媒体融合。",
+        "year": 2016,
+        "path": "2010s/2016/报刊/人民日报/rmrb_2016_08.txt",
+        "recordId": "15372000033159",
+        "source": "rmrb · 2016 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2226,
+        "excerpt": "关键词：宿舍神器 善意病毒 假期酷刑 兴趣社区",
+        "year": 2015,
+        "path": "2010s/2015/报刊/光明日报/2015_10.txt",
+        "recordId": "15361000002719",
+        "source": "2015 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1965,
+        "excerpt": "沈黎晖也认为，VR的使用为部分用户增加丰富的想象力，结合音乐节线上互动、打赏，打造出与传统音乐节不同的线上社区概念。",
+        "year": 2017,
+        "path": "2010s/2017/报刊/光明日报/2017_06.txt",
+        "recordId": "15406000023506",
+        "source": "2017 · 06",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "街道",
+    "storyId": "space-and-mobility-04",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "space-and-mobility-04-turn",
+      "name": "城市行政与基层管理区划",
+      "shortName": "城市行政",
+      "description": "追踪“街道”如何在制度、知识或媒介中稳定为“城市行政与基层管理区划”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(街道办事处|街道行政|街道办) time:1950s",
+    "totalResults": 221,
+    "candidates": [
+      {
+        "score": 0.2435,
+        "excerpt": "城市街道办事处组织条例",
+        "year": 1955,
+        "path": "1950s/1955/报刊/人民日报/rmrb_1955_01.txt",
+        "recordId": "3694000000180",
+        "source": "rmrb · 1955 · 01",
+        "hintHits": 2
+      },
+      {
+        "score": 0.2234,
+        "excerpt": "各区成立了粮食管理所，各街道办事处设立中心供应站，加强对粮食代销店的管理。",
+        "year": 1955,
+        "path": "1950s/1955/报刊/人民日报/rmrb_1955_08.txt",
+        "recordId": "3701000011211",
+        "source": "rmrb · 1955 · 08",
+        "hintHits": 2
+      },
+      {
+        "score": 0.2228,
+        "excerpt": "为了使城市基层政权有效地为经济建设服务，近两年来，全国有七十个以上的城市试行建立了街道办事处和居民委员会的组织，加强了公安派出所的工作。",
+        "year": 1955,
+        "path": "1950s/1955/报刊/人民日报/rmrb_1955_01.txt",
+        "recordId": "3694000000752",
+        "source": "rmrb · 1955 · 01",
+        "hintHits": 2
+      }
+    ]
+  },
+  {
+    "word": "街道",
+    "storyId": "space-and-mobility-04",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "space-and-mobility-04-contemporary",
+      "name": "街道生活、步行空间与地方文化",
+      "shortName": "街道生活、步行空",
+      "description": "检查当代“街道生活、步行空间与地方文化”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(街道生活|步行街道|街道文化) time:2010s",
+    "totalResults": 343,
+    "candidates": [
+      {
+        "score": 0.162,
+        "excerpt": "建成乡镇综合文化站884个、街道文化中心97个；",
+        "year": 2011,
+        "path": "2010s/2011/报刊/人民日报/rmrb_2011_10.txt",
+        "recordId": "15236000031326",
+        "source": "rmrb · 2011 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1576,
+        "excerpt": "”坛山街道文化站长邵明思说。",
+        "year": 2011,
+        "path": "2010s/2011/报刊/光明日报/2011_07.txt",
+        "recordId": "15245000005787",
+        "source": "2011 · 07",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1553,
+        "excerpt": "作为在北京市东城区建国门街道生活了几十年的老居民，每当李伟遇到于嘉城时，他都会上前与于嘉城闲侃几句。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_08.txt",
+        "recordId": "15076000024010",
+        "source": "rmrb · 2010 · 08",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "广场",
+    "storyId": "space-and-mobility-05",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "space-and-mobility-05-turn",
+      "name": "现代城市公共集会空间",
+      "shortName": "现代城市公共集会",
+      "description": "追踪“广场”如何在制度、知识或媒介中稳定为“现代城市公共集会空间”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(城市广场|公共广场|广场集会) time:1950s",
+    "totalResults": 48,
+    "candidates": [
+      {
+        "score": 0.1664,
+        "excerpt": "开城市民七日下午在市区广场集会欢庆十月革命节。",
+        "year": 1951,
+        "path": "1950s/1951/报刊/人民日报/rmrb_1951_11.txt",
+        "recordId": "3589000003253",
+        "source": "rmrb · 1951 · 11",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1489,
+        "excerpt": "情绪激昂的人们首先在雄牛广场集会。",
+        "year": 1958,
+        "path": "1950s/1958/报刊/人民日报/rmrb_1958_03.txt",
+        "recordId": "3819000013683",
+        "source": "rmrb · 1958 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1419,
+        "excerpt": "办公室在公共广场上《呼吁日报》馆三层楼房的底层。",
+        "year": 1955,
+        "path": "1950s/1955/翻译作品/文学/1955 主万_西海 天才.txt",
+        "recordId": "3722000000173",
+        "source": "主万 · 西海 天才",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "广场",
+    "storyId": "space-and-mobility-05",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "space-and-mobility-05-contemporary",
+      "name": "商业广场、数字广场与平台公域",
+      "shortName": "商业广场、数字广",
+      "description": "检查当代“商业广场、数字广场与平台公域”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(商业广场|数字广场|网络广场) time:2010s",
+    "totalResults": 2157,
+    "candidates": [
+      {
+        "score": 0.279,
+        "excerpt": "崇左市新裕丰崇左东盟商业广场",
+        "year": 2016,
+        "path": "2010s/2016/报刊/人民日报/rmrb_2016_09.txt",
+        "recordId": "15373000026473",
+        "source": "rmrb · 2016 · 09",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1947,
+        "excerpt": "新城引进华润欢乐颂、维华商业广场等商业业态，规划商业建筑面积总量达280万平方米。",
+        "year": 2014,
+        "path": "2010s/2014/报刊/人民日报/rmrb_2014_03.txt",
+        "recordId": "15317000017012",
+        "source": "rmrb · 2014 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1872,
+        "excerpt": "实际上，它还可以建成兼具大型商业广场、物流中心、电子商务交易的综合性商品交易平台。",
+        "year": 2014,
+        "path": "2010s/2014/报刊/人民日报/rmrb_2014_07.txt",
+        "recordId": "15321000013607",
+        "source": "rmrb · 2014 · 07",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "公园",
+    "storyId": "space-and-mobility-06",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "space-and-mobility-06-contemporary",
+      "name": "主题公园、口袋公园与生态服务",
+      "shortName": "主题公园、口袋公",
+      "description": "检查当代“主题公园、口袋公园与生态服务”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(主题公园|口袋公园|公园生态) time:2010s",
+    "totalResults": 6597,
+    "candidates": [
+      {
+        "score": 0.2383,
+        "excerpt": "去年５月，重庆一处“性主题公园”被责令拆除。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_05.txt",
+        "recordId": "15073000035505",
+        "source": "rmrb · 2010 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2138,
+        "excerpt": "拥有自主品牌的“方特”第四代主题公园，让华强集团的“文化＋科技”产品“落地生根”。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_09.txt",
+        "recordId": "15077000029575",
+        "source": "rmrb · 2010 · 09",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2094,
+        "excerpt": "事实上，实景演出类似于前些年红火国内的主题公园。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_05.txt",
+        "recordId": "15073000041804",
+        "source": "rmrb · 2010 · 05",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "空间",
+    "storyId": "space-and-mobility-07",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "space-and-mobility-07-contemporary",
+      "name": "数字空间、私人空间与成长空间",
+      "shortName": "数字空间、私人空",
+      "description": "检查当代“数字空间、私人空间与成长空间”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(数字空间|私人空间|成长空间) time:2010s",
+    "totalResults": 2019,
+    "candidates": [
+      {
+        "score": 0.2948,
+        "excerpt": "也有“私人空间”如个人电子邮件。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_04.txt",
+        "recordId": "15072000028631",
+        "source": "rmrb · 2010 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.279,
+        "excerpt": "国际体系:造就一流人才成长空间",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_05.txt",
+        "recordId": "15085000012624",
+        "source": "2010 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2541,
+        "excerpt": "法国给孩子们提供了宽广的成长空间。",
+        "year": 2011,
+        "path": "2010s/2011/报刊/人民日报/rmrb_2011_04.txt",
+        "recordId": "15230000023731",
+        "source": "rmrb · 2011 · 04",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "地图",
+    "storyId": "space-and-mobility-09",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "space-and-mobility-09-contemporary",
+      "name": "导航、数据地图与知识地图",
+      "shortName": "导航、数据地图",
+      "description": "检查当代“导航、数据地图与知识地图”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(导航地图|数据地图|知识地图) time:2010s",
+    "totalResults": 224,
+    "candidates": [
+      {
+        "score": 0.605,
+        "excerpt": "(一)知识地图的概念",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_12.txt",
+        "recordId": "15092000001672",
+        "source": "2010 · 12",
+        "hintHits": 1
+      },
+      {
+        "score": 0.3441,
+        "excerpt": "(二)高校图书馆知识地图的应用模型",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_12.txt",
+        "recordId": "15092000001688",
+        "source": "2010 · 12",
+        "hintHits": 1
+      },
+      {
+        "score": 0.3435,
+        "excerpt": "知识地图早期称为认识地图、认知地图。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_12.txt",
+        "recordId": "15092000001673",
+        "source": "2010 · 12",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "边界",
+    "storyId": "space-and-mobility-10",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "space-and-mobility-10-turn",
+      "name": "现代国家、法律与学科边界",
+      "shortName": "现代国家、法律",
+      "description": "追踪“边界”如何在制度、知识或媒介中稳定为“现代国家、法律与学科边界”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(国家边界|法律边界|学科边界) time:1950s",
+    "totalResults": 2,
+    "candidates": [
+      {
+        "score": 0.1322,
+        "excerpt": "因为它的地理位置与五个大国的国家边界接壤，克什米尔有着重要的地位。",
+        "year": 1953,
+        "path": "1950s/1953/报刊/人民日报/rmrb_1953_08.txt",
+        "recordId": "3638000011861",
+        "source": "rmrb · 1953 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1185,
+        "excerpt": "这个组织有自己的参谋部，这个参谋部制订在欧洲发动新战争的计划，在挨近苏联和人民民主国家边界的地方建立许多空军和海军基地。",
+        "year": 1954,
+        "path": "1950s/1954/报刊/人民日报/rmrb_1954_12.txt",
+        "recordId": "3664000000083",
+        "source": "rmrb · 1954 · 12",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "边界",
+    "storyId": "space-and-mobility-10",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "space-and-mobility-10-contemporary",
+      "name": "人际边界、平台边界与模糊地带",
+      "shortName": "人际边界、平台边",
+      "description": "检查当代“人际边界、平台边界与模糊地带”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(人际边界|平台边界|模糊边界) time:2010s",
+    "totalResults": 33,
+    "candidates": [
+      {
+        "score": 0.366,
+        "excerpt": "媒体平台边界逐渐消除",
+        "year": 2016,
+        "path": "2010s/2016/报刊/人民日报/rmrb_2016_01.txt",
+        "recordId": "15365000008681",
+        "source": "rmrb · 2016 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2406,
+        "excerpt": "[文章名]: 人际边界不清的十七大表现",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/微信公众号/Wechat_128.txt",
+        "recordId": "15689000006540",
+        "source": "Wechat · 128",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2406,
+        "excerpt": "[文章名]: 人际边界不清的十七大表现",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/微信公众号/Wechat_132.txt",
+        "recordId": "15693000010197",
+        "source": "Wechat · 132",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "中心",
+    "storyId": "space-and-mobility-11",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "space-and-mobility-11-turn",
+      "name": "现代机构、城市与功能中心",
+      "shortName": "现代机构、城市",
+      "description": "追踪“中心”如何在制度、知识或媒介中稳定为“现代机构、城市与功能中心”，并找出关键转折文本。",
+      "startIndex": 0
+    },
+    "query": "(城市中心|服务中心|功能中心) time:1950s",
+    "totalResults": 42,
+    "candidates": [
+      {
+        "score": 0.1864,
+        "excerpt": "医科学校设立在大中城市中心，并与附属医院设在一起；",
+        "year": 1954,
+        "path": "1950s/1954/报刊/人民日报/rmrb_1954_07.txt",
+        "recordId": "3659000006232",
+        "source": "rmrb · 1954 · 07",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1379,
+        "excerpt": "美丽的雅拉河横贯城市中心，风景非常优美。",
+        "year": 1957,
+        "path": "1950s/1957/报刊/人民日报/rmrb_1957_03.txt",
+        "recordId": "3764000002832",
+        "source": "rmrb · 1957 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1371,
+        "excerpt": "必须拟订有科学根据的城市总体规划，包括城市的发展规模，区域的划分，城市中心及广场的位置，交通运输及城市绿化的布置，以及决定城市的外貌和建筑艺术形式的设计等等。",
+        "year": 1954,
+        "path": "1950s/1954/报刊/人民日报/rmrb_1954_01.txt",
+        "recordId": "3653000002222",
+        "source": "rmrb · 1954 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "中心",
+    "storyId": "space-and-mobility-11",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "space-and-mobility-11-contemporary",
+      "name": "用户中心、数据中心与去中心化",
+      "shortName": "用户中心、数据中",
+      "description": "检查当代“用户中心、数据中心与去中心化”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 4
+    },
+    "query": "(用户中心|数据中心|去中心化) time:2010s",
+    "totalResults": 4625,
+    "candidates": [
+      {
+        "score": 0.366,
+        "excerpt": "百度数据中心监测显示",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_09.txt",
+        "recordId": "15077000004399",
+        "source": "rmrb · 2010 · 09",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2202,
+        "excerpt": "据介绍，大厦建成后，将成为金融信息平台新华08的资讯采集中心、数据中心及研发中心。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_04.txt",
+        "recordId": "15072000009515",
+        "source": "rmrb · 2010 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2086,
+        "excerpt": "因为能源供给和制冷占数据中心运营费用的50%以上。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_06.txt",
+        "recordId": "15074000005259",
+        "source": "rmrb · 2010 · 06",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "舞台",
+    "storyId": "space-and-mobility-12",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "space-and-mobility-12-turn",
+      "name": "戏剧、娱乐与现代表演空间",
+      "shortName": "戏剧、娱乐",
+      "description": "追踪“舞台”如何在制度、知识或媒介中稳定为“戏剧、娱乐与现代表演空间”，并找出关键转折文本。",
+      "startIndex": 0
+    },
+    "query": "(戏剧舞台|表演舞台|舞台艺术) time:1950s",
+    "totalResults": 192,
+    "candidates": [
+      {
+        "score": 0.1546,
+        "excerpt": "苏维埃舞台艺术的发展，完全要看戏剧创作的情形如何而定。",
+        "year": 1952,
+        "path": "1950s/1952/报刊/人民日报/rmrb_1952_05.txt",
+        "recordId": "3618000003221",
+        "source": "rmrb · 1952 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1419,
+        "excerpt": "近年来，我们的戏剧舞台上也出现了不少新的气象。",
+        "year": 1954,
+        "path": "1950s/1954/报刊/人民日报/rmrb_1954_10.txt",
+        "recordId": "3662000004773",
+        "source": "rmrb · 1954 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.141,
+        "excerpt": "二、进行戏曲音乐、美术和表演艺术的研究和改革，推行导演制度，以促进戏曲舞台艺术进一步的提高。",
+        "year": 1953,
+        "path": "1950s/1953/报刊/人民日报/rmrb_1953_10.txt",
+        "recordId": "3640000005536",
+        "source": "rmrb · 1953 · 10",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "交通",
+    "storyId": "space-and-mobility-13",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "space-and-mobility-13-turn",
+      "name": "现代道路运输与城市系统",
+      "shortName": "现代道路运输",
+      "description": "追踪“交通”如何在制度、知识或媒介中稳定为“现代道路运输与城市系统”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(道路交通|城市交通|交通系统) time:1950s",
+    "totalResults": 130,
+    "candidates": [
+      {
+        "score": 0.1927,
+        "excerpt": "新交通系统的形成",
+        "year": 1953,
+        "path": "1950s/1953/报刊/人民日报/rmrb_1953_06.txt",
+        "recordId": "3636000011704",
+        "source": "rmrb · 1953 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1927,
+        "excerpt": "加强城市交通管理",
+        "year": 1954,
+        "path": "1950s/1954/报刊/人民日报/rmrb_1954_05.txt",
+        "recordId": "3657000004036",
+        "source": "rmrb · 1954 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1808,
+        "excerpt": "丘金说，中国的海员工人在伟大的中国人民革命斗争中，清除了中国轮船航运事业对帝国主义的依赖，树立了独立自主的航运交通系统，并经过与帝国主义、蒋介石残余匪帮的劫夺、轰炸、封锁禁运进行艰苦的斗争，学习了苏联先进的一列式拖带法等经验，恢复了航运交通，完成了国家经济运输与支援抗美援朝斗争的运输任务。",
+        "year": 1953,
+        "path": "1950s/1953/报刊/人民日报/rmrb_1953_05.txt",
+        "recordId": "3635000002703",
+        "source": "rmrb · 1953 · 05",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "交通",
+    "storyId": "space-and-mobility-13",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "space-and-mobility-13-contemporary",
+      "name": "信息交通、智慧交通与可达性",
+      "shortName": "信息交通、智慧交",
+      "description": "检查当代“信息交通、智慧交通与可达性”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(智慧交通|交通数据|交通可达性) time:2010s",
+    "totalResults": 645,
+    "candidates": [
+      {
+        "score": 0.4283,
+        "excerpt": "智慧交通、智慧电网、智慧城管、智慧医疗",
+        "year": 2012,
+        "path": "2010s/2012/报刊/人民日报/rmrb_2012_08.txt",
+        "recordId": "15267000024007",
+        "source": "rmrb · 2012 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.355,
+        "excerpt": "智慧交通须跟上（在现场）",
+        "year": 2014,
+        "path": "2010s/2014/报刊/人民日报/rmrb_2014_03.txt",
+        "recordId": "15317000033497",
+        "source": "rmrb · 2014 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.3138,
+        "excerpt": "与此同时，“智慧交通”渐行渐近。",
+        "year": 2012,
+        "path": "2010s/2012/报刊/光明日报/2012_08.txt",
+        "recordId": "15279000014407",
+        "source": "2012 · 08",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "旅行",
+    "storyId": "space-and-mobility-14",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "space-and-mobility-14-turn",
+      "name": "现代旅游业与个人体验",
+      "shortName": "现代旅游业",
+      "description": "追踪“旅行”如何在制度、知识或媒介中稳定为“现代旅游业与个人体验”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(旅行体验|旅游旅行|个人旅行) time:1950s",
+    "totalResults": 1,
+    "candidates": [
+      {
+        "score": 0.1156,
+        "excerpt": "他说，他的这次访问不应当被看作是受到隆重招待的一次个人旅行，应该从这次访问对亚洲历史的影响方面来估量它的价值。",
+        "year": 1954,
+        "path": "1950s/1954/报刊/人民日报/rmrb_1954_11.txt",
+        "recordId": "3663000008488",
+        "source": "rmrb · 1954 · 11",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "旅行",
+    "storyId": "space-and-mobility-14",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "space-and-mobility-14-contemporary",
+      "name": "自由行、数字游牧与人生旅程隐喻",
+      "shortName": "自由行、数字游牧",
+      "description": "检查当代“自由行、数字游牧与人生旅程隐喻”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(自由旅行|数字游牧|人生旅行) time:2010s",
+    "totalResults": 168,
+    "candidates": [
+      {
+        "score": 0.323,
+        "excerpt": "说走就走的人生旅行",
+        "year": 2015,
+        "path": "2010s/2015/报刊/人民日报/rmrb_2015_06.txt",
+        "recordId": "15345000006560",
+        "source": "rmrb · 2015 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2068,
+        "excerpt": "也许人生旅行中的景，有一声好，也就够了。",
+        "year": 2012,
+        "path": "2010s/2012/报刊/人民日报/rmrb_2012_12.txt",
+        "recordId": "15271000032840",
+        "source": "rmrb · 2012 · 12",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1988,
+        "excerpt": "与其说我们是在骑行，倒不如把这次骑行当成一次人生旅行。",
+        "year": 2019,
+        "path": "2010s/2019/报刊/光明日报/2019_07.txt",
+        "recordId": "15458000024738",
+        "source": "2019 · 07",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "移民",
+    "storyId": "space-and-mobility-15",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "space-and-mobility-15-contemporary",
+      "name": "城市新移民、数字移民与归属",
+      "shortName": "城市新移民、数字",
+      "description": "检查当代“城市新移民、数字移民与归属”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(城市新移民|数字移民|移民归属) time:2010s",
+    "totalResults": 48,
+    "candidates": [
+      {
+        "score": 0.6196,
+        "excerpt": "“数字移民”与“跳槽热”",
+        "year": 2014,
+        "path": "2010s/2014/报刊/光明日报/2014_07.txt",
+        "recordId": "15333000021852",
+        "source": "2014 · 07",
+        "hintHits": 1
+      },
+      {
+        "score": 0.4318,
+        "excerpt": "“数字新秀”引发“数字移民”",
+        "year": 2014,
+        "path": "2010s/2014/报刊/光明日报/2014_07.txt",
+        "recordId": "15333000021847",
+        "source": "2014 · 07",
+        "hintHits": 1
+      },
+      {
+        "score": 0.3097,
+        "excerpt": "这里存在“数字原住民”与“数字移民”的区别。",
+        "year": 2015,
+        "path": "2010s/2015/报刊/光明日报/2015_08.txt",
+        "recordId": "15359000015929",
+        "source": "2015 · 08",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "流动",
+    "storyId": "space-and-mobility-16",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "space-and-mobility-16-turn",
+      "name": "人口、资本与社会流动",
+      "shortName": "人口、资本",
+      "description": "追踪“流动”如何在制度、知识或媒介中稳定为“人口、资本与社会流动”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(人口流动|资本流动|社会流动) time:1950s",
+    "totalResults": 11,
+    "candidates": [
+      {
+        "score": 0.1788,
+        "excerpt": "这是因为：一、我国的经济是社会主义的计划经济，社会流动资金和周转资金必须有计划地进行安排；",
+        "year": 1957,
+        "path": "1950s/1957/报刊/人民日报/rmrb_1957_06.txt",
+        "recordId": "3767000019049",
+        "source": "rmrb · 1957 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1585,
+        "excerpt": "为了有效地从各方面制止农村人口盲目外流，除铁路、航运部门必须加强验票制度之外，各地应当根据中共中央和国务院指示，在一些农村人口流动较多的铁路沿线、省与省交界的交通要隘以及车站、港口，设立劝阻机构，对盲目流动的农村人口进行劝说和遣送回乡的工作。",
+        "year": 1957,
+        "path": "1950s/1957/报刊/人民日报/rmrb_1957_12.txt",
+        "recordId": "3773000014953",
+        "source": "rmrb · 1957 · 12",
+        "hintHits": 1
+      },
+      {
+        "score": 0.139,
+        "excerpt": "它有七百多万人口，人口流动性大，全国到处不易藏身的反革命分子，都逃到上海。",
+        "year": 1955,
+        "path": "1950s/1955/报刊/人民日报/rmrb_1955_07.txt",
+        "recordId": "3700000006921",
+        "source": "rmrb · 1955 · 07",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "流动",
+    "storyId": "space-and-mobility-16",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "space-and-mobility-16-contemporary",
+      "name": "数据流动、流动性与灵活工作",
+      "shortName": "数据流动、流动性",
+      "description": "检查当代“数据流动、流动性与灵活工作”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(数据流动|灵活流动|流动性) time:2010s",
+    "totalResults": 11126,
+    "candidates": [
+      {
+        "score": 0.1834,
+        "excerpt": "这些因素都使当前市场流动性十分充裕。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000021851",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1733,
+        "excerpt": "中央财经大学中国银行业研究中心主任郭田勇认为，存款准备金率只是一种比公开市场操作更有力度的流动性管理工具，它改变的只是银行体系的流动性，不像利率调整那样会改变全社会的资金成本，并且上调后市场流动性依然比较充足，完全能支持经济较快发展，因此上调存款准备金率并不意味着货币政策的取向发生变化。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000028433",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.173,
+        "excerpt": "在这样的背景下，加强流动性管理势在必行。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000028424",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "风景",
+    "storyId": "space-and-mobility-17",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "space-and-mobility-17-turn",
+      "name": "旅游、绘画与现代 landscape",
+      "shortName": "旅游、绘画",
+      "description": "追踪“风景”如何在制度、知识或媒介中稳定为“旅游、绘画与现代 landscape”，并找出关键转折文本。",
+      "startIndex": 0
+    },
+    "query": "(风景画|旅游风景|风景摄影) time:1950s",
+    "totalResults": 119,
+    "candidates": [
+      {
+        "score": 0.1438,
+        "excerpt": "不要苛求风景画作者们一定去表现风景画以外的他们所不熟悉的主题，而应具体帮助他们如何在风景画中逐渐渗透进新的思想情感。",
+        "year": 1951,
+        "path": "1950s/1951/报刊/人民日报/rmrb_1951_02.txt",
+        "recordId": "3580000003905",
+        "source": "rmrb · 1951 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1294,
+        "excerpt": "组织关于提高风景画的思想水平、中国绘画传统的继承与发展、建筑美术设计等问题的讨论；",
+        "year": 1955,
+        "path": "1950s/1955/报刊/人民日报/rmrb_1955_03.txt",
+        "recordId": "3696000005912",
+        "source": "rmrb · 1955 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1245,
+        "excerpt": "风景画也仍旧是可以画的。",
+        "year": 1951,
+        "path": "1950s/1951/报刊/人民日报/rmrb_1951_02.txt",
+        "recordId": "3580000003905",
+        "source": "rmrb · 1951 · 02",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "风景",
+    "storyId": "space-and-mobility-17",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "space-and-mobility-17-contemporary",
+      "name": "行业风景、数字景观与可消费景观",
+      "shortName": "行业风景、数字景",
+      "description": "检查当代“行业风景、数字景观与可消费景观”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 4
+    },
+    "query": "(行业风景|数字风景|消费风景) time:2010s",
+    "totalResults": 1,
+    "candidates": [
+      {
+        "score": 0.1271,
+        "excerpt": "同时公司以强大的凝聚力和综合实力吸纳了商业界、营销界、培训界、医药界多方人才及大批受过高等教育的员工，建立了提供健康服务平台“量健自然健康生活馆”，开创了上海健康行业风景这边独好的局面，成就了量健以“健康精品连锁”为特色的健康产业领军者。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/微信公众号/Wechat_173.txt",
+        "recordId": "15734000002215",
+        "source": "Wechat · 173",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "家园",
+    "storyId": "space-and-mobility-18",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "space-and-mobility-18-turn",
+      "name": "国土、社区与情感归属",
+      "shortName": "国土、社区",
+      "description": "追踪“家园”如何在制度、知识或媒介中稳定为“国土、社区与情感归属”，并找出关键转折文本。",
+      "startIndex": 0
+    },
+    "query": "(共同家园|精神家园|美好家园) time:1950s",
+    "totalResults": 5,
+    "candidates": [
+      {
+        "score": 0.1107,
+        "excerpt": "天水地区人民有信心把千沟万壑的黄土高原变成山青水绿的美好家园，并且决心对治理黄河的伟大工程贡献力量。",
+        "year": 1955,
+        "path": "1950s/1955/报刊/人民日报/rmrb_1955_11.txt",
+        "recordId": "3704000009036",
+        "source": "rmrb · 1955 · 11",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1084,
+        "excerpt": "我希望受灾的同胞在人民政府领导下，好好生产自救，重建美好家园！",
+        "year": 1951,
+        "path": "1950s/1951/报刊/人民日报/rmrb_1951_10.txt",
+        "recordId": "3588000002854",
+        "source": "rmrb · 1951 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.105,
+        "excerpt": "我们有信心重建美好家园",
+        "year": 1951,
+        "path": "1950s/1951/报刊/人民日报/rmrb_1951_10.txt",
+        "recordId": "3588000013718",
+        "source": "rmrb · 1951 · 10",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "家园",
+    "storyId": "space-and-mobility-18",
+    "topic": "城市、空间与流动",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "space-and-mobility-18-contemporary",
+      "name": "生态家园、精神家园与虚拟家园",
+      "shortName": "生态家园、精神家",
+      "description": "检查当代“生态家园、精神家园与虚拟家园”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 4
+    },
+    "query": "(生态家园|虚拟家园|数字家园) time:2010s",
+    "totalResults": 368,
+    "candidates": [
+      {
+        "score": 0.3764,
+        "excerpt": "农村建成一批生态家园、生态小区、生态文明村。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_04.txt",
+        "recordId": "15072000007416",
+        "source": "rmrb · 2010 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.355,
+        "excerpt": "“低碳”元素扮靓生态家园",
+        "year": 2011,
+        "path": "2010s/2011/报刊/人民日报/rmrb_2011_02.txt",
+        "recordId": "15228000033917",
+        "source": "rmrb · 2011 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.305,
+        "excerpt": "天津：盐碱地打造出生态家园",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_05.txt",
+        "recordId": "15073000008614",
+        "source": "rmrb · 2010 · 05",
+        "hintHits": 1
+      }
+    ]
+  }
+]

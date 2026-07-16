@@ -1,0 +1,722 @@
+[
+  {
+    "word": "自由",
+    "storyId": "translated-concepts-03",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "translated-concepts-03-contemporary",
+      "name": "个人选择、时间与生活方式",
+      "shortName": "生活自由",
+      "description": "在当代消费、职业和亲密关系中，“自由”常衡量可选择性与可支配空间。",
+      "startIndex": 4
+    },
+    "query": "自由 (职业|选择|生活|时间|恋爱) time:2010s",
+    "totalResults": 90650,
+    "candidates": [
+      {
+        "score": 0.224,
+        "excerpt": "实行按学分收费改革后，高校本科将成为弹性学制，由高校自行确定本科学习的修习年限范围，即现在的大学生可在3至6年内自由选择完成大学学业的时间。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000002718",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 2
+      },
+      {
+        "score": 0.2218,
+        "excerpt": "“实现异地报销医保费用，出发点就是为了方便在对方城市工作、生活的居民，实现当地看病、当地进行医保费用结算报销，而且患者可以自由选择上海或杭州的医保药品目录，再不用往返奔波。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000038238",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1594,
+        "excerpt": "而当考生可以自由选择、多次考试，也就可能造就出有个性与创造力的学生。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000017698",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "浪漫",
+    "storyId": "translated-concepts-04",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "translated-concepts-04-turn",
+      "name": "浪漫主义与文艺想象",
+      "shortName": "文艺概念",
+      "description": "译介 Romanticism 后，词语进入文学艺术史，指向特定流派与审美倾向。",
+      "startIndex": 1
+    },
+    "query": "浪漫 (主义|文学|诗人|艺术) time:1920s",
+    "totalResults": 27,
+    "candidates": [
+      {
+        "score": 0.3304,
+        "excerpt": "它初期的文学倾向是浪漫主义，带有反帝反封建的色彩。",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 噩君 备考：东京通信.txt",
+        "recordId": "1154000000000",
+        "source": "噩君 备考：东京通信",
+        "hintHits": 2
+      },
+      {
+        "score": 0.2656,
+        "excerpt": "〔３〕藉里珂（Ｔｈ．Ｇéｒｉｃàｕｌｔ，１７９１―１８２４）法国浪漫主义画派的先驱者。",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 陈德明 备考：来信.txt",
+        "recordId": "1202000000000",
+        "source": "陈德明 备考：来信",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2587,
+        "excerpt": "〔２〕“象牙之塔”原是法国文艺批评家圣・佩韦（１８０４―１８６９）批评同时代消极浪漫主义诗人维尼的用语，后来用以比喻脱离现实的文艺家的小天地。",
+        "year": 1927,
+        "path": "1920s/1927/文学/1927 鲁迅 关于知识阶级.txt",
+        "recordId": "1032000000000",
+        "source": "鲁迅 关于知识阶级",
+        "hintHits": 2
+      }
+    ]
+  },
+  {
+    "word": "民主",
+    "storyId": "translated-concepts-05",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "translated-concepts-05-contemporary",
+      "name": "协商、参与与管理风格",
+      "shortName": "参与方式",
+      "description": "词语也扩展到家庭、组织和教育场景，描述允许意见与共同决定的方式。",
+      "startIndex": 4
+    },
+    "query": "民主 (家庭|教育|管理|讨论) time:2010s",
+    "totalResults": 33651,
+    "candidates": [
+      {
+        "score": 0.2243,
+        "excerpt": "村党支部通过宣传教育、示范引导、民主讨论等办法，加强对这些组织的领导；",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000026246",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 2
+      },
+      {
+        "score": 0.2153,
+        "excerpt": "落实村党支部书记队伍“一定三有”政策，以推行“四议两公开”工作法为抓手健全党领导的村级民主自治机制，改进流动党员教育管理服务；",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000017625",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 2
+      },
+      {
+        "score": 0.162,
+        "excerpt": "职工参与民主管理，是促进企业文化建设的重要载体。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000026291",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "哲学",
+    "storyId": "translated-concepts-06",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "translated-concepts-06-contemporary",
+      "name": "人生、经营与行动原则",
+      "shortName": "实践哲学",
+      "description": "日常中的“人生哲学”“经营哲学”将学科名称放宽为稳定的原则与态度。",
+      "startIndex": 4
+    },
+    "query": "哲学 (人生|经营|生活) time:2010s",
+    "totalResults": 19028,
+    "candidates": [
+      {
+        "score": 0.2442,
+        "excerpt": "这样的禅语中其实包含了人生的很多哲学，而宽容则是很重要的人生哲学。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000009028",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2285,
+        "excerpt": "傅吉祥的人生哲学是“舍得”比“得到”更重要，因为舍得是福，知足是福。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000008304",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2104,
+        "excerpt": "图案是一个书架，CD、书籍各安其位，显然来自他的人生哲学。",
+        "year": 2010,
+        "path": "2010s/2010/口语/对话/2010 张向东 创业者对话创业者.txt",
+        "recordId": "15037000000323",
+        "source": "张向东 创业者对话创业者",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "艺术",
+    "storyId": "translated-concepts-07",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "translated-concepts-07-contemporary",
+      "name": "高明的方法与表达技巧",
+      "shortName": "方法技巧",
+      "description": "“说话艺术”“管理艺术”等搭配保留了“高明技巧”的抽象评价。",
+      "startIndex": 4
+    },
+    "query": "艺术 (管理|说话|领导|沟通) time:2010s",
+    "totalResults": 60687,
+    "candidates": [
+      {
+        "score": 0.2012,
+        "excerpt": "要把教育引导和规范管理结合起来，把日常监管和专项行动结合起来，既讲立场原则，又讲方法策略，综合运用经济、行政、法律、科技、教育等多种办法，改进管理方法，提高管理艺术，做到科学管理、依法管理、有效管理。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000009388",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1406,
+        "excerpt": "在今天召开的全国文化厅局长会议上，蔡武还透露，将整合现有资源，推动设立国家繁荣文艺创作专项资金，民族音乐和芭蕾舞、歌剧、交响乐等高雅艺术发展专项资金，以及西部地区交响乐艺术发展专项资金，通过科学有效的管理方式和资金投入方式，提高资金的使用效率，为艺术作品创作、生产搭建广阔的平台。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000041770",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1304,
+        "excerpt": "国家话剧院已出台《制作人管理制度》，明确制作人是院长艺术经营管理权分解和细化的基本执行单元的概念，采用国际通行的艺术生产管理体制，增强以剧组为基本核算单位的演出项目的能力。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000038616",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "美学",
+    "storyId": "translated-concepts-08",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "translated-concepts-08-contemporary",
+      "name": "设计风格与感官秩序",
+      "shortName": "日常美学",
+      "description": "“生活美学”“产品美学”将学科名称扩展为对设计与感官风格的概括。",
+      "startIndex": 4
+    },
+    "query": "美学 (生活|产品|设计) time:2010s",
+    "totalResults": 12268,
+    "candidates": [
+      {
+        "score": 0.7366,
+        "excerpt": "“日常生活美学”。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_04.txt",
+        "recordId": "15072000033718",
+        "source": "rmrb · 2010 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.3316,
+        "excerpt": "西安理论界认为，GCP是人们在城市生活中实现精神价值需求的重要体现与衡量，有助于推动城市去实现文化产品、环境美学设计、文化场所设置、审美感受评价和传递、文化信息的通畅传输，使个人尊重、社会公平、社会责任等城市设计和管理理念得到充分彰显。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_08.txt",
+        "recordId": "15076000047117",
+        "source": "rmrb · 2010 · 08",
+        "hintHits": 3
+      },
+      {
+        "score": 0.2278,
+        "excerpt": "“科技源于人性，一个好的创新科技产品，要蕴含人性的魅力，要追求科技与美学的完美融合，要置身于用户的立场，感其所感、求其所求、为其创造独特的生活体验。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_04.txt",
+        "recordId": "15072000031408",
+        "source": "rmrb · 2010 · 04",
+        "hintHits": 2
+      }
+    ]
+  },
+  {
+    "word": "社会",
+    "storyId": "translated-concepts-10",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "translated-concepts-10-contemporary",
+      "name": "社交能力、社会经验与网络关系",
+      "shortName": "日常关系",
+      "description": "在“走向社会”“社会人”等表达中，它进一步指向经验、人情与交往网络。",
+      "startIndex": 4
+    },
+    "query": "(走向社会|社会人|社会经验|人情世故) time:2010s",
+    "totalResults": 10056,
+    "candidates": [
+      {
+        "score": 0.2613,
+        "excerpt": "曲黎敏：一个社会人。",
+        "year": 2010,
+        "path": "2010s/2010/口语/对话/2010 梁冬_曲黎美 梁冬对话曲黎美.txt",
+        "recordId": "15038000000501",
+        "source": "梁冬 · 曲黎美 梁冬对话曲黎美",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2479,
+        "excerpt": "他反复强调理论要走出书斋、走向社会。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000003742",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.23,
+        "excerpt": "社会人士呼吁“追究重罚”",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000032371",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "文化",
+    "storyId": "translated-concepts-11",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "translated-concepts-11-contemporary",
+      "name": "组织、品牌与圈层的共同风格",
+      "shortName": "圈层文化",
+      "description": "“企业文化”“粉丝文化”等复合词把文化缩小为特定群体的价值和行为模式。",
+      "startIndex": 4
+    },
+    "query": "(企业文化|品牌文化|粉丝文化|校园文化) time:2010s",
+    "totalResults": 16987,
+    "candidates": [
+      {
+        "score": 0.366,
+        "excerpt": "执行力来自于企业文化。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000006350",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.3138,
+        "excerpt": "责任是企业文化的核心内容。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000024488",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.3028,
+        "excerpt": "风险控制是企业文化的DNA",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000031142",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "宗教",
+    "storyId": "translated-concepts-12",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "translated-concepts-12-contemporary",
+      "name": "强烈信奉与生活核心的比喻",
+      "shortName": "信奉比喻",
+      "description": "“将某事当作宗教”之类说法，把宗教隐喻为不可动摇的信念与生活秩序。",
+      "startIndex": 4
+    },
+    "query": "(视为宗教|当作宗教|像宗教一样|宗教般) time:2010s",
+    "totalResults": 236,
+    "candidates": [
+      {
+        "score": 0.3426,
+        "excerpt": "把文学当作宗教，这个比喻很好。",
+        "year": 2012,
+        "path": "2010s/2012/报刊/光明日报/2012_09.txt",
+        "recordId": "15280000001312",
+        "source": "2012 · 09",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2182,
+        "excerpt": "对待海外把儒学当作宗教，我们应该抱持开放的心态。",
+        "year": 2015,
+        "path": "2010s/2015/报刊/人民日报/rmrb_2015_02.txt",
+        "recordId": "15341000016691",
+        "source": "rmrb · 2015 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1756,
+        "excerpt": "但我们不能将此图当作宗教信仰之作来理解，更重要的是作品传达了艺术家独特的生命感觉。",
+        "year": 2018,
+        "path": "2010s/2018/报刊/光明日报/2018_10.txt",
+        "recordId": "15436000020824",
+        "source": "2018 · 10",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "进化",
+    "storyId": "translated-concepts-14",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "translated-concepts-14-turn",
+      "name": "社会历史的阶段性进步叙事",
+      "shortName": "社会进化",
+      "description": "词语曾被扩展到社会与历史，将变化组织为从低到高的阶段叙事。",
+      "startIndex": 1
+    },
+    "query": "进化 (社会|历史|文明|阶段) time:1920s",
+    "totalResults": 43,
+    "candidates": [
+      {
+        "score": 0.341,
+        "excerpt": "社会进化，明伙也跟着进化。",
+        "year": 1920,
+        "path": "1920s/1920/文学/1920 蔡友梅 益世余谭_1920.txt",
+        "recordId": "325000000011",
+        "source": "蔡友梅 益世余谭 · 1920",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2341,
+        "excerpt": "历史教员也是新的，他空手上讲台，大谈其“社会的进化”和“人的发见”。",
+        "year": 1929,
+        "path": "1920s/1929/文学/1929 茅盾 虹_长篇.txt",
+        "recordId": "1324000000497",
+        "source": "茅盾 虹 · 长篇",
+        "hintHits": 2
+      },
+      {
+        "score": 0.203,
+        "excerpt": "我前作葯性一文，里面說‘社会进化，到今日，虽然已到黎明的时期；",
+        "year": 1921,
+        "path": "1920s/1921/报刊/1921 Author 劳动与妇女_第7期.txt",
+        "recordId": "346000000017",
+        "source": "Author 劳动与妇女 · 第7期",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "进化",
+    "storyId": "translated-concepts-14",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "translated-concepts-14-contemporary",
+      "name": "产品、能力与系统的升级",
+      "shortName": "升级比喻",
+      "description": "当代商业和技术表达中，“进化”常比喻产品更新、能力提升与系统迭代。",
+      "startIndex": 4
+    },
+    "query": "进化 (产品|技术|系统|升级) time:2010s",
+    "totalResults": 4449,
+    "candidates": [
+      {
+        "score": 0.1429,
+        "excerpt": "“红段子”实现了从文化创意产品到文化创意产业的进化。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000028648",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1423,
+        "excerpt": "2010年4月，中科院华南植物园系统与进化生物学研究领域系统发育与繁殖生物学研究组李波等终于在海南岛重新发现该物种的一个小居群，大约40株个体。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_12.txt",
+        "recordId": "15092000008691",
+        "source": "2010 · 12",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1401,
+        "excerpt": "后进入国家改变依赖式发展命运的一条重要道路，是认识到知识与技术在新国际分工中的地位，超越发达国家技术水平的内生式发展方式，在全球生产价值链中通过搜寻、创新与变异实现自我进化，建立本国企业在全球价值链竞争关系中的内生比较优势。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_03.txt",
+        "recordId": "15083000001364",
+        "source": "2010 · 03",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "权利",
+    "storyId": "translated-concepts-16",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "translated-concepts-16-contemporary",
+      "name": "消费、数据与平台环境中的主张",
+      "shortName": "新型权利",
+      "description": "当代“知情权”“数据权利”等讨论不断扩展权利的对象与实现场景。",
+      "startIndex": 4
+    },
+    "query": "权利 (数据|隐私|知情|消费者) time:2010s",
+    "totalResults": 7453,
+    "candidates": [
+      {
+        "score": 0.2387,
+        "excerpt": "二是国内消费者通过这次维权事件，也经历了一次完整的消费教育，即在进行消费的同时，应注重维护自己的基本权利，包括安全权、知情权、求偿权。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_04.txt",
+        "recordId": "15072000025278",
+        "source": "rmrb · 2010 · 04",
+        "hintHits": 2
+      },
+      {
+        "score": 0.1904,
+        "excerpt": "因此，完善党内民主决策机制，必须坚持保障党员主体地位和民主权利原则，落实党员的知情权、参与权、选举权、监督权，进一步提高党员对党内事务的参与度，充分发挥党员在党内生活中的主体作用；",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_04.txt",
+        "recordId": "15072000025044",
+        "source": "rmrb · 2010 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1904,
+        "excerpt": "党的十七届四中全会通过的《决定》明确指出，要保障党员主体地位和民主权利，以落实党员知情权、参与权、选举权、监督权为重点，进一步提高党员对党内事务的参与度，充分发挥党员在党内生活中的主体作用。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000026251",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "个人",
+    "storyId": "translated-concepts-18",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "translated-concepts-18-turn",
+      "name": "具有权利与意志的现代个体",
+      "shortName": "现代个体",
+      "description": "近现代论述将个人组织为具有独立意志、权利、责任和私领域的主体。",
+      "startIndex": 1
+    },
+    "query": "个人 (权利|责任|独立|自由) time:1920s",
+    "totalResults": 252,
+    "candidates": [
+      {
+        "score": 0.1637,
+        "excerpt": "凡人都有受敎育的权利，女子旣然是个人，当然有受敎育的权利。",
+        "year": 1921,
+        "path": "1920s/1921/报刊/1921 Author 劳动与妇女_第5期.txt",
+        "recordId": "344000000043",
+        "source": "Author 劳动与妇女 · 第5期",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1248,
+        "excerpt": "若是听凭你一个人信口开河，那你说提包内有十万八万，我不也要替你负责任吗？",
+        "year": 1922,
+        "path": "1920s/1922/文学/小说笔记/1922_10_1 向恺然 留东外史续集.txt",
+        "recordId": "448000001180",
+        "source": "1922 · 10 · 1 向恺然 留东外史续集",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1218,
+        "excerpt": "他们一旦发明了自己是个人，不知不觉的便齐心合力下一个决心，一面要把做人的条件预备充实，一面要把做人的权利扩张圆满。",
+        "year": 1922,
+        "path": "1920s/1922/文学/1922 梁启超 人权与女权.txt",
+        "recordId": "420000000000",
+        "source": "梁启超 人权与女权",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "个人",
+    "storyId": "translated-concepts-18",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "translated-concepts-18-contemporary",
+      "name": "个人账号、个人数据与个性化",
+      "shortName": "数字个人",
+      "description": "数字平台中，“个人”与账号、信息、隐私和个性化服务相连。",
+      "startIndex": 4
+    },
+    "query": "个人 (账号|信息|隐私|数据) time:2010s",
+    "totalResults": 99296,
+    "candidates": [
+      {
+        "score": 0.3418,
+        "excerpt": "当大量用户感染后，这些病毒买家首先会盗取用户电脑中的游戏账号密码、网银账号密码和个人隐私信息，然后盗取用户的游戏装备并在网上出售获利，或者利用网上银行网上购物或转账。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000033008",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 3
+      },
+      {
+        "score": 0.2183,
+        "excerpt": "”姜明安认为，对已经确认，并已实施处罚的行为，可以在适当范围内对其处罚信息进行曝光，但不能曝光与处罚无关的个人隐私。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000039906",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 2
+      },
+      {
+        "score": 0.2157,
+        "excerpt": "谷歌的互联网搜索市场占有率约70%，掌握如此之多的用户数据，如何保证用户的个人信息安全？",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000006959",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 2
+      }
+    ]
+  },
+  {
+    "word": "现代",
+    "storyId": "translated-concepts-19",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "translated-concepts-19-turn",
+      "name": "与传统相对的制度与生活形态",
+      "shortName": "现代性",
+      "description": "“现代”不只是年代，也可指工业、城市、科学和个人化等制度组合。",
+      "startIndex": 1
+    },
+    "query": "现代性 time:2000s",
+    "totalResults": 1189,
+    "candidates": [
+      {
+        "score": 0.1361,
+        "excerpt": "其实质就在于“重写现代性”。",
+        "year": 2000,
+        "path": "2000s/2000/报刊/人民日报/rmrb_2000_08.txt",
+        "recordId": "13127000002483",
+        "source": "rmrb · 2000 · 08",
+        "hintHits": 0
+      },
+      {
+        "score": 0.1338,
+        "excerpt": "专家研讨“现代性与文艺理论”",
+        "year": 2000,
+        "path": "2000s/2000/报刊/人民日报/rmrb_2000_01.txt",
+        "recordId": "13120000017425",
+        "source": "rmrb · 2000 · 01",
+        "hintHits": 0
+      },
+      {
+        "score": 0.1156,
+        "excerpt": "4、注重现代性，探讨新的写作方式。",
+        "year": 2000,
+        "path": "2000s/2000/报刊/光明日报/2000_07.txt",
+        "recordId": "13138000004112",
+        "source": "2000 · 07",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "现代",
+    "storyId": "translated-concepts-19",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "translated-concepts-19-contemporary",
+      "name": "当代、新式与风格化的“现代”",
+      "shortName": "新式风格",
+      "description": "日常中“现代设计”“现代感”又将它变成对外观、技术和生活方式的评价。",
+      "startIndex": 4
+    },
+    "query": "(现代设计|现代风格|现代感|现代生活) time:2010s",
+    "totalResults": 7412,
+    "candidates": [
+      {
+        "score": 0.2023,
+        "excerpt": "与此同时，培育一大批拥有现代生活理念、享受健康生活方式的中等收入阶层，逐步改变我国社会分配差距过大的状况，从整体上提高国民经济的综合素质。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_06.txt",
+        "recordId": "15074000011896",
+        "source": "rmrb · 2010 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.197,
+        "excerpt": "对文化遗产的传承，在成都，正变成一种现代生活方式、生活风情的再建、再造与传承，渗入城市肌体，成为提升城市形象、凝聚城市文化气质、增加城市认同感的一股重要力量。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_06.txt",
+        "recordId": "15074000023581",
+        "source": "rmrb · 2010 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1899,
+        "excerpt": "在入口处的大厅里，讲述的是墨西哥人的现代生活。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000018878",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      }
+    ]
+  }
+]

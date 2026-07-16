@@ -1,0 +1,182 @@
+[
+  {
+    "word": "党",
+    "storyId": "public-life-04",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "public-life-04-turn",
+      "name": "现代政党组织",
+      "shortName": "现代政党组织",
+      "description": "追踪“党”如何在制度、知识或媒介中稳定为“现代政党组织”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "政党 time:1930s",
+    "totalResults": 26,
+    "candidates": [
+      {
+        "score": 0.077,
+        "excerpt": "“有的，我们的名字是政党。",
+        "year": 1933,
+        "path": "1930s/1933/文学/1933 老舍 《猫城记》.txt",
+        "recordId": "1773000000528",
+        "source": "老舍 《猫城记》",
+        "hintHits": 0
+      },
+      {
+        "score": 0.077,
+        "excerpt": "” “有的，我们的名字是政党。",
+        "year": 1933,
+        "path": "1930s/1933/文学/1933 老舍 猫城记.txt",
+        "recordId": "1789000000009",
+        "source": "老舍 猫城记",
+        "hintHits": 0
+      },
+      {
+        "score": 0.071,
+        "excerpt": "“就是他说的唐云山有政党关系！",
+        "year": 1932,
+        "path": "1930s/1932/文学/1932 茅盾 子夜.txt",
+        "recordId": "1637000004468",
+        "source": "茅盾 子夜",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "领导",
+    "storyId": "public-life-09",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "public-life-09-turn",
+      "name": "组织中的职位与称谓",
+      "shortName": "组织中的职位",
+      "description": "追踪“领导”如何在制度、知识或媒介中稳定为“组织中的职位与称谓”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(单位领导|领导职务|企业领导) time:2010s",
+    "totalResults": 7331,
+    "candidates": [
+      {
+        "score": 0.148,
+        "excerpt": "在突出重点推进查办案件工作方面，重点查处发生在企业领导人员和重要关键岗位人员中的违纪违法案件，严肃查处企业重组兼并、产权交易、资本运营、工程建设等领域的案件，坚决查处商业贿赂、私设“小金库”、企业重组改制中严重侵害职工群众合法权益的案件等。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000035467",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1336,
+        "excerpt": "“非定向推荐市厅级领导职务后备人选，与一般的干部任用前定职位推荐相比，一是职务不定向，只推荐某一层级领导干部，不具体指向某一职位；",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000006280",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1319,
+        "excerpt": "从那时开始，钱学森长期担任火箭导弹和航天器研制的技术领导职务，以他在总体、动力、制导、气动力、结构、材料、计算机、质量控制和科技管理等领域的丰富知识，对中国火箭、导弹和航天事业的发展作出了重大贡献，赢得了“中国航天之父”的美誉。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000003969",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "宪法",
+    "storyId": "public-life-12",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "public-life-12-contemporary",
+      "name": "组织章程与“宪法性”比喻",
+      "shortName": "组织章程",
+      "description": "检查当代“组织章程与“宪法性”比喻”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "经济宪法 time:2010s",
+    "totalResults": 33,
+    "candidates": [
+      {
+        "score": 0.0347,
+        "excerpt": "集众人之智 用好“经济宪法”",
+        "year": 2011,
+        "path": "2010s/2011/报刊/人民日报/rmrb_2011_04.txt",
+        "recordId": "15230000007235",
+        "source": "rmrb · 2011 · 04",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0323,
+        "excerpt": "今年以来，素有“经济宪法”之称的预算法完成20年来首次大修；",
+        "year": 2014,
+        "path": "2010s/2014/报刊/人民日报/rmrb_2014_12.txt",
+        "recordId": "15326000012434",
+        "source": "rmrb · 2014 · 12",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0323,
+        "excerpt": "今年以来，素有“经济宪法”之称的预算法完成20年来首次大修；",
+        "year": 2014,
+        "path": "2010s/2014/报刊/人民日报/rmrb_2014_12.txt",
+        "recordId": "15326000012555",
+        "source": "rmrb · 2014 · 12",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "独立",
+    "storyId": "public-life-18",
+    "topic": "国家与公共生活",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "public-life-18-turn",
+      "name": "政治、法律与机构独立",
+      "shortName": "政治、法律",
+      "description": "追踪“独立”如何在制度、知识或媒介中稳定为“政治、法律与机构独立”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "独立法人 time:2010s",
+    "totalResults": 1212,
+    "candidates": [
+      {
+        "score": 0.0619,
+        "excerpt": "专家指出，中国的博物馆作为政府的附属机构，并非独立法人，导致管理权、产权界限模糊，责任模糊。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_05.txt",
+        "recordId": "15073000007056",
+        "source": "rmrb · 2010 · 05",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0536,
+        "excerpt": "根据昆明市委市政府的部署,原则上政府今后不再投资举办常规医疗机构,采取鼓励和激励政策,吸引各类社会资本,以多种方式参与公立医院改制重组,使其成为独资、股份制或混合所有制,具有独立法人地位的经营主体。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_05.txt",
+        "recordId": "15085000015597",
+        "source": "2010 · 05",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0485,
+        "excerpt": "这个机构由省级卫生行政部门确定，并具备独立法人及采购资格，同时搭建非营利性网上集中采购平台。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_12.txt",
+        "recordId": "15080000032753",
+        "source": "rmrb · 2010 · 12",
+        "hintHits": 0
+      }
+    ]
+  }
+]

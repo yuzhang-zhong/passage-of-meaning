@@ -1,0 +1,1267 @@
+[
+  {
+    "word": "身体",
+    "storyId": "self-and-feeling-01",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-01-turn",
+      "name": "医学、教育与现代身体观",
+      "shortName": "医学、教育",
+      "description": "追踪“身体”如何在制度、知识或媒介中稳定为“医学、教育与现代身体观”，并找出关键转折文本。",
+      "startIndex": 0
+    },
+    "query": "(身体教育|身体医学|身体观念) time:1950s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "身体",
+    "storyId": "self-and-feeling-01",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "self-and-feeling-01-contemporary",
+      "name": "身体管理、身份表达与可穿戴数据",
+      "shortName": "身体管理、身份表",
+      "description": "检查当代“身体管理、身份表达与可穿戴数据”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 4
+    },
+    "query": "(身体管理|身体数据|可穿戴身体) time:2010s",
+    "totalResults": 49,
+    "candidates": [
+      {
+        "score": 0.4133,
+        "excerpt": "也要学会身体管理！",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/微信公众号/Wechat_051.txt",
+        "recordId": "15612000007225",
+        "source": "Wechat · 051",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2818,
+        "excerpt": "不做身体管理，任由体型发展。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/微信公众号/Wechat_222.txt",
+        "recordId": "15783000009059",
+        "source": "Wechat · 222",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2467,
+        "excerpt": "节食除外，她对身体管理极为严格。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/中文维基/Wiki_059.txt",
+        "recordId": "15530000012975",
+        "source": "Wiki · 059",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "健康",
+    "storyId": "self-and-feeling-02",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "self-and-feeling-02-contemporary",
+      "name": "心理健康、生活方式与数字健康",
+      "shortName": "心理健康、生活方",
+      "description": "检查当代“心理健康、生活方式与数字健康”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(心理健康|数字健康|健康生活方式) time:2010s",
+    "totalResults": 9194,
+    "candidates": [
+      {
+        "score": 0.4084,
+        "excerpt": "倡导健康生活方式，促进国民身心健康。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000026263",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.355,
+        "excerpt": "宣传艾滋病预防措施，倡导健康生活方式等。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_04.txt",
+        "recordId": "15072000046405",
+        "source": "rmrb · 2010 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.3155,
+        "excerpt": "慢性病防治工作也要立足预防，提倡健康生活方式；",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000038159",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "卫生",
+    "storyId": "self-and-feeling-03",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "self-and-feeling-03-contemporary",
+      "name": "个人卫生、环境卫生与安全标准",
+      "shortName": "个人卫生、环境卫",
+      "description": "检查当代“个人卫生、环境卫生与安全标准”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(个人卫生|环境卫生|卫生标准) time:2010s",
+    "totalResults": 8391,
+    "candidates": [
+      {
+        "score": 0.284,
+        "excerpt": "为彻底改变农村环境卫生，林州市在全市开展了“清洁家园活动”，制定了农村环境卫生标准，要求各村在调研讨论的基础上，本着方便群众，保护环境的原则，统一建立了垃圾点，组建了“环卫队”，市乡两级还给一些重点村、困难村配备了环卫车等设备。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_05.txt",
+        "recordId": "15073000020673",
+        "source": "rmrb · 2010 · 05",
+        "hintHits": 2
+      },
+      {
+        "score": 0.2479,
+        "excerpt": "去年居民个人卫生支出比重继续下降",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000007394",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2383,
+        "excerpt": "确保震区环境卫生，让群众吃上放心食品",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_04.txt",
+        "recordId": "15072000004263",
+        "source": "rmrb · 2010 · 04",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "精神",
+    "storyId": "self-and-feeling-04",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-04-turn",
+      "name": "哲学、医学与现代 mind/spirit 概念",
+      "shortName": "哲学、医学",
+      "description": "追踪“精神”如何在制度、知识或媒介中稳定为“哲学、医学与现代 mind/spirit 概念”，并找出关键转折文本。",
+      "startIndex": 0
+    },
+    "query": "(精神医学|精神哲学|精神分析) time:1950s",
+    "totalResults": 7,
+    "candidates": [
+      {
+        "score": 0.1234,
+        "excerpt": "现代的精神分析论者们否认那种建立在对人体器官机能过程的科学认识上的原因治疗和病原治疗的原则。",
+        "year": 1953,
+        "path": "1950s/1953/报刊/人民日报/rmrb_1953_01.txt",
+        "recordId": "3631000000966",
+        "source": "rmrb · 1953 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1168,
+        "excerpt": "起初，我思想上是很糊涂的，后来看了人民日报的社论，再根据这些社论的精神分析自己的思想，观察周围的人物，于是我明白了，毛病就发生在我们旧知识分子队伍中相当一部分人还是不同程度的站在资产阶级的立场上。",
+        "year": 1957,
+        "path": "1950s/1957/报刊/人民日报/rmrb_1957_09.txt",
+        "recordId": "3770000008907",
+        "source": "rmrb · 1957 · 09",
+        "hintHits": 1
+      },
+      {
+        "score": 0.111,
+        "excerpt": "我反对弗洛伊德精神分析学，因此并不同意法朗士小说主题所暗示的结论。",
+        "year": 1957,
+        "path": "1950s/1957/报刊/人民日报/rmrb_1957_09.txt",
+        "recordId": "3770000013831",
+        "source": "rmrb · 1957 · 09",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "精神",
+    "storyId": "self-and-feeling-04",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "self-and-feeling-04-contemporary",
+      "name": "团队精神、精神状态与文化象征",
+      "shortName": "团队精神、精神状",
+      "description": "检查当代“团队精神、精神状态与文化象征”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 4
+    },
+    "query": "(团队精神|精神状态|精神象征) time:2010s",
+    "totalResults": 13984,
+    "candidates": [
+      {
+        "score": 0.2868,
+        "excerpt": "目前他们身体和精神状态良好。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000022577",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2667,
+        "excerpt": "乳腺增生的形成主要与精神状态有关。",
+        "year": 2010,
+        "path": "2010s/2010/应用文/健康养生/2010 郑悠然 It_Girl身体保养100分.txt",
+        "recordId": "15063000000335",
+        "source": "郑悠然 It · Girl身体保养100分",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2541,
+        "excerpt": "”“上后夜班，大家要保持良好的精神状态。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000008181",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "心理",
+    "storyId": "self-and-feeling-05",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "self-and-feeling-05-contemporary",
+      "name": "用户心理、消费心理与自我诊断语言",
+      "shortName": "用户心理、消费心",
+      "description": "检查当代“用户心理、消费心理与自我诊断语言”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(用户心理|消费心理|心理测试) time:2010s",
+    "totalResults": 1509,
+    "candidates": [
+      {
+        "score": 0.3272,
+        "excerpt": "消费心理从传统转向前卫。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000004790",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.3272,
+        "excerpt": "消费心理从传统转向前卫。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000004799",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2156,
+        "excerpt": "作者往往根据消费者或用户所处的生活环境和使用某种产品或劳务的真实情景创作广告文稿，使广告诉求意愿正好同消费者或用户的需求心理、消费心理和购买心理不谋而合。",
+        "year": 2011,
+        "path": "2010s/2011/应用文/社会科学/2011 Author 第12单元_哈佛经理公关艺术.txt",
+        "recordId": "15224000003907",
+        "source": "Author 第12单元 · 哈佛经理公关艺术",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "情感",
+    "storyId": "self-and-feeling-06",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "self-and-feeling-06-contemporary",
+      "name": "情感价值、情感劳动与情绪数据",
+      "shortName": "情感价值、情感劳",
+      "description": "检查当代“情感价值、情感劳动与情绪数据”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(情感劳动|情感价值|情感数据) time:2010s",
+    "totalResults": 165,
+    "candidates": [
+      {
+        "score": 0.4032,
+        "excerpt": "精神还乡的情感价值",
+        "year": 2012,
+        "path": "2010s/2012/报刊/光明日报/2012_02.txt",
+        "recordId": "15273000012551",
+        "source": "2012 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.3138,
+        "excerpt": "文学批评要有情感价值维度。",
+        "year": 2013,
+        "path": "2010s/2013/报刊/光明日报/2013_02.txt",
+        "recordId": "15303000011022",
+        "source": "2013 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2746,
+        "excerpt": "文化产品集情感价值、审美价值、思想价值于一体。",
+        "year": 2017,
+        "path": "2010s/2017/报刊/人民日报/rmrb_2017_07.txt",
+        "recordId": "15395000020541",
+        "source": "rmrb · 2017 · 07",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "爱情",
+    "storyId": "self-and-feeling-07",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-07-turn",
+      "name": "自由恋爱、婚姻选择与现代爱情",
+      "shortName": "自由恋爱、婚姻选",
+      "description": "追踪“爱情”如何在制度、知识或媒介中稳定为“自由恋爱、婚姻选择与现代爱情”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(自由恋爱|爱情婚姻|恋爱自由) time:1930s",
+    "totalResults": 12,
+    "candidates": []
+  },
+  {
+    "word": "爱情",
+    "storyId": "self-and-feeling-07",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "self-and-feeling-07-contemporary",
+      "name": "亲密关系、媒介脚本与平台匹配",
+      "shortName": "亲密关系、媒介脚",
+      "description": "检查当代“亲密关系、媒介脚本与平台匹配”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(爱情匹配|爱情平台|爱情脚本|亲密关系) time:2010s",
+    "totalResults": 2075,
+    "candidates": [
+      {
+        "score": 0.1207,
+        "excerpt": "为此，这一展览提供了“低碳的爱情匹配模式”、“低碳的婚恋方式”以及“低碳的结婚模式”等低碳婚恋建议。",
+        "year": 2011,
+        "path": "2010s/2011/报刊/人民日报/rmrb_2011_04.txt",
+        "recordId": "15230000025433",
+        "source": "rmrb · 2011 · 04",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "隐私",
+    "storyId": "self-and-feeling-08",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-08-turn",
+      "name": "现代法律中的私人领域与隐私权",
+      "shortName": "现代法律中的私人",
+      "description": "追踪“隐私”如何在制度、知识或媒介中稳定为“现代法律中的私人领域与隐私权”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(隐私权|法律隐私|私人领域) time:1990s",
+    "totalResults": 251,
+    "candidates": [
+      {
+        "score": 0.323,
+        "excerpt": "隐私权及其法律特征",
+        "year": 1993,
+        "path": "1990s/1993/报刊/光明日报/1993_05.txt",
+        "recordId": "6832000002026",
+        "source": "1993 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2161,
+        "excerpt": "所以，隐私权只有公民享有。",
+        "year": 1993,
+        "path": "1990s/1993/报刊/光明日报/1993_05.txt",
+        "recordId": "6832000002027",
+        "source": "1993 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2046,
+        "excerpt": "隐私权具有严格的人身性，即隐私权属于自然人的一种人身权利。",
+        "year": 1993,
+        "path": "1990s/1993/报刊/光明日报/1993_05.txt",
+        "recordId": "6832000002027",
+        "source": "1993 · 05",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "隐私",
+    "storyId": "self-and-feeling-08",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "self-and-feeling-08-contemporary",
+      "name": "个人信息、数据追踪与平台隐私",
+      "shortName": "个人信息、数据追",
+      "description": "检查当代“个人信息、数据追踪与平台隐私”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(数据隐私|平台隐私|隐私追踪) time:2010s",
+    "totalResults": 87,
+    "candidates": [
+      {
+        "score": 0.2253,
+        "excerpt": "强化公民信息数据隐私保护，加强数据模糊化处理等隐私保护技术的开发使用。",
+        "year": 2016,
+        "path": "2010s/2016/报刊/人民日报/rmrb_2016_10.txt",
+        "recordId": "15374000013123",
+        "source": "rmrb · 2016 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2103,
+        "excerpt": "个人数据隐私保护是否全面？",
+        "year": 2018,
+        "path": "2010s/2018/报刊/人民日报/rmrb_2018_02.txt",
+        "recordId": "15416000000785",
+        "source": "rmrb · 2018 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2007,
+        "excerpt": "数据隐私和数据分享（各抒己见）",
+        "year": 2018,
+        "path": "2010s/2018/报刊/人民日报/rmrb_2018_04.txt",
+        "recordId": "15418000031481",
+        "source": "rmrb · 2018 · 04",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "婚姻",
+    "storyId": "self-and-feeling-09",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "self-and-feeling-09-contemporary",
+      "name": "亲密合作、非婚生活与平台婚恋",
+      "shortName": "亲密合作、非婚生",
+      "description": "检查当代“亲密合作、非婚生活与平台婚恋”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(婚恋平台|非婚生活|婚姻合作) time:2010s",
+    "totalResults": 46,
+    "candidates": [
+      {
+        "score": 0.0181,
+        "excerpt": "若是对方是个十足的大男人，又懒得动，也p你的付出，请想想这是否是你要的婚姻生活。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/微信公众号/Wechat_156.txt",
+        "recordId": "15717000007308",
+        "source": "Wechat · 156",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0175,
+        "excerpt": "狮子座学历：本科职业：职员现工作地：海淀户口所在地：北京婚姻状况：未婚经济状况：10W+有无房产、汽车：有房无车信仰：佛教吃素爱好：看书，中医养生，传统文化家庭情况：父母弟弟个人简介：真诚亲和力好，喜欢居家生活，工作单纯稳定，经历简单。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/微信公众号/Wechat_156.txt",
+        "recordId": "15717000007292",
+        "source": "Wechat · 156",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0175,
+        "excerpt": "狮子座学历：本科职业：职员现工作地：海淀户口所在地：北京婚姻状况：未婚经济状况：10W+有无房产、汽车：有房无车信仰：佛教吃素爱好：看书，中医养生，传统文化家庭情况：父母弟弟个人简介：真诚亲和力好，喜欢居家生活，工作单纯稳定，经历简单。",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/微信公众号/Wechat_156.txt",
+        "recordId": "15717000007322",
+        "source": "Wechat · 156",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "家庭",
+    "storyId": "self-and-feeling-10",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "self-and-feeling-10-contemporary",
+      "name": "多元家庭、家庭分工与智能家庭",
+      "shortName": "多元家庭、家庭分",
+      "description": "检查当代“多元家庭、家庭分工与智能家庭”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 4
+    },
+    "query": "(家庭分工|智能家庭|多元家庭) time:2010s",
+    "totalResults": 162,
+    "candidates": [
+      {
+        "score": 0.4383,
+        "excerpt": "智能家庭，鼠标遥控",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_07.txt",
+        "recordId": "15075000005718",
+        "source": "rmrb · 2010 · 07",
+        "hintHits": 1
+      },
+      {
+        "score": 0.3474,
+        "excerpt": "“智能家居”则展示将到来的智能家庭时代。",
+        "year": 2013,
+        "path": "2010s/2013/报刊/人民日报/rmrb_2013_10.txt",
+        "recordId": "15299000018149",
+        "source": "rmrb · 2013 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2636,
+        "excerpt": "在家庭分工方面，唐卡制作家庭的工作安排是灵活的。",
+        "year": 2016,
+        "path": "2010s/2016/报刊/光明日报/2016_08.txt",
+        "recordId": "15384000004045",
+        "source": "2016 · 08",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "亲密",
+    "storyId": "self-and-feeling-11",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-11-turn",
+      "name": "现代心理与社会学中的亲密关系",
+      "shortName": "现代心理",
+      "description": "追踪“亲密”如何在制度、知识或媒介中稳定为“现代心理与社会学中的亲密关系”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(亲密关系|亲密社会学|亲密心理) time:1990s",
+    "totalResults": 252,
+    "candidates": [
+      {
+        "score": 0.4032,
+        "excerpt": "１．亲密关系与自我承认",
+        "year": 1992,
+        "path": "1990s/1992/应用文/社会科学/1992 王登峰_张伯源 大学生心理卫生与咨询.txt",
+        "recordId": "5965000000269",
+        "source": "王登峰 · 张伯源 大学生心理卫生与咨询",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2925,
+        "excerpt": "新形势下依然保持着鱼水相依的亲密关系",
+        "year": 1992,
+        "path": "1990s/1992/报刊/人民日报/rmrb_1992_08.txt",
+        "recordId": "5973000003563",
+        "source": "rmrb · 1992 · 08",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2791,
+        "excerpt": "体现党同鲁迅亲密关系的重要文献",
+        "year": 1992,
+        "path": "1990s/1992/报刊/人民日报/rmrb_1992_07.txt",
+        "recordId": "5972000004400",
+        "source": "rmrb · 1992 · 07",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "亲密",
+    "storyId": "self-and-feeling-11",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "self-and-feeling-11-contemporary",
+      "name": "数字亲密、边界协商与亲密劳动",
+      "shortName": "数字亲密、边界协",
+      "description": "检查当代“数字亲密、边界协商与亲密劳动”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(数字亲密|亲密边界|亲密劳动) time:2010s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "性",
+    "storyId": "self-and-feeling-12",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-12-turn",
+      "name": "现代医学、法律与性概念",
+      "shortName": "现代医学、法律",
+      "description": "追踪“性”如何在制度、知识或媒介中稳定为“现代医学、法律与性概念”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(性医学|性教育|性权利) time:1990s",
+    "totalResults": 902,
+    "candidates": [
+      {
+        "score": 0.1301,
+        "excerpt": "为此，他们在对党员进行党性教育的同时，还对有关党内生活制度重新作了强调。",
+        "year": 1990,
+        "path": "1990s/1990/报刊/人民日报/rmrb_1990_12.txt",
+        "recordId": "5666000002351",
+        "source": "rmrb · 1990 · 12",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1252,
+        "excerpt": "脱产半个月，学习马克思主义基本知识，进行社会主义优越性教育、中共党史教育、中国近代史教育和厂史教育。",
+        "year": 1990,
+        "path": "1990s/1990/报刊/人民日报/rmrb_1990_06.txt",
+        "recordId": "5660000003538",
+        "source": "rmrb · 1990 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.121,
+        "excerpt": "亚运工程的建设，既是社会主义制度优越性的具体体现，又是进行社会主义优越性教育的好典型。",
+        "year": 1990,
+        "path": "1990s/1990/报刊/光明日报/1990_07.txt",
+        "recordId": "5667000001431",
+        "source": "1990 · 07",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "性",
+    "storyId": "self-and-feeling-12",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "self-and-feeling-12-contemporary",
+      "name": "性身份、性健康与媒介表达",
+      "shortName": "性身份、性健康",
+      "description": "检查当代“性身份、性健康与媒介表达”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(性身份|性健康|性表达) time:2010s",
+    "totalResults": 3186,
+    "candidates": [
+      {
+        "score": 0.2755,
+        "excerpt": "1性健康教育存在“禁区”",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_09.txt",
+        "recordId": "15077000001316",
+        "source": "rmrb · 2010 · 09",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2512,
+        "excerpt": "有助女性健康的几种营养素",
+        "year": 2010,
+        "path": "2010s/2010/应用文/健康养生/2010 健康饮食委员会 吃对不生病.txt",
+        "recordId": "15057000000577",
+        "source": "健康饮食委员会 吃对不生病",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2428,
+        "excerpt": "全国男性健康救助工程启动",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_06.txt",
+        "recordId": "15074000038478",
+        "source": "rmrb · 2010 · 06",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "性别",
+    "storyId": "self-and-feeling-13",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "self-and-feeling-13-contemporary",
+      "name": "性别身份、平等与平台标签",
+      "shortName": "性别身份、平等",
+      "description": "检查当代“性别身份、平等与平台标签”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(性别身份|性别平等|性别标签) time:2010s",
+    "totalResults": 1259,
+    "candidates": [
+      {
+        "score": 0.1516,
+        "excerpt": "会上，女学者们就《从男女平等作为我国基本国策说起》、《以科研促进性别平等和妇女发展》、《新中国的成立与发展为妇女事业的繁荣提供了广阔平台》、《一个女性的起步，抉择与希望》、《马克思主义妇女观的基本问题》等作了发言，回顾了新中国成立60年特…",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_03.txt",
+        "recordId": "15083000016063",
+        "source": "2010 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1505,
+        "excerpt": "国务院新闻办公室在2005年发布的《中国性别平等与妇女发展状况》白皮书中指出：“中国不断完善维护妇女权益的法律体系，制定并实施妇女发展纲要，进一步健全工作机构，加大资金投入，加强社会动员，努力促进性别平等和妇女发展。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000034893",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1405,
+        "excerpt": "性别平等在宪法上的体现和确立为我国妇女投身于社会主义现代化建设创造了与男子平等的法定权利。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_03.txt",
+        "recordId": "15083000003938",
+        "source": "2010 · 03",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "美",
+    "storyId": "self-and-feeling-14",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-14-turn",
+      "name": "审美判断与现代美的标准",
+      "shortName": "审美判断",
+      "description": "追踪“美”如何在制度、知识或媒介中稳定为“审美判断与现代美的标准”，并找出关键转折文本。",
+      "startIndex": 0
+    },
+    "query": "(审美判断|美的标准|美学) time:1930s",
+    "totalResults": 14,
+    "candidates": [
+      {
+        "score": 0.1788,
+        "excerpt": "因为假如“健美”的名称很早就有，我们相信贾宝玉也很会把肺病到第二期的林黛玉捧作健美的标准的吧。",
+        "year": 1935,
+        "path": "1930s/1935/文学/1935 徐訏 谈美丽病.txt",
+        "recordId": "2282000000009",
+        "source": "徐訏 谈美丽病",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1661,
+        "excerpt": "近来有许多提倡健康美的艺术家，把小姐们半身的，穿着游泳衣的与穿运动衣的照相，介绍给我们，指示我们这是健美的标准，叫人摆脱东方病态美的典型，来模仿他们。",
+        "year": 1935,
+        "path": "1930s/1935/文学/1935 徐訏 谈美丽病.txt",
+        "recordId": "2282000000007",
+        "source": "徐訏 谈美丽病",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1555,
+        "excerpt": "美的标准原是由社会而变的，当初是皇帝的世界，觉得宫殿里需要袅袅的女子，于是女子们都来缠脚了，皇帝要胖太太，于是胖子都是美人，人才们都歌颂丰腴；",
+        "year": 1935,
+        "path": "1930s/1935/文学/1935 徐訏 谈美丽病.txt",
+        "recordId": "2282000000013",
+        "source": "徐訏 谈美丽病",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "美",
+    "storyId": "self-and-feeling-14",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "self-and-feeling-14-contemporary",
+      "name": "美化、美颜与界面视觉评价",
+      "shortName": "美化、美颜",
+      "description": "检查当代“美化、美颜与界面视觉评价”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 4
+    },
+    "query": "(美颜|美化界面|视觉美) time:2010s",
+    "totalResults": 2484,
+    "candidates": [
+      {
+        "score": 0.2018,
+        "excerpt": "吃出美颜新“食尚”",
+        "year": 2010,
+        "path": "2010s/2010/应用文/健康养生/2010 张小暖 女人养颜经.txt",
+        "recordId": "15060000000570",
+        "source": "张小暖 女人养颜经",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1731,
+        "excerpt": "美颜经络，自在手中",
+        "year": 2010,
+        "path": "2010s/2010/应用文/健康养生/2010 张小暖 女人养颜经.txt",
+        "recordId": "15060000000710",
+        "source": "张小暖 女人养颜经",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1645,
+        "excerpt": "可以说，在色彩的使用上，冯丽莎作品的视觉美感、意象表现、强弱对比等方面都达到了一种境界。",
+        "year": 2013,
+        "path": "2010s/2013/报刊/人民日报/rmrb_2013_08.txt",
+        "recordId": "15297000030681",
+        "source": "rmrb · 2013 · 08",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "时尚",
+    "storyId": "self-and-feeling-15",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-15-turn",
+      "name": "现代 fashion 产业与消费品位",
+      "shortName": "现代 fashi",
+      "description": "追踪“时尚”如何在制度、知识或媒介中稳定为“现代 fashion 产业与消费品位”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(时尚产业|时尚消费|时尚设计) time:1990s",
+    "totalResults": 18,
+    "candidates": [
+      {
+        "score": 0.1487,
+        "excerpt": "洗衣机、电视机、录像机、空调、程控电话等耐用高档消费品进入寻常百姓家，视影、旅游等文化时尚消费已步入城乡人民的生活。",
+        "year": 1994,
+        "path": "1990s/1994/报刊/报刊精选/1994年《报刊精选》09.txt",
+        "recordId": "8155000017298",
+        "source": "1994年《报刊精选》09",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1406,
+        "excerpt": "它包括消费领域的创新形式如时尚消费，生产领域的新兴行业如电脑、网络业，预示着传统的实物经济向知识经济的转化，数量经济向质量经济的转化，知识成为土地、资本、劳动力之外的又一个生产要素。",
+        "year": 1999,
+        "path": "1990s/1999/报刊/人民日报/rmrb_1999_12.txt",
+        "recordId": "12942000004639",
+        "source": "rmrb · 1999 · 12",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1358,
+        "excerpt": "而在《“洋”食为何如此多》和《洋食品顺应了时尚消费》两篇文章中，作者从消费者的消费心态分析了这类食品之所以在市场中获取一席之地的原因。",
+        "year": 1994,
+        "path": "1990s/1994/报刊/人民日报/rmrb_1994_12.txt",
+        "recordId": "6976000017907",
+        "source": "rmrb · 1994 · 12",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "时尚",
+    "storyId": "self-and-feeling-15",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "self-and-feeling-15-contemporary",
+      "name": "潮流标签、生活方式与快时尚",
+      "shortName": "潮流标签、生活方",
+      "description": "检查当代“潮流标签、生活方式与快时尚”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(快时尚|时尚生活方式|时尚潮流) time:2010s",
+    "totalResults": 2438,
+    "candidates": [
+      {
+        "score": 0.3061,
+        "excerpt": "如今,简单生活已成为一种时尚潮流。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_04.txt",
+        "recordId": "15072000040048",
+        "source": "rmrb · 2010 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2791,
+        "excerpt": "年轻一代是催生“快时尚”的主流群体。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_05.txt",
+        "recordId": "15073000001841",
+        "source": "rmrb · 2010 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2717,
+        "excerpt": "“快时尚”的风靡有全球性的大背景。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_05.txt",
+        "recordId": "15073000001840",
+        "source": "rmrb · 2010 · 05",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "青春",
+    "storyId": "self-and-feeling-16",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-16-turn",
+      "name": "现代教育、文学与世代叙事",
+      "shortName": "现代教育、文学",
+      "description": "追踪“青春”如何在制度、知识或媒介中稳定为“现代教育、文学与世代叙事”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(青春文学|青春教育|青春一代) time:1950s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "青春",
+    "storyId": "self-and-feeling-16",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "self-and-feeling-16-contemporary",
+      "name": "青春感、怀旧与抗衰消费",
+      "shortName": "青春感、怀旧",
+      "description": "检查当代“青春感、怀旧与抗衰消费”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(青春感|青春记忆|青春消费) time:2010s",
+    "totalResults": 822,
+    "candidates": [
+      {
+        "score": 0.1834,
+        "excerpt": "剧中人的青春感慨，引发了一代人的共鸣。",
+        "year": 2011,
+        "path": "2010s/2011/报刊/人民日报/rmrb_2011_01.txt",
+        "recordId": "15227000021526",
+        "source": "rmrb · 2011 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1828,
+        "excerpt": "《归》是关于乡情与思念的静美，《青春往事》是关于青春感怀和追忆青春的静美。",
+        "year": 2013,
+        "path": "2010s/2013/报刊/人民日报/rmrb_2013_12.txt",
+        "recordId": "15301000023676",
+        "source": "rmrb · 2013 · 12",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1657,
+        "excerpt": "他们结合各自岗位和成长经历，抒发了与祖国共奋进、与时代齐发展的青春感受，表示要坚定跟党走的信念，勇敢担负起当代青年的历史责任，为国家富强、民族振兴、人民幸福而不懈奋斗。",
+        "year": 2013,
+        "path": "2010s/2013/报刊/人民日报/rmrb_2013_05.txt",
+        "recordId": "15294000041516",
+        "source": "rmrb · 2013 · 05",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "焦虑",
+    "storyId": "self-and-feeling-17",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "self-and-feeling-17-contemporary",
+      "name": "容貌、职业、信息与平台焦虑",
+      "shortName": "容貌、职业、信息",
+      "description": "检查当代“容貌、职业、信息与平台焦虑”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(容貌焦虑|职业焦虑|信息焦虑) time:2010s",
+    "totalResults": 59,
+    "candidates": [
+      {
+        "score": 0.2485,
+        "excerpt": "如何避免信息过量和信息焦虑？",
+        "year": 2019,
+        "path": "2010s/2019/报刊/光明日报/2019_05.txt",
+        "recordId": "15456000001556",
+        "source": "2019 · 05",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2059,
+        "excerpt": "在移动互联时代寻求信息焦虑的解脱之道",
+        "year": 2014,
+        "path": "2010s/2014/报刊/人民日报/rmrb_2014_10.txt",
+        "recordId": "15324000006661",
+        "source": "rmrb · 2014 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1927,
+        "excerpt": "信息焦虑从何而来？",
+        "year": 2018,
+        "path": "2010s/2018/报刊/人民日报/rmrb_2018_06.txt",
+        "recordId": "15420000029481",
+        "source": "rmrb · 2018 · 06",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "压力",
+    "storyId": "self-and-feeling-18",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "self-and-feeling-18-contemporary",
+      "name": "职场压力、同侪压力与指标负担",
+      "shortName": "职场压力、同侪压",
+      "description": "检查当代“职场压力、同侪压力与指标负担”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(职场压力|同侪压力|指标压力) time:2010s",
+    "totalResults": 159,
+    "candidates": [
+      {
+        "score": 0.48,
+        "excerpt": "[文章名]: 同侪压力",
+        "year": 2010,
+        "path": "2010s/201x/网络语料/中文维基/Wiki_050.txt",
+        "recordId": "15521000008224",
+        "source": "Wiki · 050",
+        "hintHits": 1
+      },
+      {
+        "score": 0.4032,
+        "excerpt": "无处可逃的职场压力",
+        "year": 2013,
+        "path": "2010s/2013/报刊/人民日报/rmrb_2013_06.txt",
+        "recordId": "15295000028990",
+        "source": "rmrb · 2013 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.337,
+        "excerpt": "这才是他职场压力的根源。",
+        "year": 2014,
+        "path": "2010s/2014/报刊/人民日报/rmrb_2014_10.txt",
+        "recordId": "15324000031832",
+        "source": "rmrb · 2014 · 10",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "幸福",
+    "storyId": "self-and-feeling-19",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-19-turn",
+      "name": "现代个人感受与社会目标",
+      "shortName": "现代个人感受",
+      "description": "追踪“幸福”如何在制度、知识或媒介中稳定为“现代个人感受与社会目标”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(幸福感|幸福生活|个人幸福) time:1950s",
+    "totalResults": 2488,
+    "candidates": [
+      {
+        "score": 0.1398,
+        "excerpt": "中华全国总工会文教部部长刘子久于讲话中说：今天我们搬运工人也与其他的工人群众一样，社会政治地位起了一个根本的变化，已成了国家社会的领导阶级与主人，我们可以自由地用我们自己的劳动创造我们将来的幸福生活。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000016129",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1355,
+        "excerpt": "我亲眼看见了这些国家的人民如何在献身于和平、自由和幸福生活的建设，他们对和平的希望是如何强烈，以及他们对战争的憎恨是如何强烈。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_06.txt",
+        "recordId": "3545000003042",
+        "source": "rmrb · 1950 · 06",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1298,
+        "excerpt": "看了这个农展会，不特使我们更加深刻的认识了中国农民数千年来所受的苦难，同时也看到老解放区农民在共产党领导土地改革后的幸福生活，和他们如何组织起来与灾害斗争的画面……使人们对未来新中国的农村，有了无限光明与美丽的希望。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000013600",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "幸福",
+    "storyId": "self-and-feeling-19",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "self-and-feeling-19-contemporary",
+      "name": "幸福指数、情绪管理与消费承诺",
+      "shortName": "幸福指数、情绪管",
+      "description": "检查当代“幸福指数、情绪管理与消费承诺”的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(幸福指数|幸福管理|幸福消费) time:2010s",
+    "totalResults": 4052,
+    "candidates": [
+      {
+        "score": 0.453,
+        "excerpt": "国民幸福指数（链接）",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_04.txt",
+        "recordId": "15072000045904",
+        "source": "rmrb · 2010 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.3907,
+        "excerpt": "“幸福指数大幅提高了。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000022410",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.3907,
+        "excerpt": "“幸福指数大幅提高了。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000023567",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "生活",
+    "storyId": "self-and-feeling-20",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "self-and-feeling-20-turn",
+      "name": "现代日常经验与家庭社会生活",
+      "shortName": "现代日常经验",
+      "description": "追踪“生活”如何在制度、知识或媒介中稳定为“现代日常经验与家庭社会生活”，并找出关键转折文本。",
+      "startIndex": 3
+    },
+    "query": "(日常生活|家庭生活|社会生活) time:1950s",
+    "totalResults": 3592,
+    "candidates": [
+      {
+        "score": 0.2723,
+        "excerpt": "现在来谈谈社会生活的种种问题吧！",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000017020",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2383,
+        "excerpt": "苏联的妇女积极的参加政府和社会生活。",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000001358",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2182,
+        "excerpt": "要与周围人民群众密切联系，经常积极参加社会生活；",
+        "year": 1950,
+        "path": "1950s/1950/报刊/人民日报/rmrb_1950_01.txt",
+        "recordId": "3540000017000",
+        "source": "rmrb · 1950 · 01",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "生活",
+    "storyId": "self-and-feeling-20",
+    "topic": "身体、情感与自我",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "self-and-feeling-20-contemporary",
+      "name": "生活方式、内容分类与“会生活”",
+      "shortName": "生活方式、内容分",
+      "description": "检查当代“生活方式、内容分类与“会生活””的使用者、媒介与边界，避免把热度直接当成新义。",
+      "startIndex": 5
+    },
+    "query": "(生活方式|生活内容|会生活) time:2010s",
+    "totalResults": 49791,
+    "candidates": [
+      {
+        "score": 0.2868,
+        "excerpt": "改变生活方式，痰湿体质吃着“化”",
+        "year": 2010,
+        "path": "2010s/2010/应用文/健康养生/2010 姬晓安 好肤色_吃出来.txt",
+        "recordId": "15059000000288",
+        "source": "姬晓安 好肤色 · 吃出来",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2843,
+        "excerpt": "展望未来，低碳经济必将渗透到我国工农业生产和社会生活的各个领域，促进生产生活方式的深刻转变。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000004883",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 2
+      },
+      {
+        "score": 0.2656,
+        "excerpt": "不正确的生活方式：洗澡洗掉一层皮",
+        "year": 2010,
+        "path": "2010s/2010/应用文/健康养生/2010 张小暖 女人养颜经.txt",
+        "recordId": "15060000000483",
+        "source": "张小暖 女人养颜经",
+        "hintHits": 1
+      }
+    ]
+  }
+]

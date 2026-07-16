@@ -1,0 +1,1637 @@
+[
+  {
+    "word": "科学",
+    "storyId": "translated-concepts-02",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "translated-concepts-02-turn",
+      "name": "学科制度、方法与知识体系",
+      "shortName": "现代科学",
+      "description": "指向专业共同体、可检验方法和分科知识制度的现代概念。",
+      "startIndex": 1
+    },
+    "query": "科学 (科学方法|科学研究|科学知识|自然科学) time:1920s",
+    "totalResults": 12,
+    "candidates": [
+      {
+        "score": 0.1537,
+        "excerpt": "自然科学的基础在试验，而教育的试验是不大方便的，这并非试验方法之不相通，只是试验材料的不相同。",
+        "year": 1929,
+        "path": "1920s/1929/文学/1929 俞平伯 教育论_上.txt",
+        "recordId": "1300000000000",
+        "source": "俞平伯 教育论 · 上",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1528,
+        "excerpt": "至于知识一方面，固然要用科学方法来研究，而我所希望的，是科学不但应用于求知识，还要用来做自己人格修养的工具。",
+        "year": 1927,
+        "path": "1920s/1927/文学/1927 梁启超 北海谈话记(节录).txt",
+        "recordId": "995000000000",
+        "source": "梁启超 北海谈话记(节录)",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1459,
+        "excerpt": "“什么事经科学方法分析没有种类呢，真是！",
+        "year": 1927,
+        "path": "1920s/1927/文学/1927 老舍 赵子曰.txt",
+        "recordId": "1005000000268",
+        "source": "老舍 赵子曰",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "科学",
+    "storyId": "translated-concepts-02",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "translated-concepts-02-contemporary",
+      "name": "“科学的”日常判断标准",
+      "shortName": "判断标准",
+      "description": "从学科名称扩展为对方法、管理和生活选择的合理性评价。",
+      "startIndex": 4
+    },
+    "query": "科学 (合理|方法|管理|决策) time:2010s",
+    "totalResults": 124913,
+    "candidates": [
+      {
+        "score": 0.2666,
+        "excerpt": "迄今已经实践证明的、行之有效的减肥方法很多，主要有饮食疗法，即通过建立科学的生活方式、合理安排饮食和睡眠，控制体重，从预防身体“发福”开始，以有效地控制肥胖。",
+        "year": 2010,
+        "path": "2010s/2010/应用文/健康养生/2010 温长路 俗言俚语话养生.txt",
+        "recordId": "15061000000161",
+        "source": "温长路 俗言俚语话养生",
+        "hintHits": 2
+      },
+      {
+        "score": 0.2638,
+        "excerpt": "2、管理学科及其相关科学的知识；",
+        "year": 2010,
+        "path": "2010s/2010/应用文/社会科学/2010 Author MBA宝典.txt",
+        "recordId": "15066000001329",
+        "source": "Author MBA宝典",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2127,
+        "excerpt": "EMBA是对已有多年管理经验，在实践上已有相当建树的总裁阶层人员进行正规管理教育的学位，旨在帮助他们总结提高已有的丰富经验并进行系统的理论训练，使其决策和领导能力更上一层楼，管理实践更加科学化、规范化。",
+        "year": 2010,
+        "path": "2010s/2010/应用文/社会科学/2010 Author MBA宝典.txt",
+        "recordId": "15066000000839",
+        "source": "Author MBA宝典",
+        "hintHits": 2
+      }
+    ]
+  },
+  {
+    "word": "自由",
+    "storyId": "translated-concepts-03",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "translated-concepts-03-prehistory",
+      "name": "自主、任意与不受拘束",
+      "shortName": "自主行动",
+      "description": "追踪古典和早期口语中自己作主、可以自行行动的用法。",
+      "startIndex": 0
+    },
+    "query": "自由 (自由行动|行动自由|不自由|自由选择) time:1920s",
+    "totalResults": 133,
+    "candidates": [
+      {
+        "score": 0.1489,
+        "excerpt": "诸位想想，这皇上还能行动自由吗？",
+        "year": 1921,
+        "path": "1920s/1921/文学/小说笔记/1921 李伯通 西太后艳史演义.txt",
+        "recordId": "396000000569",
+        "source": "李伯通 西太后艳史演义",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1459,
+        "excerpt": "再不答，日本就要在清韩方面，自由行动了。",
+        "year": 1921,
+        "path": "1920s/1921/文学/小说笔记/1921 陆士谔 清朝秘史.txt",
+        "recordId": "397000009418",
+        "source": "陆士谔 清朝秘史",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1367,
+        "excerpt": "弄到虧空公款，所以要受阿大先生的監視，弄到自己身子不自由了。",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 上海夥友_第7册.txt",
+        "recordId": "234000000011",
+        "source": "Author 上海夥友 · 第7册",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "自由",
+    "storyId": "translated-concepts-03",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "translated-concepts-03-turn",
+      "name": "政治、法律与伦理中的自由",
+      "shortName": "权利概念",
+      "description": "近代公共论述将自由组织为与个人、权利、责任和国家有关的概念。",
+      "startIndex": 1
+    },
+    "query": "自由 (自由权利|人身自由|法律保障) time:1920s",
+    "totalResults": 1,
+    "candidates": [
+      {
+        "score": 0.1301,
+        "excerpt": "（一）剝奪工人組織自己羣衆的工會之自由，限定非呈報政府官廳，卽不能享法律保障之權利。",
+        "year": 1927,
+        "path": "1920s/1927/报刊/1927 Author 布爾塞維克_第1卷第7期.txt",
+        "recordId": "966000000009",
+        "source": "Author 布爾塞維克 · 第1卷第7期",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "浪漫",
+    "storyId": "translated-concepts-04",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "translated-concepts-04-prehistory",
+      "name": "放纵不拘与散漫之义",
+      "shortName": "不拘散漫",
+      "description": "早期用法可指行为放纵、不受约束，评价方向并不必然积极。",
+      "startIndex": 0
+    },
+    "query": "浪漫 (放纵|散漫|不拘|任意) time:1920s",
+    "totalResults": 7,
+    "candidates": [
+      {
+        "score": 0.1199,
+        "excerpt": "”她顿了一顿，很亲热地挽住了王女士的臂膊，“从前我听人家说你浪漫，近来我细细观察，我知道你是一个豪爽不拘的人儿，你心里却有主见。",
+        "year": 1927,
+        "path": "1920s/1927/文学/1927 茅盾 蚀_幻灭.txt",
+        "recordId": "1006000000009",
+        "source": "茅盾 蚀 · 幻灭",
+        "hintHits": 1
+      },
+      {
+        "score": 0.0349,
+        "excerpt": "可惜他們本來沒有經濟的基礎，只能附屬於有經濟實力的各階級方有所成就，幷且他們因經濟條件之限制，使他富有浪漫，自由，無政府種種思想，亦不能集中其勢力，亦是其大病。",
+        "year": 1924,
+        "path": "1920s/1924/报刊/1924 Author 中國工人_第2期（1924年）.txt",
+        "recordId": "543000000143",
+        "source": "Author 中國工人 · 第2期（1924年）",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0324,
+        "excerpt": "」他把寫實比浪漫的文學看得更難，實在可以點醒許多把寫實主義看得太輕易了的作家，然而他說寫實主義的眞義在由現實把一切庸俗的東西丟了，在於枯萎了的官能添一種淸新之意趣，從陳腐之中發見新境，從慣習之中抽出奇異，却把眞的寫實主義誤解了。",
+        "year": 1923,
+        "path": "1920s/1923/报刊/1923 Author 創造周報_第5號.txt",
+        "recordId": "480000000006",
+        "source": "Author 創造周報 · 第5號",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "浪漫",
+    "storyId": "translated-concepts-04",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "translated-concepts-04-contemporary",
+      "name": "爱情、氛围与仪式感",
+      "shortName": "情感氛围",
+      "description": "当代日常用法常把“浪漫”作为亲密行为、场景氛围与感受的积极评价。",
+      "startIndex": 4
+    },
+    "query": "浪漫 (爱情|气氛|情怀|约会) time:2010s",
+    "totalResults": 15341,
+    "candidates": [
+      {
+        "score": 0.1532,
+        "excerpt": "这就需要我们把浪漫主义和英雄主义的情怀渗透到典型化的创作当中。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_10.txt",
+        "recordId": "15078000026677",
+        "source": "rmrb · 2010 · 10",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1419,
+        "excerpt": "由中国散文学会、贵州省三都水族自治县委、县人民政府、影响力人物杂志社等单位联合主办的中国最浪漫感人的爱情故事征文颁奖仪式,于7月16日在贵州省三都县九阡卯坡上隆重举行。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_07.txt",
+        "recordId": "15075000000801",
+        "source": "rmrb · 2010 · 07",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1401,
+        "excerpt": "开园仪式上，18对新人的婚典把中国首个爱情文化主题公园的浪漫传递给了所有游客。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_05.txt",
+        "recordId": "15073000041001",
+        "source": "rmrb · 2010 · 05",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "民主",
+    "storyId": "translated-concepts-05",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "translated-concepts-05-prehistory",
+      "name": "“民之主”的古典词形",
+      "shortName": "民之主",
+      "description": "古典文本中“民主”可指民众的主宰或君主，与现代 democracy 不可直接合并。",
+      "startIndex": 0
+    },
+    "query": "民主 time:1920s",
+    "totalResults": 1717,
+    "candidates": [
+      {
+        "score": 0.1879,
+        "excerpt": "共產黨（多數派） 是於一九〇三年從社會民主黨（Social Democrats）分出來的。",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 共産黨_第1號.txt",
+        "recordId": "237000000012",
+        "source": "Author 共産黨 · 第1號",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0573,
+        "excerpt": "有時，這一層的辦到，是因直接征服了這國家的政府，但是因爲直接征服政府反致加增本外治上的困難負担，所以最通行的方法，便是避去征服該家的名義，而實在暗中握有控制的全權，維持一個僅居其名的獨立的本地人的專制君主，或竟是一個假的民主主義政府。",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 共産黨_第2號.txt",
+        "recordId": "238000000295",
+        "source": "Author 共産黨 · 第2號",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0553,
+        "excerpt": "而社會民主黨，又是和社會革命黨從一八七六年俄國社會主義的唯一團體土地與自由（SemljaWora）分出來的。",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 共産黨_第1號.txt",
+        "recordId": "237000000012",
+        "source": "Author 共産黨 · 第1號",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "民主",
+    "storyId": "translated-concepts-05",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "translated-concepts-05-turn",
+      "name": "主权在民与政治制度",
+      "shortName": "现代政体",
+      "description": "近代译介中，词义转向民众参与、主权归属与政治制度的讨论。",
+      "startIndex": 1
+    },
+    "query": "民主 time:1920s",
+    "totalResults": 1717,
+    "candidates": [
+      {
+        "score": 0.0646,
+        "excerpt": "什麽民主政治，什麽代議政治，都是些資本家爲自己階級設立的，與勞動階級無關。",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 共産黨_第1號.txt",
+        "recordId": "237000000002",
+        "source": "Author 共産黨 · 第1號",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0547,
+        "excerpt": "民主主義的集中權",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 共産黨_第2號.txt",
+        "recordId": "238000000205",
+        "source": "Author 共産黨 · 第2號",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0517,
+        "excerpt": "資本家又控制勞工們的生活手段，因此勞工們的政治行動也被控制住了，使得勞工們絕對不能在現在的資本家民主主義底下舉出一個專爲勞工們謀幸福的合法政府。",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 共産黨_第2號.txt",
+        "recordId": "238000000227",
+        "source": "Author 共産黨 · 第2號",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "哲学",
+    "storyId": "translated-concepts-06",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "translated-concepts-06-prehistory",
+      "name": "“哲”的智慧资源与新词前史",
+      "shortName": "词形资源",
+      "description": "先区分古典“哲”“哲人”等智慧语汇与近代“哲学”学科名称。",
+      "startIndex": 0
+    },
+    "query": "哲学 (智慧|哲人|哲理|思想) time:1920s",
+    "totalResults": 54,
+    "candidates": [
+      {
+        "score": 0.122,
+        "excerpt": "）凡好的，真的哲学必是能治病的――能治一人一时的病――换过来说，就是哲人都是病人。",
+        "year": 1923,
+        "path": "1920s/1923/文学/1923 俞平伯 读《毁灭》.txt",
+        "recordId": "498000000000",
+        "source": "俞平伯 读《毁灭》",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1202,
+        "excerpt": "讲到哲学吗，西方的哲人，素来只是高谈玄妙，不得真际，所足恃为人类安身立命之具，也是没有。",
+        "year": 1923,
+        "path": "1920s/1923/文学/1923 梁启超 东南大学课毕告别辞.txt",
+        "recordId": "521000000000",
+        "source": "梁启超 东南大学课毕告别辞",
+        "hintHits": 1
+      },
+      {
+        "score": 0.116,
+        "excerpt": "青年时代受进化论、尼采超人哲学和托尔斯泰博爱思想的影响。",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 鲁迅 朝花夕拾.txt",
+        "recordId": "1214000000455",
+        "source": "鲁迅 朝花夕拾",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "哲学",
+    "storyId": "translated-concepts-06",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "translated-concepts-06-turn",
+      "name": "近代学科体系中的哲学",
+      "shortName": "学科概念",
+      "description": "作为 philosophy 的现代译名，它进入大学、出版和知识分类体系。",
+      "startIndex": 1
+    },
+    "query": "哲学 (研究|学科|哲学系|理论) time:1920s",
+    "totalResults": 45,
+    "candidates": [
+      {
+        "score": 0.1465,
+        "excerpt": "北京大学哲学系毕业，新潮社和语丝社的成员。",
+        "year": 1929,
+        "path": "1920s/1929/文学/1929 鲁迅 致《近代美术史潮论》的读者诸君.txt",
+        "recordId": "1332000000000",
+        "source": "鲁迅 致《近代美术史潮论》的读者诸君",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1345,
+        "excerpt": "”按朱谦之，福建闽侯人，当时北京大学哲学系学生。",
+        "year": 1921,
+        "path": "1920s/1921/文学/1921 鲁迅 智识即罪恶.txt",
+        "recordId": "393000000000",
+        "source": "鲁迅 智识即罪恶",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1344,
+        "excerpt": "天津，法界，神易大学是驰名全世界的以《易经》①为主体而研究，而发明，一切科学与哲学的。",
+        "year": 1927,
+        "path": "1920s/1927/文学/1927 老舍 赵子曰.txt",
+        "recordId": "1005000000473",
+        "source": "老舍 赵子曰",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "艺术",
+    "storyId": "translated-concepts-07",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "translated-concepts-07-prehistory",
+      "name": "技艺、方术与操作本领",
+      "shortName": "技艺方术",
+      "description": "早期“艺术”可笼统指技能、方法与本领，范围不限于现代美术。",
+      "startIndex": 0
+    },
+    "query": "艺术 (技巧|生活|处世|方法) time:1920s",
+    "totalResults": 66,
+    "candidates": [
+      {
+        "score": 0.1542,
+        "excerpt": "这不限于描写地方生活的“乡土艺术”，一切的文艺都是如此，或者有人疑惑，我所说的近于传统主义，便是中国人最喜欢说的国粹主义。",
+        "year": 1923,
+        "path": "1920s/1923/文学/1923 周作人 地方与文艺.txt",
+        "recordId": "516000000008",
+        "source": "周作人 地方与文艺",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1228,
+        "excerpt": "〔６〕“落伍”这是当时创造社、太阳社某些成员评论鲁迅的用语，如冯乃超在《文化批判》创刊号（一九二八年一月）发表的《艺术与社会生活》中，说鲁迅“常追怀过去的昔日，追悼没落的封建情绪，结局地反映的只是社会变革期中的落伍者的悲哀，无聊赖地跟他弟弟说几句人道主义的美丽的说话。",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 噩君 备考：东京通信.txt",
+        "recordId": "1154000000000",
+        "source": "噩君 备考：东京通信",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1126,
+        "excerpt": "我代这老幻术家不平，倘若他在巴黎的幻术场中演起来，有各种设备使他更加容易显出他的艺术，必大受欢迎，而他的生活决不如现在的困苦了。",
+        "year": 1926,
+        "path": "1920s/1926/文学/1926_7 孙福熙 变把戏的老人.txt",
+        "recordId": "932000000020",
+        "source": "1926 · 7 孙福熙 变把戏的老人",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "艺术",
+    "storyId": "translated-concepts-07",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "translated-concepts-07-turn",
+      "name": "文学美术等审美活动总称",
+      "shortName": "现代艺术",
+      "description": "近现代知识分类中，“艺术”逐步稳定为文学、视觉、表演等审美活动。",
+      "startIndex": 1
+    },
+    "query": "艺术 (文学|创作|作品|美术) time:1920s",
+    "totalResults": 67,
+    "candidates": [
+      {
+        "score": 0.2056,
+        "excerpt": "是的，顶明显的关键就是那无形的推力或是行动（ The Impulse），没有它人类就没有科学，没有文学，没有艺术，没有一切超越功利实用性质的创作。",
+        "year": 1926,
+        "path": "1920s/1926/文学/1926 徐志摩 自剖.txt",
+        "recordId": "882000000017",
+        "source": "徐志摩 自剖",
+        "hintHits": 2
+      },
+      {
+        "score": 0.2025,
+        "excerpt": "反新文学的作品，既是在思想艺术两方面，都难得立足的地位，为何它们又有了复兴机会呢？",
+        "year": 1923,
+        "path": "1920s/1923/文学/1923 冰心 论文学复古.txt",
+        "recordId": "507000000000",
+        "source": "冰心 论文学复古",
+        "hintHits": 2
+      },
+      {
+        "score": 0.201,
+        "excerpt": "第二我们要永远拒绝：思想没有系统，对于艺术没有习练，对于物事没有观察，随波逐流，西抄东袭的假新文学作品。",
+        "year": 1923,
+        "path": "1920s/1923/文学/1923 冰心 论文学复古.txt",
+        "recordId": "507000000000",
+        "source": "冰心 论文学复古",
+        "hintHits": 2
+      }
+    ]
+  },
+  {
+    "word": "美学",
+    "storyId": "translated-concepts-08",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "translated-concepts-08-prehistory",
+      "name": "审美语汇与学科译名前史",
+      "shortName": "译名前史",
+      "description": "区分中国古代论美传统与“美学”作为现代学科名称的形成。",
+      "startIndex": 0
+    },
+    "query": "美学 time:1920s",
+    "totalResults": 3,
+    "candidates": [
+      {
+        "score": 0.036,
+        "excerpt": "他没有什么美学理论，他以为凡是有趣味的东西能使生命美丽。",
+        "year": 1929,
+        "path": "1920s/1929/文学/1929 鲁迅 《近代木刻选集》（2）小引.txt",
+        "recordId": "1328000000000",
+        "source": "鲁迅 《近代木刻选集》（2）小引",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0299,
+        "excerpt": "这道理看似矛盾又玄妙，其实是艺术的一般的特色，美学上的所谓“多样的统一”，很可明 地解释。",
+        "year": 1927,
+        "path": "1920s/1927/文学/1927 丰子恺 艺术三昧.txt",
+        "recordId": "975000000000",
+        "source": "丰子恺 艺术三昧",
+        "hintHits": 0
+      },
+      {
+        "score": 0.025,
+        "excerpt": "相法根据生理，欧美学者近来都很研究。",
+        "year": 1920,
+        "path": "1920s/1920/文学/1920 蔡友梅 益世余谭_1920.txt",
+        "recordId": "325000000701",
+        "source": "蔡友梅 益世余谭 · 1920",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "美学",
+    "storyId": "translated-concepts-08",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "translated-concepts-08-turn",
+      "name": "研究美与艺术经验的学科",
+      "shortName": "审美学科",
+      "description": "它在哲学和艺术理论中研究美、审美经验与艺术判断。",
+      "startIndex": 1
+    },
+    "query": "美学 (理论|研究|学科|美学家) time:1920s",
+    "totalResults": 2,
+    "candidates": [
+      {
+        "score": 0.1489,
+        "excerpt": "相法根据生理，欧美学者近来都很研究。",
+        "year": 1920,
+        "path": "1920s/1920/文学/1920 蔡友梅 益世余谭_1920.txt",
+        "recordId": "325000000701",
+        "source": "蔡友梅 益世余谭 · 1920",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1307,
+        "excerpt": "他没有什么美学理论，他以为凡是有趣味的东西能使生命美丽。",
+        "year": 1929,
+        "path": "1920s/1929/文学/1929 鲁迅 《近代木刻选集》（2）小引.txt",
+        "recordId": "1328000000000",
+        "source": "鲁迅 《近代木刻选集》（2）小引",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "逻辑",
+    "storyId": "translated-concepts-09",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "translated-concepts-09-prehistory",
+      "name": "近代音译词与译名竞争",
+      "shortName": "译名形成",
+      "description": "“逻辑”的词形与 logic 的译介相关，需同“论理”“名学”等候选译名对照。",
+      "startIndex": 0
+    },
+    "query": "逻辑 (译名|音译|logic|论理) time:1920s",
+    "totalResults": 1,
+    "candidates": [
+      {
+        "score": 0.1522,
+        "excerpt": "著作有《逻辑体系》、《论自由》（严复中译名分别为《穆勒名学》、《群己权界论》）等。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 鲁迅 忽然想到（五至六）.txt",
+        "recordId": "748000000000",
+        "source": "鲁迅 忽然想到（五至六）",
+        "hintHits": 1
+      },
+      {
+        "score": 0.0338,
+        "excerpt": "现在，可喜我已经大了，这大概是谁也不能否认的罢，无论用了怎样古怪的“逻辑”。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 鲁迅 忽然想到（五至六）.txt",
+        "recordId": "748000000000",
+        "source": "鲁迅 忽然想到（五至六）",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "逻辑",
+    "storyId": "translated-concepts-09",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "translated-concepts-09-turn",
+      "name": "推理规则与形式学科",
+      "shortName": "推理学科",
+      "description": "在哲学、数学和计算领域，“逻辑”指向推理形式、有效性和规则系统。",
+      "startIndex": 1
+    },
+    "query": "逻辑 (逻辑学|研究|形式逻辑|推理) time:1920s",
+    "totalResults": 7,
+    "candidates": [
+      {
+        "score": 0.1126,
+        "excerpt": "老张的最主要的二支论法的逻辑学，于此又有了切实的证明。",
+        "year": 1926,
+        "path": "1920s/1926/文学/1926 老舍 老张的哲学.txt",
+        "recordId": "894000000939",
+        "source": "老舍 老张的哲学",
+        "hintHits": 1
+      },
+      {
+        "score": 0.044,
+        "excerpt": "……”〔３４〕所以倘若事不干己，则与其听他说政法，谈逻辑，实在远不如看《太阳晒屁股赋》，因为欺人之意，这些赋里倒没有的。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 鲁迅 从胡须说到牙齿.txt",
+        "recordId": "720000000000",
+        "source": "鲁迅 从胡须说到牙齿",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0351,
+        "excerpt": "著作有《逻辑体系》、《论自由》（严复中译名分别为《穆勒名学》、《群己权界论》）等。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 鲁迅 忽然想到（五至六）.txt",
+        "recordId": "748000000000",
+        "source": "鲁迅 忽然想到（五至六）",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "逻辑",
+    "storyId": "translated-concepts-09",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "translated-concepts-09-contemporary",
+      "name": "话语、流程与行为的连贯性",
+      "shortName": "日常连贯",
+      "description": "“这没逻辑”或“业务逻辑”把学科词放宽为规则、因果与组织方式。",
+      "startIndex": 4
+    },
+    "query": "逻辑 (合乎逻辑|不合逻辑|逻辑清楚|逻辑严密) time:2010s",
+    "totalResults": 1448,
+    "candidates": [
+      {
+        "score": 0.1354,
+        "excerpt": "这一理论认为，管理就是应用各种数学模型和特征来表示计划、组织、控制、决策等合乎逻辑的程序，求出最优的解决方案，以达到企业的目标。",
+        "year": 2011,
+        "path": "2010s/2011/应用文/社会科学/2011 Author 第02单元_哈佛经理知识修养.txt",
+        "recordId": "15214000000628",
+        "source": "Author 第02单元 · 哈佛经理知识修养",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1307,
+        "excerpt": "个中逻辑亦不言自明——这并不是因为他们“乐于回报社会”,而是因为他们通过这种方式,能够从“内部房”销售对象那里获得比销售差价更大的利益回报,而众多不能给房地产商们带来更大回报的“无用”对象——普通购房者,自然就成为了这一利益输送成本合乎逻辑的“埋单者”。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/光明日报/2010_03.txt",
+        "recordId": "15083000021711",
+        "source": "2010 · 03",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1269,
+        "excerpt": "”把语言界定为“感性的自然界”，显然不合逻辑，令人费解。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_07.txt",
+        "recordId": "15075000016563",
+        "source": "rmrb · 2010 · 07",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "社会",
+    "storyId": "translated-concepts-10",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "translated-concepts-10-prehistory",
+      "name": "社祭、结社与聚会词形",
+      "shortName": "社会前史",
+      "description": "早期“社”与“会”可连系祭社、结社与人群聚会，需与现代 society 概念区分。",
+      "startIndex": 0
+    },
+    "query": "社会 (结社|团体|会社|集会) time:1920s",
+    "totalResults": 50,
+    "candidates": [
+      {
+        "score": 0.1133,
+        "excerpt": "…关系其曾从事政治运动之旧社员如郭沫若等久与本社脱离关系此事早经一再声明（见旧年十一月十九号申报及同日民国日报）社会想已洞悉在此青天白日旗下文艺团体当无触法之虞此吾人从事文艺事业之同志所极端相信者乃日来谣诼繁兴竟至有某种刊物伪造空气淆乱听闻果长此以往诚恐以讹传讹多滋误会除去函更正特再登…",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 盈昂 备考：剪报一斑.txt",
+        "recordId": "1173000000000",
+        "source": "盈昂 备考：剪报一斑",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1112,
+        "excerpt": "从几千年的老古以来，所謂家族这个团体，他在人文史上該有多大的助力，他在社会道德上各种覌念中令人奋发或怙的活力又該有多么大，說句比方的話，人类所以有太陽那样的热力者，多半是从家庭的暖",
+        "year": 1921,
+        "path": "1920s/1921/报刊/1921 Author 劳动与妇女_第7期.txt",
+        "recordId": "346000000013",
+        "source": "Author 劳动与妇女 · 第7期",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1105,
+        "excerpt": "最好借与民间慈善团体，办点社会公益的事。",
+        "year": 1924,
+        "path": "1920s/1924/文学/1924 穆辰公 北京.txt",
+        "recordId": "582000000445",
+        "source": "穆辰公 北京",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "社会",
+    "storyId": "translated-concepts-10",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "translated-concepts-10-turn",
+      "name": "现代人群关系与制度总体",
+      "shortName": "现代社会",
+      "description": "近代以后，“社会”成为描述人群关系、组织和制度总体的基础概念。",
+      "startIndex": 1
+    },
+    "query": "社会 (现代社会|社会制度|社会生活|社会结构) time:1920s",
+    "totalResults": 18,
+    "candidates": [
+      {
+        "score": 0.279,
+        "excerpt": "著有《日本的性格》、《现代社会批判》等。",
+        "year": 1927,
+        "path": "1920s/1927/文学/1927 鲁迅 略论中国人的脸.txt",
+        "recordId": "1049000000000",
+        "source": "鲁迅 略论中国人的脸",
+        "hintHits": 1
+      },
+      {
+        "score": 0.279,
+        "excerpt": "著有《日本的性格》、《现代社会批判》等。",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 鲁迅 而已集.txt",
+        "recordId": "1217000000370",
+        "source": "鲁迅 而已集",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2442,
+        "excerpt": "（同上） 这种诗几乎纯是现代社会党的口吹。",
+        "year": 1922,
+        "path": "1920s/1922/文学/1922 梁启超 情圣杜甫.txt",
+        "recordId": "422000000000",
+        "source": "梁启超 情圣杜甫",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "文化",
+    "storyId": "translated-concepts-11",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "translated-concepts-11-prehistory",
+      "name": "文治教化与人的修养",
+      "shortName": "文治教化",
+      "description": "古典语境将“文化”与文治、教化和移风易俗联系，并非现代学科概念的原样。",
+      "startIndex": 0
+    },
+    "query": "文化 (文治教化|教养|修养|文德) time:1920s",
+    "totalResults": 7,
+    "candidates": [
+      {
+        "score": 0.0853,
+        "excerpt": "这些人见过了中外文化与文明所成就的“秩序”与“美”，经过许多世界，读过许多书，非常有名气而且非常有学问，来到这长江中部千年以来传说中的名城，住到小小的房子里，每日饮料全得喝水塘中的浊水，出到街上去，所遇到的全是愚蠢邋遢的脸子，街头上转弯抹角处，任何时节总可以见到一个行路人正在扯脱裤子预备撒尿。",
+        "year": 1931,
+        "path": "1920s/1929/文学/1931 沈从文 道德与智慧.txt",
+        "recordId": "1334000000000",
+        "source": "沈从文 道德与智慧",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0467,
+        "excerpt": "他是信教自由的赞助者，这并不只是因为他的哲学教他对于各种宗教一视同仁，一半也是由于他的性情温和近于女性，凡是有文化的人们都是这样。",
+        "year": 1929,
+        "path": "1920s/1929/文学/1929 梁遇春 谈“流浪汉”.txt",
+        "recordId": "1312000000008",
+        "source": "梁遇春 谈“流浪汉”",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0445,
+        "excerpt": "…形的），不拘在什么地方你可以每天见到杀一百人或五十人的事以及关于各样杀人的消息，不拘在什么地方你可以见到中国的文化特色，即或到中国据说已经革命成功的地方，你也很容易找到磕头作揖种种好习惯例子，但这个若不说是“不合算”，便应当说这是“不必”。",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 沈从文 阿丽思中国游记.txt",
+        "recordId": "1169000000019",
+        "source": "沈从文 阿丽思中国游记",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "文化",
+    "storyId": "translated-concepts-11",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "translated-concepts-11-turn",
+      "name": "人类生活方式与象征体系",
+      "shortName": "现代文化",
+      "description": "近代 culture 相关概念进入后，“文化”扩展为生活方式、知识与象征的总体。",
+      "startIndex": 1
+    },
+    "query": "文化 (现代文化|文化研究|文化建设|文化生活) time:1920s",
+    "totalResults": 9,
+    "candidates": [
+      {
+        "score": 0.1426,
+        "excerpt": "我们要顾到民族生存底根本条件，除掉经济生活以外，还要顾到文化生活。",
+        "year": 1925,
+        "path": "1920s/1925/文学/1925 许地山 无法投递之邮件（续）.txt",
+        "recordId": "681000000009",
+        "source": "许地山 无法投递之邮件（续）",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1339,
+        "excerpt": "所以煤鐵是軍國主義底雙輪煤鐵亦是平和生活底兩翼人類漸漸開明分功日益完密處今之世不能盡驅全人類面歸之於農營高等文化生活以互助精神爲職志而不包藏禍心則全世界立可成爲天國而平和生活亦不必限於田舍吾此所謂高等文化生活便是利用科學智識發展個性底天禀擴張個體底能率以營謀全人類進化的生活飛行機艇…",
+        "year": 1925,
+        "path": "1920s/1925/报刊/1925 Author 少年世界_增刊_日本號.txt",
+        "recordId": "626000000863",
+        "source": "Author 少年世界 · 增刊 · 日本號",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1329,
+        "excerpt": "到一九〇五年以後，文化生活更其成了灰色的和無內容的了。",
+        "year": 1923,
+        "path": "1920s/1923/报刊/1923 Author 文學_第1卷第4號.txt",
+        "recordId": "493000002127",
+        "source": "Author 文學 · 第1卷第4號",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "宗教",
+    "storyId": "translated-concepts-12",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "translated-concepts-12-prehistory",
+      "name": "宗旨、教法与门派语境",
+      "shortName": "教法前史",
+      "description": "早期词形与佛教等教法、宗旨和门派语境有关，需避免与现代 religion 类目直接合并。",
+      "startIndex": 0
+    },
+    "query": "宗教 (教法|宗门|教义|教派) time:1920s",
+    "totalResults": 2,
+    "candidates": [
+      {
+        "score": 0.1106,
+        "excerpt": "卽是赤色工會會員當不應分政治派別，宗教派別，不同的幫口等等，只要是在業的工人，能守赤色工會的紀律，則可以入會；",
+        "year": 1928,
+        "path": "1920s/1928/报刊/1928 Author 中國工人_第6期（1928年）.txt",
+        "recordId": "1071000000092",
+        "source": "Author 中國工人 · 第6期（1928年）",
+        "hintHits": 1
+      },
+      {
+        "score": 0.0274,
+        "excerpt": "司会者对于他的宗教自然负有宣传的责任，但你对于当时的“革命”不是也负有宣传的责任的吗？",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 郭沫若 双簧.txt",
+        "recordId": "1196000000000",
+        "source": "郭沫若 双簧",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0268,
+        "excerpt": "宗教是怎样的东西，是怎样害了中国，是怎样和革命不能两立，而一些吃基督教饭的骗子是怎样胡说八道，东拉西扯，当场便是证据。",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 郭沫若 双簧.txt",
+        "recordId": "1196000000000",
+        "source": "郭沫若 双簧",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "宗教",
+    "storyId": "translated-concepts-12",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "translated-concepts-12-turn",
+      "name": "信仰、组织与仪式的现代类目",
+      "shortName": "现代宗教",
+      "description": "近代知识与法律分类将多种信仰传统纳入“宗教”这一总括性类目。",
+      "startIndex": 1
+    },
+    "query": "宗教 (宗教信仰|宗教研究|宗教制度|宗教学) time:1920s",
+    "totalResults": 7,
+    "candidates": [
+      {
+        "score": 0.1324,
+        "excerpt": "温都姑娘这个警告是有历史的，是含着点近于宗教信仰的：回回不吃猪肉，谁都知道；",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 老舍 二马.txt",
+        "recordId": "1175000000002",
+        "source": "老舍 二马",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1324,
+        "excerpt": "温都姑娘这个警告是有历史的，是含着点近于宗教信仰的：回回不吃猪肉，谁都知道；",
+        "year": 1929,
+        "path": "1920s/1929/文学/1929 老舍 二马.txt",
+        "recordId": "1319000000201",
+        "source": "老舍 二马",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1296,
+        "excerpt": "对于宗教学，性命学，道德学，政治学，法律学，兵机学，内而心性之微妙。",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 盈昂 备考：剪报一斑.txt",
+        "recordId": "1173000000000",
+        "source": "盈昂 备考：剪报一斑",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "革命",
+    "storyId": "translated-concepts-13",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "translated-concepts-13-prehistory",
+      "name": "天命更易与改朝换代",
+      "shortName": "天命更易",
+      "description": "古典“革命”与变革天命、王朝更替相关，其政当性框架与现代用法不同。",
+      "startIndex": 0
+    },
+    "query": "革命 time:1920s",
+    "totalResults": 13849,
+    "candidates": [
+      {
+        "score": 0.0455,
+        "excerpt": "戰爭，革命軍，最後又產生赤軍，性質幷沒有什麽區別，不過形式上有些不同罷了。",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 共産黨_第1號.txt",
+        "recordId": "237000000236",
+        "source": "Author 共産黨 · 第1號",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0432,
+        "excerpt": "要想把我們的同胞從奴隸境遇中完全救出，非由生產勞動者全體結合起來，用革命的手段打倒本國外國一切資本階級，跟着俄國的共產黨一同試驗新的生產方法不可。",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 共産黨_第1號.txt",
+        "recordId": "237000000002",
+        "source": "Author 共産黨 · 第1號",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0412,
+        "excerpt": "多數派主義與少數派主義不同的主要點，不在革命以後的建設而在實現革命的手叚。",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 共産黨_第1號.txt",
+        "recordId": "237000000204",
+        "source": "Author 共産黨 · 第1號",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "革命",
+    "storyId": "translated-concepts-13",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "translated-concepts-13-turn",
+      "name": "政治与社会结构的根本变革",
+      "shortName": "社会变革",
+      "description": "近代 revolution 相关概念使“革命”指向对政治制度与社会秩序的根本改造。",
+      "startIndex": 1
+    },
+    "query": "革命 time:1920s",
+    "totalResults": 13849,
+    "candidates": [
+      {
+        "score": 0.2032,
+        "excerpt": "就是同屬於與舊社會惡鬥的黨派之中，也有社會革命黨（Social Revolutionss），少數派（Menshevik），及無政府主義黨（Anarchist）底反對。",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 共産黨_第1號.txt",
+        "recordId": "237000000008",
+        "source": "Author 共産黨 · 第1號",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0762,
+        "excerpt": "這個政治的過渡時期，不外是無產階級底革命獨裁政治的狀態」。",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 共産黨_第1號.txt",
+        "recordId": "237000000038",
+        "source": "Author 共産黨 · 第1號",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0591,
+        "excerpt": "末了，我們謝謝國民軍的制度，我們的國家同時能夠解决經濟改造的問題，和保護革命的進行。",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 共産黨_第1號.txt",
+        "recordId": "237000000238",
+        "source": "Author 共産黨 · 第1號",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "革命",
+    "storyId": "translated-concepts-13",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "translated-concepts-13-contemporary",
+      "name": "技术、产业与生活的颠覆性变化",
+      "shortName": "颠覆变化",
+      "description": "“技术革命”“厨房革命”等搭配将其扩展为幅度很大的创新与改变。",
+      "startIndex": 4
+    },
+    "query": "革命 time:2010s",
+    "totalResults": 140259,
+    "candidates": [
+      {
+        "score": 0.136,
+        "excerpt": "后危机时代世界经济格局的大变革、大调整孕育着重大发展机遇，新的技术革命和产业革命将使人类社会进入空前的创新密集和产业振兴时代。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000003394",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0874,
+        "excerpt": "自100多年前电影诞生以来，先后经历了由无声向有声、由黑白向彩色的两次变革，如今，由胶片向数字的转化，则被看作电影史上最深刻的一次高新技术革命。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000000843",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 0
+      },
+      {
+        "score": 0.064,
+        "excerpt": "学位和研究生教育工作，要适应新的科技革命和我国产业结构调整与发展方式转变的要求，与国家中长期科技、教育和人才规划有机衔接，强化质量第一意识，形成多样化的学位标准和科学评价体系，走质量提升的内涵式发展道路。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_01.txt",
+        "recordId": "15069000003303",
+        "source": "rmrb · 2010 · 01",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "进化",
+    "storyId": "translated-concepts-14",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "translated-concepts-14-prehistory",
+      "name": "近代译名与生物演变概念",
+      "shortName": "生物进化",
+      "description": "“进化”作为近代译语进入生物学，需区分进化事实、机制理论与进步价值判断。",
+      "startIndex": 0
+    },
+    "query": "进化 time:1920s",
+    "totalResults": 83,
+    "candidates": [
+      {
+        "score": 0.1225,
+        "excerpt": "〔９〕进化论以自然选择为基础的生物进化的理论，十九世纪中叶英国生物学家达尔文（Ｃ．Ｒ．Ｄａｒｗｉｎ，１８０９—１８８２）是这个科学理论的奠基者。",
+        "year": 1922,
+        "path": "1920s/1922/文学/1922 鲁迅 不懂的音译.txt",
+        "recordId": "430000000000",
+        "source": "鲁迅 不懂的音译",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0895,
+        "excerpt": "在这里，我要明白指出，生物进化，生命发展的最重要的原则，是前一代牺牲于后一代，牺牲是进步的一个阶梯！",
+        "year": 1923,
+        "path": "1920s/1923/文学/1923 朱自清 父母的责任.txt",
+        "recordId": "520000000000",
+        "source": "朱自清 父母的责任",
+        "hintHits": 0
+      },
+      {
+        "score": 0.0759,
+        "excerpt": "我们对于这些人，虽觉得很不容易使他们相信我们，但总得尽我们的力量使他们能知道些生物进化和社会进化的道理，使他们能以儿童为本位，能“理解他们，指导他们，解放他们”；",
+        "year": 1923,
+        "path": "1920s/1923/文学/1923 朱自清 父母的责任.txt",
+        "recordId": "520000000000",
+        "source": "朱自清 父母的责任",
+        "hintHits": 0
+      }
+    ]
+  },
+  {
+    "word": "经济",
+    "storyId": "translated-concepts-15",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "translated-concepts-15-prehistory",
+      "name": "经世济民与治国才能",
+      "shortName": "经世济民",
+      "description": "古典“经济”可与经营天下、治国济民的才能与事业相关。",
+      "startIndex": 0
+    },
+    "query": "经济 (经世济民|经济之才|经济天下) time:1920s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "经济",
+    "storyId": "translated-concepts-15",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "translated-concepts-15-turn",
+      "name": "生产、分配与市场活动总体",
+      "shortName": "现代经济",
+      "description": "现代 economy 概念将“经济”组织为生产、流通、分配和消费的系统。",
+      "startIndex": 1
+    },
+    "query": "经济 (经济组织|经济制度|国民经济|经济学) time:1920s",
+    "totalResults": 28,
+    "candidates": [
+      {
+        "score": 0.1885,
+        "excerpt": "这是很悲惨的事，但经济组织一时既还不能改变，又有什么法儿呢？",
+        "year": 1923,
+        "path": "1920s/1923/文学/1923 朱自清 父母的责任.txt",
+        "recordId": "520000000000",
+        "source": "朱自清 父母的责任",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1286,
+        "excerpt": "一、中国跻于国际平等地位以后，国民经济及一切生产力得充分发展。",
+        "year": 1920,
+        "path": "1920s/192x/文学/小说笔记/192x 蔡东藩_许廑父 民国演义.txt",
+        "recordId": "1341000004224",
+        "source": "192x 蔡东藩 · 许廑父 民国演义",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1177,
+        "excerpt": "说是经济制度就要改变了，用不着再操心，也仍然答道要经济权 其实，在现在，一个娜拉的出走，或者也许不至于感到困难的，因为这人物很特别，举动也新鲜，能得到若干人们的同情，帮助着生活。",
+        "year": 1924,
+        "path": "1920s/1924/文学/1924 鲁迅 娜拉走后怎样.txt",
+        "recordId": "605000000000",
+        "source": "鲁迅 娜拉走后怎样",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "经济",
+    "storyId": "translated-concepts-15",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "translated-concepts-15-contemporary",
+      "name": "节省、划算与可承担性",
+      "shortName": "经济实惠",
+      "description": "“经济实惠”“经济型”等日常用法把宏观名词转为节省资源的评价。",
+      "startIndex": 4
+    },
+    "query": "经济 (实惠|便宜|省钱|耐用) time:2010s",
+    "totalResults": 12943,
+    "candidates": [
+      {
+        "score": 0.22,
+        "excerpt": "上网络书店买书已经成为最经济实惠的购书方式。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000004329",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1318,
+        "excerpt": "在深入开展学习实践科学发展观活动中，南明区在贵州省率先推行老年居民社会养老保险待遇城乡一体化，让农村老人享受经济发展的实惠——2010年1月起，养老金从原来的152.2元增至300元，城镇与农村的养老金“一碗水端平”。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000022467",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1294,
+        "excerpt": "今年要紧密结合国家经济社会发展和国家相关政策安排，把保障妇女儿童合法权益，改善妇女儿童民生，促进妇女儿童发展的各项政策措施落到实处，努力解决广大妇女最关心、最直接、最现实的利益问题，使广大妇女儿童普遍得到实惠。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000001854",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "权利",
+    "storyId": "translated-concepts-16",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "translated-concepts-16-prehistory",
+      "name": "权势、利益与词形前史",
+      "shortName": "词形前史",
+      "description": "核对早期“权”“利”及“权利”组合，不把权势与利益直接等同现代 rights。",
+      "startIndex": 0
+    },
+    "query": "权利 (权势|利益|权位|权柄) time:1920s",
+    "totalResults": 18,
+    "candidates": [
+      {
+        "score": 0.156,
+        "excerpt": "我国与俄国至旗鼓相见时，非出于征略之目的，为防护我正当之权利及利益耳。",
+        "year": 1921,
+        "path": "1920s/1921/文学/小说笔记/1921 陆士谔 清朝秘史.txt",
+        "recordId": "397000009515",
+        "source": "陆士谔 清朝秘史",
+        "hintHits": 1
+      },
+      {
+        "score": 0.129,
+        "excerpt": "（第一号）日本国政府及中国政府，互愿维持东亚全局之和平，并期将现在两国友好善邻之关系，益加巩固，兹议定条款如下：（一）中国政府，允诺日后日本国政府拟向德国政府协定之所有德国关于山东省所得各种权利利益让与等项，概行承认。",
+        "year": 1920,
+        "path": "1920s/192x/文学/小说笔记/192x 蔡东藩_许廑父 民国演义.txt",
+        "recordId": "1341000001218",
+        "source": "192x 蔡东藩 · 许廑父 民国演义",
+        "hintHits": 1
+      },
+      {
+        "score": 0.129,
+        "excerpt": "（第三号）日本国政府及中国政府，因现在日本国资本家，与汉冶萍公司有密切关系，愿增进两国公同利益，兹议定条款如下：（一）两缔约国互相约定，俟将来相当机会，将汉冶萍公司作为两国合办事业，并允如未经日本国政府同意，所有属于该公司一切权利产业，中国政府，不得自行处分，亦不得使该公司任意处分。",
+        "year": 1920,
+        "path": "1920s/192x/文学/小说笔记/192x 蔡东藩_许廑父 民国演义.txt",
+        "recordId": "1341000001223",
+        "source": "192x 蔡东藩 · 许廑父 民国演义",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "权利",
+    "storyId": "translated-concepts-16",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "translated-concepts-16-turn",
+      "name": "法律确认的资格与请求",
+      "shortName": "法律权利",
+      "description": "近代法律语汇中，“权利”指向个人或主体可主张、行使与受保护的资格。",
+      "startIndex": 1
+    },
+    "query": "权利 (法律权利|权利保障|合法权利|享有权利) time:1920s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "义务",
+    "storyId": "translated-concepts-17",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "translated-concepts-17-prehistory",
+      "name": "道义、职分与应尽之事",
+      "shortName": "道义职分",
+      "description": "早期用法可从合乎道义的事务与身分职分理解，尚不是统一法律概念。",
+      "startIndex": 0
+    },
+    "query": "义务 (应尽义务|道德义务|家庭义务|责任) time:1920s",
+    "totalResults": 18,
+    "candidates": [
+      {
+        "score": 0.1379,
+        "excerpt": "儿女辈百般安慰，谓此系应尽义务，何敢当谢。",
+        "year": 1921,
+        "path": "1920s/1921/文学/1921 蔡友梅 益世余墨.txt",
+        "recordId": "384000000013",
+        "source": "蔡友梅 益世余墨",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1142,
+        "excerpt": "责任义务且先不用说，反正国家的主人翁是有发财升官的机会，是有财上加财，官上加官的机会的。",
+        "year": 1926,
+        "path": "1920s/1926/文学/1926 老舍 老张的哲学.txt",
+        "recordId": "894000000295",
+        "source": "老舍 老张的哲学",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1137,
+        "excerpt": "然今蝉已着祖生先鞭矣，匪惟尽一己之义务，且为吾诸姊妹之代表，此后凡调护扶持之责任，尽属之于蝉一人，蝉纵极鲁钝，或不致有负委托也。",
+        "year": 1920,
+        "path": "1920s/192x/文学/小说笔记/192x 蔡东藩_许廑父 民国演义.txt",
+        "recordId": "1341000001945",
+        "source": "192x 蔡东藩 · 许廑父 民国演义",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "义务",
+    "storyId": "translated-concepts-17",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "translated-concepts-17-turn",
+      "name": "法律与制度规定的责任",
+      "shortName": "法定义务",
+      "description": "现代制度中，“义务”与权利对举，指必须履行的行为或责任。",
+      "startIndex": 1
+    },
+    "query": "义务 (法律义务|法定义务|义务规定|承担义务) time:1920s",
+    "totalResults": 0,
+    "candidates": []
+  },
+  {
+    "word": "义务",
+    "storyId": "translated-concepts-17",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "translated-concepts-17-contemporary",
+      "name": "公益服务与无偿性活动",
+      "shortName": "公益无偿",
+      "description": "“义务劳动”“义务讲解”等搭配让词语获得自愿、公益或无偿的色彩。",
+      "startIndex": 4
+    },
+    "query": "义务 (义务服务|义务劳动|义务帮助|无偿) time:2010s",
+    "totalResults": 2040,
+    "candidates": [
+      {
+        "score": 0.23,
+        "excerpt": "江汉刚又和大家一道接受了一项“义务劳动”。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_12.txt",
+        "recordId": "15080000044220",
+        "source": "rmrb · 2010 · 12",
+        "hintHits": 1
+      },
+      {
+        "score": 0.23,
+        "excerpt": "江汉刚又和大家一道接受了一项“义务劳动”。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_12.txt",
+        "recordId": "15080000044940",
+        "source": "rmrb · 2010 · 12",
+        "hintHits": 1
+      },
+      {
+        "score": 0.2226,
+        "excerpt": "如轻微违规行为，将以“义务劳动”取代收房处罚；",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_05.txt",
+        "recordId": "15073000011755",
+        "source": "rmrb · 2010 · 05",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "个人",
+    "storyId": "translated-concepts-18",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "translated-concepts-18-prehistory",
+      "name": "个别的人与私人语境",
+      "shortName": "个别之人",
+      "description": "先检查“个人”作为个别人或与集体相对的词形如何稳定。",
+      "startIndex": 0
+    },
+    "query": "个人 (一个个人|某个人|个人单独|个人自己) time:1920s",
+    "totalResults": 6,
+    "candidates": [
+      {
+        "score": 0.1286,
+        "excerpt": "等走到跳板尽处，将上驳船的时候，我心里忽而想起了一段我女人写给我的信上的话来： 我从来没有一个人单独出过门，那天晚上，我对你说的让我一个人回去的话，原是激于一时的意气而发，我实不知道抱着一个六个月的孩子的妇人的单独旅行，是如何的苦法的。",
+        "year": 1923,
+        "path": "1920s/1923/文学/1923 郁达夫 还乡后记.txt",
+        "recordId": "528000000000",
+        "source": "郁达夫 还乡后记",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1252,
+        "excerpt": "社会上的事是由个人单独作起来的。",
+        "year": 1924,
+        "path": "1920s/1924/文学/1924 穆辰公 北京.txt",
+        "recordId": "582000000336",
+        "source": "穆辰公 北京",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1129,
+        "excerpt": "因此我总是忧愁苦恼，当一个人自己忧愁苦恼，对于人家自然不能表现为快意和活泼的。",
+        "year": 1928,
+        "path": "1920s/1928/翻译作品/文学/1928 魏兰 欧洲200年名人情书.txt",
+        "recordId": "1223000000368",
+        "source": "魏兰 欧洲200年名人情书",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "现代",
+    "storyId": "translated-concepts-19",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 0,
+    "sense": {
+      "id": "translated-concepts-19-prehistory",
+      "name": "现今、当世与时间分期前史",
+      "shortName": "当世时间",
+      "description": "检查表示“现在”“当下”的时间语汇如何与“现代”这一分期名称接合。",
+      "startIndex": 0
+    },
+    "query": "现代 (古代和现代|现代社会|现代生活|现代人) time:1920s",
+    "totalResults": 11,
+    "candidates": [
+      {
+        "score": 0.1412,
+        "excerpt": "大革命时代忙得很，同时又穷得很，这一部分人和那一部分人斗争，非先行变换现代社会底状态不可，没有时间也没有心思做文章；",
+        "year": 1927,
+        "path": "1920s/1927/文学/1927 鲁迅 革命时代的文学.txt",
+        "recordId": "1062000000000",
+        "source": "鲁迅 革命时代的文学",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1412,
+        "excerpt": "大革命时代忙得很，同时又穷得很，这一部分人和那一部分人斗争，非先行变换现代社会底状态不可，没有时间也没有心思做文章；",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 鲁迅 而已集.txt",
+        "recordId": "1217000000731",
+        "source": "鲁迅 而已集",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1276,
+        "excerpt": "目下跳舞场风起云涌，赞成的人以为是上海日益欧化，不赞成的人以为乱世人心好淫，其实这只表示了烦闷的现代人需要强烈的刺激而已。",
+        "year": 1928,
+        "path": "1920s/1928/文学/1928 茅盾 蚀_追求.txt",
+        "recordId": "1188000000002",
+        "source": "茅盾 蚀 · 追求",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "世界",
+    "storyId": "translated-concepts-20",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 1,
+    "sense": {
+      "id": "translated-concepts-20-turn",
+      "name": "全球、人类社会与国际尺度",
+      "shortName": "全球世界",
+      "description": "近现代“世界”常指全球范围、国际秩序或人类共同生活的总体。",
+      "startIndex": 1
+    },
+    "query": "世界 (世界各国|全世界|世界范围|世界人民) time:1920s",
+    "totalResults": 986,
+    "candidates": [
+      {
+        "score": 0.1307,
+        "excerpt": "目前俄國與栢拉圖底民主國相似之點尤多共產黨等於衞士兩方兵士所佔的地位也同等俄人對付家庭生活和柏拉圖所暗示的大相彷彿最奇怪的是全世界柏拉底信徒仇視布爾雪維克主義而各個布爾維克又柏拉圖爲一個厲敗的貴族然而布爾維克黨所造的政局正是柏拉底民主國",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 少年世界_第1卷第10期.txt",
+        "recordId": "275000000013",
+        "source": "Author 少年世界 · 第1卷第10期",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1307,
+        "excerpt": "…委員均是極端派之最激烈者又有一人說勞働總會爲革命的總機他有個反對國家的謀第二日社會黨議員Cahin說罷工運動全世界都有在法不算甚麽希奇他的總原是起於不公平而在法國這種原因爲尤甚厯資本家之自生活之昂貴以及政府拒絕勞働總會爲不當內務會長Stceg說他反對此項政治性質的罷工平常的罷工木爲應…",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 少年世界_第1卷第11期.txt",
+        "recordId": "276000000043",
+        "source": "Author 少年世界 · 第1卷第11期",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1284,
+        "excerpt": "…面浮的渣滓撇開那時𤍠氣迫人金光四射令人不可一刻居工人要飯吃只得拚着命做人間的地獄原來就在眼前生活難已哄動了全世界一般貴族子弟看了我不曉要發生什麽感想",
+        "year": 1920,
+        "path": "1920s/1920/报刊/1920 Author 少年世界_第1卷第6期.txt",
+        "recordId": "282000000142",
+        "source": "Author 少年世界 · 第1卷第6期",
+        "hintHits": 1
+      }
+    ]
+  },
+  {
+    "word": "世界",
+    "storyId": "translated-concepts-20",
+    "topic": "概念来到中国",
+    "maturity": "research",
+    "senseIndex": 2,
+    "sense": {
+      "id": "translated-concepts-20-contemporary",
+      "name": "个人经验、圈层与数字虚拟空间",
+      "shortName": "私人世界",
+      "description": "“内心世界”“游戏世界”等用法将世界缩放为特定个人、群体或虚拟系统的全部。",
+      "startIndex": 4
+    },
+    "query": "世界 (内心世界|精神世界|个人世界|自己的世界) time:2010s",
+    "totalResults": 13878,
+    "candidates": [
+      {
+        "score": 0.2948,
+        "excerpt": "她的内心世界是不是也很苍凉？",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_04.txt",
+        "recordId": "15072000036600",
+        "source": "rmrb · 2010 · 04",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1958,
+        "excerpt": "画笔和色彩是表达他丰富的内心世界的一种最直观的方式。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_02.txt",
+        "recordId": "15070000027457",
+        "source": "rmrb · 2010 · 02",
+        "hintHits": 1
+      },
+      {
+        "score": 0.1901,
+        "excerpt": "人生态度是一个人世界观、人生观、价值观的集中反映。",
+        "year": 2010,
+        "path": "2010s/2010/报刊/人民日报/rmrb_2010_03.txt",
+        "recordId": "15071000021155",
+        "source": "rmrb · 2010 · 03",
+        "hintHits": 1
+      }
+    ]
+  }
+]
