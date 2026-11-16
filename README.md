@@ -2,6 +2,8 @@
 
 # 词渡 · Passage of Meaning
 
+**简体中文** · [English (full README)](README.en.md)
+
 **比对一个词在不同年代的用例，回到出处读它的意思。**
 
 An evidence-led, interactive atlas of Chinese word histories.
