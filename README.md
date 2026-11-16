@@ -2,13 +2,9 @@
 
 # 词渡 · Passage of Meaning
 
-**词语不是静止的定义，而是穿过时代的经验。**
+**比对一个词在不同年代的用例，回到出处读它的意思。**
 
 An evidence-led, interactive atlas of Chinese word histories.
-
-[![React](https://img.shields.io/badge/React-19-149eca)](package.json)
-[![Vite](https://img.shields.io/badge/Vite-8-646cff)](package.json)
-[![Data](https://img.shields.io/badge/数据-随仓库提供-0f766e)](#证据如何进入界面)
 
 [如何探索](#从一个熟悉的词出发) · [界面预览](#看得见依据也看得见空白) · [本地运行](#本地运行) · [证据与方法](#证据如何进入界面) · [人工复核](#ai-与人工复核) · [English](#english)
 
@@ -16,7 +12,7 @@ An evidence-led, interactive atlas of Chinese word histories.
 
 ![词渡真实首页截图，展示纸感排版与词义河流视觉](social-screenshots/01-home-hero.png)
 
-词典擅长回答“这个词是什么意思”。词渡更想追问：**它为什么在这个时代有了这样的意思？新义出现后，旧义去了哪里？**
+“平台”什么时候开始指互联网服务？一个词有了新义，旧的用法还在不在？词渡把这些问题放回带年份的用例和出处中阅读。
 
 从“文明”“平台”“粉丝”这样的日常词进入，沿着带年份的材料查看原句、出处、语境、证据等级与核验状态。它是一个可探索、可回到来源的人文研究界面，不是一套自动生成的确定词源答案。
 
