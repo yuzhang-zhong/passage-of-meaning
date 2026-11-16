@@ -1,6 +1,18 @@
-<h1 align="center">词渡 · Passage of Meaning</h1>
-<p align="center"><strong>词语不是静止的定义，而是穿过时代的经验。</strong><br>An evidence-led, interactive atlas of Chinese word histories.</p>
-<p align="center"><a href="#从一个熟悉的词出发">如何探索</a> · <a href="#本地运行">本地运行</a> · <a href="#证据如何进入界面">证据与方法</a> · <a href="#english">English</a></p>
+<div align="center">
+
+# 词渡 · Passage of Meaning
+
+**词语不是静止的定义，而是穿过时代的经验。**
+
+An evidence-led, interactive atlas of Chinese word histories.
+
+[![React](https://img.shields.io/badge/React-19-149eca)](package.json)
+[![Vite](https://img.shields.io/badge/Vite-8-646cff)](package.json)
+[![Data](https://img.shields.io/badge/数据-随仓库提供-0f766e)](#证据如何进入界面)
+
+[如何探索](#从一个熟悉的词出发) · [界面预览](#看得见依据也看得见空白) · [本地运行](#本地运行) · [证据与方法](#证据如何进入界面) · [人工复核](#ai-与人工复核) · [English](#english)
+
+</div>
 
 ![词渡真实首页截图，展示纸感排版与词义河流视觉](social-screenshots/01-home-hero.png)
 
