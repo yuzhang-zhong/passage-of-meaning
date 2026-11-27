@@ -7,6 +7,7 @@ authors:
     given-names: "Yuzhang"
 repository-code: "https://github.com/yuzhang-zhong/passage-of-meaning"
 url: "https://github.com/yuzhang-zhong/passage-of-meaning"
+license: "MIT"
 abstract: "Interactive digital-humanities web atlas (React 19 + TypeScript + Vite) tracing how 188 everyday Chinese words evolve, retain, and contest meanings across centuries through dated historical corpus citations, 12 classic school textbook works, and A/B/C evidence grades."
 keywords:
   - "digital-humanities"
