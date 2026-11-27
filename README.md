@@ -1,6 +1,6 @@
 <div align="center">
 
-# 词渡 · Passage of Meaning
+# 词渡 · Passage of Meaning — Chinese Semantic Change Corpus Atlas
 
 **简体中文** · [English (full README)](README.en.md)
 
