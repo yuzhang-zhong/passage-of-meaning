@@ -6,7 +6,8 @@
 
 **比对一个词在不同年代的用例，回到出处读它的意思。**
 
-An evidence-led, interactive atlas of Chinese word histories.
+用历代带年份历史语料例句与课本名篇，展示汉语词语几百年词义演变、语义变迁与词源脉络的交互式可视化图谱。<br>
+An evidence-led interactive digital-humanities web atlas for exploring Chinese word histories, etymology, and diachronic semantic change (semantic shifts) across centuries using dated corpus examples, literary textbook passages, and evidence grades.
 
 [如何探索](#从一个熟悉的词出发) · [界面预览](#看得见依据也看得见空白) · [本地运行](#本地运行) · [证据与方法](#证据如何进入界面) · [人工复核](#ai-与人工复核) · [English](#english)
 
