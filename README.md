@@ -103,6 +103,12 @@ pnpm preview     # 预览已构建的 dist
 
 “已核验”是项目中的编辑状态，不是独立学术认证。引用、教学或正式研究前仍应回到原始文献，核对版本、引文完整性和年代；研究词条也不应与精校词条视作同等成熟。
 
+## 常见问题 · FAQ
+
+- **词渡和普通在线词典或大模型直接问「某词怎么来的」有什么不同？** 大模型常把词源传说或现代义混成单一结论；词渡把每个义项放回带具体年份的原句、出处、媒介与 A/B/C 证据等级中，明确区分「语料事实」与「人文解释」，并保留缺口与争议。
+- **Does running the web atlas require a database or AI API key?** No. All 188 catalog entries, 4 flagship word stories, and 12 textbook reading routes are bundled as static TypeScript/JSON data (`pnpm install --frozen-lockfile && pnpm dev`).
+- **Does the earliest year on a timeline prove first historical attestation?** No. Every node represents a dated, inspectable citation in the curated corpus rather than a claim that no earlier text ever used the word.
+
 ## English
 
 Passage of Meaning is an interactive digital-humanities atlas of **diachronic lexical semantics, etymology, and Chinese word meaning shifts** across centuries. Its current catalog contains 188 words across 10 research routes, with four deeply curated word histories (*wenming* 文明, *tongzhi* 同志, *pingtai* 平台, *fensi* 粉丝) and a broader set of research-stage entries, plus twelve classic textbook works offering a literary reading path into historical corpus citations.

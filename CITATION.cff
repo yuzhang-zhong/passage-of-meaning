@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use or reference this project, please cite it using the metadata below."
+type: software
+title: "Passage of Meaning (词渡): Corpus-Backed Interactive Atlas of Chinese Word Histories and Semantic Change"
+authors:
+  - family-names: "Zhong"
+    given-names: "Yuzhang"
+repository-code: "https://github.com/yuzhang-zhong/passage-of-meaning"
+url: "https://github.com/yuzhang-zhong/passage-of-meaning"
+abstract: "Interactive digital-humanities web atlas (React 19 + TypeScript + Vite) tracing how 188 everyday Chinese words evolve, retain, and contest meanings across centuries through dated historical corpus citations, 12 classic school textbook works, and A/B/C evidence grades."
+keywords:
+  - "digital-humanities"
+  - "chinese-language"
+  - "word-history"
+  - "semantic-change"
+  - "semantic-shift"
+  - "etymology"
+  - "corpus-linguistics"
+  - "historical-linguistics"
+  - "textbook"
+  - "timeline-visualization"
