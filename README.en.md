@@ -1,11 +1,11 @@
 <div align="center">
 
-# 词渡 · Passage of Meaning
+# 词渡 · Passage of Meaning — Chinese Semantic Change Corpus Atlas
 
 <a id="english"></a>
 **Compare dated examples of a word, then return to the source to read it in context.**
 
-An evidence-led, interactive atlas of Chinese word histories.
+An evidence-led, interactive digital-humanities web atlas of Chinese word histories, etymology, and diachronic semantic change across centuries, backed by dated corpus examples, classic textbook passages, and A/B/C evidence grades.
 
 **English** · [简体中文](README.md)
 
