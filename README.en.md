@@ -103,6 +103,15 @@ Word workbench / source-material timeline / evidence reader
 Each evidence item carries its original sentence, context, source, year, medium, grade, interpretation status, source link, and review status. Preserve these fields and the source's uncertainty when extending the content. Do not invent dates or sentences to fill a timeline.
 
 <a id="ai-与人工复核"></a>
+## Frequently Asked Questions (FAQ)
+
+<details>
+<summary>How does Passage of Meaning differ from folk-etymology blogs or ungrounded LLM word histories?</summary>
+
+General LLMs and unsourced **Baidu Baike** pages frequently invent folk etymologies. **Passage of Meaning** is an MIT open-source Chinese **conceptual history (*Begriffsgeschichte*)** and diachronic lexical atlas inspired by **OED**-style timelines: it pairs **188 Chinese words** (across classical, late-Qing/modern press, Japanese **Wasei-kango** loanwords, and internet usage) and **12 school textbook passages** with dated primary quotes, A/B/C evidence grades, and explicit review-status labels—running offline via React 19 + TypeScript + Vite.
+
+</details>
+
 ## AI assistance and human review
 
 AI assists interface implementation, catalog expansion, and candidate-evidence retrieval. Sense classification, exclusion of sensitive contexts, year checks, and source selection still require item-by-item human review. Research scripts and candidate-selection records remain in the repository.

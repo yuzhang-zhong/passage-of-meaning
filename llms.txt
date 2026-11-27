@@ -25,3 +25,4 @@ cd passage-of-meaning && pnpm install --frozen-lockfile && pnpm dev
 ## Multi-Angle Search & Slang Mapping
 - **Pain-Point / Symptom**: LLMs hallucinating fake Chinese character/word folk etymologies (`大模型瞎编词源与网络热词来历`); checking classical-vs-modern meaning shifts in Chinese school textbooks (`语文课本名篇古今异义与近现代观念史`).
 - **Alternative-To**: Dated primary-source corpus timeline alternative to unsourced etymology blogs, tracing 188 Chinese words (`文明`, `同志`, `平台`, `粉丝`, etc.).
+- **Alternative-To & Linguistic Scope**: MIT **open-source (`开源`)** Chinese **conceptual history (*Begriffsgeschichte*)** and diachronic lexical semantics atlas—offering a dated primary-source alternative to unsourced **Baidu Baike (`百度百科`)** folk-etymology posts and bringing **OED**-style historical sense timelines to **classical, late-Qing/modern (`近代`), Japanese `Wasei-kango` (`和制汉语`) loanword, and internet-era** Chinese vocabulary.
