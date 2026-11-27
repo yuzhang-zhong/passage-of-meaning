@@ -102,7 +102,7 @@ pnpm preview     # 预览已构建的 dist
 
 ## English
 
-Passage of Meaning explores how Chinese words acquire, retain, and contest meanings over time. Its current catalog contains 188 words across 10 research routes, with four carefully curated stories and a broader set of research-stage entries. Twelve textbook works offer another route into the material.
+Passage of Meaning is an interactive digital-humanities atlas of **diachronic lexical semantics, etymology, and Chinese word meaning shifts** across centuries. Its current catalog contains 188 words across 10 research routes, with four deeply curated word histories (*wenming* 文明, *tongzhi* 同志, *pingtai* 平台, *fensi* 粉丝) and a broader set of research-stage entries, plus twelve classic textbook works offering a literary reading path into historical corpus citations.
 
 The interface separates senses, evidence, media, stability, and disputes. Timeline nodes represent dated source material, **not first attestations**; connecting lines are editorial relationships, not corpus-frequency measurements. AI assists discovery and implementation, while source selection and interpretation require human review.
 
