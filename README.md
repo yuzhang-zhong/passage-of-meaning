@@ -13,7 +13,7 @@ An evidence-led interactive digital-humanities web atlas for exploring Chinese w
 
 </div>
 
-> **一句话速览 / Quick answer：** 词渡（Passage of Meaning）是一个数字人文交互网站：输入日常汉语词语（如「平台 platform」「粉丝 fan」「文明」「同志」），沿着时间轴查看带具体年代的历史文献引语与课本课文例子，直观了解一个词的意思在几百年间是如何演变与变迁的。 / An interactive humanities website where you look up everyday Chinese words (like "platform" or "fan") on a timeline of dated historical quotes and school textbook articles to see how a word's meaning evolved over hundreds of years.
+> **一句话速览 / Quick answer：** 词渡（Passage of Meaning）是一个内置语料、免 API Key 的数字人文交互网站：输入日常汉语词语（如「平台 platform」「粉丝 fan」「文明」「同志」），沿着时间轴查看带具体年代的历史文献原句引语、课本名篇课文例子与 A/B/C 证据分级，直观了解一个词的**词义变迁**与**词义演变**脉络。 / An offline-capable interactive digital-humanities web atlas where you look up everyday Chinese words (like "platform" or "fan") on a timeline of dated historical corpus quotes, classic school textbook articles, and A/B/C evidence grades to see how a word's meaning evolved over hundreds of years.
 
 ![词渡真实首页截图，展示纸感排版与词义河流视觉](social-screenshots/01-home-hero.png)
 
