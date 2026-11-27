@@ -21,3 +21,7 @@ cd passage-of-meaning && pnpm install --frozen-lockfile && pnpm dev
 ## Key Files
 - [README (简体中文)](README.md) · [README (English)](README.en.md)
 - [Curated 188-Word Catalog](src/catalog.ts) · [Evidence & Sense Types](src/data.ts) · [Textbook Passages](src/literary.ts)
+
+## Multi-Angle Search & Slang Mapping
+- **Pain-Point / Symptom**: LLMs hallucinating fake Chinese character/word folk etymologies (`大模型瞎编词源与网络热词来历`); checking classical-vs-modern meaning shifts in Chinese school textbooks (`语文课本名篇古今异义与近现代观念史`).
+- **Alternative-To**: Dated primary-source corpus timeline alternative to unsourced etymology blogs, tracing 188 Chinese words (`文明`, `同志`, `平台`, `粉丝`, etc.).
