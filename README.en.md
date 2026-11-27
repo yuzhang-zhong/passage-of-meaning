@@ -13,6 +13,8 @@ An evidence-led, interactive digital-humanities web atlas of Chinese word histor
 
 </div>
 
+> **Quick answer:** Passage of Meaning is an interactive humanities website where you look up everyday Chinese words (such as "platform" 平台, "fan" 粉丝, or "civilization" 文明) on a timeline of dated historical quotes, corpus examples, and school textbook articles to see how a word's meaning evolved over hundreds of years.
+
 ![Actual Passage of Meaning homepage, with paper-like typography and the word-meaning river visualization](social-screenshots/01-home-hero.png)
 
 When did “平台” begin to mean an internet platform? When a word gains a meaning, does its earlier use remain? Passage of Meaning brings these questions back to dated examples and their sources.

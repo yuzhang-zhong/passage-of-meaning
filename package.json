@@ -17,5 +17,18 @@
     "@types/react-dom": "^19.2.3",
     "typescript": "^7.0.2",
     "vite": "^8.1.4"
-  }
+  },
+  "description": "Interactive digital-humanities website and timeline for looking up everyday Chinese words across dated historical quotes, corpus examples, and school textbook articles to see how meanings evolved over centuries.",
+  "repository": "github:yuzhang-zhong/passage-of-meaning",
+  "keywords": [
+    "digital-humanities",
+    "chinese-words",
+    "word-history",
+    "semantic-change",
+    "etymology",
+    "historical-quotes",
+    "textbook",
+    "corpus-linguistics",
+    "timeline-visualization"
+  ]
 }
